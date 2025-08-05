@@ -35,24 +35,26 @@ export default async function Home() {
               <div className="flex-1 min-w-0">
                 {/* Header */}
                 <div className="flex items-center space-x-2 mb-1">
-                  <span className="font-bold text-foreground truncate max-w-[200px] hover:underline cursor-pointer">
+                  <span className="font-bold text-foreground truncate max-w-[200px] hover:underline cursor-pointer text-base md:text-sm">
                     {highlight.title.length > 30
                       ? highlight.title.substring(0, 30) + "..."
                       : highlight.title}
                   </span>
-                  <span className="text-muted-foreground text-sm">·</span>
-                  <span className="text-muted-foreground text-sm hover:underline cursor-pointer">
+                  <span className="text-muted-foreground text-sm md:text-xs">
+                    ·
+                  </span>
+                  <span className="text-muted-foreground text-sm md:text-xs hover:underline cursor-pointer">
                     {Math.floor(Math.random() * 12) + 1}h
                   </span>
                 </div>
 
                 {/* Tweet Text */}
-                <div className="text-foreground text-[15px] leading-5 mb-3 whitespace-pre-wrap">
+                <div className="text-foreground text-base md:text-[15px] leading-6 md:leading-5 mb-3 whitespace-pre-wrap">
                   {highlight.text}
                 </div>
 
                 {/* Full title name */}
-                <div className="text-muted-foreground text-sm hover:underline cursor-pointer">
+                <div className="text-muted-foreground text-sm md:text-xs hover:underline cursor-pointer">
                   {highlight.title}
                 </div>
 
@@ -75,7 +77,7 @@ export default async function Home() {
                         />
                       </svg>
                     </div>
-                    <span className="text-sm group-hover:text-blue-400 transition-colors">
+                    <span className="text-sm md:text-xs group-hover:text-blue-400 transition-colors">
                       {Math.floor(Math.random() * 50) + 1}
                     </span>
                   </div>
@@ -97,7 +99,7 @@ export default async function Home() {
                         />
                       </svg>
                     </div>
-                    <span className="text-sm group-hover:text-green-400 transition-colors">
+                    <span className="text-sm md:text-xs group-hover:text-green-400 transition-colors">
                       {Math.floor(Math.random() * 100) + 5}
                     </span>
                   </div>
@@ -119,7 +121,7 @@ export default async function Home() {
                         />
                       </svg>
                     </div>
-                    <span className="text-sm group-hover:text-red-500 transition-colors">
+                    <span className="text-sm md:text-xs group-hover:text-red-500 transition-colors">
                       {Math.floor(Math.random() * 200) + 10}
                     </span>
                   </div>
@@ -169,7 +171,7 @@ export default async function Home() {
               <path d="M20 3v4" />
               <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401" />
             </svg>
-            <h1 className="text-lg font-bold">Better Twitter</h1>
+            <h1 className="text-sm font-bold">Better Twitter</h1>
           </div>
           <ThemeToggle />
         </div>
