@@ -1,3 +1,130 @@
+### Annotation Summary for The Physics of God Page 27:
+
+Physicists have subsequently performed this same experiment, always withthe same
+result, using atoms and molecules, objects trillions of times larger than photons. Physicists
+have gone on to prove, thousands of times, that untilmeasured by an intelligent observer,
+everything—whether energy such as light,or matter such as atoms—behaves in a wavelike
+manner until measured by anintelligent observer. The inescapable conclusion: An intelligent
+observer playsan essential role in the formation of matter
+
+### Annotation Summary for The Physics of God Page 35:
+
+The enlightened saints and sages of all religions disciplined themselves to beable to
+remain profoundly still for hours, days, and even weeks. GautamaBuddha is said to have
+sat beneath the Bodhi tree in determined meditation for49 days. Jesus Christ spent 40
+days in the desert in fasting and intense prayer. Accounts abound of Himalayan yogis, Zen
+masters, and Christian monks and nuns remaining locked in stillness for lengthy periods:Sit
+quietly, and listen for a voice that will say, “Be more silent.” Die andbe quiet.—Rumi, Sufi
+mystic
+
+### Annotation Summary for The Physics of God Page 42:
+
+effective emergency medical treatments. Since the mid-20th century, however, advanced
+practices of resuscitation and life-support have saved millions of people who might
+otherwise have died, resulting in a huge upsurge in thenumber of people who have had
+near-death experiences. Not everyone who hasbeen saved from death has had a neardeath experience—but an astonishingnumber have.
+
+### Annotation Summary for The Physics of God Page 43:
+
+During the night shift an ambulance brings in a 44-year-old cyanotic,comatose man into the
+coronary care unit. He was found in coma about30 minutes before in a meadow. When we
+go to intubate the patient, he turns out to have dentures in his mouth. I remove these upper
+dentures and put them onto the “crash cart.” After about an hour and a half thepatient has
+sufficient heart rhythm and blood pressure, but he is still
+
+### Annotation Summary for The Physics of God Page 44:
+
+ventilated and intubated, and he is still comatose. He is transferred to theintensive care unit
+to continue the necessary artificial respiration. Onlyafter more than a week do I meet again
+with the patient, who is by nowback on the cardiac ward. The moment he sees me he says:
+“O, thatnurse knows where my dentures are.” I am very surprised. Then heelucidates: “You
+were there when I was brought into hospital and you took my dentures out of my mouth
+and put them onto that cart, it had all these bottles on it and there was this sliding drawer
+underneath, andthere you put my teeth.” I was especially amazed because I
+rememberedthis happening while the man was in deep coma and in the process of CPR. It
+appeared that the man had seen himself lying in bed, that he had perceived from above
+how nurses and doctors had been busy with theCPR. He was also able to describe
+correctly and in detail the small room in which he had been resuscitated as well as the
+appearance of thosepresent like myself. He is deeply impressed by his experience and
+sayshe is no longer afraid of death.15 
+
+### Annotation Summary for The Physics of God Page 48:
+
+It is filled with some sort of beautiful light . . . people . . . flowers . . .angels. . . . All is filled
+with some indescribable joy. Heaven is a vastspace, and it has a brilliant light which does
+not leave it. —Vicka Ivankovic-Mijatovic, one of six children who experienced theVisions of
+Mary in Medjugorje, Bosnia Herzegovina
+
+### Annotation Summary for The Physics of God Page 50:
+
+The fact is that we are mostly insensible to the world around us. It is safe to say that our
+senses simply cannot detect more than 99.9 percent of the wavelengths, frequencies, and
+vibrating substances that are actually present. Ifwe could perceive reality fully, the picture
+we would have in our minds-eyewould be almost completely different from the picture our
+senses allow us toperceive.Matter is a light-show illusion made of vibrating energy.
+
+### Annotation Summary for The Physics of God Page 61:
+
+The miracle of the appropriateness of the language of mathematics forthe formulation of
+the laws of physics is a wonderful gift which we neither understand nor deserve.—Eugene
+Wigner, Noble Prize–winning physicist
+
+### Annotation Summary for The Physics of God Page 64:
+
+Depending on the mathematical assumptions being made, the number of super-large, twodimensional branes posited by string theorists varies from brane world scenario to brane
+world scenario. In M-theory, the number of super-large
+
+### Annotation Summary for The Physics of God Page 65:
+
+branes is typically seven. Collectively, physicists call all these extra, super-largedimensions
+the bulk—as in “the bulk of the cosmos.”
+
+### Annotation Summary for The Physics of God Page 69:
+
+Physicists themselves are not above speculating on what sentient life would belike in such
+conditions: For the 2014 movie Interstellar, prominent string theorist Kip Thorne helped
+shape the idea of “bulk beings” living in higher dimensional realms.
+
+### Annotation Summary for The Physics of God Page 74:
+
+could never accuratelyknow both position and momentum at the same moment. The more
+you know one, the less you know the other. This dilemma is referred to as the
+Heisenberguncertainty principle.
+
+### Annotation Summary for The Physics of God Page 75:
+
+Quantum mechanics is certainly imposing. But an inner voice tells me that it is not yet the
+real thing. The theory says a lot, but does not really bring us any closer to the secret of the
+“old one.” I, at any rate, amconvinced that He does not throw dice 
+
+### Annotation Summary for The Physics of God Page 95:
+
+For some time now it has been thought that only roughly 1.5 to 2 percent ofthe genes in our
+DNA are active; the rest are permanently dormant. In the conventional model, the
+remaining inactive genes are believed to be theremnants of a long evolutionary process
+and no longer useful to us in our current evolutionary state. Recent studies have shown,
+however, that we activate and inactivate our own genes routinely—not just in rare cases
+like the Overkalixstudy identified.Throughout the course of three months, a group of more
+than 30 men withlow-risk prostate cancer, following an intensive nutrition and lifestyle
+regimen, upregulated 48 genes that help the body fight tumors and downregulated 453
+genes that tend to promote tumors.13 More amazing yet are the number ofepigenetic
+changes made over a six-month period in a Swedish study of 2
+
+### Annotation Summary for The Physics of God Page 96:
+
+slightly overweight men attending spinning and aerobics classes twice per week.
+Researchers at Lund University discovered that the men had epigeneticallyaltered 7,000
+genes—almost 30 percent of all the genes in the entire humangenome!
+
+### Annotation Summary for The Physics of God Page 97:
+
+thousands, of chlorophyll molecules, when transferring the sun’s energy, vibrate in perfect
+synchronization with one another. They do so by forming aliquid crystal—that is, they align
+in exactly the same way, in exactly the same phase (like rowers stroking in perfect rhythm),
+and in exactly the samefrequency. This perfectly coordinated synchrony turns all the
+chlorophyllmolecules into a kind of biological superconductor, thereby enabling the superefficient transfer of sunlight quanta from one chlorophyll molecule to the next. The
+phenomenon is called resonant energy transfer. 
+
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 15
 
 For example, there are many who know the story about when my father, while on the honor
