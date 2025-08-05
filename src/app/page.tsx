@@ -1,8 +1,8 @@
-import { getHighlights } from "@/lib/utils";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { getHighlights } from "@/app/actions";
 
-export default function Home() {
-  const highlights = getHighlights();
+export default async function Home() {
+  const highlights = await getHighlights();
 
   return (
     <div className="min-h-screen bg-background text-foreground">
