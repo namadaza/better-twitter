@@ -1,8 +1,12 @@
 import { ThemeToggle } from "@/components/theme-toggle";
 import { getHighlights } from "@/app/actions";
 
+// Force dynamic rendering to ensure fresh randomization on every page load
+export const dynamic = "force-dynamic";
+
 export default async function Home() {
-  const highlights = await getHighlights();
+  const allHighlights = await getHighlights();
+  const highlights = allHighlights.sort(() => Math.random() - 0.5);
 
   return (
     <div className="min-h-screen bg-background text-foreground">

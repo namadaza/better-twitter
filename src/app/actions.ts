@@ -17,6 +17,5 @@ export async function getHighlights(): Promise<ReadingHighlight[]> {
     };
   });
 
-  const randomizedFeed = highlights.sort(() => Math.random() - 0.5);
-  return randomizedFeed;
+  return highlights;
 }
