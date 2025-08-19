@@ -1,12 +1,11 @@
 import { ThemeToggle } from "@/components/theme-toggle";
-import { getHighlights } from "@/app/actions";
+import { getRandomHighlights } from "@/app/actions";
 
 // Force dynamic rendering to ensure fresh randomization on every page load
 export const dynamic = "force-dynamic";
 
 export default async function Home() {
-  const allHighlights = await getHighlights();
-  const highlights = allHighlights.sort(() => Math.random() - 0.5);
+  const highlights = await getRandomHighlights(30);
 
   return (
     <div className="min-h-screen bg-background text-foreground">
@@ -21,13 +20,15 @@ export default async function Home() {
               {/* Avatar */}
               <div className="flex-shrink-0">
                 <img
-                  src={`https://avatar.vercel.sh/${
+                  src={`https://avatar.vercel.sh/${encodeURIComponent(
                     highlight.title.length > 30
                       ? highlight.title.substring(0, 30)
                       : highlight.title
-                  }`}
+                  )}`}
                   alt={`Avatar for ${highlight.title}`}
                   className="w-10 h-10 rounded-full object-cover"
+                  loading="lazy"
+                  decoding="async"
                 />
               </div>
 
