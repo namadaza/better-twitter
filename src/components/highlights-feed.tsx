@@ -42,7 +42,12 @@ export function HighlightsFeed({ initialHighlights }: HighlightsFeedProps) {
 
   return (
     <div className="max-w-2xl mx-auto pt-4">
-      {highlights.map((highlight, index) => (
+      {highlights.filter(highlight => 
+        highlight?.title && 
+        highlight?.text && 
+        highlight.title.trim() !== "" && 
+        highlight.text.trim() !== ""
+      ).map((highlight, index) => (
         <article
           key={`${highlight.title}-${index}`}
           className="border-b border-border px-4 py-3 tweet-hover cursor-pointer"

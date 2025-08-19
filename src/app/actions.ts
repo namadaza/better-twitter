@@ -28,7 +28,12 @@ export async function getHighlights(): Promise<ReadingHighlight[]> {
         title: titleLine.trim(),
         text: bodyLines.join("\n").trim(),
       };
-    });
+    }).filter(highlight => 
+      highlight.title && 
+      highlight.text && 
+      highlight.title.trim() !== "" && 
+      highlight.text.trim() !== ""
+    );
 
     // Cache the results
     highlightsCache = highlights;
