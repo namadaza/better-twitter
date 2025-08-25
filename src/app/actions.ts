@@ -28,12 +28,25 @@ export async function getHighlights(): Promise<ReadingHighlight[]> {
         title: titleLine.trim(),
         text: bodyLines.join("\n").trim(),
       };
-    }).filter(highlight => 
-      highlight.title && 
-      highlight.text && 
-      highlight.title.trim() !== "" && 
-      highlight.text.trim() !== ""
-    );
+    }).filter(highlight => {
+      if (!highlight.title || !highlight.text) return false;
+      
+      const title = highlight.title.trim();
+      const text = highlight.text.trim();
+      
+      // Filter out empty content
+      if (title === "" || text === "") return false;
+      
+      // Filter out fragments (text starting with lowercase)
+      if (text.length > 0 && text[0] === text[0].toLowerCase() && text[0] !== text[0].toUpperCase()) {
+        return false;
+      }
+      
+      // Filter out very short text that's likely incomplete
+      if (text.length < 10) return false;
+      
+      return true;
+    });
 
     // Cache the results
     highlightsCache = highlights;

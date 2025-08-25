@@ -1,3 +1,331 @@
+### Fooled by Randomness by Nassim Taleb - Preface > Page 18 · Location 302
+
+Outside of textbooks and casinos, probability almost never presents itself as a mathematical problem or a brain teaser. Mother nature does not tell you how many holes there are on the roulette table, nor does she deliver problems in a textbook way (in the real world one has to guess the problem more than the solution). In this book, considering that alternative outcomes could have taken place, that the world could have been different, is the core of probabilistic thinking. As a matter of fact, I spent all my career attacking the quantitative use of probability.
+
+### Fooled by Randomness by Nassim Taleb - Preface > Page 22 · Location 344
+
+Notice how our brain sometimes gets the arrow of causality backward. Assume that good qualities cause success; based on that assumption, even though it seems intuitively correct to think so, the fact that every intelligent, hardworking, persevering person becomes successful does not imply that every successful person is necessarily an intelligent, hardworking, persevering person
+
+### Fooled by Randomness by Nassim Taleb - Preface > Page 23 · Location 363
+
+there is what I call a “round-trip fallacy”: It is a mistake to use, as journalists and some economists do, statistics without logic, but the reverse does not hold: It is not a mistake to use logic without statistics).
+
+### Fooled by Randomness by Nassim Taleb - Prologue > Page 33 · Location 465
+
+All my life I have suffered the conflict between my love of literature and poetry and my profound allergy to most teachers of literature and “critics.” The French thinker and poet Paul Valery was surprised to listen to a commentary of his poems that found meanings that had until then escaped him (of course, it was pointed out to him that these were intended by his subconscious).
+
+### Fooled by Randomness by Nassim Taleb - Chapter One > Page 58 · Location 764
+
+Behavioral scientists believe that one of the main reasons why people become leaders is not from what skills they seem to possess, but rather from what extremely superficial impression they make on others through hardly perceptible physical signals—what we call today “charisma,” for example. The biology of the phenomenon is now well studied under the subject heading “social emotions.” Meanwhile some historian will “explain” the success in terms of, perhaps, tactical skills, the right education, or some other theoretical reason seen in hindsight. In addition, there seems to be curious evidence of a link between leadership and a form of psychopathology (the sociopath) that encourages the non-blinking, self-confident, insensitive person to rally followers.
+
+### Fooled by Randomness by Nassim Taleb - Chapter One > Page 58 · Location 771
+
+“never ask a man if he is from Sparta: If he were, he would have let you know such an important fact—and if he were not, you could hurt his feelings.”
+
+### Fooled by Randomness by Nassim Taleb - Chapter Two > Page 64 · Location 835
+
+The reader can see my unusual notion of alternative accounting: $ 10 million earned through Russian roulette does not have the same value as $ 10 million earned through the diligent and artful practice of dentistry.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Two > Page 66 · Location 860
+
+Reality is far more vicious than Russian roulette. First, it delivers the fatal bullet rather infrequently, like a revolver that would have hundreds, even thousands, of chambers instead of six. After a few dozen tries, one forgets about the existence of a bullet, under a numbing false sense of security. The point is dubbed in this book the black swan problem,
+
+### Fooled by Randomness by Nassim Taleb - Chapter Two > Page 66 · Location 865
+
+unlike a well-defined, precise game like Russian roulette, where the risks are visible to anyone capable of multiplying and dividing by six, one does not observe the barrel of reality.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Two > Page 67 · Location 871
+
+there is an ingratitude factor in warning people about something abstract (by definition anything that did not happen is abstract).
+
+### Fooled by Randomness by Nassim Taleb - Chapter Two > Page 75 · Location 982
+
+a recent rereading of the Iliad, the first in my adulthood, is that the epic poet did not judge his heroes by the result: Heroes won and lost battles in a manner that was totally independent of their own valor; their fate depended upon totally external forces, generally the explicit agency of the scheming gods (not devoid of nepotism). Heroes are heroes because they are heroic in behavior, not because they won or lost.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Three > Page 94 · Location 1227
+
+Indeed, I have two ways of learning from history: from the past, by reading the elders; and from the future, thanks to my Monte Carlo toy.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Three > Page 98 · Location 1278
+
+When you look at the past, the past will always be deterministic, since only one single observation took place. Our mind will interpret most events not with the preceding ones in mind, but the following ones. Imagine taking a test knowing the answer. While we know that history flows forward, it is difficult to realize that we envision it backward.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Three > Page 98 · Location 1285
+
+Now the civil servant called the trades that ended up as losers “gross mistakes,” just like journalists call decisions that end up costing a candidate his election a “mistake.” I will repeat this point until I get hoarse: A mistake is not something to be determined after the fact, but in the light of the information until that point.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Three > Page 100 · Location 1315
+
+To be competent, a journalist should view matters like a historian, and play down the value of the information he is providing, such as by saying: “Today the market went up, but this information is not too relevant as it emanates mostly from noise.” He would certainly lose his job by trivializing the value of the information in his hands.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Three > Page 109 · Location 1437
+
+Over a short time increment, one observes the variability of the portfolio, not the returns. In other words, one sees the variance, little else. I always remind myself that what one observes is at best a combination of variance and returns, not just returns (but my emotions do not care about what I tell myself).
+
+### Fooled by Randomness by Nassim Taleb - Chapter Three > Page 110 · Location 1440
+
+The dentist did better when he dealt with monthly statements rather than more frequent ones. Perhaps it would be even better for him if he limited himself to yearly statements. (If you think that you can control your emotions, think that some people also believe that they can control their heartbeat or hair growth.)
+
+### Fooled by Randomness by Nassim Taleb - Chapter Three > Page 110 · Location 1444
+
+Finally, I reckon that I am not immune to such an emotional defect. But I deal with it by having no access to information, except in rare circumstances. Again, I prefer to read poetry.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Three > Page 110 · Location 1451
+
+Finally, this explains why people who look too closely at randomness burn out, their emotions drained by the series of pangs they experience. Regardless of what people claim, a negative pang is not offset by a positive one (some psychologists estimate the negative effect for an average loss to be up to 2.5 the magnitude of a positive one); it will lead to an emotional deficit.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Three > Page 111 · Location 1464
+
+rational and I am extremely prone to drown in randomness and to incur emotional torture. I am aware of my need to ruminate on park benches and in cafés away from information, but I can only do so if I am somewhat deprived of it. My sole advantage in life is that I know some of my weaknesses, mostly that I am incapable of taming my emotions facing news and incapable of seeing a performance with a clear head.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Four > Page 117 · Location 1529
+
+the father of all pseudothinkers, Hegel. Hegel writes a jargon that is meaningless outside of a chic Left Bank Parisian café or the humanities department of some university extremely well insulated from the real world. I suggest this passage from the German “philosopher”
+
+### Fooled by Randomness by Nassim Taleb - Chapter Four > Page 118 · Location 1541
+
+There are instances where I like to be fooled by randomness. My allergy to nonsense and verbiage dissipates when it comes to art and poetry. On the one hand, I try to define myself and behave officially as a no-nonsense hyperrealist ferreting out the role of chance; on the other, I have no qualms indulging in all manner of personal superstitions. Where do I draw the line? The answer is aesthetics. Some aesthetic forms appeal to something in our biology, whether or not they originate in random associations or plain hallucination.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Four > Page 118 · Location 1544
+
+Something in our human genes is deeply moved by the fuzziness and ambiguity of language; then why fight it?
+
+### Fooled by Randomness by Nassim Taleb - Chapter Four > Page 119 · Location 1549
+
+The story of the “exquisite cadavers” is as follows. In the aftermath of the First World War, a collection of surrealist poets—which included André Breton, their pope, Paul Eluard, and others—got together in cafés and tried the following exercise (modern literary critics attribute the exercise to the depressed mood after the war and the need to escape reality). On a folded piece of paper, in turn, each one of them would write a predetermined part of a sentence, not knowing the others’ choice. The first would pick an adjective, the second a noun, the third a verb, the fourth an adjective, and the fifth a noun. The first publicized exercise of such random (and collective) arrangement produced the following poetic sentence: The exquisite cadavers shall drink the new wine. (Les cadavres exquis boiront le vin nouveau.)
+
+### Fooled by Randomness by Nassim Taleb - Chapter Four > Page 120 · Location 1570
+
+We do not need to be rational and scientific when it comes to the details of our daily life—only in those that can harm us and threaten our survival. Modern life seems to invite us to do the exact opposite; become extremely realistic and intellectual when it comes to such matters as religion and personal behavior, yet as irrational as possible when it comes to matters ruled by randomness (say, portfolio or real estate investments).
+
+### Fooled by Randomness by Nassim Taleb - Chapter Four > Page 121 · Location 1578
+
+There is a Yiddish saying: “If I am going to be forced to eat pork, it better be of the best kind.” If I am going to be fooled by randomness, it better be of the beautiful (and harmless) kind.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Five > Page 123 · Location 1598
+
+Carlos supposedly comes from a patrician Latin-American family that was heavily impoverished by the economic troubles of the 1980s, but, again, I have rarely run into anyone from a ravaged country whose family did not at some juncture own an entire province or, say, supply the Russian czar with sets of dominoes.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Five > Page 129 · Location 1671
+
+Veteran trader Marty O’Connell calls this the firehouse effect. He had observed that firemen with much downtime who talk to each other for too long come to agree on many things that an outside, impartial observer would find ludicrous (they develop political ideas that are very similar). Psychologists give it a fancier name, but my friend Marty has no training in behavioral sciences.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Five > Page 129 · Location 1674
+
+nerdy types at the International Monetary Fund had been taken for a ride by the Russian government, which cheated on its account. Let us remember that economists are evaluated on how intelligent they sound, not on a scientific measure of their knowledge of reality.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Five > Page 138 · Location 1797
+
+everyone believes himself an expert on evolution (the same can be said about the financial markets); things have gotten worse. Many amateurs believe that plants and animals reproduce on a one-way route toward perfection. Translating the idea in social terms, they believe that companies and organizations are, thanks to competition (and the discipline of the quarterly report), irreversibly heading toward betterment.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Five > Page 139 · Location 1802
+
+Darwinian ideas in the fact that organizations do not reproduce like living members of nature—Darwinian ideas are about reproductive fitness, not about survival. The problem comes, as everything else in this book, from randomness. Zoologists found that once randomness is injected into a system, the results can be quite surprising: What seems to be an evolution may be merely a diversion, and possibly regression.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Five > Page 140 · Location 1823
+
+on average, animals will be fit, but not every single one of them, and not at all times. Just as an animal could have survived because its sample path was lucky, the “best” operators in a given business can come from a subset of operators who survived because of overfitness to a sample path—a sample path that was free of the evolutionary rare event. One vicious attribute is that the longer these animals can go without encountering the rare event, the more vulnerable they will be to it.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Six > Page 145 · Location 1878
+
+the category of entertainers called Wall Street “economists” or “strategists,” who make pronouncements on the fate of the markets, but do not engage in any form of risk taking, thus having their success dependent on rhetoric rather than actually testable facts.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Six > Page 147 · Location 1907
+
+How frequent the profit is irrelevant; it is the magnitude of the outcome that counts. It is a pure accounting fact that, aside from the commentators, very few people take home a check linked to how often they are right or wrong. What they get is a profit or loss. As to the commentators, their success is linked to how often they are right or wrong.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Six > Page 149 · Location 1938
+
+Visibly, the statistic that 90% of all option positions lost money is meaningless, (i.e., the frequency) if we do not take into account how much money is made on average during the remaining 10%. If we make 50 times our bet on average when the option is in the money, then I can safely make the statement that buying options is another way to go to the palazzo rather than the poorhouse.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Six > Page 159 · Location 2057
+
+Where statistics becomes complicated, and fails us, is when we have distributions that are not symmetric, like the urn above. If there is a very small probability of finding a red ball in an urn dominated by black ones, then our knowledge about the absence of red balls will increase very slowly—more slowly than at the expected square root of n rate. On the other hand, our knowledge of the presence of red balls will dramatically improve once one of them is found.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Six > Page 161 · Location 2084
+
+We are human and act according to our knowledge, which integrates past data. I can translate his point with the following analogy. If rational traders detect a pattern of stocks rising on Mondays, then, immediately such a pattern becomes detectable, it would be ironed out by people buying on Friday in anticipation of such an effect. There is no point searching for patterns that are available to everyone with a brokerage account; once detected, they would be self-canceling.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Seven > Page 163 · Location 2109
+
+No amount of observations of white swans can allow the inference that all swans are white, but the observation of a single black swan is sufficient to refute that conclusion.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Seven > Page 165 · Location 2136
+
+I can use data to disprove a proposition, never to prove one. I can use history to refute a conjecture, never to affirm it. For instance, the statement The market never goes down 20% in a given three-month period can be tested but is completely meaningless if verified. I can quantitatively reject the proposition by finding counterexamples, but it is not possible for me to accept it simply because, in the past, the market never went down 20% in any three-month period (you cannot easily make the logical leap from “has never gone down” to “never goes down”).
+
+### Fooled by Randomness by Nassim Taleb - Chapter Seven > Page 166 · Location 2152
+
+have just completed a thorough statistical examination of the life of President Bush. For fifty-eight years, close to 21,000 observations, he did not die once. I can hence pronounce him as immortal, with a high degree of statistical significance.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Seven > Page 167 · Location 2171
+
+particularly from the last example: not to approach anything as a game to win, except, of course, if it is a game. Even then, I do not like the asphyxiating structure of competitive games and the diminishing aspect of deriving pride from a numerical performance. I also learned to stay away from people of a competitive nature, as they have a tendency to commoditize and reduce the world to categories, like how many papers they publish in a given year, or how they rank in the league tables.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Seven > Page 172 · Location 2240
+
+There are only two types of theories: 1. Theories that are known to be wrong, as they were tested and adequately rejected (he calls them falsified). 2. Theories that have not yet been known to be wrong, not falsified yet, but are exposed to be proved wrong. Why is a theory never right? Because we will never know if all the swans are white
+
+### Fooled by Randomness by Nassim Taleb - Chapter Seven > Page 173 · Location 2250
+
+Newtonian physics is scientific because it allowed us to falsify it, as we know that it is wrong, while astrology is not because it does not offer conditions under which we could reject it. Astrology cannot be disproved, owing to the auxiliary hypotheses that come into play. Such point lies at the basis of the demarcation between science and nonsense (called “the problem of demarcation”).
+
+### Fooled by Randomness by Nassim Taleb - Chapter Seven > Page 173 · Location 2253
+
+Popper had many problems with statistics and statisticians. He refused to blindly accept the notion that knowledge can always increase with incremental information—which is the foundation of statistical inference.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Seven > Page 177 · Location 2307
+
+Surprisingly, all the surviving traders I know seem to have done the same. They trade on ideas based on some observation (that includes past history) but, like the Popperian scientists, they make sure that the costs of being wrong are limited (and their probability is not derived from past data).
+
+### Fooled by Randomness by Nassim Taleb - Chapter Seven > Page 178 · Location 2317
+
+thinking of the next step: to recreate a low-information, more deterministic ancient time, say in the nineteenth century, all the while benefiting from some of the technical gains (such as the Monte Carlo engine), all of the medical breakthroughs, and all the gains of social justice of our age. I would then have the best of everything. This is called evolution.
+
+### Fooled by Randomness by Nassim Taleb - PART II > Page 181 · Location 2337
+
+I do not deny that if someone performed better than the crowd in the past, there is a presumption of his ability to do better in the future. But the presumption might be weak, very weak, to the point of being useless in decision making. Why? Because it all depends on two factors: The randomness content of his profession and the number of monkeys in operation.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eight > Page 190 · Location 2465
+
+The mistake of ignoring the survivorship bias is chronic, even (or perhaps especially) among professionals. How? Because we are trained to take advantage of the information that is lying in front of our eyes, ignoring the information that we do not see.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Nine > Page 195 · Location 2527
+
+Why is finance so rich a field? Because it is one of the rare areas of investigation where we have plenty of information (in the form of abundant price series), but no ability to conduct experiments as in, say, physics.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Nine > Page 198 · Location 2570
+
+the number of managers with great track records in a given market depends far more on the number of people who started in the investment business (in place of going to dental school), rather than on their ability to produce profits.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Nine > Page 199 · Location 2576
+
+As a matter of fact it is very unlikely that an unspecified player somewhere does not have an inordinately lengthy lucky streak. This is a manifestation of the mechanism called regression to the mean.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Nine > Page 200 · Location 2598
+
+Remember that nobody accepts randomness in his own success, only his failure.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Nine > Page 201 · Location 2603
+
+Recall that the survivorship bias depends on the size of the initial population. The information that a person derived some profits in the past, just by itself, is neither meaningful nor relevant. We need to know the size of the population from which he came.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Nine > Page 204 · Location 2646
+
+When the statistician looks at the data to test a given relationship, say, to ferret out the correlation between the occurrence of a given event, like a political announcement, and stock market volatility, odds are that the results can be taken seriously. But when one throws the computer at data, looking for just about any relationship, it is certain that a spurious connection will emerge, such as the fate of the stock market being linked to the length of women’s skirts. And just like the birthday coincidences, it will amaze people.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Nine > Page 207 · Location 2685
+
+data snooping. The more I try, the more I am likely, by mere luck, to find a rule that worked on past data. A random series will always present some detectable pattern. I am convinced that there exists a tradable security in the Western world that would be 100% correlated with the changes in temperature in Ulan Bator, Mongolia.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Nine > Page 216 · Location 2803
+
+They buy at a price and sell to the public at a more favorable one, performing large numbers of transactions. Such income provides them some insulation from randomness. Such category includes floor traders on the exchanges, bank traders who “trade against order flow,” money changers in the souks of the Levant. The skills involved are sometimes rare to find: Fast thinking, alertness, a high level of energy, an ability to guess from the voice of the seller her level of nervousness; those who have them make a long career (that is, perhaps a decade). They never make it big, as their income is constrained by the number of customers, but they do well probabilistically. They are, in a way, the dentists of the profession.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Ten > Page 221 · Location 2859
+
+People were trained on a QWERTY keyboard and their habits were too sticky for change. Just like the helical propulsion of an actor into stardom, people patronize what other people like to do. Forcing rational dynamics on the process would be superfluous, nay, impossible. This is called a path dependent outcome, and has thwarted many mathematical attempts at modeling behavior.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Ten > Page 221 · Location 2863
+
+While it is hard to deny that Gates is a man of high personal standards, work ethics, and above-average intelligence, is he the best? Does he deserve it? Clearly not. Most people are equipped with his software (like myself ) because other people are equipped with his software, a purely circular effect (economists call that “network externalities”). Nobody ever claimed that it was the best software product. Most of Gates’ rivals have an obsessive jealousy of his success. They are maddened by the fact that he managed to win so big while many of them are struggling to make their companies survive.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Ten > Page 225 · Location 2916
+
+reality rarely gives us the privilege of a satisfying linear positive progression: You may study for a year and learn nothing, then, unless you are disheartened by the empty results and give up, something will come to you in a flash.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Ten > Page 226 · Location 2919
+
+Owing to this nonlinearity, people cannot comprehend the nature of the rare event. This summarizes why there are routes to success that are nonrandom, but few, very few, people have the mental stamina to follow them.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Ten > Page 227 · Location 2937
+
+I am also realizing the nonlinear effect behind success in anything: It is better to have a handful of enthusiastic advocates than hordes of people who appreciate your work—better to be loved by a dozen than liked by the hundreds. This applies to the sales of books, the spread of ideas, and success in general and runs counter to conventional logic.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 234 · Location 3030
+
+Note that, unlike economists, they conducted experiments, true controlled experiments of a repeatable nature, that can be done in Ulan Bator, Mongolia, tomorrow if necessary. Conventional economists do not have this luxury as they observe the past and make lengthy and mathematical comments, then bicker with each other about them. Kahneman and Tversky
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 235 · Location 3041
+
+A normative science (clearly a self-contradictory concept) offers prescriptive teachings; it studies how things should be. Some economists, for example those of the efficient-market religion, believe that our studies should be based on the hypothesis that humans are rational and act rationally because it is the best thing for them to do (it is mathematically “optimal”). The opposite is a positive science, which is based on how people actually are observed to behave.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 235 · Location 3046
+
+Normative economics is like religion without the aesthetics.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 237 · Location 3069
+
+The problem with us humans is not so much that no Napoleon has showed up so far to dynamite the old structure then reengineer our minds like a big central program; it is that our minds are far more complicated than just a system of laws, and the requirement for efficiency is far greater.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 243 · Location 3143
+
+There are two possible ways for us to reason, the heuristics being part of one—rationality being part of the other.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 244 · Location 3146
+
+Researchers divide the activities of our mind into the following two polarized parts, called System 1 and System 2. System 1 is effortless, automatic, associative, rapid, parallel process, opaque (i.e., we are not aware of using it), emotional, concrete, specific, social, and personalized. System 2 is effortful, controlled, deductive, slow, serial, self-aware, neutral, abstract, sets, asocial, and depersonalized.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 245 · Location 3166
+
+as far as this book is concerned: (1) We do not think when making choices but use heuristics; (2) We make serious probabilistic mistakes in today’s world—whatever the true reason.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 256 · Location 3308
+
+Options that are out of the money are deemed to decay, by losing their premium between two dates.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 256 · Location 3318
+
+Even professionals can be fooled. How? They confuse the expected value and the most likely scenario (here the expected value is $ 1 and the most likely scenario is for the option to be worth 0). They mentally overweigh the state that is the most likely,
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 257 · Location 3329
+
+Option sellers, it is said, eat like chickens and go to the bathroom like elephants. Alas, most option traders I encountered in my career are premium sellers—when they blow up it is generally other people’s money.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 261 · Location 3382
+
+when one thinks about it, is not too different from the one that says: Our operation has a mortality rate of 1%. So far we have operated on ninety-nine patients with great success; you are our one hundreth, hence you have a 100% probability of dying on the table.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Eleven > Page 266 · Location 3437
+
+what if you were going to Chicago, where you are told that the weather, while being 60 degrees, will nevertheless vary by about 30 degrees? You would have to pack winter and summer clothes. Here the expectation of the temperature carries little importance concerning the choice of clothing; it is the variance that matters. Your decision to pack is markedly different now that you are told that the variability would be around 30 degrees. Now let us push the point further; what if you were going to a planet where the expectation is also going to be around 60 degrees, but plus or minus 500 degrees? What would you pack? We can see that my activity in the market (and other random variables) depends far less on where I think the market or the random variable is going so much as it does on the degree of error I allow around such a confidence level.
+
+### Fooled by Randomness by Nassim Taleb - PART III > Page 271 · Location 3486
+
+The mechanism is a probabilistic method called conditional information: Unless the source of the statement has extremely high qualifications, the statement will be more revealing of the author than the information intended by him.
+
+### Fooled by Randomness by Nassim Taleb - PART III > Page 271 · Location 3489
+
+Wittgenstein’s ruler: Unless you have confidence in the ruler’s reliability, if you use a ruler to measure a table you may also be using the table to measure the ruler.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Twelve > Page 278 · Location 3562
+
+“Gambler” is about the most derogatory term that could be used in my derivatives profession. As an aside, gambling to me is best defined as an activity where the agent gets a thrill when confronting a random outcome, regardless of whether he has the odds stacked in his favor or against him. Even when the odds are clearly stacked against the gambler, he sometimes transcends the odds by believing that destiny selected him in some manner.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Twelve > Page 281 · Location 3608
+
+Since my heart does not seem to agree with my brain, I need to take serious action to avoid making irrational trading decisions, namely, by denying myself access to my performance report unless it hits a predetermined threshold. This is no different from the divorce between my brain and my appetite when it comes to the consumption of chocolate. I generally deal with it by ascertaining that there are no chocolate boxes under my trading desk.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Thirteen > Page 286 · Location 3664
+
+Indeed, for some strange reason during the Middle Ages, Arabs were critical thinkers (through their postclassical philosophical tradition) when Christian thought was dogmatic; then, after the Renaissance, the roles mysteriously reversed.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Thirteen > Page 293 · Location 3759
+
+attribution bias. You attribute your successes to skills, but your failures to randomness.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Fourteen > Page 295 · Location 3777
+
+Stoicism is not the stiff upper lip, but the illusion of victory of man against randomness.
+
+### Fooled by Randomness by Nassim Taleb - Chapter Fourteen > Page 297 · Location 3814
+
+While shaken with emotion. No stiff upper lip. There is nothing wrong and undignified with emotions—we are cut to have them. What is wrong is not following the heroic or, at least, the dignified path. That is what stoicism truly means.
+
+### Fooled by Randomness by Nassim Taleb - Postscript > Page 304 · Location 3883
+
+By some argument, the boss of the company may be unskilled labor but one who presents the necessary attributes of charisma and the package that makes for good MBA talk. In other words, he may be subjected to the monkey-on-the-typewriter problem. There are so many companies doing all kinds of things that some of them are bound to make “the right decision.”
+
 ### Physics of God Page 27:
 
 Physicists have subsequently performed this same experiment, always withthe same
