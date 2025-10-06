@@ -1,3 +1,550 @@
+### The Islamic Secular by Sherman A. Jackson > Page 16
+
+When the great Ottoman architect Sinān (d. 996/1588) designed and built the buildings that became signatures of Islamic architecture, or when Ulugh Beg (Muḥammad Ṭaraghāy b. Shāhrukh b. Tīmūr (d. 853/1449) founded his famous observatory in Samarqand, neither was drawing on direct, concrete instructions from sharī'ah or its sources as the basis of his craft. Yet, it would be presumptuous to assume (especially given their time and place) that a conscious awareness of the divine gaze of the God of Islam did not inform their efforts. Just as Michelangelo painted "to the glory of God," so they designed, built, and studied to the same end. Their activity remained 'secular,' however, in that God's revelation contributed almost nothing to its concrete substance. But it was also "religious," in that it was carried out with sustained devotional intent. Moreover, in seeking a successful outcome to their efforts, their appeal to God (isti'ānah) would be as likely as it would be in connection with any properly religious act of worship ('ibādah). Their efforts, in sum, fell within the province of the Islamic Secular.
+
+### The Islamic Secular by Sherman A. Jackson > Page 16
+
+As a religion (i.e., dīn), Islam consists in not one but two distinct yet inextricably bound modes of religiosity: 1) a shar'ī mode, whose ground is sharī'ah, its sources, and dictates; and 2) a non-shar'ī mode— what I refer to as a "differentiated," 'secular mode'—whose concrete substance is not a dictate or derivative of sharī'ah or its sources.
+
+### The Islamic Secular by Sherman A. Jackson > Page 18
+
+Words bear possibilities beyond their etymologies and even their dominant meanings. Often, a word's currency will stem not from its meaning or definition but from its usage and, as importantly, from the standing of the group whose usage counts most. This explains how in America the prevailing sense of "anti-Semitic" comes to be "anti-Jewish," that of "immigrant" (as in "immigration") to be "non-White," and that of "terrorism" to be "publicly directed violence committed by Muslims."
+
+### The Islamic Secular by Sherman A. Jackson > Page 19
+
+Communism," originally excavated from the legacy of Christianity. According to Owen Chadwick, Marx and Engels simply "took an existing word, deconstructed it, and made it a name for a new system of social thought."14 Rather than seeking to gain currency for an entirely unvetted neologism, they appropriated the authority and basic sense (or one of the senses) of an already existing term, the apparent ideological contradiction between Christianity and their theory of Communism notwithstanding. I will take a similar approach in this book
+
+### The Islamic Secular by Sherman A. Jackson > Page 20
+
+on close examination, the assumption that sharī'ah is totalizing, in the sense of carrying universal jurisdiction and in that capacity constituting the only Islamically relevant metric of assessment, has no real basis in the Islamic juristic tradition, at least not as the dominant view
+
+### The Islamic Secular by Sherman A. Jackson > Page 22
+
+The Greek (and later Greco- Roman) understanding of divine law typically emphasized ontological realism as its point of departure. By this I do not mean that the law confronted rather than fled from socio-political reality; nor do I have in mind the "legal realism" championed by the likes of the legal scholars Jerome Frank (d. 1957) or Karl Llewelyn (d. 1962). By ontological realism, I mean that the structure of the law was assumed to be pegged to the extra- mental structure of the world, its prescriptions corresponding to the inherent nature of the universe. Murder, on this understanding, is evil and must incur punishment not because God said it must but because it is objectively evil in the same sense that fire is objectively hot and water objectively wet.
+
+### The Islamic Secular by Sherman A. Jackson > Page 25
+
+For, not only is fiqh/sharī'ah not all-encompassing (in the sense that I argue), but it is also neither self-sustaining nor self-perpetuating; rather, it requires cultural, intellectual, and institutional support for which its sources provide no concrete directives or instruction.
+
+### The Islamic Secular by Sherman A. Jackson > Page 25
+
+recognition must go to the entire field of "humanist adab"—grammar, rhetoric, poetry, history, and the epistolary arts, all of which were integral to Islam's success and selfunderstanding as a civilization and yet palpably distinct from fiqh/sharī'ah.
+
+### The Islamic Secular by Sherman A. Jackson > Page 26
+
+In sum, I am proposing that the totalizing, absolutist vision of Islamic law, in whatever form, distorts the academic understanding of Islam-cum- sharī'ah, on the one hand, and impoverishes the Muslim attempt to instantiate Islam as praxis, on the other
+
+### The Islamic Secular by Sherman A. Jackson > Page 29
+
+I do not agree that the Western academy should ban or even look askance upon attempts by Muslim academics to shape the normative understanding of Islam, any more than it does in the case of Black, gay, feminist, Marxist, Jewish, Critical Theory, Law-andEconomics scholars, or other academics who seek to influence the self-perception and/or broader image of their respective affiliations or even the broader intellectual or sociopolitical ecosystems in which these affiliations find themselves embedded
+
+### The Islamic Secular by Sherman A. Jackson > Page 30
+
+Islamic Studies 2.0 is thus a compound process consisting of two co-equal parts: (1) assessing the accuracy of the historical excavation; and (2) assessing the degree to which this is convincingly deployed in promoting the contemporary view one wants to promote.
+
+### The Islamic Secular by Sherman A. Jackson > Page 36
+
+Muslims are challenged not by others' superior legal systems or even by the purported failures of their own but by others' superior military, economic, intellectual, or cultural achievements, then ijtihād shar'ī, which can only produce legal rules (aḥkām shar'īyah), will hardly make up the deficit
+
+### The Islamic Secular by Sherman A. Jackson > Page 37
+
+Islam-cum-sharī'ah's efficacy does not rest and never has rested solely in the hands of the fuqahā'. Non-shar'ī, Islamic Secular activity by non-jurists always has been and always will be integral to the quotidian success (or failure) of Islam-cum-sharī'a
+
+### The Islamic Secular by Sherman A. Jackson > Page 37
+
+If, for example, Asad directs attention to ways in which modernity and its secular have forcibly imposed restrictions on sharī'ah's public role and authority, this could impede readers' ability to recognize that the pre- modern Islamic juristic tradition voluntarily placed limits on sharī'ah's jurisdiction and that the notion of a bounded sharī'ah is Islamically authentic and not a capitulation to modernity.
+
+### The Islamic Secular by Sherman A. Jackson > Page 45
+
+the secular has succeeded in preserving its commitment to excluding religion from the public sphere, while somehow maintaining its own status as neu
+
+### The Islamic Secular by Sherman A. Jackson > Page 46
+
+Western definition of secularism may not be fully applicable in all parts of the world, because of religious differences."15 The Islamic Secular is an alternative understanding of the secular viewed from the perspective of Islam and its juristic tradition.
+
+### The Islamic Secular by Sherman A. Jackson > Page 49
+
+The very idea of 'being religious' requires a companion notion of what it would mean to be 'not-religious,' and this dichotomy was not part of the ancient world.
+
+### The Islamic Secular by Sherman A. Jackson > Page 51
+
+Even the Prophet, while acknowledging that a man who repeatedly drank wine had violated the religious law, could say of him, "Do not curse him; for I have only known him to love God and God's Messenger."35 Much later, after Islam had matured as a civilization and absorbed numerous peoples and cultures, Ibn Taymīyah, despite his reputation as a puritanical proponent of religious rectitude, would insist (against the Mu'tazilah and Khawārij) that "faith" (īmān) is not categorically contradicted by sin.
+
+### The Islamic Secular by Sherman A. Jackson > Page 51
+
+Similarly, the legendary Umayyad lieutenant al-Ḥajjāj b. Yūsuf (d. 95/713), though notorious for the rivers of Muslim blood he caused to flow, played a pivotal role in fixing the orthography of the Qur'ān as we now have it
+
+### The Islamic Secular by Sherman A. Jackson > Page 51
+
+a totalizing vision of sharī'ah—the putative expression of Islam—which reached its apogee in the mid- to late twentieth century with the rise of Islamist movements. This new vision recognized no normative mode of human existence other than a strictly scripture-driven one, with no activities, concrete forms, or bases of knowledge or value other than those directly provided, implicated, or presided over by scriptur
+
+### The Islamic Secular by Sherman A. Jackson > Page 52
+
+Ultimately, such a zero-sum perspective could only promote civilizational failure or civilizational schizophrenia: failure by denying Muslims legitimate access not only to Islam's restorative powers (e.g., tawbah (repentance), kaffārah (expiation), etc.) but also to critical non- revelatory knowledge, expertise, and creativity; schizophrenia by the fact that, while they might recognize the need for non-revelatory enterprises, Muslims, under the influence of this perspective, could hardly acknowledge (or perhaps even recognize) these enterprises as religious, let alone Islamic.
+
+### The Islamic Secular by Sherman A. Jackson > Page 53
+
+the association of "secular" with "tolerance" has become so natural that "anyone who is not secular becomes definitionally intolerant.
+
+### The Islamic Secular by Sherman A. Jackson > Page 53
+
+Writing in the 1970s, Bryan Turner noted that secularism did not evolve naturally in Muslim countries or succeed on the basis of the triumph of secular thought; it was imposed by secularizing elites who were trained in the West and sought to mimic what they took to be the basis of the West's success.
+
+### The Islamic Secular by Sherman A. Jackson > Page 55
+
+Muḥammad's mission was simply to reorient the Arabians (and ultimately humanity) away from an overindulgence of superstition and to redirect their sensus numinous toward God, properly defined, as the ultimate supernatural power and source of everything else deemed to possess any.
+
+### The Islamic Secular by Sherman A. Jackson > Page 57
+
+In fact, on al-Ghazālī's rendering, "al-dunyā" represents not so much a category or domain of non-religious activity as much as it does an attitude or metric of valuation. He notes thus that even prayer or acquiring religious knowledge can be termed "al- dunyā," in the sense of occurring before death, but not in the sense of contradicting, frustrating, or negating religion.59 Conversely, he insists that any activity, however worldly, evaluated and taken as a means to serving God ('ibādah) may be "dunyā" in the sense of "worldly" but not in the sense of "non-religious." In sum, al-dunyā is neither the categorical opposite of dīn nor an expression of the macro-secular. 6
+
+### The Islamic Secular by Sherman A. Jackson > Page 60
+
+By contrast, sharī'ah has always been recognized for its relevance to the government of worldly affairs. Like the Gospels, however, it was not immune to the challenge of responding to the vagaries of everyday life. But until modern times, Muslims never responded by attempting to create a separate, non-religious space. In fact, the general impulse (with the exception of the now-extinct Ẓāhirī movement) was to expand the scope of God's commands and prohibitions via such instruments as analogy (qiyās) "equity" (istiḥsān), public utility (maṣlaḥah), adaptive legal precepts (qawā'id), and inductive readings of scripture (istiqrā')
+
+### The Islamic Secular by Sherman A. Jackson > Page 61
+
+For example, while early Ḥanafīs condemned "provisional sales" (bay' al-wafā') as a violation of sharī'ah, later Ḥanafīs sanctioned them, as dictated by need, declaring this sanctioning to be firmly within God's law.
+
+### The Islamic Secular by Sherman A. Jackson > Page 61
+
+This simple act by Muslim jurists of acknowledging sharī'ah's bounded nature and the existence of "spheres of value"—human endeavors whose concrete substance is neither determined nor adjudicated on the basis of the concrete indicants of revelation or their reasoned extension—amounts to differentiation.
+
+### The Islamic Secular by Sherman A. Jackson > Page 62
+
+the micro-secular has a credible claim to being the original form of the secular, even in the West, rendering not it but the macro-secular the aberration. Charles Taylor, for example, suggests that the latter, what he calls "the unbelief of the elite," was an eighteenth-century phenomenon that did not reach full tide until the twenty-first century.
+
+### The Islamic Secular by Sherman A. Jackson > Page 63
+
+Whereas the Protestant response to a totalizing Catholic authority was to create a secular, differentiated space that fell outside the reach of religion, Islam could simply recognize a differentiated, non-shar'ī space within the broader circumference of religion but outside the bounds of the interpretive authority of the religious establishment. Both moves—Christian and Muslim—amounted to micro-secular acts of differentiation. But the broader implications for Christianity differed significantly from those for Islam
+
+### The Islamic Secular by Sherman A. Jackson > Page 67
+
+On Cicero's rendering, religio was a psychodynamic disposition—a sense of awe, anxiety, nervousness, care, and scruple regarding the proper worship of the gods. Such sentiments engendered a constant impulse to reflect upon, review, and correct one's relationship with traditional beliefs and practices
+
+### The Islamic Secular by Sherman A. Jackson > Page 68
+
+For Lactantius, by contrast, religio was not a disposition but a commitment to a specific set of beliefs about the gods, including God, and a regime of worship that together constituted the true religion. Religio, according to him, was "the just debt of service to the God who brings us into being, that we know Him alone, that we follow Him
+
+### The Islamic Secular by Sherman A. Jackson > Page 69
+
+the global discourse on religion that began in the early-modern West came to entail a palpable tension between the ostensibly zero-sum options of religion-as-concrete-doctrineand-practice and religion as "faith," disposition, internalized belief, or psychodynamic orientation.
+
+### The Islamic Secular by Sherman A. Jackson > Page 69
+
+By the time the West took up the study of Islam in earnest, the tension between religion-aspsychodynamic-orientation and religion-as-concrete-doctrine- and-practice had already crystalized, with the latter eventually winning out as the prism through which Islam would be viewed.
+
+### The Islamic Secular by Sherman A. Jackson > Page 70
+
+dīn belongs to that category of Arabic words known as "aḍdād," which simultaneously admit two opposite meanings.117 Viewed from the perspective of humans interacting with God, dīn translates into "humble obedience" and "absolute obedience." But viewed from the perspective of God receiving God's due from humans, dīn amounts to "absolute rule" and "absolute Sulṭān"
+
+### The Islamic Secular by Sherman A. Jackson > Page 71
+
+The dīn of Islam with which God is pleased and with which God sent God's messengers is
+ultimate submission to none other than God (al-istislām lillāh waḥdah). And its place is in the heart.
+
+### The Islamic Secular by Sherman A. Jackson > Page 74
+
+It is also a God whose perceived presence generates in humans a heightened consciousness, an elevated sense of expectation, and a desire to appease beyond the fulfillment of God's concrete commands. This is the ground of the impulse commonly referred to in classical literature as "qurbah," the attempt to "draw near" to God. In effect, this conscious awareness of the divine presence and gaze renders the whole of life religious. And from this perspective, there are no "areas free from religion."
+
+### The Islamic Secular by Sherman A. Jackson > Page 75
+
+Obedience is the response to God's concrete dictates in the form of sharī'ah; obeisance is a function of the non-shar'ī dictates of taqwā, informed by a conscious awareness of the divine presence and gaze. Ultimately, obeisance underscores the fact that neither divine guidance nor the full worship of God is exhausted by what God communicates concretely in the form of revelation.
+
+### The Islamic Secular by Sherman A. Jackson > Page 75
+
+Ibn Taymīyah: Even were we to assume that a person came to know every command and every prohibition in the Qur'ān and Sunna, the Qur'ān and Sunna would simply address matters of general, categorical import, as it is impossible to do other than this. They would not mention that which is specific to each and every individual. And for this reason, humanity has been commanded to ask for guidance (hudā) to the straight path.
+
+### The Islamic Secular by Sherman A. Jackson > Page 77
+
+Later, in Islam and the Blackamerican, I described the use of "Islamic" as a hegemonic tool deployed to promote "false universals" by which the historically, socio- culturally, and even politically informed choices and preferences of the modern "Muslim world" (read: Middle East and South Asia)
+
+### The Islamic Secular by Sherman A. Jackson > Page 78
+
+my real aim was to enshrine sharī'ah as a basis for levelling the playing field between Blackamerican and immigrant Muslims by denying the latter the ability to claim ownership over Islamic normativity and proffer positions from which, given their status as cultural and historical insiders, there could be no appeal.
+
+### The Islamic Secular by Sherman A. Jackson > Page 80
+
+religion is no more automatically productive of its own plausibility structure than are fish of the aquatic eco-systems upon which they rely. Ultimately, religion requires something that is not "religious" (in the strict sense in which I, Hodgson, the Salafīs, and Abu Lughod had conceptualized it) to ensure its viability. And without this added something, religion will be very much like a fish out of water.
+
+### The Islamic Secular by Sherman A. Jackson > Page 82
+
+relatedly, the tendency to universalize the achievements of the traditional Muslim world as the sole possible plausibility structure for Islam stifles the emergence of what might prove
+
+### The Islamic Secular by Sherman A. Jackson > Page 85
+
+Ghazālī is bitingly critical of speculative theology (kalām): "Were we ourselves to put aside
+all pretensions of deference and decorum, we would declare outright that delving into speculative theology, due to its many liabilities, is religiously forbidden (ḥarām)."181 Yet, he draws two exceptions: (1) an individual who develops doubts that might be removed by speculative theology, and (2) one of superior intelligence who can treat people's doubts and beat back the spurious arguments of the enemies of Islam.
+
+### The Islamic Secular by Sherman A. Jackson > Page 89
+
+even as a member of the class of fuqahā'-jurisprudents, sharī'ah and dīn are not coterminous for judge Ibn Qutaybah; nor is the health and integrity of Islam—and the Islamic—viewed as being sustainable on the basis of sharī'ah alone.
+
+### The Islamic Secular by Sherman A. Jackson > Page 89
+
+The path to God is not singular, and goodness is not confined to nightly prayers, daily fasting and knowledge of the permissible and impermissible ('ilm al-ḥalāl wa al-ḥarām). Rather, there are many paths to God, and the gates of goodness are expansive. The quality of religion (ṣalāḥ al-dīn) depends on the quality of the temporal order; and the quality of the temporal order depends on the quality of those in authority (ṣalāḥ al-sulṭān); and the quality of those in authority obtains upon God's facilitation through the provision of guidance and penetrating insight
+
+### The Islamic Secular by Sherman A. Jackson > Page 90
+
+while a work on humor might not have been counted as shar'ī, this would not necessarily prevent the fuqahā'-jurisprudents from recognizing its value to dīn. In his humorous book on misers, for example, the Shāfi'ī jurist and ḥadīth expert al-Khaṭīb al-Baghdādī (d. 463/1071) states explicitly that among the aims of this work is to "lift the weight of seriousness from the hearts of scholars and relieve their minds from (the burdens of) constant study and mental exertion," clearly recognizing its service and value to dīn.
+
+### The Islamic Secular by Sherman A. Jackson > Page 91
+
+While al-Thawrī would obviously not approve of all of Abū Nuwās's oeuvre, he almost certainly appreciated its contributions to the linguistic sensibilities of the Muslims, as well as to the development of a Muslim aesthetic, Muslim cultural literacy, and Muslim cultural selfreliance, with all that this implies for the plausibility structure (though he would not have called it that) of Islam
+
+### The Islamic Secular by Sherman A. Jackson > Page 97
+
+would be like saying that Nietzsche, Carl Schmitt, or even Hitler was not "rational." On the other hand, to the extent that we conclude that ISIS or the NOI fails to conform to agreed-upon meanings of scripture, acts in ways that damage Islam's plausibility structure, or frustrates values, truths, or interests that are widely recognized as normative in Islam, they may be deemed un-Islamic, in the same sense that we may deem Nietzsche, Schmitt, or Hitler to be unreasonable, because we reject the ends to which they seek to deploy their rationality.
+
+### The Islamic Secular by Sherman A. Jackson > Page 97
+
+If a judge (ḥākim) rules on the basis of his independent effort to arrive at the truth and 'hits the mark,' he receives two rewards. And if he exerts such effort and rules but misses the mark, he receives one reward."228 In earning reward, both of these actions must clearly be considered Islamic. In the case of the latter action, however, the effort is Islamic, while the result of this effort—the substance of the act itself—clearly is not.
+
+### The Islamic Secular by Sherman A. Jackson > Page 103
+
+al-Maqrīzī's sense that Mamlūk monetary policy was so egregious seems to have blinded him to this well- established juristic view. For him, the economic effects of monetizing fulūs were so destructive that the practice itself had to be in violation of the religious law. In effect, he was equating "economically bad" with "juristically proscribed."
+
+### The Islamic Secular by Sherman A. Jackson > Page 105
+
+Good, as a category, is broader than the legal ruling" (al-ḥasan a'amm min al-ḥukm alshar'ī).25 On this understanding, given the everyday demands of prudence, practicality, and even ethics, "rule-following," that is, adherence to aḥkām shar'īyah, does not and cannot encompass the entire normative practice of Islam. Failure to recognize this fact can only overburden (and over-authorize) the ḥukm shar'ī and its representatives
+
+### The Islamic Secular by Sherman A. Jackson > Page 107
+
+sharī'ah itself does not determine the presence or absence of these consequences. Those who can properly pronounce on such matters are qualified determiners of facts, as opposed to interpreters of texts (qua interpreters of texts). In other words, the act of selling guns to those known to be intent on robbery is "blocked" as impermissible, not the act of simply selling guns. Meanwhile, knowing who is intent on robbery is not a shar'ī determination.
+
+### The Islamic Secular by Sherman A. Jackson > Page 108
+
+the "puritanical" "sharī'ah- maximalist" Ibn Taymīyāh, when he asks rhetorically, having established that such pursuits as medicine, mathematics, and geometry are 'aqlī as opposed to shar'ī, even as he recognizes their utility for Islam, "Can anyone be excommunicated for having embraced wrong views in the areas of mathematics, medicine, or the intricacies of logical reasoning?"
+
+### The Islamic Secular by Sherman A. Jackson > Page 114
+
+there is often an incommensurability between the practical and the moral, not in the sense of the two being mutually exclusive but in the sense of their not always being subsumable under a single standard of judgment. The moral, in other words, does not always entail the practical, and the practical cannot always be meaningfully assessed morally.
+
+### The Islamic Secular by Sherman A. Jackson > Page 118
+
+Economics, public administration, fashion design, and modern physics are not shar'ī disciplines, even though they may be critical to the normative practice of Islam. While the action of a Muslim who produces a superior or inferior economic policy or theory of physics may be judged to be more or less valuable, it does not follow that this act is necessarily more or less ḥalāl or ḥarām. In and of itself, quantum physics is no more or less permissible than Einsteinian physics, even if one system proves more Islamically useful or scientifically correct than the other.
+
+### The Islamic Secular by Sherman A. Jackson > Page 138
+
+there are authorities and disciplines other than the jurists and their shar'ī sciences that are equally critical. While al-Qarāfī is the most direct and comprehensive theorist making this point, the basic understanding of the bounded nature of the ḥukm shar'ī and the consequences thereof is not, as we have seen, unique to him; nor does it end with him. AlRāzī's al-Maḥṣūl continued to spawn discussions in uṣūl al- fiqh long after al-Qarāfī's time
+
+### The Islamic Secular by Sherman A. Jackson > Page 141
+
+with the effective disappearance of the shar'ī/non-shar'ī divide, the functional distinction between juristic law and non-law, so handsomely theorized by the likes of al-Rāzī, alQarāfī, and others after them, all but fades into the dust of the post-colonial stampede.
+
+### The Islamic Secular by Sherman A. Jackson > Page 142
+
+Muslim jurists writing in the tradition of speculative jurisprudence clearly recognized the ḥukm shar'ī and thus fiqh/sharī'ah as bounded entities. Even the Ḥanafī tradition, which initially did not recognize a shar'ī/non-shar'ī distinction, eventually included jurists who did. This feature of classical and post-formative juristic discourse has been lost on many influential, late- modern, post-colonial Muslim jurists; and most Western scholars
+
+### The Islamic Secular by Sherman A. Jackson > Page 144
+
+Two great scholars once met, one of the rational and exact sciences (ma'qūlāt wa handasīyāt) the other of the transmitted and shar'ī sciences (sam'īyāt wa shar'īyāt). The former said to the latter, "Geometry is superior to fiqh, because it is certain, while fiqh is based on reasonable supposition (ẓunūn); and certainty is superior to reasonable supposition." The latter responded, "You are correct; from this perspective, it is superior. But fiqh is superior in that its fruits are one's happiness in the Hereafter, the bliss of Paradise and pleasing the All-Merciful, while geometry produces nothing of this." The former agreed. And both of these scholars, may God have mercy on them, approached this matter with fairness.
+
+### The Islamic Secular by Sherman A. Jackson > Page 145
+
+Ẓāhirism potentially produces—in effect at least—a massive, non-shar'ī, differentiated realm, where normative action is not dictated by sharī'ah or its sources. And since the number of issues these limited sources can be assumed to address will be increasingly fewer over the course of post-Prophetic history relative to the number of issues they cannot address (especially in the absence of qiyās)
+
+### The Islamic Secular by Sherman A. Jackson > Page 147
+
+Ibn al-Qayyim's response to this problem is to cast sharī'ah as totalizing, not only subsuming siyāsah but all reasonable inferences from the sources, through both formal analogy (qiyās) and the use of common sense, communal experience, rational induction,
+and the like. On this understanding, God's shar'ī address can cover every situation.
+
+### The Islamic Secular by Sherman A. Jackson > Page 147
+
+Ibn al-Qayyim indirectly acknowledges this, as well as the fact that determining the "good" often calls upon metrics that fall outside scripture and the ḥukm shar'ī. He notes, for example, that, substantively speaking, much of the "good" the Qur'ān enjoins regarding spousal maintenance, fair treatment, and the rights and responsibilities of women "revert to what 'the people' recognize by convention to be good and not bad"
+
+### The Islamic Secular by Sherman A. Jackson > Page 148
+
+in the interest of protecting the integrity of sharī'ah as the sole guarantor of justice, extrafiqhī forms of evidence are re-conceptualized and presented as sharī'ah. This is all grounded in Ibn al-Qayyim's argument that God's fundamental aim is justice and that, in the pursuit thereof, any means of establishing a fact more clearly than the jurists' "shar'ī (courtroom) evidence" must be accepted, a fortiori, as an expression of sharī'ah. 222 By casting all forms of evidence that serve justice as sharī'ah, including those that are not outlined in scripture or recognized by juristic fiqh, Ibn al-Qayyim undermines the role and legitimacy of extra-shar'ī rules, qua extra-shar'ī rules, since all rules are now essentially shar'ī.
+
+### The Islamic Secular by Sherman A. Jackson > Page 149
+
+Discretionary measures (siyāsah) are acts that render the people closer to wholesomeness and farther removed from vice, even if the Prophet, God's peace and salutations be upon him, did not institute this action and even if no revelation came down prescribing it. So, if you mean by "consistent with the shar'" that it does not violate the shar', this is sound. But if you mean that there is no discretionary policy except in accordance with what the shar' actually prescribes (mā naṭaqa bihi al-shar'), this is wrong and amounts to an indictment of the Companions.
+
+### The Islamic Secular by Sherman A. Jackson > Page 152
+
+For Ibn Taymīyah, processing scripture through what he would describe as "non-shar'ī" systems of reason threatens to corrupt, subordinate, and undermine scripture by limiting its meanings to what these epistemologies might allow or dictate
+
+### The Islamic Secular by Sherman A. Jackson > Page 153
+
+As for those issues that are known by 'aql independently, these include natural issues, such as the fact that a particular medicine will cure a particular disease. For such things are known by experience and analogy or by following doctors who know these things by experience or analogy. The same applies to such things as mathematics, geometry, etc. These are all among the things that are known by 'aql. 249 And yet, Ibn Taymīyah is explicit in his recognition that the functional integrity of sharī'ah as an applied system of socio-political ordering depends in part on the development of these and related non-shar'ī, differentiated disciplines.
+
+### The Islamic Secular by Sherman A. Jackson > Page 154
+
+I would therefore simply cede to Ibn Taymīyah his sharī'ah-maximalism regarding theology, where he strives to shrink the arena of non-shar'ī reason
+
+### The Islamic Secular by Sherman A. Jackson > Page 155
+
+unanimous consensus (ijmā') has never been a criterion for a juristic theory to be considered valid or authentically Islamic.
+
+### The Islamic Secular by Sherman A. Jackson > Page 158
+
+Muslim jurists, qua jurists, cannot rightfully exercise a monopoly over the substance of Islam or the Islamic. Even on the assumption that they may rightfully pronounce on the 'moral' status of all ideas and acts, in the sense that all of these come under one of the Five Juristic Statuses, this should not be understood to mean that these Statuses are the only Islamically relevant metric, or that jurists have the authority to determine or pronounce on the substance of non-shar'ī acts or ideas
+
+### The Islamic Secular by Sherman A. Jackson > Page 171
+
+Whereas uṣūl al-fiqh sets concrete, objective parameters and metrics for assessing the validity of claims to fiqh/sharī'ah, perhaps the ultimate unresolved problem in Islamic legal history is the difficulty of developing comparable standards for rule-making outside the machinery of sharī'ah— building codes, speed limits, foreign policy, and the like
+
+### The Islamic Secular by Sherman A. Jackson > Page 171
+
+if siyāsah is to be considered part of sharī'ah, the state must be credited not simply with political or discretionary authority but also with juristic, that is, shar'ī, authority; if siyāsah is not a part of sharī'ah, the substance of the state's policies can neither be assessed nor disciplined through the formal machinery of sharī'ah's uṣūl al-fiqh.
+
+### The Islamic Secular by Sherman A. Jackson > Page 176
+
+If he [a judge] is a Shāfi'ī, he is not bound to follow the views of al-Shāfi'ī in his rulings, unless his own independent interpretation (ijtihād) leads him to this. If his independent interpretation leads him to the view of Abū Ḥanīfa, he may adopt the latter. . . . Some jurists disallow this . . . to avoid suspicion of unfairness and bias. . . . But even if such disallowance might be dictated by siyāsah, the rules of sharī'ah do not bind him in this regard.
+
+### The Islamic Secular by Sherman A. Jackson > Page 179
+
+siyāsah is distinct from sharī'ah and operates on a logic and authority that transcends it. Over time, this understanding would become so widely diffused that even the juristically minded al-Qarāfī, in a manual ostensibly devoted to fiqh, could openly acknowledge siyāsah as part of the state's rightful role in upholding the normative order, separate from the efforts of judges and jurists.
+
+### The Islamic Secular by Sherman A. Jackson > Page 200
+
+As a society, consciously aware of this collective relationship to culture, we seek to stabilize our social order; for, according to Berger, the meaning-making nomos is a "shield against terror," allowing us to make sense of and impute value to everyday existence
+
+### The Islamic Secular by Sherman A. Jackson > Page 201
+
+The nomos that I have described requires no state. . . . [T]he creation of legal meaning — 'jurisgenesis'—takes place always through an essentially cultural medium.
+
+### The Islamic Secular by Sherman A. Jackson > Page 201
+
+legal meaning is not the product of a naked, dialectical encounter between the interpreter and the interpreted text. It is, rather, the result of a triangular move in which the encounter with the text(s) is mediated by a nomos.
+
+### The Islamic Secular by Sherman A. Jackson > Page 201
+
+Take, for example, the Qur'anic verse, "And among the people are those who trade idle tales (lahw al-ḥadīth) in order, in ignorance, to steer people away from God's path and take the latter as sport." [31:6] This verse is routinely cited as a proof-text for banning singing, music, and musical instruments. Meanwhile, there are verses that clearly speak admonishingly (if not disparagingly) about poetry: "And the poets, they are followed by those ever seduced. Do you not see them tumbling into every valley, lost to passion, saying that which they do not do—except those who believe and work righteous deeds, remembering God often?" [26: 224–7] Yet, these are rarely taken to cast doubt on the permissibility of poetry, even the poetry of the pre-Islamic unbelievers.
+
+### The Islamic Secular by Sherman A. Jackson > Page 202
+
+Both Cover and Berger are clear that legal meaning (religious or other) is not selfconstituting and that it cannot, at least not entirely, hold itself in place. But if nomos and plausibility structures actually work as these men suggest, it cannot be the jurists alone who determine the law and preserve the authority of its meanings
+
+### The Islamic Secular by Sherman A. Jackson > Page 206
+
+there is no guarantee that every non-jurist (or jurist) will avail him- or herself of Islam's technologies of the self or engage with scripture and tradition in a manner that breeds proper prejudgments or "legitimate prejudices."187 For this reason, depending on their orientation, the nomos they construct may end up weakening rather than strengthening Islam-cum-sharī'ah, constituting, in effect, a secularizing rather than an Islamicizing force.
+
+### The Islamic Secular by Sherman A. Jackson > Page 207
+
+The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the true ruling power of our country. We are governed, our minds molded, our taste formed, our ideas suggested, largely by men we have never heard of.
+
+### The Islamic Secular by Sherman A. Jackson > Page 207
+
+Whether a society is democratic or not, poetry, architecture, education, city- planning, economics, technology, political philosophy, and now, journalism, film, advertising, and the like all have much more relevance to the substance and authority of the society's law than is commonly assumed.190 All of these contribute directly or otherwise to the prevailing nomos and plausibility structure. How a people feels and thinks collectively about laws depends on more than just the laws' substance or jurisprudential basis
+
+### The Islamic Secular by Sherman A. Jackson > Page 208
+
+Today, jurists, qua jurists, can hardly be expected to produce alternatives to the prevailing global nomos that so threatens the authority and integrity of Islam-cum-sharī'ah—healthy economies, robust educational institutions, advanced technology, superior military might, competitive popular culture, political theory, a healthy political culture, and the like—any more than they were expected to do so in the past
+
+### The Islamic Secular by Sherman A. Jackson > Page 208
+
+ideals, or maqāṣid, of Islam.195 While the modern West beat them to the punch, this was not the result of some unique moral insight that Euro-Americans suddenly happened upon. Instead, economic, social, and technological developments triggered changes in moral sensibilities and reasoning.196 As Aristotle predicted, it was "when looms powered themselves" that a new nomos came into being, enabling humans to imagine the possibility and propriety of ending slave-labor. non-juristic activity that changed the texture and valuation of manual labor would have been much more likely than juristic deliberation, or ijtihād shar'ī, to bring Muslims to the practical realization of what had long been recognized in theory as a bona fide Islamic ideal
+
+### The Islamic Secular by Sherman A. Jackson > Page 210
+
+the fact that an act is permissible, shar'an , does not necessarily render it effective, socially appropriate, profitable, romantic, or chic
+
+### The Islamic Secular by Sherman A. Jackson > Page 210
+
+it is not the most pious or even the most juristically learned who will be most qualified to make the best choices but the most relevantly skilled. Even the staunch sharī'ahmaximalist Ibn Taymīyah acknowledges that those who are experts (ahl al- khibrah) in nonshar'ī fields are more knowledgeable and authoritative than the fuqahā' in those fields
+
+### The Islamic Secular by Sherman A. Jackson > Page 213
+
+No one should think that it is sunnah to refuse to benefit from these things simply because the Prophet did not partake of them."206 But Ibn Taymīyah does not stop here: he notes that the Prophet simply ate, wore, and rode what he found readily available in his land, among those things that God identified as permissible. "Thus, whoever avails himself of the (permissible) things he finds in his land is following the sunnah (of the Prophet)"
+
+### The Islamic Secular by Sherman A. Jackson > Page 213
+
+Ibn Taymīyah offers a broad, non-technical definition of sunnah that clearly captures the matter at hand: "The Sunnah is that which is established by shar'ī indicants to constitute obedience [or obeisance] to God and His Messenger, whether the Prophet partook of this thing or it was practiced during his lifetime or not"
+
+### The Islamic Secular by Sherman A. Jackson > Page 214
+
+Ijtihād is an important enterprise, and it would be foolish to deny its value in the modern world. But, strictly speaking, ijtihād (shar'ī) is relevant only to the production of aḥkām shar'īyah (sg. ḥukm shar'ī). In cases where what is ultimately sought lies beyond the ḥukm shar'ī, ijtihād will not be able to reach it.
+
+### The Islamic Secular by Sherman A. Jackson > Page 215
+
+as long as ijtihād shar'ī's limited ability to address cultural and other non-legal challenges in a concrete, substantive fashion remains unrecognized, the result will be an overinvestment in ijtihād shar'ī, which will send Muslims on false missions that ultimately lead to a loss of confidence in, and a misplaced frustration with, sharī'ah.
+
+### The Islamic Secular by Sherman A. Jackson > Page 215
+
+in a scathing critique of marriage in early fourteenth-/twentieth-century Egypt, Muḥammad 'Abduh (d. 1322/1905) criticized the fuqahā' for their tragically transactional attitude toward matrimony, especially as it affected women. According to him, juristic discourses focused almost exclusively on sexual rights (mainly of husbands over wives) and were "entirely devoid of any reference to 'ethical/emotional obligations' (wājibāt adabīyah)."
+
+### The Islamic Secular by Sherman A. Jackson > Page 217
+
+While the law may dictate the normative parameters within which cultural imagination must express itself, it cannot tell us in concrete terms what is pretty, fun, chic, or romantic in any given time or place.216 The tendency, however, to 'over-sharī'atize' matters, as Abduh appears to do here, blocks this insight from view.
+
+### The Islamic Secular by Sherman A. Jackson > Page 217
+
+as counter-intuitive as it may seem at first blush, one could argue that too much reliance on sharī'ah, to the point of overlooking the non-shar'ī Islamic Secular, can promote secularism and secularization in the modern Western sense almost as effectively as too little reliance.
+
+### The Islamic Secular by Sherman A. Jackson > Page 218
+
+Faced with this challenge, 'Abduh and Riḍā responded with what they probably deemed to be the best if not the only means at their disposal: a sharī'ah-maximalism intended to function as a dike against the Western- secular deluge. For them, particularly on such issues as gender, where the hegemonic pretensions of Western modernity pressed hard and most incessantly, the distinction between the non-shar'ī and the anti-shar'ī became so blurred that it could be engaged with only agnostically, if at all.
+
+### The Islamic Secular by Sherman A. Jackson > Page 220
+
+The greatest challenge to Islam (or any other religion) in the world today is not other religions, as Muslims generally believed to be the case in the pre-modern past; nor is it intolerance or persecution, as modern liberals would have us think today. It is, instead, the degradation of Islam's plausibility structure and the inability of Muslims to construct and preserve a viable alternative.
+
+### The Islamic Secular by Sherman A. Jackson > Page 226
+
+Again, to the extent that secularization is identified with the "restriction of the scope of 'religious law' " and the power of the state to fill the breach, one can imagine how the Islamic Secular might be misread, built as it is on the notion of sharī'ah's limited jurisdiction and the space this opens to non- shar'ī deliberations-cum-regulation by the state (in the form, e.g., of siyāsah, maẓālim, or ḥisbah)
+
+### The Islamic Secular by Sherman A. Jackson > Page 227
+
+On Asad's approach, placing limits on sharī'ah's jurisdiction is equated with privatizationcum-secularization. From the perspective of the Islamic Secular, however, limits are indigenous to the very concept and function of sharī'ah itself, part of its normative constitution.
+
+### The Islamic Secular by Sherman A. Jackson > Page 228
+
+as we saw with such religious stalwarts as al-'Izz b. 'Abd al-Salām,258 Ibn Taymīyah,259 al-Qarāfī,260 and others—not to mention our discussion of siyāsah, maẓālim, and ḥisbah —while there was always tension between the state and the jurists in the Islamic world, there was never a presumption of zero-sum spoils between Islam-cum-sharī'ah and the state
+
+### The Islamic Secular by Sherman A. Jackson > Page 231
+
+overextending sharī'ah denies the Islamic legitimacy of anything that cannot trace its provenance to hermeneutical engagement with scripture (or the madhhabs), frustrating the role of empirical assessment, fantasia, and all non-shar'ī production, ultimately consigning Muslims to sources and authorities outside Islam (now identified with anything "outside sharī'ah") to fill the breach. Stated differently, not only does the Islamic Secular identify a different set of causes for religious decline among Muslims; ultimately, it also embraces a different definition of religious decline itself, one that includes diminution in the value of (Islamic) 'secular' activity.
+
+### The Islamic Secular by Sherman A. Jackson > Page 232
+
+Over-investment in sharī'ah, in other words, as both the sole metric of assessment and an enterprise limited strictly to hermeneutical engagement with scripture (or the madhhabs), led the state to conclude that sharī'ah in this instance was inadequate. And given the tendency to equate sharī'ah with Islam, this conclusion led to the view that assessing warranty periods should be placed outside the jurisdiction of Islam as dīn, rendering it a purely secular matter in the modern, Western sense.
+
+### The Islamic Secular by Sherman A. Jackson > Page 232
+
+the Mongols and Crusaders wielded equal, if not greater, power and inflicted perhaps far more physical devastation. Yet, neither was as successful in rearranging Muslim cognitive frames, including their perception of self and the world. I argue, in such light, that a major contributor to religious decline among modern Muslims has been their falling away from a functional recognition of the Islamic Secular, at the heart of which is the recognition that non-shar'ī, differentiated, secular activity is both practically valuable and Islamically necessary,
+
+### The Islamic Secular by Sherman A. Jackson > Page 234
+
+Muslims "would likely hesitate to think that a discourse on humour might somehow meaningfully be called 'Islamic' . . . by the same measure that [they] would likely not hesistate to classify . . . a treatise on the meaning of jihād as 'Islamic'' "273 Such mounting agnosia and practical irrelevance, now amplified by Western and Muslim proponents of secularism, cumulatively undermined the authority of and confidence in Islam-cumsharī'ah
+
+### The Islamic Secular by Sherman A. Jackson - Hallaq and the Modern State > Page 252
+
+by so severely limiting the interpretive authority of modern jurists, Hallaq can declare reconciliation between Islam-cum-sharī'ah and statesovereignty to be impossible by effectively denying the legitimacy of any attempt by modern jurists to bring such reconciliation about.
+
+### The Islamic Secular by Sherman A. Jackson - Provenance > Page 254
+
+Muslims appropriated numerous institutional structures, as any perusal of al-Māwardī's or Abū Ya'lā's sections in al-Aḥkām al-Sulṭānīyah on land surveyance, tax-collection, and the like readily reveals.39 Earlier, we saw Ibn Taymīyah's attitude regarding the provenance of bathhouses40 and al-Ghazālī's on sciences developed by non-Muslims.41
+
+### The Islamic Secular by Sherman A. Jackson - Provenance > Page 254
+
+Indeed, our religious law does not forbid imitating those who do what God The Exalted has permitted.42
+
+### The Islamic Secular by Sherman A. Jackson - Sovereignty and Law > Page 255
+
+the people," for Schmitt, are not simply the populace; they are das Volk, a more or less homogenous group bound by blood, history, affections, and, most importantly, a collective sense of destiny, something inscrutably "deeper than political ties."
+
+### The Islamic Secular by Sherman A. Jackson - Sovereignty and Law > Page 259
+
+That Muslims presumed the exercise of human agency to be a normative feature of the administration of law is clear, for example, from the reception of 'Umar I's setting aside the punishment for theft during a famine, or his banning temporary marriage (mut'ah), or his doubling the punishment for drinking wine.
+
+### The Islamic Secular by Sherman A. Jackson - Sovereignty and Law > Page 259
+
+failure on the state's (or ummah's) part to exercise due diligence in determining sharī'ah's proper content and application was deemed a dereliction of religious duty no less than was the open flouting of sharī'ah. This, as we have seen, is the clear and forceful message of such widely cited works as al-Ṭuruq al-Ḥukmīyah by the staunch sharī'ahmaximalist Ibn al-Qayyim,
+
+### The Islamic Secular by Sherman A. Jackson - Sovereignty and Law > Page 260
+
+From another angle, liberal theorists routinely challenge the sovereignty of modern states based on such concepts as human rights.66 They deny states the right to do all kinds of things,
+
+### The Islamic Secular by Sherman A. Jackson - Violence, Sacrifice, Bureaucracy, Culture > Page 261
+
+My point here is not that these appeals or interventions are always right or justified but that they reflect the existence of a transcendent authority outside or above the state that is routinely invoked against it. This, incidentally, is often the whole point and function of constitutions, whose authority is both prior to and superior to the state, state sovereignty, and even popular sovereignty. As one legal philosopher puts it, "The essential rationale of written constitutions is to remove certain important moral/political decisions from the ordinary business of lawmaking."67
+
+### The Islamic Secular by Sherman A. Jackson - Violence, Sacrifice, Bureaucracy, Culture > Page 264
+
+The whole institution of jihād stands or falls on this willingness to make the ultimate sacrifice. I agree that the commitment here is to the Community rather than the state as a rarefied entity. But the Community was always organized, even in pre-modern times, into something approaching a state; and the destruction of this "something" could not be meaningfully separated from the destruction of the Community itself.
+
+### The Islamic Secular by Sherman A. Jackson - Violence, Sacrifice, Bureaucracy, Culture > Page 265
+
+Hallaq argues that the modern state carries out its business—"organization of control, governing, governmentality, and violence"78—through a sophisticated, multi-layered, administrative apparatus infused with a rationality that "precludes it from being determined by tradition or religious decree," while at the same time being so blindly instrumental that it routinely breeds "arbitrariness."
+
+### The Islamic Secular by Sherman A. Jackson - Violence, Sacrifice, Bureaucracy, Culture > Page 266
+
+Baybars was unable to dissuade his appointee from this obstructionism. But he also did not feel that he could fire or overrule the Chief Justice. Instead, he responded with more bureaucracy, installing four chief judges, one from each school, thus removing the matter from both his and Ibn Bint al-A'azz's personal discretion.83 Again, my argument is not that this is the same as modern bureaucracy (1040 forms, 501c3-status, filibusters, filing deadlines, etc.). But Mamlūk bureaucracy was clearly historically contingent, rendering many of the differences between it and modern bureaucracy accidental rather than categorically inherent.
+
+### The Islamic Secular by Sherman A. Jackson - Violence, Sacrifice, Bureaucracy, Culture > Page 268
+
+a state that is informed by Islam will retain an interest in calibrating the subjectivities of Muslims (and non-Muslims) "beyond the law" in ways that reinforce the normativeness and, indeed, the primacy of Islam's vision. In this capacity, once again, an Islamic State's difference with the modern state would be one of degree and not kind.
+
+### The Islamic Secular by Sherman A. Jackson - Reason and Islamic Law > Page 270
+
+Enlightenment's choice of Athens over Jerusalem clearly reflected the playing out of this conflict in Judaism and Christianity, signaling the emergence of reason as the ultimate basis of knowledge and highest marker of civilization.97
+
+### The Islamic Secular by Sherman A. Jackson - Reason and Islamic Law > Page 272
+
+Early Ḥanafīs, for example—the putative champions of ra'y—insist that the Qur'ānic verse, "And do not prevent them [women] from marrying their husbands" (wa lā ta'ḍilūhunna an yankiḥna azwājahunna) [2:232] affirms women's agency in contracting their own marriages, more conclusively than verses that point to a need for a male spokesperson (walī) to represent the bride.109 There is no sense of reason edging out revelation here or of a less than uniform attitude toward the authority of revelation as a whole.
+
+### The Islamic Secular by Sherman A. Jackson - Reason and Islamic Law > Page 273
+
+while it may be commonly thought of today as a single, undifferentiated entity, the same cannot be said of 'aql in early Islam. Qiyās (analogy) differed from "common sense," which differed from Neoplatonism or the logic of legal dodges (ḥiyal/sg. hīlah), which differed from such interpretive principles as naskh (abrogation) or takhṣīs (specification of a general meaning)—not to mention what I said earlier about non-shar'ī reasoning overall. Given this variety and overlap of "reasons"
+
+### The Islamic Secular by Sherman A. Jackson - Reason and Islamic Law > Page 274
+
+Traditionalist theologians rejected—and the Inquisition was a theological not a legal contest—was not "human reason" per se but a particular system of reasoning, namely, the rationalist kalām tradition that had been built up primarily from the Hellenistic legacy.
+
+### The Islamic Secular by Sherman A. Jackson - Al-Ḥusn wa al-Qubḥ al-'Aqlīyān > Page 281
+
+jurists, including Ash'arites, speak plainly of acts' benefits (naf') and harms (ḍarar), as opposed (or in addition) to their exclusively moral implications or shar'ī status.157 In other words, there is a palpable utilitarian bent to their juristic (fiqhī) deliberations.
+
+### The Islamic Secular by Sherman A. Jackson - Is vs. Ought > Page 284
+
+the morally engaged sharī'ahmaximalist Ibn Taymīyah, who insists that, when it comes to administrative appointments that affect the material interests of the Community, considerations of competence must be measured with a non-shar'ī, practical calculus alongside but separate from the moral considerations
+
+### The Islamic Secular by Sherman A. Jackson - Is vs. Ought > Page 284
+
+Aḥmad Ibn Ḥanbal to the question of whether a pious weakling (ṣāliḥ ḍa'īf) or a strong miscreant (qawī fājir) should be appointed to head the army: "As for the strong miscreant, his power benefits the Muslims, while his corruptness affects only him; as for the pious weakling, his piety benefits him, while his weakness affects the Muslims."168 Clearly, there is more at play here than a strictly moral calculus that is blind to the practical.
+
+### The Islamic Secular by Sherman A. Jackson - Back to Reason > Page 288
+
+not every aspect of what must be regulated in everyday life—speed limits, building codes, FAA regulations, and the like—falls or can be placed under a ḥukm shar'ī (other than mubāḥ, which has no power to compel action and tells us nothing about substantive content).
+
+### The Islamic Secular by Sherman A. Jackson - Back to Reason > Page 290
+
+if reason cannot penetrate the wisdom behind God's rules, how can it extend them? Similarly, if reason has no independent authority of its own, what role can it play in the non-scripture-based, discretionary, reason-driven dimensions of Islamic governance—the dimensions that address building codes, driver's licenses, regulating hazardous materials, and the like. To reiterate, alQarāfī's insightful assertion that
+
+### The Islamic Secular by Sherman A. Jackson - The Islamic Secular and the Islamic State > Page 291
+
+Islam consists of both a shar'ī dimension, tied to sharī'ah and its sources, and a distinctly non-shar'ī dimension, loosely identified with siyāsah (broadly speaking and including its subsidiaries, ḥisbah and maẓālim) as well as a broad, private, and communal discretionary reasoning that extends to matters "beyond the law."
+
+### The Islamic Secular by Sherman A. Jackson - The Islamic Secular and the Islamic State > Page 291
+
+At any given point in time, therefore, the overall state of Islamic law and governance depends on the combined efforts of Muslims (not just jurists) in all three areas: shar'ī, non-shar'ī, and nomos-building.
+
+### The Islamic Secular by Sherman A. Jackson - Shar'ī vs. Non-Shar'ī: Law vs. Fact > Page 292
+
+This law/fact distinction is one of the hidden elixirs of Islamic law and a major constituent of the Islamic Secular. We saw al-Qarāfī describe it earlier as the difference between the status of a thing as a legal cause, prerequisite or impediment—that is, mashrū'īyat al-sabab or sababīyat alsabab—and the actual occurrence of a thing, i.e., wuqū' al-sabab.189
+
+### The Islamic Secular by Sherman A. Jackson - Shar'ī vs. Non-Shar'ī: Law vs. Fact > Page 293
+
+determining the relevant factual dimensions of a case may require that judges go beyond their training in sharī'ah, and their failure to do so may result in misapplications of the law.
+
+### The Islamic Secular by Sherman A. Jackson - Islamic Governance between Discretion and Juristic Law > Page 295
+
+Driverless cars may be judged mubāḥ, as a fixed shar'ī rule; but the discretionary rules and policies needed to regulate their use over time must continue to evolve and adjust with society and technology in order to remain effective in serving all the public interests involved.
+
+### The Islamic Secular by Sherman A. Jackson - The Promise and Threat of Discretionary Authority > Page 298
+
+As an institution, a taṣarruf is essentially a non-shar'ī discretionary act of finding. As a non-shar'ī pronouncement, it is not derived from scripture or the juristic aspect (i.e., sababīyah vs. wuqū') of madhhab doctrine. For this reason, this finding may be provisionally binding, for the purpose of resolving the dispute at hand, but not unassailable, in that it may be legitimately challenged and, where appropriate, changed.
+
+### The Islamic Secular by Sherman A. Jackson - The Promise and Threat of Discretionary Authority > Page 298
+
+A particularly demonstrative example involves a judge buying or selling property on behalf of orphaned girls, absentees, or the mentally incapacitated. The shar'ī element of these transactions is the legal right to buy or sell; the non-shar'ī, discretionary element is the actual price at which the judge buys or sells the property.
+
+### The Islamic Secular by Sherman A. Jackson - The Promise and Threat of Discretionary Authority > Page 299
+
+Their primary focus (in the interest of Islam) remains on reproducing the likes of Abū Ḥanīfa, al-Ghazālī, and Ibn Taymīyah, as if Islamic civilization were or even could have been built and sustained by these men alone. Little value or attention is attached to the critical role of the Sinans, Ibn al-Nafīses, Ulugh Begs and 'Umar b. 'Abd al-'Azīzes, or the mothers, wives,
+
+### The Islamic Secular by Sherman A. Jackson - The Authority of the Islamic Secular > Page 304
+
+Substantively speaking, ideologies— what one might call a major part of the modern condition itself—cannot be addressed by fiqh alone; they require the intervention of fikr, or reasoned discourse (not to mention material culture).
+
+### The Islamic Secular by Sherman A. Jackson - Two Necessary Digressions > Page 317
+
+For, on the blurring of this distinction, Islamists' advocacy, for example, of a ban on gambling casinos (a shar'ī commitment) and their advocacy of certain regulations regarding immigration or healthcare policy (non-shar'ī commitments) may prove indistinguishable from each other, both being treated—and rejected—as religion-as-sharī'ah attempting to shape the policies of the state.
+
+### The Islamic Secular by Sherman A. Jackson - The Purity of Religiosity > Page 320
+
+Islam's practices might be seen as relying on and seeking to cultivate "psychodynamic memory." George Clooney captures the logic here in a line from the movie Three Kings: "You do the thing that scares you shitless first, then you get the courage." My point here is that certain practices are likely to produce certain enduring effects, regardless of their practitioners' sincerity or intentions.
+
+### The Islamic Secular by Sherman A. Jackson - The Purity of Religiosity > Page 322
+
+Separating sharī'ah from the state, in the sense of barring it from implementing the mu'āmalāt, would leave all the interests connected with the mu'āmalāt to be realized through voluntary compliance, leaving plaintiffs, victims, and society at large at the mercy of the piety of their legal adversaries, victimizers, and society's libertines.
+
+### The Islamic Secular by Sherman A. Jackson - The Wages of Rational Certainty: Khilāf, Sui Juris, and "Decreed by God" > Page 335
+
+especially the case given the modern Muslim tendency to overlook the law/fact and shar'ī/non-shar'ī distinctions, thereby sublating the presuppositions of the socio-political past into the realm of transcendent religion, where they take on an unwarranted authority, permanence, and unassailability that shackle modern Muslim/non-Muslim or gender relations, for example, to the fears, presumptions, and experiences of the pre-modern Muslim past.79
+
 ### Fooled by Randomness by Nassim Taleb - Preface > Page 18 · Location 302
 
 Outside of textbooks and casinos, probability almost never presents itself as a mathematical problem or a brain teaser. Mother nature does not tell you how many holes there are on the roulette table, nor does she deliver problems in a textbook way (in the real world one has to guess the problem more than the solution). In this book, considering that alternative outcomes could have taken place, that the world could have been different, is the core of probabilistic thinking. As a matter of fact, I spent all my career attacking the quantitative use of probability.
@@ -326,6 +873,10 @@ While shaken with emotion. No stiff upper lip. There is nothing wrong and undign
 
 By some argument, the boss of the company may be unskilled labor but one who presents the necessary attributes of charisma and the package that makes for good MBA talk. In other words, he may be subjected to the monkey-on-the-typewriter problem. There are so many companies doing all kinds of things that some of them are bound to make “the right decision.”
 
+### Fooled by Randomness by Nassim Taleb - Postscript > Page 307 · Location 3929
+
+A slightly random schedule prevents us from optimizing and being exceedingly efficient, particularly in the wrong things. This little bit of uncertainty might make the diner relax and forget the time pressures. He would be forced to act as a satisficer instead of a maximizer (Chapter 11 discussed Simon’s satisficing as a blend of satisfying and maximizing)—research on happiness shows that those who live under a self-imposed pressure to be optimal in their enjoyment of things suffer a measure of distress.
+
 ### Physics of God Page 27:
 
 Physicists have subsequently performed this same experiment, always withthe same
@@ -455,156 +1006,63 @@ phenomenon is called resonant energy transfer.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 15
 
-For example, there are many who know the story about when my father, while on the honor
-roll and the eighth-grade class president, was told by his white teacher that his dream to be
-a lawyer was unrealistic for a "colored boy." Maybe he should consider carpentry .... He
-shared this story with us directly. The teacher actually admired my father greatly and didn't
-want to en-courage him to enter a field of study that he believed wouldn't allow my father to excel. Misguided, yet well intended. A teacher crippled by a country that
-offered little promise or future for its indigenous and colored inhabitants.
+For example, there are many who know the story about when my father, while on the honor roll and the eighth-grade class president, was told by his white teacher that his dream to be a lawyer was unrealistic for a "colored boy." Maybe he should consider carpentry .... He shared this story with us directly. The teacher actually admired my father greatly and didn't want to encourage him to enter a field of study that he believed wouldn't allow my father to excel. Misguided, yet well intended. A teacher crippled by a country that offered little promise or future for its indigenous and colored inhabitants.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 47:
 
-this older white boy I knew, Richard Dixon, came up and asked me if I wanted to match
-nickels. He had plenty of change for my dollar. In about a half hour, he had all the change
-back, including my dollar, and instead of going to town to buy something, I went home with
-nothing, and I was bitter. But that was nothing compared to what I felt when I found out
-later that he had cheated. There is a way that you can catch and hold the nickel and make
-it come up the way you want. This was my first lesson about gambling: if you see
-somebody winning all the time, he isn't gambling, he's cheating. Later on in life, if I were
-continuously losing in any gambling situation, I would watch very closely. It's like the Negro
-in America seeing the white man win all the time. He's a professional gambler; h
+This older white boy I knew, Richard Dixon, came up and asked me if I wanted to match nickels. He had plenty of change for my dollar. In about a half hour, he had all the change back, including my dollar, and instead of going to town to buy something, I went home with nothing, and I was bitter. But that was nothing compared to what I felt when I found out later that he had cheated. There is a way that you can catch and hold the nickel and make it come up the way you want. This was my first lesson about gambling: if you see somebody winning all the time, he isn't gambling, he's cheating. Later on in life, if I were continuously losing in any gambling situation, I would watch very closely. It's like the Negro in America seeing the white man win all the time. He's a professional gambler; he isn't gambling.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 53:
 
-I truly believe that if ever a state social agency destroyed a family, it destroyed ours. We
-wanted and tried to stay together. Our home didn't have to be destroyed. But the Welfare,
-the courts, and their doctor, gave us the one-two-three punch. And ours was not the only
-case of this kind. I knew I wouldn't be back to see my mother again because it could make
-me a very vicious and dangerous person-knowing how they had looked at us as numbers
-and as a case in their book, not as human beings. And knowing that my mother in there
-was a statistic that didn't have to be, that existed because of a society's failure, hypocrisy,
-greed, and lack of mercy and compassion. Hence I have no mercy or compassion in me for
-a society that will crush people, and then penalize them for not being able to stand up
-under the weig
+I truly believe that if ever a state social agency destroyed a family, it destroyed ours. We wanted and tried to stay together. Our home didn't have to be destroyed. But the Welfare, the courts, and their doctor, gave us the one-two-three punch. And ours was not the only case of this kind. I knew I wouldn't be back to see my mother again because it could make me a very vicious and dangerous person-knowing how they had looked at us as numbers and as a case in their book, not as human beings. And knowing that my mother in there was a statistic that didn't have to be, that existed because of a society's failure, hypocrisy, greed, and lack of mercy and compassion. Hence I have no mercy or compassion in me for a society that will crush people, and then penalize them for not being able to stand up under the weight.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 112:
 
-I'd go through that Grand Central Station afternoon rush-hour crowd, and many white
-people simply stopped in their tracks to watch me pass. The drape and the cut of a zoot
-suit showed to the best advantage if you were tall-and I was over six feet. My conk was
-fire-red. I was really a clown, but my ignorance made me think I was "sharp." My knobtoed, orange-colored "kick-up" shoes were nothing but Florsheims, the ghetto's Cadillac of
-shoes in those days. (Some shoe companies made these ridiculous styles for sale only in
-the black ghettoes where ignorant Negroes like me would pay the big-name price for
-something that we associated with being rich
+I'd go through that Grand Central Station afternoon rush-hour crowd, and many white people simply stopped in their tracks to watch me pass. The drape and the cut of a zoot suit showed to the best advantage if you were tall-and I was over six feet. My conk was fire-red. I was really a clown, but my ignorance made me think I was "sharp." My knob-toed, orange-colored "kick-up" shoes were nothing but Florsheims, the ghetto's Cadillac of shoes in those days. (Some shoe companies made these ridiculous styles for sale only in the black ghettoes where ignorant Negroes like me would pay the big-name price for something that we associated with being rich.)
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 115:
 
-hadn't always been a community of Negroes. It first had been a Dutch settlement, I
-learned. Then began the massive waves of poor and half-starved and ragged immi- grants
-from Europe, arriving with everything they owned in the world in bags and sacks on their
-backs. The Germans came first; the Dutch edged away from them, and Harlem became all
-Ger- man Then came the Irish, running from the potato famine. The Germans ran, looking
-down their noses at the Irish, who took over Harlem. Next, the Italians; same thing-the Irish
-ran from
+Harlem hadn't always been a community of Negroes. It first had been a Dutch settlement, I learned. Then began the massive waves of poor and half-starved and ragged immigrants from Europe, arriving with everything they owned in the world in bags and sacks on their backs. The Germans came first; the Dutch edged away from them, and Harlem became all German. Then came the Irish, running from the potato famine. The Germans ran, looking down their noses at the Irish, who took over Harlem. Next, the Italians; same thing-the Irish ran from them.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 127:
 
-From time to time, Sophia would come over to see me from Boston. Even among Harlem
-Negroes, her looks gave me status. They were just like the Negroes everywhere else. That
-was why the white prostitutes made so much money. It didn't make any difference if you
-were in Lansing, Boston, or New York- what the white racist said, and still says, was right in
-those days! All you had to do was put a white girl anywhere close to the average black
-man, and he would respond. The black woman also made the white man's eyes light upbut he was slick enough to hide it.
+From time to time, Sophia would come over to see me from Boston. Even among Harlem Negroes, her looks gave me status. They were just like the Negroes everywhere else. That was why the white prostitutes made so much money. It didn't make any difference if you were in Lansing, Boston, or New York- what the white racist said, and still says, was right in those days! All you had to do was put a white girl anywhere close to the average black man, and he would respond. The black woman also made the white man's eyes light up-but he was slick enough to hide it.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 140:
 
-I knew we were on the way to a head- shrinker-the Army psychiatrist. The receptionist there
-was a Negro nurse. I remember she was in her early twenties, and not bad to look at. She
-was one of those Negro "firsts." Negroes know what I'm talking about. Back then, the white
-man during the war was so pressed for personnel that he began letting some Negroes put
-down their buckets and mops and dust rags and use a pencil, or sit at some desk, or hold
-some twenty-five-cent title. You couldn't read the Negro press for the big pictures of smug
-black "firsts."
+I knew we were on the way to a head-shrinker-the Army psychiatrist. The receptionist there was a Negro nurse. I remember she was in her early twenties, and not bad to look at. She was one of those Negro "firsts." Negroes know what I'm talking about. Back then, the white man during the war was so pressed for personnel that he began letting some Negroes put down their buckets and mops and dust rags and use a pencil, or sit at some desk, or hold some twenty-five-cent title. You couldn't read the Negro press for the big pictures of smug black "firsts."
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 141:
 
-Suddenly, I sprang up and peeped under both doors, the one I'd entered and another that
-probably was a closet. And then I bent and whispered fast in his ear. "Daddy-a, now you
-and me, we're from up North here, so don't you tell nobody .... I want to get sent down
-South. Organize them nigger soldiers, you dig? Steal us some guns, and kill us crackers!"
-That psychiatrist's blue pencil dropped, and his professional manner fell off in all directions.
-He stared at me as if I were a snake's egg hatching, fumbling for his red pencil. I knew I
-had him. I was going back out past Miss First when he said, ''That will be all.'' A 4-F card
-came to me in the mail, and I never heard from the Army anymore, and never bothered to
-ask why I was re-jected.
+Suddenly, I sprang up and peeped under both doors, the one I'd entered and another that probably was a closet. And then I bent and whispered fast in his ear. "Daddy-a, now you and me, we're from up North here, so don't you tell nobody .... I want to get sent down South. Organize them nigger soldiers, you dig? Steal us some guns, and kill us crackers!" That psychiatrist's blue pencil dropped, and his professional manner fell off in all directions. He stared at me as if I were a snake's egg hatching, fumbling for his red pencil. I knew I had him. I was going back out past Miss First when he said, "That will be all." A 4-F card came to me in the mail, and I never heard from the Army anymore, and never bothered to ask why I was rejected.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 143:
 
-And they inevitably move into more and more, worse and worse, illegality and immorality.
-Full-time hustlers never can relax to appraise what they are doing and where they are
-bound. As is the case in any jungle, the hustler's every waking hour is lived with both the
-practical and the subconscious knowledge that if he ever relaxes, if he ever slows down,
-the other hungry, restless foxes, ferrets, wolves, and vultures out there with him won't
-hesitate to make him their prey
+And they inevitably move into more and more, worse and worse, illegality and immorality. Full-time hustlers never can relax to appraise what they are doing and where they are bound. As is the case in any jungle, the hustler's every waking hour is lived with both the practical and the subconscious knowledge that if he ever relaxes, if he ever slows down, the other hungry, restless foxes, ferrets, wolves, and vultures out there with him won't hesitate to make him their prey.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 145:
 
-With the apartment as our headquarters, I gradually got Reginald introduced around to
-Creole Bill's, and other Harlem after-hours spots. About two o'clock every morning, as the
-downtown white nightclubs closed, Reginald and I would stand around in front of this or
-that Harlem after-hours place, and I'd school him to what was happenin
+With the apartment as our headquarters, I gradually got Reginald introduced around to Creole Bill's, and other Harlem after-hours spots. About two o'clock every morning, as the downtown white nightclubs closed, Reginald and I would stand around in front of this or that Harlem after-hours place, and I'd school him to what was happening.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 168:
 
-Ella couldn't believe how atheist, how uncouth I had become. I believed that a man should
-do anything that he was slick enough, or bad and bold enough, to do and that a woman
-was nothing but another commodity. Every word I spoke was hip or profane. I would bet
-that my working vocabulary wasn't two hundred word
+Ella couldn't believe how atheist, how uncouth I had become. I believed that a man should do anything that he was slick enough, or bad and bold enough, to do and that a woman was nothing but another commodity. Every word I spoke was hip or profane. I would bet that my working vocabulary wasn't two hundred words.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 174:
 
-I told him and Shorty about some of the things I'd seen. Rudy said that as far as he knew,
-Boston had no organized specialty sex houses, just individual rich whites who had their
-private specialty desires catered to by Negroes who came to their homes camouflaged as
-chauffeurs, maids, waiters, or some other ac- cepted image. Just as in New York, these
-were the rich, the highest society-the predominantly old men, past the age of ability to
-conduct any kind of ordinary sex, always hunting for new ways to be "sensitive
+I told him and Shorty about some of the things I'd seen. Rudy said that as far as he knew, Boston had no organized specialty sex houses, just individual rich whites who had their private specialty desires catered to by Negroes who came to their homes camouflaged as chauffeurs, maids, waiters, or some other accepted image. Just as in New York, these were the rich, the highest society-the predominantly old men, past the age of ability to conduct any kind of ordinary sex, always hunting for new ways to be "sensitive."
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 184:
 
-Even the court clerks and the bailiffs: "Nice white girls ... goddam niggers-" It was the same
-even from our court-appointed lawyers as we sat down, under guard, at a table, as our
-hearing assembled. Before the judge entered, I said to one lawyer, "We seem to be getting
-sentenced because of those girls. ' ' He got red from the neck up and shuffled his papers:
-"You had no business with white girls!" Later, when I had learned the full truth about the
-white man, I reflected many times that the average burglary sentence for a first offender, as
-we all were, was about two years. But we weren't going to get the average-not for our
-crime
+Even the court clerks and the bailiffs: "Nice white girls ... goddam niggers-" It was the same even from our court-appointed lawyers as we sat down, under guard, at a table, as our hearing assembled. Before the judge entered, I said to one lawyer, "We seem to be getting sentenced because of those girls." He got red from the neck up and shuffled his papers: "You had no business with white girls!" Later, when I had learned the full truth about the white man, I reflected many times that the average burglary sentence for a first offender, as we all were, was about two years. But we weren't going to get the average-not for our crime.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 189:
 
-One day in 1948, after I had been transferred to Concord Prison, my brother Philbert, who
-was forever joining some- thing, wrote me this time that he had discovered the "natural
-religion for the black man.'' He belonged now, he said, to some- thing called "the Nation
-oflslam." He said I should "pray to Allah for deliverance.'' I wrote Philbert a letter which,
-although in improved English, was worse than my earlier reply to his news that I was being
-prayed for by his ''holiness'' church. When a letter from Reginald arrived, I never dreamed
-of as-sociating the two letters, although I knew that Reginald had been spending a lot of
-time with Wilfred, Hilda, and Philbert in De- troit. Reginald's letter was newsy, and also it
-contained this instruction: "Malcolm, don't eat any more pork, and don't smoke any more
-cigarettes. I'll show you how to get out of prison."
+One day in 1948, after I had been transferred to Concord Prison, my brother Philbert, who was forever joining something, wrote me this time that he had discovered the "natural religion for the black man." He belonged now, he said, to something called "the Nation of Islam." He said I should "pray to Allah for deliverance." I wrote Philbert a letter which, although in improved English, was worse than my earlier reply to his news that I was being prayed for by his "holiness" church. When a letter from Reginald arrived, I never dreamed of associating the two letters, although I knew that Reginald had been spending a lot of time with Wilfred, Hilda, and Philbert in Detroit. Reginald's letter was newsy, and also it contained this instruction: "Malcolm, don't eat any more pork, and don't smoke any more cigarettes. I'll show you how to get out of prison."
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 190:
 
-I said to him, "I don't eat pork." The platter then kept on down the table. It was the funniest
-thing, the reaction, and the way that it spread. In prison, where so little breaks the
-monotonous routine, the smallest thing causes a commotion of talk. It was being mentioned
-all over the cell block by night that Satan didn't eat pork. It made me very proud, in some
-odd way. One of the universal images of the Negro, in prison and out, was that he couldn't
-do without pork. It made me feel good to see that my not eating it had especially startled
-the white convicts. Later I would learn, when I had read and studied Islam a good deal,
-that, unconsciously, my first pre-Islamic submission had been manifested. I had
-experienced, for the first time, the Mus-lim teaching, "If you will take one step toward AllahAllah will take two steps toward you
+I said to him, "I don't eat pork." The platter then kept on down the table. It was the funniest thing, the reaction, and the way that it spread. In prison, where so little breaks the monotonous routine, the smallest thing causes a commotion of talk. It was being mentioned all over the cell block by night that Satan didn't eat pork. It made me very proud, in some odd way. One of the universal images of the Negro, in prison and out, was that he couldn't do without pork. It made me feel good to see that my not eating it had especially startled the white convicts. Later I would learn, when I had read and studied Islam a good deal, that, unconsciously, my first pre-Islamic submission had been manifested. I had experienced, for the first time, the Muslim teaching, "If you will take one step toward Allah-Allah will take two steps toward you."
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 192:
 
@@ -613,82 +1071,35 @@ until I learned to read selectively, with a purpose.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 193:
 
-''The devil has only thirty-three degrees of knowledge-known as Masonry," Reginald said. I
-can so specifically re- member the exact phrases since, later, I was going to teach them so
-many times to others. "The devil uses his Masonry to rule other people.'' He told me that
-this God had come to America, and that he had made himself known to a man named
-Elijah-' 'a black man, just like us.'' This God had let Elijah know, Reginald said, that the
-devil's "time was up
+"The devil has only thirty-three degrees of knowledge-known as Masonry," Reginald said. I can so specifically remember the exact phrases since, later, I was going to teach them so many times to others. "The devil uses his Masonry to rule other people." He told me that this God had come to America, and that he had made himself known to a man named Elijah-"a black man, just like us." This God had let Elijah know, Reginald said, that the devil's "time was up."
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 202:
 
-I was to learn later that Elijah Muhammad's tales, like this one of "Yacub," infuriated the
-Muslims of the East. While at Mecca, I reminded them that it was their fault, since they
-them- selves hadn't done enough to make real Islam known in the West. Their silence left a
-vacuum into which any religious faker could step and mislead our people.
+I was to learn later that Elijah Muhammad's tales, like this one of "Yacub," infuriated the Muslims of the East. While at Mecca, I reminded them that it was their fault, since they themselves hadn't done enough to make real Islam known in the West. Their silence left a vacuum into which any religious faker could step and mislead our people.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 204:
 
-But bending my knees to pray-that act-well, that took me a week. You know what my life
-had been. Picking a lock to rob some- one's house was the only way my knees had ever
-been bent before. I had to force myself to bend my knees. And waves of shame and
-embarrassment would force me back up. For evil to bend its knees, admitting its guilt, to
-implore the forgiveness of God, is the hardest thing in the world. It's easy for me to see and
-to say that now. But then, when I was the personification of evil, I was going through it.
-Again, again, I would force myself back down into the praying-to-Allah pos-ture. When
-finally I was able to make myself stay down-I didn't know what to say to Allah
+But bending my knees to pray-that act-well, that took me a week. You know what my life had been. Picking a lock to rob someone's house was the only way my knees had ever been bent before. I had to force myself to bend my knees. And waves of shame and embarrassment would force me back up. For evil to bend its knees, admitting its guilt, to implore the forgiveness of God, is the hardest thing in the world. It's easy for me to see and to say that now. But then, when I was the personification of evil, I was going through it. Again, again, I would force myself back down into the praying-to-Allah posture. When finally I was able to make myself stay down-I didn't know what to say to Allah.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 205:
 
-I became increasingly frustrated at not being able to express what I wanted to convey in
-letters that I wrote, especially those to Mr. Elijah Muhammad. In the street, I had been the
-most articulate hustler out there-I had commanded attention when I said something. But
-now, trying to write simple English, I not only wasn't articulate, I wasn't even functional.
-How would I sound writing in slang, the way I would say it, something such as, "Look,
-daddy, let me pull your coat about a cat, Elijah Muhammad-'' Many who today hear me
-somewhere in person, or on tele-vision, or those who read something I've said, will think I
-went to school far beyond the eighth grade. This impression is due entirely to my prison
-studies.
+I became increasingly frustrated at not being able to express what I wanted to convey in letters that I wrote, especially those to Mr. Elijah Muhammad. In the street, I had been the most articulate hustler out there-I had commanded attention when I said something. But now, trying to write simple English, I not only wasn't articulate, I wasn't even functional. How would I sound writing in slang, the way I would say it, something such as, "Look, daddy, let me pull your coat about a cat, Elijah Muhammad-" Many who today hear me somewhere in person, or on television, or those who read something I've said, will think I went to school far beyond the eighth grade. This impression is due entirely to my prison studies.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 211:
 
-I saw how since the sixteenth century, the so-called "Christian trader" white man began to
-ply the seas in his lust for Asian and African empires, and plunder, and power. I read, I saw,
-how the white man never has gone among the non-white peoples bearing the Cross in the
-true manner and spirit of Christ's teachings-meek, humble, and Christ-like. I perceived, as I
-read, how the collective white man had been actually nothing but a piratical opportunist
-who used Faustian machinations to make his own Christianity his initial wedge in criminal
-conquests. First, always "religiously," he branded "heathen" and "pagan" labels upon
-ancient non-white cultures and civilizations. The stage thus set, he then turned upon his
-non-white victims his weapons of war.
+I saw how since the sixteenth century, the so-called "Christian trader" white man began to ply the seas in his lust for Asian and African empires, and plunder, and power. I read, I saw, how the white man never has gone among the non-white peoples bearing the Cross in the true manner and spirit of Christ's teachings-meek, humble, and Christ-like. I perceived, as I read, how the collective white man had been actually nothing but a piratical opportunist who used Faustian machinations to make his own Christianity his initial wedge in criminal conquests. First, always "religiously," he branded "heathen" and "pagan" labels upon ancient non-white cultures and civilizations. The stage thus set, he then turned upon his non-white victims his weapons of war.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 213:
 
-As I see it today, the ability to read awoke inside me some long dormant craving to be
-mentally alive. I certainly wasn't seeking any degree, the way a college confers a status
-symbol upon its students. My homemade edu-cation gave me, with every additional book
-that I read, a little bit more sensitivity to the deafness, dumbness, and blindness that was
-afflicting the black race in America. Not long ago, an English writer telephoned me from
-London, asking questions. One was, "What's your alma mater?" I told him, "Books." You
-will never catch me with a free fifteen minutes in which I'm not studying something I feel
-might be able to help the black man
+As I see it today, the ability to read awoke inside me some long dormant craving to be mentally alive. I certainly wasn't seeking any degree, the way a college confers a status symbol upon its students. My homemade education gave me, with every additional book that I read, a little bit more sensitivity to the deafness, dumbness, and blindness that was afflicting the black race in America. Not long ago, an English writer telephoned me from London, asking questions. One was, "What's your alma mater?" I told him, "Books." You will never catch me with a free fifteen minutes in which I'm not studying something I feel might be able to help the black man.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 214:
 
-Schopenhauer, Kant, Nietzsche, naturally, I read all of those. I don't respect them; I amjust
-trying to remember some of those whose theories I soaked up in those years. These three,
-it's said, laid the groundwork on which the Fascist and Nazi philosophy was built. I don't
-respect them because it seems to me that most of their time was spent arguing about
-things that are not really important. They remind me of so many of the Negro ''intellectuals," so-called, with whom I have come in contact-they are always arguing about
-something useless.
+Schopenhauer, Kant, Nietzsche, naturally, I read all of those. I don't respect them; I am just trying to remember some of those whose theories I soaked up in those years. These three, it's said, laid the groundwork on which the Fascist and Nazi philosophy was built. I don't respect them because it seems to me that most of their time was spent arguing about things that are not really important. They remind me of so many of the Negro "intellectuals," so-called, with whom I have come in contact-they are always arguing about something useless.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 217:
 
-A lot of these black convicts still wouldn't believe it unless they could see that a white man
-had said it. So, often, I would read to these brothers selected pas-sages from white men's
-books. I'd explain to them that the real truth was known to some white men, the scholars;
-but there had been a conspiracy down through the generations to keep the truth from black
-men
+A lot of these black convicts still wouldn't believe it unless they could see that a white man had said it. So, often, I would read to these brothers selected passages from white men's books. I'd explain to them that the real truth was known to some white men, the scholars; but there had been a conspiracy down through the generations to keep the truth from black men.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 224:
 
@@ -698,170 +1109,67 @@ astigmatism and the first pair of the eyeglasses that I have worn ever since.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 227:
 
-Nothing Down· advertisements drew poor Negroes into that store like flypaper. It was a
-shame, the way they paid three and four times what the furniture had cost, because they
-could get credit from those Jews. It was the same kind of cheap, gaudy-looking junk that
-you can see in any of the black ghetto furniture stores today. Fabrics were stapled on the
-sofas. Imitation "leop- ard skin" bedspreads, "tiger skin" rugs, such stuff as that. I would
-see clumsy, work-hardened, calloused hands scrawling and scratching signatures on the
-contract, agreeing to highway-robbery interest rates in the fine print that never was read.
+Nothing Down advertisements drew poor Negroes into that store like flypaper. It was a shame, the way they paid three and four times what the furniture had cost, because they could get credit from those Jews. It was the same kind of cheap, gaudy-looking junk that you can see in any of the black ghetto furniture stores today. Fabrics were stapled on the sofas. Imitation "leopard skin" bedspreads, "tiger skin" rugs, such stuff as that. I would see clumsy, work-hardened, calloused hands scrawling and scratching signatures on the contract, agreeing to highway-robbery interest rates in the fine print that never was read.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 240:
 
-One day, I remember, a dirty glass of water was on a counter and Mr. Muhammad put a
-clean glass of water beside it. "You want to know how to spread my teachings?" he said,
-and he pointed to the glasses of water. "Don't condemn if you see a person has a dirty
-glass of water,'' he said, ''just show them the clean glass of water that you have. When they
-inspect it, you won't have to say that yours is better." Of all the things that Mr. Muhammad
-ever was to teach me, I don't know why, that still stands out in my mind. Although I haven't
-always practiced it. I love too much to battle. I'm in- clined to tell somebody if his glass of
-water is dirty.
+One day, I remember, a dirty glass of water was on a counter and Mr. Muhammad put a clean glass of water beside it. "You want to know how to spread my teachings?" he said, and he pointed to the glasses of water. "Don't condemn if you see a person has a dirty glass of water," he said, "just show them the clean glass of water that you have. When they inspect it, you won't have to say that yours is better." Of all the things that Mr. Muhammad ever was to teach me, I don't know why, that still stands out in my mind. Although I haven't always practiced it. I love too much to battle. I'm inclined to tell somebody if his glass of water is dirty.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 249:
 
-I would raise my hand, for them to be dismissed: ''Do nothing unto anyone that you would
-not like to have done unto yourself. Seek peace, and never be the aggressor-but if anyone
-attacks you, we do not teach you to turn the other cheek. May Allah bless you to be
-successful and victorious in all that you do."
+I would raise my hand, for them to be dismissed: "Do nothing unto anyone that you would not like to have done unto yourself. Seek peace, and never be the aggressor-but if anyone attacks you, we do not teach you to turn the other cheek. May Allah bless you to be successful and victorious in all that you do."
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 250:
 
-I also saw John Hughes, the gambling-house owner, and some others I had known who
-were still around Roxbury. The wire about me had made them all uncomfortable, but my
-''What you know, Daddy?" approach at least enabled us to have some con-versations. I
-never mentioned Islam to most of them. I knew, from what I had been when I was with
-them, how brainwashed they were.
+I also saw John Hughes, the gambling-house owner, and some others I had known who were still around Roxbury. The wire about me had made them all uncomfortable, but my "What you know, Daddy?" approach at least enabled us to have some conversations. I never mentioned Islam to most of them. I knew, from what I had been when I was with them, how brainwashed they were.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 254:
 
-Our Sunday services were held at two P.M. All over Harlem during the hour or so before
-that, Christian church services were dismissing. We by-passed the larger churches with
-their higher ratio of so-called "middle-class" Negroes who were so full of pretense and
-"status" that they wouldn't be caught in our little storefront. We went "fishing" fast and
-furiously when those little evan- gelical storefront churches each let out their thirty to fifty
-people on the sidewalk. "Come to hear us, brother, sister-" "You haven't heard anything
-until you have heard the teachings of The Honorable Elijah Muhammad-"
+Our Sunday services were held at two P.M. All over Harlem during the hour or so before that, Christian church services were dismissing. We by-passed the larger churches with their higher ratio of so-called "middle-class" Negroes who were so full of pretense and "status" that they wouldn't be caught in our little storefront. We went "fishing" fast and furiously when those little evangelical storefront churches each let out their thirty to fifty people on the sidewalk. "Come to hear us, brother, sister-" "You haven't heard anything until you have heard the teachings of The Honorable Elijah Muhammad-"
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 256:
 
-And don't stop there. In fact, you won't be able to stop for long-his doormen are going to tell
-you 'Move on!' But catch a subway and keep on downtown. Anywhere you may want to get
-off, look at the white man's apartments, businesses! Go right on down to the tip of
-Manhattan Island that this devilish white man ·stole from the trusting Indians for twenty-four
-dollars! Look at his City Hall, down there; look at his Wall Street! Look at your- self! Look at
-his God!" I had learned early one important thing, and that was to al- ways teach in terms
-that the people could understand. Also, where the Nationalists whom we had "fished" were
-almost all men, among the storefront Christians, a heavy preponderance were women, and
-I had the sense to offer something special for them. "Beautiful black woman! The
-Honorable Elijah Muham-mad teaches us that the black man is going around saying he
-wants respect; well, the black man never will get anybody's respect until he first learns to
-respect his own women! The black man needs today to stand up and throw off the
-weaknesses im- posed upon him by the slavemaster white man! The black man needs to
-start today to shelter and protect and respect his black women!"
+And don't stop there. In fact, you won't be able to stop for long-his doormen are going to tell you 'Move on!' But catch a subway and keep on downtown. Anywhere you may want to get off, look at the white man's apartments, businesses! Go right on down to the tip of Manhattan Island that this devilish white man stole from the trusting Indians for twenty-four dollars! Look at his City Hall, down there; look at his Wall Street! Look at yourself! Look at his God!" I had learned early one important thing, and that was to always teach in terms that the people could understand. Also, where the Nationalists whom we had "fished" were almost all men, among the storefront Christians, a heavy preponderance were women, and I had the sense to offer something special for them. "Beautiful black woman! The Honorable Elijah Muhammad teaches us that the black man is going around saying he wants respect; well, the black man never will get anybody's respect until he first learns to respect his own women! The black man needs today to stand up and throw off the weaknesses imposed upon him by the slavemaster white man! The black man needs to start today to shelter and protect and respect his black women!"
 
-I knew that our strict moral code and discipline was what repelled them most. I fired at this
-point, at the reason for our code. "The white man wants black men to stay immoral, unclean and ignorant. As long as we stay in these conditions we will keep on begging him and
-he will control us. We never can win freedom and justice and equality until we are doing
-some-thing for ourselves!''
+I knew that our strict moral code and discipline was what repelled them most. I fired at this point, at the reason for our code. "The white man wants black men to stay immoral, unclean and ignorant. As long as we stay in these conditions we will keep on begging him and he will control us. We never can win freedom and justice and equality until we are doing something for ourselves!"
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 262:
 
-I ought to explain that each week night a different Muslim class, or event, is scheduled.
-Monday night, every temple's Fruit oflslam trains. People think this is just military drill, judo,
-karate, things like that-which is part of the F.O.I. training, but only one part. The F.O.I.
-spends a lot more time in lectures and discussions on men learning to be men. They deal
-with the re- sponsibilities of a husband and father; what to expect of women; the rights of
-women which are not to be abrogated by the hus- band; the importance of the father-male
-image in the strong household; current events; why honesty, and chastity, are vital in a
-person, a home, a community, a nation, and a civilization; why one should bathe at least
-once each twenty-four hours; business principles; and things of that nature
+I ought to explain that each week night a different Muslim class, or event, is scheduled. Monday night, every temple's Fruit of Islam trains. People think this is just military drill, judo, karate, things like that-which is part of the F.O.I. training, but only one part. The F.O.I. spends a lot more time in lectures and discussions on men learning to be men. They deal with the responsibilities of a husband and father; what to expect of women; the rights of women which are not to be abrogated by the husband; the importance of the father-male image in the strong household; current events; why honesty, and chastity, are vital in a person, a home, a community, a nation, and a civilization; why one should bathe at least once each twenty-four hours; business principles; and things of that nature.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 269:
 
-Two white policemen, breaking up a street scuffle between some Negroes, ordered other
-Negro passers-by to "Move on!" Of these bystanders, two happened to be Muslim brother
-John-son Hinton and another brother of Temple Seven. They didn't scatter and run the way
-the white cops wanted. Brother Hinton was attacked with nightsticks. His scalp was split
-open, and a police car came and he was taken to a nearby precinct. The second brother
-telephoned our restaurant. And with some telephone calls, in less than half an hour about
-fifty of Temple Seven's men of the Fruit of Islam were standing in ranks-formation outside
-the police precinct house. Other Negroes, curious, came running, and gathered in excitement behind the Muslims. The police, coming to the station house front door, and
-looking out of the windows, couldn't believe what they saw. I went in, as the minister of
-Temple Seven, and demanded to see our brother. The police first said he wasn't there.
-Then they admitted he was, but said I couldn't see him. I said that until he was seen, and
-we were sure he received proper medical attention, the Muslims would remain where they
-were. They were nervous and scared of the gathering crowd outside
+Two white policemen, breaking up a street scuffle between some Negroes, ordered other Negro passers-by to "Move on!" Of these bystanders, two happened to be Muslim brother Johnson Hinton and another brother of Temple Seven. They didn't scatter and run the way the white cops wanted. Brother Hinton was attacked with nightsticks. His scalp was split open, and a police car came and he was taken to a nearby precinct. The second brother telephoned our restaurant. And with some telephone calls, in less than half an hour about fifty of Temple Seven's men of the Fruit of Islam were standing in ranks-formation outside the police precinct house. Other Negroes, curious, came running, and gathered in excitement behind the Muslims. The police, coming to the station house front door, and looking out of the windows, couldn't believe what they saw. I went in, as the minister of Temple Seven, and demanded to see our brother. The police first said he wasn't there. Then they admitted he was, but said I couldn't see him. I said that until he was seen, and we were sure he received proper medical attention, the Muslims would remain where they were. They were nervous and scared of the gathering crowd outside.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 270:
 
-A high police official came up to me, saying "Get those peo-ple out of there.'' I told him that
-our brothers were standing peacefully, disciplined perfectly, and hanning no one. He told
-me those others, behind them, weren't disciplined. I politely told him those others were his
-problemWhen doctors assured us that Brother Hinton was receiving the best of care, I gave
-the order and the Muslims slipped away. The other Negroes' mood was ugly, but they
-dispersed also, when we left. We wouldn't learn until later that a steel plate would have to
-be put into Brother Hinton's skull. (After that operation, the Nation oflslam helped him to
-sue; a jury awarded him over $70,000, the largest police brutality judgment that New York
-City has ever paid.)
+A high police official came up to me, saying "Get those people out of there." I told him that our brothers were standing peacefully, disciplined perfectly, and harming no one. He told me those others, behind them, weren't disciplined. I politely told him those others were his problem. When doctors assured us that Brother Hinton was receiving the best of care, I gave the order and the Muslims slipped away. The other Negroes' mood was ugly, but they dispersed also, when we left. We wouldn't learn until later that a steel plate would have to be put into Brother Hinton's skull. (After that operation, the Nation of Islam helped him to sue; a jury awarded him over $70,000, the largest police brutality judgment that New York City has ever paid.)
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 276:
 
-The guilty, two-faced white man can't decide what he wants. Our slave foreparents would
-have been put to death for advo- cating so-called 'integration' with the white man. Now
-when Mr. Muhammad speaks of 'separation,' the white man calls us 'hate-teachers' and
-'fascists'
+The guilty, two-faced white man can't decide what he wants. Our slave foreparents would have been put to death for advocating so-called 'integration' with the white man. Now when Mr. Muhammad speaks of 'separation,' the white man calls us 'hate-teachers' and 'fascists.'
 
-"Mr. Malcolm X," those devils would ask, "why is your Fruit of Islam being trained in judo
-and karate?'' An image of black men learning anything suggesting self-defense seemed to
-terrify the white man. I'd tum their question around: "Why does judo or karate suddenly get
-so ominous because black men study it? Across America, the Boy Scouts, the YMCA, even
-the YWCA, the CYP, PAL-they all teach judo! It's all right, it'
+"Mr. Malcolm X," those devils would ask, "why is your Fruit of Islam being trained in judo and karate?" An image of black men learning anything suggesting self-defense seemed to terrify the white man. I'd turn their question around: "Why does judo or karate suddenly get so ominous because black men study it? Across America, the Boy Scouts, the YMCA, even the YWCA, the CYP, PAL-they all teach judo! It's all right, it's
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 277:
 
-fine-until black men teach it! Even little grammar school classes, little girls, are taught to
-defend themselve
+fine-until black men teach it! Even little grammar school classes, little girls, are taught to defend themselves."
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 278:
 
-The reporters would try their utmost to raise some "good" white man whom I couldn't refute
-as such. I'll never forget how one practically lost his voice. He asked me did I feel any white
-men had ever done anything for the black man in America. I told him, "Yes, I can think of
-two. Hitler, and Stalin. The black man in America couldn't get a decent factory job until
-Hitler put so much pressure on the white man. And then Stalin kept up the pressure
+The reporters would try their utmost to raise some "good" white man whom I couldn't refute as such. I'll never forget how one practically lost his voice. He asked me did I feel any white men had ever done anything for the black man in America. I told him, "Yes, I can think of two. Hitler, and Stalin. The black man in America couldn't get a decent factory job until Hitler put so much pressure on the white man. And then Stalin kept up the pressure."
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 298:
 
-If some white man, or "approved" black man, created a nar-cotics cure program as
-successful as the one conducted under the aegis of the Muslims, why, there would be
-government sub- sidy, and praise and spotlights, and headlines. But we were attacked
-instead. Why shouldn't the Muslims be subsidized to save millions of dollars a year for the
-government and the cities? I don't know what addicts' crimes cost nationally, but it is said to
-be billions a year in New York City. An estimated $12 million a year is lost to thieves in
-Harlem alone.
+If some white man, or "approved" black man, created a narcotics cure program as successful as the one conducted under the aegis of the Muslims, why, there would be government subsidy, and praise and spotlights, and headlines. But we were attacked instead. Why shouldn't the Muslims be subsidized to save millions of dollars a year for the government and the cities? I don't know what addicts' crimes cost nationally, but it is said to be billions a year in New York City. An estimated $12 million a year is lost to thieves in Harlem alone.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 320:
 
-My clue to the Jew's question and challenges is that among all other ethnic groups, his
-expressed thinking, his expressed concerns, are the most subjective. And the Jew is
-usually hy-persensitive. I mean, you can't even say "Jew" without him accusing you of antiSemitism. I don't care what a Jew is pro-fessionally, doctor, merchant, housewife, student,
-or what-ever-first he, or she, thinks Jew, of course I can understand the Jew's
-hypersensitivity. For two thousand years, religious and personal prejudices against Jews
-have been vented and exercised, as strong as white preju-dices against the non-white. But
-I know that America's five and a half million Jews (two million of them are concentrated in
-New York) look at it very practically, whether they know it or not: that all of the bigotry and
-hatred focused upon the black man keeps off the Jew a lot of heat that would be on him
-oth-erwise
+My clue to the Jew's question and challenges is that among all other ethnic groups, his expressed thinking, his expressed concerns, are the most subjective. And the Jew is usually hypersensitive. I mean, you can't even say "Jew" without him accusing you of anti-Semitism. I don't care what a Jew is professionally, doctor, merchant, housewife, student, or whatever-first he, or she, thinks Jew. Of course I can understand the Jew's hypersensitivity. For two thousand years, religious and personal prejudices against Jews have been vented and exercised, as strong as white prejudices against the non-white. But I know that America's five and a half million Jews (two million of them are concentrated in New York) look at it very practically, whether they know it or not: that all of the bigotry and hatred focused upon the black man keeps off the Jew a lot of heat that would be on him otherwise.
 
 ### Autobiography of Malcom X, as Told to Alex Hawley Page 324:
 
-Icarus' father made some wings that he fastened with wax. "Never fly but so high with
-these wings," the father said. But soaring around, this way, that way, Icarus' flying pleased
-him so that he began thinking he was flying on his own merit. Higher, he flew-higher-until
-the heat of the sun melted the wax hold-ing those wings. And down came Icarus-tumbling.
-Standing there by that Harvard window, I silently vowed to Allah that I never would forget
-that any wings I wore had been put on by the religion of Islam. That fact I never have
-forgotten
+Icarus' father made some wings that he fastened with wax. "Never fly but so high with these wings," the father said. But soaring around, this way, that way, Icarus' flying pleased him so that he began thinking he was flying on his own merit. Higher, he flew-higher-until the heat of the sun melted the wax holding those wings. And down came Icarus-tumbling. Standing there by that Harvard window, I silently vowed to Allah that I never would forget that any wings I wore had been put on by the religion of Islam. That fact I never have forgotten.
 
 ### Gitanjali, by Tagore Highlight - Page 54 · Location 301
 
