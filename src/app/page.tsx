@@ -15,8 +15,8 @@ export default async function Home() {
 
       {/* Bottom Navigation */}
       <div className="sticky bottom-0 z-10 bg-background/80 backdrop-blur-md border-t border-border">
-        <div className="max-w-2xl mx-auto px-4 py-2 flex justify-between items-center">
-          <div className="flex items-center space-x-1.5">
+        <div className="max-w-2xl mx-auto px-4 py-3 flex justify-between items-center">
+          <div className="flex items-center space-x-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="18"
@@ -33,7 +33,9 @@ export default async function Home() {
               <path d="M20 3v4" />
               <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401" />
             </svg>
-            <h1 className="text-base md:text-sm font-bold">Better Twitter</h1>
+            <h1 className="font-serif text-base md:text-sm font-semibold">
+              Reading Highlights
+            </h1>
           </div>
           <ThemeToggle />
         </div>
