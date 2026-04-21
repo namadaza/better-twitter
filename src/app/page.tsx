@@ -1,17 +1,17 @@
 import { ThemeToggle } from "@/components/theme-toggle";
-import { HighlightsFeed } from "@/components/highlights-feed";
-import { getRandomHighlights } from "@/app/actions";
+import { Feed } from "@/components/feed";
+import { getRandomFeedItems } from "@/app/actions";
 
 // Force dynamic rendering to ensure fresh randomization on every page load
 export const dynamic = "force-dynamic";
 
 export default async function Home() {
-  const initialHighlights = await getRandomHighlights(30);
+  const initialItems = await getRandomFeedItems(30);
 
   return (
     <div className="min-h-screen bg-background text-foreground">
       {/* Feed */}
-      <HighlightsFeed initialHighlights={initialHighlights} />
+      <Feed initialItems={initialItems} />
 
       {/* Bottom Navigation */}
       <div className="sticky bottom-0 z-10 bg-background/80 backdrop-blur-md border-t border-border">
