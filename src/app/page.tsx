@@ -1,3 +1,4 @@
+import { randomUUID } from "crypto";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Feed } from "@/components/feed";
 import { getFeedItemsPage } from "@/app/actions";
@@ -6,12 +7,13 @@ import { getFeedItemsPage } from "@/app/actions";
 export const dynamic = "force-dynamic";
 
 export default async function Home() {
-  const initialItems = await getFeedItemsPage(0, 30);
+  const feedSeed = randomUUID();
+  const initialItems = await getFeedItemsPage(0, 30, feedSeed);
 
   return (
     <div className="min-h-screen bg-background text-foreground">
       {/* Feed */}
-      <Feed initialItems={initialItems} />
+      <Feed initialItems={initialItems} seed={feedSeed} />
 
       {/* Bottom Navigation */}
       <div className="sticky bottom-0 z-10 bg-background/80 backdrop-blur-md border-t border-border">

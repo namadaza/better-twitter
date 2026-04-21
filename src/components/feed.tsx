@@ -10,6 +10,7 @@ import { SubstackItem } from "./items/substack-item";
 
 interface FeedProps {
   initialItems: FeedItem[];
+  seed: string;
 }
 
 function renderItem(item: FeedItem) {
@@ -25,7 +26,7 @@ function renderItem(item: FeedItem) {
   }
 }
 
-export function Feed({ initialItems }: FeedProps) {
+export function Feed({ initialItems, seed }: FeedProps) {
   const [items, setItems] = useState<FeedItem[]>(initialItems);
   const [loading, setLoading] = useState(false);
   const [hasMore, setHasMore] = useState(initialItems.length === 30);
@@ -34,7 +35,7 @@ export function Feed({ initialItems }: FeedProps) {
     if (loading || !hasMore) return;
     setLoading(true);
     try {
-      const more = await getFeedItemsPage(items.length, 30);
+      const more = await getFeedItemsPage(items.length, 30, seed);
       setItems((prev) => [...prev, ...more]);
       if (more.length < 30) setHasMore(false);
     } catch (error) {
@@ -42,7 +43,7 @@ export function Feed({ initialItems }: FeedProps) {
     } finally {
       setLoading(false);
     }
-  }, [hasMore, items.length, loading]);
+  }, [hasMore, items.length, loading, seed]);
 
   useEffect(() => {
     const handleScroll = () => {
