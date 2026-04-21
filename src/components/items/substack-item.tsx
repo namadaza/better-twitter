@@ -22,7 +22,10 @@ export function SubstackItem({ item }: Props) {
   const rel = relativeDate(item.publishedAt);
   return (
     <article className="px-4 py-8">
-      <h2 className="font-serif text-xl md:text-2xl font-semibold text-foreground mb-3 leading-snug">
+      <div className="mb-4 font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
+        On Substack
+      </div>
+      <h2 className="mb-3 font-serif text-xl font-semibold leading-snug text-foreground md:text-2xl">
         <a
           href={item.url}
           target="_blank"
@@ -33,15 +36,23 @@ export function SubstackItem({ item }: Props) {
         </a>
       </h2>
       {item.excerpt && (
-        <p className="font-serif text-base md:text-lg text-foreground leading-relaxed mb-6">
+        <p className="mb-5 font-serif text-base leading-relaxed text-foreground md:text-lg">
           {item.excerpt}
         </p>
       )}
-      <div className="font-serif text-sm text-muted-foreground italic">
-        {item.publication}
-        {item.author ? ` · ${item.author}` : ""}
-        {rel ? ` · ${rel}` : ""}
-      </div>
+      {(item.author || rel) && (
+        <div className="font-serif text-sm text-muted-foreground">
+          {item.publication}
+          {item.author ? ` · ${item.author}` : ""}
+          {rel ? " · " : null}
+          {rel ? rel : null}
+        </div>
+      )}
+      {!item.author && !rel && (
+        <div className="font-serif text-sm text-muted-foreground">
+          {item.publication}
+        </div>
+      )}
     </article>
   );
 }

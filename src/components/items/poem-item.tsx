@@ -6,14 +6,14 @@ type Props = { item: Extract<FeedItem, { type: "poem" }> };
 export function PoemItem({ item }: Props) {
   return (
     <article className="px-4 py-8">
-      <h2 className="font-serif text-xl md:text-2xl font-semibold text-foreground mb-2 leading-snug">
-        {item.title}
-      </h2>
-      <div className="mb-6 font-serif text-sm italic text-muted-foreground">
+      <div className="mb-4 font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
         {item.author} · {item.book}
       </div>
+      <h2 className="mb-3 font-serif text-xl font-semibold leading-snug text-foreground md:text-2xl">
+        {item.title}
+      </h2>
       <Expandable collapsedMaxHeight={420}>
-        <div className="font-serif text-base md:text-lg text-foreground leading-relaxed whitespace-pre-wrap">
+        <div className="font-serif text-base leading-relaxed text-foreground whitespace-pre-wrap md:text-lg">
           {item.body}
         </div>
       </Expandable>

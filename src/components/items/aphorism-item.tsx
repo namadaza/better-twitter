@@ -5,11 +5,11 @@ type Props = { item: Extract<FeedItem, { type: "aphorism" }> };
 export function AphorismItem({ item }: Props) {
   return (
     <article className="px-4 py-8">
-      <div className="font-serif text-lg md:text-xl text-foreground leading-relaxed whitespace-pre-wrap">
-        {item.text}
+      <div className="mb-4 font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
+        {item.author} · {item.book}
       </div>
-      <div className="mt-6 font-serif text-sm text-muted-foreground italic">
-        — {item.author}, <span className="not-italic">{item.book}</span>
+      <div className="font-serif text-lg leading-relaxed text-foreground whitespace-pre-wrap md:text-xl">
+        {item.text}
       </div>
     </article>
   );

@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useState } from "react";
 import type { FeedItem } from "@/lib/types";
-import { getRandomFeedItems } from "@/app/actions";
+import { getFeedItemsPage } from "@/app/actions";
 import { HighlightItem } from "./items/highlight-item";
 import { PoemItem } from "./items/poem-item";
 import { AphorismItem } from "./items/aphorism-item";
@@ -28,23 +28,21 @@ function renderItem(item: FeedItem) {
 export function Feed({ initialItems }: FeedProps) {
   const [items, setItems] = useState<FeedItem[]>(initialItems);
   const [loading, setLoading] = useState(false);
+  const [hasMore, setHasMore] = useState(initialItems.length === 30);
 
   const loadMore = useCallback(async () => {
-    if (loading) return;
+    if (loading || !hasMore) return;
     setLoading(true);
     try {
-      const more = await getRandomFeedItems(30);
-      setItems((prev) => {
-        const seen = new Set(prev.map((i) => i.id));
-        const fresh = more.filter((i) => !seen.has(i.id));
-        return [...prev, ...fresh];
-      });
+      const more = await getFeedItemsPage(items.length, 30);
+      setItems((prev) => [...prev, ...more]);
+      if (more.length < 30) setHasMore(false);
     } catch (error) {
       console.error("Error loading more items:", error);
     } finally {
       setLoading(false);
     }
-  }, [loading]);
+  }, [hasMore, items.length, loading]);
 
   useEffect(() => {
     const handleScroll = () => {

@@ -12,6 +12,10 @@ export interface BookSource {
   strategy: BookStrategy;
   /** Filename appended to BOOK_BLOB_BASE_URL. */
   path: string;
+  /** Optional EPUB spine item ids to skip entirely. */
+  excludeChapterIds?: string[];
+  /** Optional extracted heading titles to skip. */
+  excludeHeadings?: string[];
 }
 
 export const BOOK_SOURCES: BookSource[] = [
@@ -38,14 +42,17 @@ export const BOOK_SOURCES: BookSource[] = [
     type: "poem",
     strategy: "chapter-as-poem",
     path: "Crescent Moon by Tagore.epub",
+    excludeChapterIds: ["titlepage", "id243", "id242", "id241"],
   },
   {
     slug: "gitanjali",
     title: "Gitanjali",
     author: "Rabindranath Tagore",
     type: "poem",
-    strategy: "chapter-as-poem",
+    strategy: "heading-split-poems",
     path: "Gitanjali by Tagore.epub",
+    excludeChapterIds: ["coverpage-wrapper", "pg-header", "item4", "pg-footer"],
+    excludeHeadings: ["GITANJALI"],
   },
   {
     slug: "stray-birds",

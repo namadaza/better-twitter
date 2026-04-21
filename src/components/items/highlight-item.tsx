@@ -9,17 +9,17 @@ export function HighlightItem({ item }: Props) {
 
   return (
     <article className="px-4 py-8">
-      <h2 className="font-serif text-xl md:text-2xl font-semibold text-foreground mb-6 leading-snug">
+      <div className="mb-4 font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
+        From highlights
+      </div>
+      <h2 className="mb-4 font-serif text-xl font-semibold leading-snug text-foreground md:text-2xl">
         {displayTitle}
       </h2>
       <Expandable collapsedMaxHeight={360}>
-        <div className="font-serif text-base md:text-lg text-foreground leading-relaxed whitespace-pre-wrap">
+        <div className="font-serif text-base leading-relaxed text-foreground whitespace-pre-wrap md:text-lg">
           {item.text}
         </div>
       </Expandable>
-      <div className="mt-6 font-serif text-sm text-muted-foreground italic">
-        — {item.title}
-      </div>
     </article>
   );
 }

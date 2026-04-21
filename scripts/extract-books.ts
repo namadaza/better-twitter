@@ -5,7 +5,7 @@ import { pipeline } from "stream/promises";
 import { Readable } from "stream";
 import { join } from "path";
 import { load as loadHtml } from "cheerio";
-// `epub2` ships CJS; grab the default export at runtime.
+// `epub2` ships CJS and its runtime shape varies under tsx/ESM interop.
 import epub2 from "epub2";
 import {
   BOOK_SOURCES,
@@ -13,7 +13,8 @@ import {
   type BookStrategy,
 } from "./book-sources";
 
-const { EPub } = epub2 as any;
+const EPub =
+  (epub2 as any)?.EPub ?? (epub2 as any)?.default ?? (epub2 as any);
 
 type PoemItem = { title: string; body: string };
 type AphorismItem = { text: string };
@@ -67,7 +68,6 @@ function splitOnHeadings(html: string): Array<{ heading: string; body: string }>
   const $ = loadHtml(html);
   $("style, script").remove();
   $("br").replaceWith("\n");
-  const nodes = $("body").children().toArray();
   const groups: Array<{ heading: string; body: string }> = [];
   let current: { heading: string; bodyParts: string[] } | null = null;
 
@@ -81,16 +81,44 @@ function splitOnHeadings(html: string): Array<{ heading: string; body: string }>
     }
   };
 
-  for (const node of nodes) {
-    const tag = (node as any).tagName?.toLowerCase?.() ?? "";
-    const text = $(node).text().replace(/ /g, " ").trim();
-    if (/^h[1-6]$/.test(tag)) {
-      flush();
-      current = { heading: text, bodyParts: [] };
-    } else if (current) {
-      current.bodyParts.push(text);
+  const visit = (nodes: any[]) => {
+    for (const node of nodes) {
+      const tag = node.tagName?.toLowerCase?.() ?? "";
+      if (!tag) continue;
+
+      const text = $(node).text().replace(/ /g, " ").trim();
+      if (/^h[1-6]$/.test(tag)) {
+        flush();
+        current = { heading: text, bodyParts: [] };
+        continue;
+      }
+
+      const childElements = ($(node).children().toArray() as any[]).filter(
+        (child) => child.tagName,
+      );
+
+      if (
+        tag === "p" ||
+        tag === "li" ||
+        tag === "blockquote" ||
+        tag === "pre"
+      ) {
+        if (current && text) current.bodyParts.push(text);
+        continue;
+      }
+
+      if (childElements.length > 0) {
+        visit(childElements);
+        continue;
+      }
+
+      if (current && text) {
+        current.bodyParts.push(text);
+      }
     }
-  }
+  };
+
+  visit($("body").contents().toArray() as any[]);
   flush();
   return groups;
 }
@@ -98,6 +126,7 @@ function splitOnHeadings(html: string): Array<{ heading: string; body: string }>
 function isLikelyFrontMatter(text: string): boolean {
   const t = text.toLowerCase();
   if (text.length < 20) return true;
+  if (/^contents\b/i.test(text)) return true;
   if (/^copyright/i.test(text)) return true;
   if (/all rights reserved/i.test(text)) return true;
   if (/^isbn\b/i.test(t)) return true;
@@ -113,17 +142,23 @@ async function openEpub(file: string): Promise<any> {
 
 async function chapterHtmls(
   epub: any,
+  book: BookSource,
 ): Promise<Array<{ id: string; title: string; html: string }>> {
   const out: Array<{ id: string; title: string; html: string }> = [];
+  const excludedIds = new Set(book.excludeChapterIds ?? []);
   for (const ch of epub.flow as Array<{ id: string; title?: string }>) {
+    if (excludedIds.has(ch.id)) continue;
     const html = await epub.getChapterRawAsync(ch.id);
     out.push({ id: ch.id, title: (ch.title ?? "").trim(), html });
   }
   return out;
 }
 
-async function extractPoemsChapterAsPoem(epub: any): Promise<PoemItem[]> {
-  const chapters = await chapterHtmls(epub);
+async function extractPoemsChapterAsPoem(
+  epub: any,
+  book: BookSource,
+): Promise<PoemItem[]> {
+  const chapters = await chapterHtmls(epub, book);
   const items: PoemItem[] = [];
   for (const ch of chapters) {
     const body = htmlToText(ch.html);
@@ -134,9 +169,15 @@ async function extractPoemsChapterAsPoem(epub: any): Promise<PoemItem[]> {
   return items;
 }
 
-async function extractPoemsHeadingSplit(epub: any): Promise<PoemItem[]> {
-  const chapters = await chapterHtmls(epub);
+async function extractPoemsHeadingSplit(
+  epub: any,
+  book: BookSource,
+): Promise<PoemItem[]> {
+  const chapters = await chapterHtmls(epub, book);
   const items: PoemItem[] = [];
+  const excludedHeadings = new Set(
+    (book.excludeHeadings ?? []).map((heading) => heading.trim().toLowerCase()),
+  );
   for (const ch of chapters) {
     const groups = splitOnHeadings(ch.html);
     if (groups.length === 0) {
@@ -147,6 +188,7 @@ async function extractPoemsHeadingSplit(epub: any): Promise<PoemItem[]> {
       continue;
     }
     for (const g of groups) {
+      if (excludedHeadings.has(g.heading.trim().toLowerCase())) continue;
       if (!g.body || g.body.length < 40) continue;
       if (isLikelyFrontMatter(g.body)) continue;
       items.push({ title: g.heading || ch.title || "Untitled", body: g.body });
@@ -155,8 +197,11 @@ async function extractPoemsHeadingSplit(epub: any): Promise<PoemItem[]> {
   return items;
 }
 
-async function extractAphorismsParagraphs(epub: any): Promise<AphorismItem[]> {
-  const chapters = await chapterHtmls(epub);
+async function extractAphorismsParagraphs(
+  epub: any,
+  book: BookSource,
+): Promise<AphorismItem[]> {
+  const chapters = await chapterHtmls(epub, book);
   const items: AphorismItem[] = [];
   for (const ch of chapters) {
     for (const p of htmlToParagraphs(ch.html)) {
@@ -168,8 +213,11 @@ async function extractAphorismsParagraphs(epub: any): Promise<AphorismItem[]> {
   return items;
 }
 
-async function extractNumberedVerses(epub: any): Promise<AphorismItem[]> {
-  const chapters = await chapterHtmls(epub);
+async function extractNumberedVerses(
+  epub: any,
+  book: BookSource,
+): Promise<AphorismItem[]> {
+  const chapters = await chapterHtmls(epub, book);
   const items: AphorismItem[] = [];
   // Matches leading numbering like "1", "1.", "1)", "I." optionally followed by
   // whitespace. Treat each numbered block as its own verse.
@@ -198,24 +246,25 @@ async function extractNumberedVerses(epub: any): Promise<AphorismItem[]> {
   // Fallback: if nothing numbered was found, treat non-trivial paragraphs as
   // verses directly.
   if (items.length === 0) {
-    return extractAphorismsParagraphs(epub);
+    return extractAphorismsParagraphs(epub, book);
   }
   return items;
 }
 
 async function extract(
   epub: any,
+  book: BookSource,
   strategy: BookStrategy,
 ): Promise<AnyItem[]> {
   switch (strategy) {
     case "chapter-as-poem":
-      return extractPoemsChapterAsPoem(epub);
+      return extractPoemsChapterAsPoem(epub, book);
     case "heading-split-poems":
-      return extractPoemsHeadingSplit(epub);
+      return extractPoemsHeadingSplit(epub, book);
     case "paragraph-aphorisms":
-      return extractAphorismsParagraphs(epub);
+      return extractAphorismsParagraphs(epub, book);
     case "numbered-verse-aphorisms":
-      return extractNumberedVerses(epub);
+      return extractNumberedVerses(epub, book);
   }
 }
 
@@ -228,7 +277,7 @@ async function processBook(book: BookSource, baseUrl: string): Promise<void> {
 
   console.log(`[${book.slug}] parsing`);
   const epub = await openEpub(epubPath);
-  const rawItems = await extract(epub, book.strategy);
+  const rawItems = await extract(epub, book, book.strategy);
 
   const items =
     book.type === "poem"

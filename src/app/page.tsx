@@ -1,12 +1,12 @@
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Feed } from "@/components/feed";
-import { getRandomFeedItems } from "@/app/actions";
+import { getFeedItemsPage } from "@/app/actions";
 
-// Force dynamic rendering to ensure fresh randomization on every page load
+// Force dynamic rendering to ensure fresh feed data on every page load.
 export const dynamic = "force-dynamic";
 
 export default async function Home() {
-  const initialItems = await getRandomFeedItems(30);
+  const initialItems = await getFeedItemsPage(0, 30);
 
   return (
     <div className="min-h-screen bg-background text-foreground">
