@@ -33,16 +33,15 @@ function randomInt(min: number, max: number, random: () => number): number {
 export async function getFeedItems(seed: string = "default"): Promise<FeedItem[]> {
   const all = await loadAllSources();
   const random = makeSeededRandom(seed);
+  const externalRandom = makeSeededRandom(`${seed}:substack`);
 
   const external = all
     .filter((item): item is Extract<FeedItem, { type: "substack" }> => {
       return item.type === "substack";
     })
-    .sort((a, b) => {
-      const ad = a.publishedAt ? Date.parse(a.publishedAt) : 0;
-      const bd = b.publishedAt ? Date.parse(b.publishedAt) : 0;
-      return bd - ad;
-    });
+    .sort((a, b) => a.id.localeCompare(b.id));
+
+  const shuffledExternal = shuffleWithSeed(external, externalRandom);
 
   const local = shuffleWithSeed(
     all
@@ -51,14 +50,17 @@ export async function getFeedItems(seed: string = "default"): Promise<FeedItem[]
     random,
   );
 
-  if (external.length === 0) return local;
-  if (local.length === 0) return external;
+  if (shuffledExternal.length === 0) return local;
+  if (local.length === 0) return shuffledExternal;
 
   const mixed: FeedItem[] = [];
   let localCursor = 0;
   let externalCursor = 0;
 
-  while (localCursor < local.length || externalCursor < external.length) {
+  while (
+    localCursor < local.length ||
+    externalCursor < shuffledExternal.length
+  ) {
     const localGap = randomInt(2, 5, random);
     let addedLocal = 0;
 
@@ -67,12 +69,15 @@ export async function getFeedItems(seed: string = "default"): Promise<FeedItem[]
       addedLocal += 1;
     }
 
-    if (externalCursor < external.length) {
-      mixed.push(external[externalCursor++]);
+    if (externalCursor < shuffledExternal.length) {
+      mixed.push(shuffledExternal[externalCursor++]);
     }
 
-    if (localCursor >= local.length && externalCursor < external.length) {
-      mixed.push(...external.slice(externalCursor));
+    if (
+      localCursor >= local.length &&
+      externalCursor < shuffledExternal.length
+    ) {
+      mixed.push(...shuffledExternal.slice(externalCursor));
       break;
     }
   }

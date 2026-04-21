@@ -29,6 +29,8 @@ const OUT_PATH = join(
 );
 
 const EXCERPT_LIMIT = 320;
+const MAX_AGE_DAYS = 7;
+const MAX_ITEMS = 500;
 
 const parser = new Parser({
   timeout: 15_000,
@@ -118,6 +120,8 @@ async function loadExisting(): Promise<SubstackItem[]> {
 
 async function main(): Promise<void> {
   await mkdir(join(process.cwd(), "src", "lib", "data"), { recursive: true });
+  const now = Date.now();
+  const cutoff = now - MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
 
   if (SUBSTACK_FOLLOWS.length === 0) {
     console.warn(
@@ -145,13 +149,18 @@ async function main(): Promise<void> {
   for (const it of existing) merged.set(it.id, it);
   for (const it of fresh) merged.set(it.id, it);
 
-  const items = [...merged.values()].sort((a, b) => {
-    const ad = a.publishedAt ? Date.parse(a.publishedAt) : 0;
-    const bd = b.publishedAt ? Date.parse(b.publishedAt) : 0;
-    return bd - ad;
-  });
+  const items = [...merged.values()]
+    .filter((item) => {
+      if (!item.publishedAt) return false;
+      const published = Date.parse(item.publishedAt);
+      return Number.isFinite(published) && published >= cutoff;
+    })
+    .sort((a, b) => {
+      const ad = a.publishedAt ? Date.parse(a.publishedAt) : 0;
+      const bd = b.publishedAt ? Date.parse(b.publishedAt) : 0;
+      return bd - ad;
+    });
 
-  const MAX_ITEMS = 500;
   const trimmed = items.slice(0, MAX_ITEMS);
 
   const output: ExternalFeedFile = {
