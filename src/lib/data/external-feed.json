@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-04-21T16:17:32.550Z",
+  "fetchedAt": "2026-04-21T18:34:35.617Z",
   "items": [
+    {
+      "type": "substack",
+      "id": "substack-d9550391bf4e",
+      "title": "The Case for Indigenous Ways of Knowing",
+      "url": "https://www.aporiamagazine.com/p/the-case-for-indigenous-ways-of-knowing",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "Finding a middle ground",
+      "publishedAt": "2026-04-21T17:00:41.000Z"
+    },
     {
       "type": "substack",
       "id": "substack-ed5e53cec3c2",
@@ -4963,16 +4973,6 @@
       "author": "Arabian Magus",
       "excerpt": "The following is an excerpt of an essay on Islamic civilization within Oswald Spengler’s philosophy of history published with Qawwam Magazine.",
       "publishedAt": "2025-05-15T14:41:14.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-218b9d7735ae",
-      "title": "After the \"Four Day War\"",
-      "url": "https://mazmhussain.substack.com/p/after-the-four-day-war",
-      "publication": "Murtaza Hussain",
-      "author": "Murtaza Hussain",
-      "excerpt": "Some thoughts on the latest India-Pakistan conflict",
-      "publishedAt": "2025-05-12T17:24:46.000Z"
     }
   ]
 }
