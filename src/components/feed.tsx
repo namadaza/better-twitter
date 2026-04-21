@@ -61,6 +61,11 @@ export function Feed({ initialItems }: FeedProps) {
 
   return (
     <div className="max-w-2xl mx-auto pt-8 pb-24">
+      {items.length === 0 && !loading && (
+        <div className="px-4 py-16 text-center font-serif text-muted-foreground">
+          No items yet. Add highlights, extract books, or follow a Substack.
+        </div>
+      )}
       {items.map((item, index) => (
         <div key={item.id}>
           {renderItem(item)}
