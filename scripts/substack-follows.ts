@@ -8,6 +8,7 @@ export const SUBSTACK_FOLLOWS: string[] = [
   "https://www.arktosjournal.com",
   "https://www.avdullahyousef.com",
   "https://www.beautyofsaas.com",
+  "https://www.dropsitenews.com",
   "https://georgenoble.substack.com",
   "https://www.greentape.pub",
   "https://heavenlyorder.substack.com",

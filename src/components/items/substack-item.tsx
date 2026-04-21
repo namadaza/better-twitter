@@ -25,7 +25,7 @@ export function SubstackItem({ item }: Props) {
       <div className="mb-4 font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
         On Substack
       </div>
-      <h2 className="mb-3 font-serif text-xl font-semibold leading-snug text-foreground md:text-2xl">
+      <div className="mb-3 font-serif text-base font-semibold leading-relaxed text-foreground md:text-lg">
         <a
           href={item.url}
           target="_blank"
@@ -34,7 +34,7 @@ export function SubstackItem({ item }: Props) {
         >
           {item.title}
         </a>
-      </h2>
+      </div>
       {item.excerpt && (
         <p className="mb-5 font-serif text-base leading-relaxed text-foreground md:text-lg">
           {item.excerpt}
