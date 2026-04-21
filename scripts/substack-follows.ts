@@ -1,0 +1,38 @@
+/**
+ * Each entry is the base URL of a Substack publication (no trailing slash);
+ * the ingest script appends `/feed` to get the RSS endpoint.
+ */
+export const SUBSTACK_FOLLOWS: string[] = [
+  "https://www.afterbabel.com",
+  "https://www.aporiamagazine.com",
+  "https://www.arktosjournal.com",
+  "https://www.avdullahyousef.com",
+  "https://www.beautyofsaas.com",
+  "https://georgenoble.substack.com",
+  "https://www.greentape.pub",
+  "https://heavenlyorder.substack.com",
+  "https://ibnabeeomar.substack.com",
+  "https://www.infinitescroll.us",
+  "https://iqrapost.substack.com",
+  "https://jason807.substack.com",
+  "https://jalalayn.substack.com",
+  "https://kasurian.com",
+  "https://www.khawatir.blog",
+  "https://kyla.substack.com",
+  "https://www.lennysnewsletter.com",
+  "https://meaningness.substack.com",
+  "https://mazmhussain.substack.com",
+  "https://michaeljburry.substack.com",
+  "https://mikecormack.substack.com",
+  "https://www.themazaj.org",
+  "https://naifalbidh.substack.com",
+  "https://newsletter.outbound.kitchen",
+  "https://occasionalreflections.substack.com",
+  "https://on.substack.com",
+  "https://postapathy.substack.com",
+  "https://predictivehistory.substack.com",
+  "https://saadyacoob.substack.com",
+  "https://somaliki.substack.com",
+  "https://subscribe.martyrmade.com",
+  "https://thewaxingcrescent.substack.com",
+];
