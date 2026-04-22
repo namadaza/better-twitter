@@ -1,5 +1,6 @@
 import type { FeedItem } from "@/lib/types";
 import { ExternalLink } from "lucide-react";
+import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
 
 type Props = { item: Extract<FeedItem, { type: "substack" }> };
 
@@ -37,11 +38,11 @@ export function SubstackItem({ item }: Props) {
           <ExternalLink className="h-3.5 w-3.5" strokeWidth={1.75} />
         </a>
       </div>
-      <div className="mb-3 font-serif text-lg leading-relaxed text-foreground md:text-xl">
+      <div className={`mb-3 ${FEED_ITEM_BODY_TEXT_CLASSNAME}`}>
         {item.title}
       </div>
       {item.excerpt && (
-        <p className="mb-5 font-serif text-lg leading-relaxed text-foreground md:text-xl">
+        <p className={`mb-5 ${FEED_ITEM_BODY_TEXT_CLASSNAME}`}>
           {item.excerpt}
         </p>
       )}

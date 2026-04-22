@@ -1,5 +1,6 @@
 import type { FeedItem } from "@/lib/types";
 import { Expandable } from "./expandable";
+import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
 
 type Props = { item: Extract<FeedItem, { type: "highlight" }> };
 
@@ -10,7 +11,9 @@ export function HighlightItem({ item }: Props) {
         From highlights
       </div>
       <Expandable collapsedMaxHeight={360}>
-        <div className="font-serif text-base leading-relaxed text-foreground whitespace-pre-wrap md:text-lg">
+        <div
+          className={`${FEED_ITEM_BODY_TEXT_CLASSNAME} whitespace-pre-wrap`}
+        >
           {item.text}
         </div>
       </Expandable>

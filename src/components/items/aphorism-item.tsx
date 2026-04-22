@@ -1,5 +1,6 @@
 import type { FeedItem } from "@/lib/types";
 import { ExternalLink } from "lucide-react";
+import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
 
 type Props = { item: Extract<FeedItem, { type: "aphorism" }> };
 
@@ -27,7 +28,9 @@ export function AphorismItem({ item }: Props) {
       <div className="mb-4 font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
         {headerNode}
       </div>
-      <div className="font-serif text-lg leading-relaxed text-foreground whitespace-pre-wrap md:text-xl">
+      <div
+        className={`${FEED_ITEM_BODY_TEXT_CLASSNAME} whitespace-pre-wrap`}
+      >
         {item.text}
       </div>
       {item.secondaryText && (

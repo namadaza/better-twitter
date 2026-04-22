@@ -1,5 +1,6 @@
 import type { FeedItem } from "@/lib/types";
 import { Expandable } from "./expandable";
+import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
 
 type Props = { item: Extract<FeedItem, { type: "poem" }> };
 
@@ -10,7 +11,9 @@ export function PoemItem({ item }: Props) {
         {item.author} · {item.book}
       </div>
       <Expandable collapsedMaxHeight={420}>
-        <div className="font-serif text-base leading-relaxed text-foreground whitespace-pre-wrap md:text-lg">
+        <div
+          className={`${FEED_ITEM_BODY_TEXT_CLASSNAME} whitespace-pre-wrap`}
+        >
           {item.body}
         </div>
       </Expandable>
