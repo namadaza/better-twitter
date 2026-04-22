@@ -1,4 +1,5 @@
 import type { FeedItem } from "@/lib/types";
+import { ExternalLink } from "lucide-react";
 
 type Props = { item: Extract<FeedItem, { type: "substack" }> };
 
@@ -20,38 +21,32 @@ function relativeDate(iso?: string): string | null {
 
 export function SubstackItem({ item }: Props) {
   const rel = relativeDate(item.publishedAt);
+  const publicationLabel = `Substack · ${item.publication}`;
+  const meta = [item.author, rel].filter(Boolean).join(" · ");
+
   return (
     <article className="px-4 py-8">
       <div className="mb-4 font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
-        On Substack
-      </div>
-      <div className="mb-3 font-serif text-base font-semibold leading-relaxed text-foreground md:text-lg">
         <a
           href={item.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="hover:underline underline-offset-4"
+          className="inline-flex items-center gap-1 hover:opacity-70"
         >
-          {item.title}
+          {publicationLabel}
+          <ExternalLink className="h-3.5 w-3.5" strokeWidth={1.75} />
         </a>
+      </div>
+      <div className="mb-3 font-serif text-base leading-relaxed text-foreground md:text-lg">
+        {item.title}
       </div>
       {item.excerpt && (
         <p className="mb-5 font-serif text-base leading-relaxed text-foreground md:text-lg">
           {item.excerpt}
         </p>
       )}
-      {(item.author || rel) && (
-        <div className="font-serif text-sm text-muted-foreground">
-          {item.publication}
-          {item.author ? ` · ${item.author}` : ""}
-          {rel ? " · " : null}
-          {rel ? rel : null}
-        </div>
-      )}
-      {!item.author && !rel && (
-        <div className="font-serif text-sm text-muted-foreground">
-          {item.publication}
-        </div>
+      {meta && (
+        <div className="font-serif text-sm text-muted-foreground">{meta}</div>
       )}
     </article>
   );

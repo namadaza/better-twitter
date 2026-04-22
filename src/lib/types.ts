@@ -17,8 +17,12 @@ export type FeedItem =
       type: "aphorism";
       id: string;
       text: string;
-      author: string;
+      author?: string;
       book: string;
+      source?: string;
+      reference?: string;
+      url?: string;
+      secondaryText?: string;
     }
   | {
       type: "substack";

@@ -8,10 +8,18 @@ const BOOKS_DIR = join(process.cwd(), "src", "lib", "data", "books");
 type BookFile = {
   slug: string;
   title: string;
-  author: string;
+  author?: string;
   type: "poem" | "aphorism";
   fetchedAt?: string;
-  items: Array<{ title?: string; text?: string; body?: string }>;
+  items: Array<{
+    title?: string;
+    text?: string;
+    body?: string;
+    source?: string;
+    reference?: string;
+    url?: string;
+    secondaryText?: string;
+  }>;
 };
 
 type CacheEntry = { mtime: number; items: FeedItem[] };
@@ -36,7 +44,7 @@ function fanOut(book: BookFile): FeedItem[] {
         type: "poem",
         id: itemId(book.slug, `${title}\n${body}`),
         title: title || "Untitled",
-        author: book.author,
+        author: book.author ?? "",
         book: book.title,
         body,
       });
@@ -49,6 +57,10 @@ function fanOut(book: BookFile): FeedItem[] {
         text,
         author: book.author,
         book: book.title,
+        source: raw.source?.trim() || undefined,
+        reference: raw.reference?.trim() || undefined,
+        url: raw.url?.trim() || undefined,
+        secondaryText: raw.secondaryText?.trim() || undefined,
       });
     }
   }
@@ -62,8 +74,20 @@ async function loadBookFile(path: string): Promise<FeedItem[]> {
   if (cached && cached.mtime === mtime) return cached.items;
 
   const raw = await readFile(path, "utf-8");
-  const book = JSON.parse(raw) as BookFile;
-  const items = fanOut(book);
+  const book = JSON.parse(raw) as Partial<BookFile>;
+  if (
+    !book ||
+    typeof book !== "object" ||
+    typeof book.slug !== "string" ||
+    typeof book.title !== "string" ||
+    (book.type !== "poem" && book.type !== "aphorism") ||
+    !Array.isArray(book.items)
+  ) {
+    cache.set(path, { mtime, items: [] });
+    return [];
+  }
+
+  const items = fanOut(book as BookFile);
   cache.set(path, { mtime, items });
   return items;
 }
