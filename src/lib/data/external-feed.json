@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-22T00:54:52.722Z",
+  "fetchedAt": "2026-04-22T06:51:09.508Z",
   "items": [
     {
       "type": "substack",
@@ -429,16 +429,6 @@
       "author": "Andrew Perez",
       "excerpt": "A new poll from Drop Site and Zeteo finds Democratic Senate voters in Michigan care more about limiting AIPAC’s influence than Hasan Piker’s.",
       "publishedAt": "2026-04-15T11:30:57.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-9885d44276c4",
-      "title": "Listen: Not all AI agents are created equal",
-      "url": "https://www.lennysnewsletter.com/p/listen-not-all-ai-agents-are-created",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "An audio edition of Lenny's Newsletter post",
-      "publishedAt": "2026-04-15T03:45:04.000Z"
     }
   ]
 }
