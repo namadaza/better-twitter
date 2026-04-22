@@ -1,6 +1,55 @@
 {
-  "fetchedAt": "2026-04-22T12:34:58.980Z",
+  "fetchedAt": "2026-04-22T18:33:55.777Z",
   "items": [
+    {
+      "type": "substack",
+      "id": "substack-e890c6385980",
+      "title": "Two Iranian Women in ICE Detention Are Not, In Fact, Related to Qasem Soleimani, Documents Show",
+      "url": "https://www.dropsitenews.com/p/iranian-women-ice-detention-not-related-qasem-soleimani-rubio-loomer",
+      "publication": "Drop Site News",
+      "author": "Ryan Grim",
+      "excerpt": "After Laura Loomer pointed to two women she claimed were connected to the late Iranian military commander, they were arrested and remain in immigration detention. One is now gravely ill.",
+      "publishedAt": "2026-04-22T17:13:59.000Z"
+    },
+    {
+      "type": "substack",
+      "id": "substack-81713f351dbb",
+      "title": "ABM: How to gift your top accounts (the right way)",
+      "url": "https://newsletter.outbound.kitchen/p/abm-how-to-gift-your-top-200-accounts",
+      "publication": "Outbound Kitchen",
+      "author": "Elric Legloire - Outbound Chef",
+      "excerpt": "Research → score → gift → note. The full play inside.",
+      "publishedAt": "2026-04-22T16:58:26.000Z"
+    },
+    {
+      "type": "substack",
+      "id": "substack-80fd5c4f666b",
+      "title": "Podcast: The Akbari–Piffer controversy",
+      "url": "https://www.aporiamagazine.com/p/podcast-the-akbaripiffer-controversy",
+      "publication": "Aporia",
+      "excerpt": "Listen now | With Davide Piffer",
+      "publishedAt": "2026-04-22T15:56:19.000Z"
+    },
+    {
+      "type": "substack",
+      "id": "substack-46d19610b698",
+      "title": "Iran seizes two ships in Strait of Hormuz; Trump extends U.S.-Iran ceasefire; Israel commits 220 ceasefire violations in Lebanon in 3 days",
+      "url": "https://www.dropsitenews.com/p/iran-hormuz-trump-ceasefire-israel-lebanon-violations",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: April 22, 2026",
+      "publishedAt": "2026-04-22T14:29:52.000Z"
+    },
+    {
+      "type": "substack",
+      "id": "substack-5b4e6832753e",
+      "title": "Trump Blinks First, Extending Ceasefire with Iran as Hormuz Deadlock Continues",
+      "url": "https://www.dropsitenews.com/p/trump-extends-ceasefire-iran-strait-hormuz",
+      "publication": "Drop Site News",
+      "author": "Jeremy Scahill",
+      "excerpt": "Iran is continuing to demand the U.S. lift the naval blockade as a condition for new talks. Trump says resuming war remains an option as Iran prepares retaliation.",
+      "publishedAt": "2026-04-22T12:46:51.000Z"
+    },
     {
       "type": "substack",
       "id": "substack-0f08151b215c",
@@ -419,26 +468,6 @@
       "author": "Michael Burry",
       "excerpt": "Software & Payments, Chocolate & Peanut Butter",
       "publishedAt": "2026-04-15T23:27:17.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-54583cae5f27",
-      "title": "Video: The decline of crime in Britain",
-      "url": "https://www.aporiamagazine.com/p/video-the-decline-of-crime-in-britain",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "With Noah Carl",
-      "publishedAt": "2026-04-15T18:03:08.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-546054c545b8",
-      "title": "U.S. to add thousands of troops in Middle East; Israel continues to batter Lebanon, Gaza; Four killed in yet another Pacific boat strike",
-      "url": "https://www.dropsitenews.com/p/us-troops-middle-east-israel-lebanon-gaza-boat-strikes",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 15, 2026",
-      "publishedAt": "2026-04-15T14:46:17.000Z"
     }
   ]
 }
