@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-04-22T06:51:09.508Z",
+  "fetchedAt": "2026-04-22T12:34:58.980Z",
   "items": [
+    {
+      "type": "substack",
+      "id": "substack-0f08151b215c",
+      "title": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
+      "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️I built a landing page, slides, and an unhinged redesign to find out what Claude Design is actually good at—plus why GPT Image 2.0 might change how you create brand assets",
+      "publishedAt": "2026-04-22T12:04:31.000Z"
+    },
+    {
+      "type": "substack",
+      "id": "substack-b31e131dfbe5",
+      "title": "The Coup that Split Europe",
+      "url": "https://www.arktosjournal.com/p/the-coup-that-split-europe",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "A Review of Laurent Guyénot's The Papal Curse",
+      "publishedAt": "2026-04-22T09:02:20.000Z"
+    },
     {
       "type": "substack",
       "id": "substack-b9f93f4851b5",
@@ -419,16 +439,6 @@
       "author": "Drop Site News",
       "excerpt": "Drop Site Daily: April 15, 2026",
       "publishedAt": "2026-04-15T14:46:17.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-6151604fa379",
-      "title": "Voters Think Candidates Who Won’t Stand Up To AIPAC Won’t Fight On Other Issues, Either: New Poll",
-      "url": "https://www.dropsitenews.com/p/michigan-senate-democratic-primary-poll-aipac",
-      "publication": "Drop Site News",
-      "author": "Andrew Perez",
-      "excerpt": "A new poll from Drop Site and Zeteo finds Democratic Senate voters in Michigan care more about limiting AIPAC’s influence than Hasan Piker’s.",
-      "publishedAt": "2026-04-15T11:30:57.000Z"
     }
   ]
 }
