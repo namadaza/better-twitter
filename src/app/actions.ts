@@ -26,6 +26,70 @@ function shuffleWithSeed<T>(items: T[], random: () => number): T[] {
   return shuffled;
 }
 
+type LocalBucket = "quran" | "hadith" | "other";
+
+const LOCAL_BUCKET_WEIGHTS: Record<LocalBucket, number> = {
+  quran: 1,
+  hadith: 1,
+  other: 6,
+};
+
+function bucketForLocalItem(item: Exclude<FeedItem, { type: "substack" }>): LocalBucket {
+  if (item.type === "aphorism") {
+    if (item.book === "The Quran") return "quran";
+    if (item.book === "Mishkat al-Masabih") return "hadith";
+  }
+
+  return "other";
+}
+
+function weightedBucketOrder(
+  items: Array<Exclude<FeedItem, { type: "substack" }>>,
+  random: () => number,
+): Array<Exclude<FeedItem, { type: "substack" }>> {
+  const buckets: Record<LocalBucket, Array<Exclude<FeedItem, { type: "substack" }>>> = {
+    quran: [],
+    hadith: [],
+    other: [],
+  };
+
+  for (const item of items) {
+    buckets[bucketForLocalItem(item)].push(item);
+  }
+
+  for (const key of Object.keys(buckets) as LocalBucket[]) {
+    buckets[key] = shuffleWithSeed(buckets[key], random);
+  }
+
+  const ordered: Array<Exclude<FeedItem, { type: "substack" }>> = [];
+
+  while (buckets.quran.length || buckets.hadith.length || buckets.other.length) {
+    const available = (Object.keys(buckets) as LocalBucket[]).filter(
+      (key) => buckets[key].length > 0,
+    );
+    const totalWeight = available.reduce(
+      (sum, key) => sum + LOCAL_BUCKET_WEIGHTS[key],
+      0,
+    );
+
+    let roll = random() * totalWeight;
+    let selected = available[available.length - 1];
+
+    for (const key of available) {
+      roll -= LOCAL_BUCKET_WEIGHTS[key];
+      if (roll < 0) {
+        selected = key;
+        break;
+      }
+    }
+
+    const next = buckets[selected].pop();
+    if (next) ordered.push(next);
+  }
+
+  return ordered;
+}
+
 function randomInt(min: number, max: number, random: () => number): number {
   return Math.floor(random() * (max - min + 1)) + min;
 }
@@ -43,7 +107,7 @@ export async function getFeedItems(seed: string = "default"): Promise<FeedItem[]
 
   const shuffledExternal = shuffleWithSeed(external, externalRandom);
 
-  const local = shuffleWithSeed(
+  const local = weightedBucketOrder(
     all
       .filter((item) => item.type !== "substack")
       .sort((a, b) => a.id.localeCompare(b.id)),
