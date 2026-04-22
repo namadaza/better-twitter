@@ -37,11 +37,11 @@ export function SubstackItem({ item }: Props) {
           <ExternalLink className="h-3.5 w-3.5" strokeWidth={1.75} />
         </a>
       </div>
-      <div className="mb-3 font-serif text-base leading-relaxed text-foreground md:text-lg">
+      <div className="mb-3 font-serif text-lg leading-relaxed text-foreground md:text-xl">
         {item.title}
       </div>
       {item.excerpt && (
-        <p className="mb-5 font-serif text-base leading-relaxed text-foreground md:text-lg">
+        <p className="mb-5 font-serif text-lg leading-relaxed text-foreground md:text-xl">
           {item.excerpt}
         </p>
       )}
