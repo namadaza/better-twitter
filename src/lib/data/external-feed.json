@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-04-22T18:33:55.777Z",
+  "fetchedAt": "2026-04-23T00:59:32.474Z",
   "items": [
+    {
+      "type": "substack",
+      "id": "substack-f816492aee22",
+      "title": "Lebanese Journalist Amal Khalil Bombed and Left to Die by Israel",
+      "url": "https://www.dropsitenews.com/p/lebanon-journalist-amal-khalil-killed-israel",
+      "publication": "Drop Site News",
+      "author": "Jeremy Loffredo",
+      "excerpt": "After Khalil was apparently targeted by Israel, a commentator asserting a connection with the military said journalists \"affiliated with Hezbollah\" are \"destined for death.\"",
+      "publishedAt": "2026-04-22T23:14:54.000Z"
+    },
     {
       "type": "substack",
       "id": "substack-e890c6385980",
@@ -458,16 +468,6 @@
       "author": "Drop Site News",
       "excerpt": "As the world’s attention has shifted to Iran and Lebanon over the past six weeks, Israel has been able to continue its genocidal assault on Gaza with little international notice.",
       "publishedAt": "2026-04-16T10:57:23.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-92584344762a",
-      "title": "Trading Post Wednesday April 15, 2026",
-      "url": "https://michaeljburry.substack.com/p/trading-post-wednesday-april-15-2026",
-      "publication": "Cassandra Unchained",
-      "author": "Michael Burry",
-      "excerpt": "Software & Payments, Chocolate & Peanut Butter",
-      "publishedAt": "2026-04-15T23:27:17.000Z"
     }
   ]
 }
