@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-04-23T06:51:24.712Z",
+  "fetchedAt": "2026-04-23T12:34:54.807Z",
   "items": [
+    {
+      "type": "substack",
+      "id": "substack-c9f9cfbc3379",
+      "title": "Meet the Top “Content” Producers Linked to Canary Mission",
+      "url": "https://www.dropsitenews.com/p/canary-mission-israel-megamot-shalom-highest-paid-employees",
+      "publication": "Drop Site News",
+      "author": "Jacqueline Sweet",
+      "excerpt": "A Drop Site investigation reveals the highest paid employees of the Israeli group running the infamous pro-Israel doxxing site.",
+      "publishedAt": "2026-04-23T11:02:39.000Z"
+    },
     {
       "type": "substack",
       "id": "substack-f816492aee22",
@@ -458,16 +468,6 @@
       "author": "Arktos Journal",
       "excerpt": "by Paweł Lisicki",
       "publishedAt": "2026-04-16T13:38:46.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-df8b808a54b8",
-      "title": "“My Daughter Went Out to Learn, Not to Fight”: Gaza Grieves More Children Killed by Israel",
-      "url": "https://www.dropsitenews.com/p/gaza-children-killed-israel-genocide",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "As the world’s attention has shifted to Iran and Lebanon over the past six weeks, Israel has been able to continue its genocidal assault on Gaza with little international notice.",
-      "publishedAt": "2026-04-16T10:57:23.000Z"
     }
   ]
 }
