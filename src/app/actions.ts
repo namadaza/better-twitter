@@ -34,7 +34,7 @@ const LOCAL_BUCKET_WEIGHTS: Record<LocalBucket, number> = {
   other: 6,
 };
 
-function bucketForLocalItem(item: Exclude<FeedItem, { type: "substack" }>): LocalBucket {
+function bucketForLocalItem(item: Exclude<FeedItem, { type: "rss" }>): LocalBucket {
   if (item.type === "aphorism") {
     if (item.book === "The Quran") return "quran";
     if (item.book === "Mishkat al-Masabih") return "hadith";
@@ -44,10 +44,10 @@ function bucketForLocalItem(item: Exclude<FeedItem, { type: "substack" }>): Loca
 }
 
 function weightedBucketOrder(
-  items: Array<Exclude<FeedItem, { type: "substack" }>>,
+  items: Array<Exclude<FeedItem, { type: "rss" }>>,
   random: () => number,
-): Array<Exclude<FeedItem, { type: "substack" }>> {
-  const buckets: Record<LocalBucket, Array<Exclude<FeedItem, { type: "substack" }>>> = {
+): Array<Exclude<FeedItem, { type: "rss" }>> {
+  const buckets: Record<LocalBucket, Array<Exclude<FeedItem, { type: "rss" }>>> = {
     quran: [],
     hadith: [],
     other: [],
@@ -61,7 +61,7 @@ function weightedBucketOrder(
     buckets[key] = shuffleWithSeed(buckets[key], random);
   }
 
-  const ordered: Array<Exclude<FeedItem, { type: "substack" }>> = [];
+  const ordered: Array<Exclude<FeedItem, { type: "rss" }>> = [];
 
   while (buckets.quran.length || buckets.hadith.length || buckets.other.length) {
     const available = (Object.keys(buckets) as LocalBucket[]).filter(
@@ -97,11 +97,11 @@ function randomInt(min: number, max: number, random: () => number): number {
 export async function getFeedItems(seed: string = "default"): Promise<FeedItem[]> {
   const all = await loadAllSources();
   const random = makeSeededRandom(seed);
-  const externalRandom = makeSeededRandom(`${seed}:substack`);
+  const externalRandom = makeSeededRandom(`${seed}:rss`);
 
   const external = all
-    .filter((item): item is Extract<FeedItem, { type: "substack" }> => {
-      return item.type === "substack";
+    .filter((item): item is Extract<FeedItem, { type: "rss" }> => {
+      return item.type === "rss";
     })
     .sort((a, b) => a.id.localeCompare(b.id));
 
@@ -109,7 +109,7 @@ export async function getFeedItems(seed: string = "default"): Promise<FeedItem[]
 
   const local = weightedBucketOrder(
     all
-      .filter((item) => item.type !== "substack")
+      .filter((item) => item.type !== "rss")
       .sort((a, b) => a.id.localeCompare(b.id)),
     random,
   );

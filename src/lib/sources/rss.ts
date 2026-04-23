@@ -12,12 +12,12 @@ const EXTERNAL_FEED_PATH = join(
 
 type ExternalFeedFile = {
   fetchedAt: string | null;
-  items: Array<Extract<FeedItem, { type: "substack" }>>;
+  items: Array<Extract<FeedItem, { type: "rss" }>>;
 };
 
 let cache: { mtime: number; items: FeedItem[] } | null = null;
 
-export async function loadSubstack(): Promise<FeedItem[]> {
+export async function loadRss(): Promise<FeedItem[]> {
   try {
     const stats = await stat(EXTERNAL_FEED_PATH);
     const mtime = stats.mtime.getTime();
@@ -27,7 +27,7 @@ export async function loadSubstack(): Promise<FeedItem[]> {
     const parsed = JSON.parse(raw) as ExternalFeedFile;
     const items: FeedItem[] = (parsed.items ?? []).map((it) => ({
       ...it,
-      type: "substack" as const,
+      type: "rss" as const,
     }));
     cache = { mtime, items };
     return items;

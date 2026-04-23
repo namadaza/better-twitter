@@ -25,7 +25,7 @@ export type FeedItem =
       secondaryText?: string;
     }
   | {
-      type: "substack";
+      type: "rss";
       id: string;
       title: string;
       url: string;

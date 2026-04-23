@@ -2,10 +2,10 @@ import { mkdir, readFile, writeFile } from "fs/promises";
 import { join } from "path";
 import { createHash } from "crypto";
 import Parser from "rss-parser";
-import { SUBSTACK_FOLLOWS } from "./substack-follows";
+import { RSS_FOLLOWS } from "./rss-follows";
 
-type SubstackItem = {
-  type: "substack";
+type RssItem = {
+  type: "rss";
   id: string;
   title: string;
   url: string;
@@ -17,7 +17,7 @@ type SubstackItem = {
 
 type ExternalFeedFile = {
   fetchedAt: string;
-  items: SubstackItem[];
+  items: RssItem[];
 };
 
 const OUT_PATH = join(
@@ -74,14 +74,19 @@ function publicationName(feedTitle: string | undefined, url: string): string {
 }
 
 function idFor(url: string): string {
-  return "substack-" + createHash("sha1").update(url).digest("hex").slice(0, 12);
+  return "rss-" + createHash("sha1").update(url).digest("hex").slice(0, 12);
 }
 
-async function fetchPublication(baseUrl: string): Promise<SubstackItem[]> {
-  const feedUrl = baseUrl.replace(/\/$/, "") + "/feed";
+function feedUrlFor(source: string): string {
+  const normalized = source.replace(/\/$/, "");
+  return normalized.endsWith("/feed") ? normalized : `${normalized}/feed`;
+}
+
+async function fetchPublication(source: string): Promise<RssItem[]> {
+  const feedUrl = feedUrlFor(source);
   const feed = await parser.parseURL(feedUrl);
-  const publication = publicationName(feed.title, baseUrl);
-  const items: SubstackItem[] = [];
+  const publication = publicationName(feed.title, source);
+  const items: RssItem[] = [];
 
   for (const entry of feed.items ?? []) {
     const link = entry.link?.trim();
@@ -95,7 +100,7 @@ async function fetchPublication(baseUrl: string): Promise<SubstackItem[]> {
     const excerpt = rawExcerpt ? truncate(rawExcerpt, EXCERPT_LIMIT) : undefined;
 
     items.push({
-      type: "substack",
+      type: "rss",
       id: idFor(link),
       title,
       url: link,
@@ -108,11 +113,17 @@ async function fetchPublication(baseUrl: string): Promise<SubstackItem[]> {
   return items;
 }
 
-async function loadExisting(): Promise<SubstackItem[]> {
+async function loadExisting(): Promise<RssItem[]> {
   try {
     const raw = await readFile(OUT_PATH, "utf-8");
     const parsed = JSON.parse(raw) as Partial<ExternalFeedFile>;
-    return Array.isArray(parsed.items) ? parsed.items : [];
+    return Array.isArray(parsed.items)
+      ? parsed.items.map((item) => ({
+          ...item,
+          type: "rss" as const,
+          id: item.id?.replace(/^substack-/, "rss-") ?? item.id,
+        }))
+      : [];
   } catch {
     return [];
   }
@@ -123,19 +134,17 @@ async function main(): Promise<void> {
   const now = Date.now();
   const cutoff = now - MAX_AGE_DAYS * 24 * 60 * 60 * 1000;
 
-  if (SUBSTACK_FOLLOWS.length === 0) {
+  if (RSS_FOLLOWS.length === 0) {
     console.warn(
-      "No publications configured in scripts/substack-follows.ts; writing empty feed.",
+      "No publications configured in scripts/rss-follows.ts; writing empty feed.",
     );
   }
 
-  const results = await Promise.allSettled(
-    SUBSTACK_FOLLOWS.map((u) => fetchPublication(u)),
-  );
+  const results = await Promise.allSettled(RSS_FOLLOWS.map((u) => fetchPublication(u)));
 
-  const fresh: SubstackItem[] = [];
+  const fresh: RssItem[] = [];
   results.forEach((r, i) => {
-    const pub = SUBSTACK_FOLLOWS[i];
+    const pub = RSS_FOLLOWS[i];
     if (r.status === "fulfilled") {
       console.log(`[${pub}] ${r.value.length} items`);
       fresh.push(...r.value);
@@ -145,7 +154,7 @@ async function main(): Promise<void> {
   });
 
   const existing = await loadExisting();
-  const merged = new Map<string, SubstackItem>();
+  const merged = new Map<string, RssItem>();
   for (const it of existing) merged.set(it.id, it);
   for (const it of fresh) merged.set(it.id, it);
 

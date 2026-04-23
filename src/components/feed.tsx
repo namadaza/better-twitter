@@ -6,7 +6,7 @@ import { getFeedItemsPage } from "@/app/actions";
 import { HighlightItem } from "./items/highlight-item";
 import { PoemItem } from "./items/poem-item";
 import { AphorismItem } from "./items/aphorism-item";
-import { SubstackItem } from "./items/substack-item";
+import { RssItem } from "./items/rss-item";
 
 interface FeedProps {
   initialItems: FeedItem[];
@@ -21,8 +21,8 @@ function renderItem(item: FeedItem) {
       return <PoemItem item={item} />;
     case "aphorism":
       return <AphorismItem item={item} />;
-    case "substack":
-      return <SubstackItem item={item} />;
+    case "rss":
+      return <RssItem item={item} />;
   }
 }
 
@@ -62,7 +62,7 @@ export function Feed({ initialItems, seed }: FeedProps) {
     <div className="max-w-2xl mx-auto pt-8 pb-24">
       {items.length === 0 && !loading && (
         <div className="px-4 py-16 text-center font-serif text-muted-foreground">
-          No items yet. Add highlights, extract books, or follow a Substack.
+          No items yet. Add highlights, extract books, or follow an RSS feed.
         </div>
       )}
       {items.map((item, index) => (

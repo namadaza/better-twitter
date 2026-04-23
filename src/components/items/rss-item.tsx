@@ -2,7 +2,7 @@ import type { FeedItem } from "@/lib/types";
 import { ExternalLink } from "lucide-react";
 import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
 
-type Props = { item: Extract<FeedItem, { type: "substack" }> };
+type Props = { item: Extract<FeedItem, { type: "rss" }> };
 
 function relativeDate(iso?: string): string | null {
   if (!iso) return null;
@@ -20,9 +20,9 @@ function relativeDate(iso?: string): string | null {
   return `${Math.round(diff / (365 * day))}y ago`;
 }
 
-export function SubstackItem({ item }: Props) {
+export function RssItem({ item }: Props) {
   const rel = relativeDate(item.publishedAt);
-  const publicationLabel = `Substack · ${item.publication}`;
+  const publicationLabel = `RSS · ${item.publication}`;
   const meta = [item.author, rel].filter(Boolean).join(" · ");
 
   return (

@@ -1,9 +1,49 @@
 {
-  "fetchedAt": "2026-04-23T18:36:31.408Z",
+  "fetchedAt": "2026-04-23T21:21:07.203Z",
   "items": [
     {
-      "type": "substack",
-      "id": "substack-44a267b8966c",
+      "type": "rss",
+      "id": "rss-e0bfc555c881",
+      "title": "Last night was the biggest disaster in the history of Tesla",
+      "url": "https://georgenoble.substack.com/p/last-night-was-the-biggest-disaster",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "Let me walk you through what actually happened on that earnings call, because the headlines are doing you a disservice:",
+      "publishedAt": "2026-04-23T20:53:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f8dbcb45a14a",
+      "title": "GPT 5.5 just did what no other model could",
+      "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️ Why I'm happy to pay $180 per million output tokens for GPT 5.5 Pro, what it actually did in my Codex workflow, and the intelligence test it completed that Claude Code kept failing",
+      "publishedAt": "2026-04-23T19:39:26.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6d5f21a94414",
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
+      "publishedAt": "2026-04-23T19:21:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-eae8a2bd9482",
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
+      "publishedAt": "2026-04-23T18:59:39.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-44a267b8966c",
       "title": "Despite Denials, AIPAC Is Now Funding Campaign of Ala Stanford In Philadelphia",
       "url": "https://www.dropsitenews.com/p/aipac-udp-ala-stanford-philadelphia-congress-race",
       "publication": "Drop Site News",
@@ -12,8 +52,28 @@
       "publishedAt": "2026-04-23T18:10:48.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-0a061b050aa5",
+      "type": "rss",
+      "id": "rss-3d80fe2dcc7b",
+      "title": "Inside Lena Dunham’s Substack press tour",
+      "url": "https://on.substack.com/p/inside-lena-dunhams-substack-press",
+      "publication": "On Substack",
+      "author": "Arielle Swedback",
+      "excerpt": "Lena Dunham and her social strategist on coming back online, her new memoir Famesick, and embarking on a Substack book tour",
+      "publishedAt": "2026-04-23T17:08:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-769908908c3a",
+      "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
+      "url": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
+      "publishedAt": "2026-04-23T16:05:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0a061b050aa5",
       "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
       "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
       "publication": "Lenny's Newsletter",
@@ -22,8 +82,8 @@
       "publishedAt": "2026-04-23T15:01:50.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-6653a97b486c",
+      "type": "rss",
+      "id": "rss-6653a97b486c",
       "title": "Nine Palestinians killed in Israeli airstrikes on Gaza; Hegseth fires Navy Secretary; Journalist Ahmed Shihab-Eldin acquitted in Kuwait",
       "url": "https://www.dropsitenews.com/p/gaza-israel-strikes-hegseth-navy-secretary-kuwait-ahmed-shihab-eldin",
       "publication": "Drop Site News",
@@ -32,8 +92,28 @@
       "publishedAt": "2026-04-23T14:52:55.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-4c58ee0959a1",
+      "type": "rss",
+      "id": "rss-dd6347df3610",
+      "title": "Cosmetics giant Rituals discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
+      "publishedAt": "2026-04-23T14:16:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f9d00f8e0737",
+      "title": "Regular Password Resets Aren’t as Safe as You Think",
+      "url": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Specops Software",
+      "excerpt": "Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
+      "publishedAt": "2026-04-23T14:10:20.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4c58ee0959a1",
       "title": "The Neocon Upgrade and the New Totalitarianism",
       "url": "https://www.arktosjournal.com/p/the-neocon-upgrade-and-the-new-totalitarianism",
       "publication": "Arktos Journal",
@@ -42,8 +122,48 @@
       "publishedAt": "2026-04-23T13:57:39.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-c9f9cfbc3379",
+      "type": "rss",
+      "id": "rss-a47d241e5dba",
+      "title": "Microsoft: Some Teams users can’t join meetings after Edge update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
+      "publishedAt": "2026-04-23T13:18:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d3d3f9377993",
+      "title": "UK warns of Chinese hackers using proxy networks to evade detection",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]",
+      "publishedAt": "2026-04-23T12:28:39.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ee746e95d8b4",
+      "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]",
+      "publishedAt": "2026-04-23T12:06:18.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cf763f8a2b97",
+      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
+      "publishedAt": "2026-04-23T11:05:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c9f9cfbc3379",
       "title": "Meet the Top “Content” Producers Linked to Canary Mission",
       "url": "https://www.dropsitenews.com/p/canary-mission-israel-megamot-shalom-highest-paid-employees",
       "publication": "Drop Site News",
@@ -52,8 +172,8 @@
       "publishedAt": "2026-04-23T11:02:39.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-f816492aee22",
+      "type": "rss",
+      "id": "rss-f816492aee22",
       "title": "Lebanese Journalist Amal Khalil Bombed and Left to Die by Israel",
       "url": "https://www.dropsitenews.com/p/lebanon-journalist-amal-khalil-killed-israel",
       "publication": "Drop Site News",
@@ -62,8 +182,58 @@
       "publishedAt": "2026-04-22T23:14:54.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-e890c6385980",
+      "type": "rss",
+      "id": "rss-06e3856acd6a",
+      "title": "Trading Post Wednesday, April 22, 2026",
+      "url": "https://michaeljburry.substack.com/p/trading-post-42226",
+      "publication": "Cassandra Unchained",
+      "author": "Michael Burry",
+      "excerpt": "Markets do not make needle tops.",
+      "publishedAt": "2026-04-22T22:10:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bddb0370ff12",
+      "title": "Investing For The Future",
+      "url": "https://georgenoble.substack.com/p/investing-for-the-future",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "I just had an incredible conversation with Danielle Ecuyer - packed with valuable insights and tons of actionable advice you can actually apply.",
+      "publishedAt": "2026-04-22T22:06:41.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-80e8f79de37e",
+      "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
+      "publishedAt": "2026-04-22T20:58:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8b7fcf90a3d5",
+      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
+      "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
+      "publishedAt": "2026-04-22T20:04:46.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-75cfc0d3998f",
+      "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
+      "url": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
+      "publishedAt": "2026-04-22T18:52:29.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e890c6385980",
       "title": "Two Iranian Women in ICE Detention Are Not, In Fact, Related to Qasem Soleimani, Documents Show",
       "url": "https://www.dropsitenews.com/p/iranian-women-ice-detention-not-related-qasem-soleimani-rubio-loomer",
       "publication": "Drop Site News",
@@ -72,8 +242,8 @@
       "publishedAt": "2026-04-22T17:13:59.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-81713f351dbb",
+      "type": "rss",
+      "id": "rss-81713f351dbb",
       "title": "ABM: How to gift your top accounts (the right way)",
       "url": "https://newsletter.outbound.kitchen/p/abm-how-to-gift-your-top-200-accounts",
       "publication": "Outbound Kitchen",
@@ -82,8 +252,8 @@
       "publishedAt": "2026-04-22T16:58:26.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-80fd5c4f666b",
+      "type": "rss",
+      "id": "rss-80fd5c4f666b",
       "title": "Podcast: The Akbari–Piffer controversy",
       "url": "https://www.aporiamagazine.com/p/podcast-the-akbaripiffer-controversy",
       "publication": "Aporia",
@@ -91,8 +261,18 @@
       "publishedAt": "2026-04-22T15:56:19.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-46d19610b698",
+      "type": "rss",
+      "id": "rss-4a931adb6325",
+      "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
+      "url": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from around the globe. [...]",
+      "publishedAt": "2026-04-22T15:06:34.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-46d19610b698",
       "title": "Iran seizes two ships in Strait of Hormuz; Trump extends U.S.-Iran ceasefire; Israel commits 220 ceasefire violations in Lebanon in 3 days",
       "url": "https://www.dropsitenews.com/p/iran-hormuz-trump-ceasefire-israel-lebanon-violations",
       "publication": "Drop Site News",
@@ -101,8 +281,28 @@
       "publishedAt": "2026-04-22T14:29:52.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-5b4e6832753e",
+      "type": "rss",
+      "id": "rss-0eeccd470108",
+      "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Flare",
+      "excerpt": "Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales team. [...]",
+      "publishedAt": "2026-04-22T14:01:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ac3999276b82",
+      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
+      "publishedAt": "2026-04-22T12:57:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5b4e6832753e",
       "title": "Trump Blinks First, Extending Ceasefire with Iran as Hormuz Deadlock Continues",
       "url": "https://www.dropsitenews.com/p/trump-extends-ceasefire-iran-strait-hormuz",
       "publication": "Drop Site News",
@@ -111,8 +311,8 @@
       "publishedAt": "2026-04-22T12:46:51.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-0f08151b215c",
+      "type": "rss",
+      "id": "rss-0f08151b215c",
       "title": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
       "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
       "publication": "Lenny's Newsletter",
@@ -121,8 +321,18 @@
       "publishedAt": "2026-04-22T12:04:31.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-b31e131dfbe5",
+      "type": "rss",
+      "id": "rss-f22f0841a3d7",
+      "title": "The global ideas exchange",
+      "url": "https://on.substack.com/p/the-global-ideas-exchange",
+      "publication": "On Substack",
+      "author": "Farrah @Substack",
+      "excerpt": "Introducing translations and our vision for expanding Substack internationally",
+      "publishedAt": "2026-04-22T12:03:20.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b31e131dfbe5",
       "title": "The Coup that Split Europe",
       "url": "https://www.arktosjournal.com/p/the-coup-that-split-europe",
       "publication": "Arktos Journal",
@@ -131,8 +341,8 @@
       "publishedAt": "2026-04-22T09:02:20.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-b9f93f4851b5",
+      "type": "rss",
+      "id": "rss-b9f93f4851b5",
       "title": "Michigan Dems Came Down Hard On Student Protests Against the Gaza Genocide. It Just Blew Up in Their Face.",
       "url": "https://www.dropsitenews.com/p/michigan-democrats-student-protesters-palestine-israel-elections",
       "publication": "Drop Site News",
@@ -141,8 +351,8 @@
       "publishedAt": "2026-04-21T18:45:25.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-e067d7bbf220",
+      "type": "rss",
+      "id": "rss-e067d7bbf220",
       "title": "The Trump-Iran Standoff: A Return to War or Negotiations?",
       "url": "https://www.dropsitenews.com/p/us-iran-standoff-war-ceasefire-trump-negotiations-pakistan",
       "publication": "Drop Site News",
@@ -151,8 +361,8 @@
       "publishedAt": "2026-04-21T17:34:38.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-d9550391bf4e",
+      "type": "rss",
+      "id": "rss-d9550391bf4e",
       "title": "The Case for Indigenous Ways of Knowing",
       "url": "https://www.aporiamagazine.com/p/the-case-for-indigenous-ways-of-knowing",
       "publication": "Aporia",
@@ -161,8 +371,8 @@
       "publishedAt": "2026-04-21T17:00:41.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-5390fe369123",
+      "type": "rss",
+      "id": "rss-5390fe369123",
       "title": "Rare Survivors of Pacific Boat Strikes Allege U.S. Forces Kidnapped and Tortured Them",
       "url": "https://www.dropsitenews.com/p/rare-survivors-of-pacific-boat-strikes",
       "publication": "Drop Site News",
@@ -171,8 +381,8 @@
       "publishedAt": "2026-04-21T17:00:29.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-ed5e53cec3c2",
+      "type": "rss",
+      "id": "rss-ed5e53cec3c2",
       "title": "This is the single most important number in global markets right now",
       "url": "https://georgenoble.substack.com/p/this-is-the-single-most-important",
       "publication": "The Noble Update",
@@ -181,8 +391,8 @@
       "publishedAt": "2026-04-21T15:05:01.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-e2aba66fc554",
+      "type": "rss",
+      "id": "rss-e2aba66fc554",
       "title": "New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers",
       "url": "https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google",
       "publication": "Lenny's Newsletter",
@@ -191,8 +401,8 @@
       "publishedAt": "2026-04-21T15:03:33.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-77baa31bbcca",
+      "type": "rss",
+      "id": "rss-77baa31bbcca",
       "title": "Iran war prompts biggest energy crisis in history: IEA; Israeli convoy kills West Bank teen biking to school; UK universities paid to surveil student protestors",
       "url": "https://www.dropsitenews.com/p/iran-war-energy-crisis-israeli-settler-kills-west-bank-teen-uk-surveillance-student-protestors",
       "publication": "Drop Site News",
@@ -201,8 +411,8 @@
       "publishedAt": "2026-04-21T15:02:41.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-301938f1171c",
+      "type": "rss",
+      "id": "rss-301938f1171c",
       "title": "Diplomacy or Escalation? The Iran War at a Crossroads",
       "url": "https://www.dropsitenews.com/p/iran-war-trump-diplomacy-escalation-hassan-ahmadian",
       "publication": "Drop Site News",
@@ -211,8 +421,8 @@
       "publishedAt": "2026-04-21T11:50:14.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-15bbf3239c63",
+      "type": "rss",
+      "id": "rss-15bbf3239c63",
       "title": "Everyone You Meet Online is a Freak",
       "url": "https://www.infinitescroll.us/p/everyone-you-meet-online-is-a-freak",
       "publication": "Infinite Scroll",
@@ -221,8 +431,8 @@
       "publishedAt": "2026-04-20T16:28:32.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-8bf36ccf2aae",
+      "type": "rss",
+      "id": "rss-8bf36ccf2aae",
       "title": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
       "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
       "publication": "Lenny's Newsletter",
@@ -231,8 +441,8 @@
       "publishedAt": "2026-04-20T15:33:11.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-8c679afecb3b",
+      "type": "rss",
+      "id": "rss-8c679afecb3b",
       "title": "U.S.-Iran ceasefire set to expire with talks in limbo; Gunman in Louisiana kills eight children; Israel’s Gaza-style “Yellow Line” in Lebanon",
       "url": "https://www.dropsitenews.com/p/us-iran-ceasefire-set-to-expire-israel-yellow-line-lebanon",
       "publication": "Drop Site News",
@@ -241,8 +451,8 @@
       "publishedAt": "2026-04-20T15:00:02.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-404617b74a73",
+      "type": "rss",
+      "id": "rss-404617b74a73",
       "title": "How Intercom 2x’d their engineering velocity in 9 months with Claude Code | Brian Scanlan",
       "url": "https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering",
       "publication": "Lenny's Newsletter",
@@ -251,8 +461,8 @@
       "publishedAt": "2026-04-20T12:03:25.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-3b808ee7afc6",
+      "type": "rss",
+      "id": "rss-3b808ee7afc6",
       "title": "Our Civilization: European or 'Judeo-Christian'?",
       "url": "https://www.arktosjournal.com/p/our-civilization-european-or-judeo",
       "publication": "Arktos Journal",
@@ -261,8 +471,8 @@
       "publishedAt": "2026-04-20T09:02:46.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-6ad1bbfe5ced",
+      "type": "rss",
+      "id": "rss-6ad1bbfe5ced",
       "title": "Think about this...",
       "url": "https://georgenoble.substack.com/p/think-about-this",
       "publication": "The Noble Update",
@@ -271,8 +481,8 @@
       "publishedAt": "2026-04-19T23:29:05.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-3a1380f9d238",
+      "type": "rss",
+      "id": "rss-3a1380f9d238",
       "title": "Bring on the Liquidity | Nobody Special, Robert, Joe Carlasare",
       "url": "https://georgenoble.substack.com/p/bring-on-the-liquidity-nobody-special",
       "publication": "The Noble Update",
@@ -281,8 +491,8 @@
       "publishedAt": "2026-04-19T21:29:22.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-1b58d99cf1d0",
+      "type": "rss",
+      "id": "rss-1b58d99cf1d0",
       "title": "The online business advice no one profits from telling you",
       "url": "https://www.beautyofsaas.com/p/the-online-business-advice-no-one-profits-from-telling-you",
       "publication": "BOSS Letter",
@@ -291,8 +501,8 @@
       "publishedAt": "2026-04-19T20:11:34.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-fb8b9d62d085",
+      "type": "rss",
+      "id": "rss-fb8b9d62d085",
       "title": "Trump’s Erratic Behavior May Tank Negotiations, Iran Says, Warning of “Significantly Greater Costs” to the U.S. if War Resumes",
       "url": "https://www.dropsitenews.com/p/trump-erratic-behavior-iran-israel-war",
       "publication": "Drop Site News",
@@ -301,8 +511,8 @@
       "publishedAt": "2026-04-19T17:38:21.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-785a27180377",
+      "type": "rss",
+      "id": "rss-785a27180377",
       "title": "Human Biodiversity's Genteel Revolution",
       "url": "https://www.aporiamagazine.com/p/human-biodiversitys-genteel-revolution",
       "publication": "Aporia",
@@ -311,8 +521,8 @@
       "publishedAt": "2026-04-19T17:17:54.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-ef64b9bdc6bf",
+      "type": "rss",
+      "id": "rss-ef64b9bdc6bf",
       "title": "13 things I shipped in Q1 (+ what's coming)",
       "url": "https://newsletter.outbound.kitchen/p/13-things-i-shipped-in-q1-whats-coming",
       "publication": "Outbound Kitchen",
@@ -321,8 +531,8 @@
       "publishedAt": "2026-04-19T15:14:42.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-bf64fb6b862f",
+      "type": "rss",
+      "id": "rss-bf64fb6b862f",
       "title": "For the first time in years… X is getting… better?",
       "url": "https://www.infinitescroll.us/p/for-the-first-time-in-years-x-is",
       "publication": "Infinite Scroll",
@@ -331,8 +541,8 @@
       "publishedAt": "2026-04-19T14:47:52.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-da2f760fec31",
+      "type": "rss",
+      "id": "rss-da2f760fec31",
       "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
       "url": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
       "publication": "Lenny's Newsletter",
@@ -341,8 +551,8 @@
       "publishedAt": "2026-04-19T12:31:44.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-4862744a524d",
+      "type": "rss",
+      "id": "rss-4862744a524d",
       "title": "Towards a Western Muslim Political Philosophy",
       "url": "https://kasurian.com/p/against-modus-vivendi",
       "publication": "Kasurian",
@@ -351,8 +561,8 @@
       "publishedAt": "2026-04-19T09:56:24.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-31afea87d9d6",
+      "type": "rss",
+      "id": "rss-31afea87d9d6",
       "title": "Wall Street is trying to build a casino inside a casino",
       "url": "https://georgenoble.substack.com/p/wall-street-is-trying-to-build-a",
       "publication": "The Noble Update",
@@ -361,8 +571,8 @@
       "publishedAt": "2026-04-18T22:20:42.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-b1fa34509a25",
+      "type": "rss",
+      "id": "rss-b1fa34509a25",
       "title": "🧠 Community Wisdom: Sharing Claude Code skills across the org, Why did lennysjobs.com shut down, opening an LLC for side work, AI for SMB sales, and more",
       "url": "https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code",
       "publication": "Lenny's Newsletter",
@@ -371,8 +581,8 @@
       "publishedAt": "2026-04-18T18:38:18.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-4ace08a49414",
+      "type": "rss",
+      "id": "rss-4ace08a49414",
       "title": "Now Say it in Arabic",
       "url": "https://www.themazaj.org/p/now-say-it-in-arabic",
       "publication": "The Mazaj",
@@ -381,8 +591,8 @@
       "publishedAt": "2026-04-18T16:57:15.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-a19419969d9c",
+      "type": "rss",
+      "id": "rss-a19419969d9c",
       "title": "The US-Iran War, Round Two",
       "url": "https://predictivehistory.substack.com/p/the-us-iran-war-round-two",
       "publication": "Predictive History Substack",
@@ -391,8 +601,8 @@
       "publishedAt": "2026-04-18T13:11:16.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-0354fbf1f83d",
+      "type": "rss",
+      "id": "rss-0354fbf1f83d",
       "title": "Donald Trump - Liz Truss would like to have a word with you | Russell Clark",
       "url": "https://georgenoble.substack.com/p/donald-trump-liz-truss-would-like",
       "publication": "The Noble Update",
@@ -401,8 +611,8 @@
       "publishedAt": "2026-04-17T23:27:16.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-2b4e572de770",
+      "type": "rss",
+      "id": "rss-2b4e572de770",
       "title": "I couldn't believe this",
       "url": "https://georgenoble.substack.com/p/i-couldnt-believe-this",
       "publication": "The Noble Update",
@@ -411,8 +621,8 @@
       "publishedAt": "2026-04-17T22:37:08.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-37e0775b072e",
+      "type": "rss",
+      "id": "rss-37e0775b072e",
       "title": "Noble Update April 16  subscriber call recording",
       "url": "https://georgenoble.substack.com/p/noble-update-april-16-subscriber",
       "publication": "The Noble Update",
@@ -420,8 +630,8 @@
       "publishedAt": "2026-04-17T17:00:29.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-665acaf92404",
+      "type": "rss",
+      "id": "rss-665acaf92404",
       "title": "Rep. Angie Craig's Campaign Is Quietly Distancing the Minnesota Senate Hopeful From AIPAC",
       "url": "https://www.dropsitenews.com/p/angie-craig-minnesota-senate-aipac",
       "publication": "Drop Site News",
@@ -430,8 +640,8 @@
       "publishedAt": "2026-04-17T15:41:06.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-5db315962ca5",
+      "type": "rss",
+      "id": "rss-5db315962ca5",
       "title": "Round-up: The myth of Nordic mobility",
       "url": "https://www.aporiamagazine.com/p/round-up-the-myth-of-nordic-mobility",
       "publication": "Aporia",
@@ -440,8 +650,8 @@
       "publishedAt": "2026-04-17T14:59:13.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-331789a4fcf6",
+      "type": "rss",
+      "id": "rss-331789a4fcf6",
       "title": "Iran opens Strait of Hormuz; Thousands return to southern Lebanon as ceasefire takes hold; House rejects Iran resolution by one vote",
       "url": "https://www.dropsitenews.com/p/iran-opens-strait-of-hormuz-lebanon-ceasefire",
       "publication": "Drop Site News",
@@ -450,8 +660,8 @@
       "publishedAt": "2026-04-17T14:37:20.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-42fca7c9b33a",
+      "type": "rss",
+      "id": "rss-42fca7c9b33a",
       "title": "Don’t Let Big Tech Hide Behind a Rainbow Flag",
       "url": "https://www.afterbabel.com/p/dont-let-big-tech-hide-behind-rainbow-flag",
       "publication": "After Babel",
@@ -460,8 +670,8 @@
       "publishedAt": "2026-04-17T14:10:47.000Z"
     },
     {
-      "type": "substack",
-      "id": "substack-caceddd4dbe2",
+      "type": "rss",
+      "id": "rss-caceddd4dbe2",
       "title": "Is it really Right vs Left?",
       "url": "https://www.arktosjournal.com/p/is-it-really-right-vs-left",
       "publication": "Arktos Journal",

@@ -9,7 +9,8 @@
     "lint": "next lint",
     "extract:books": "tsx scripts/extract-books.ts",
     "parse:islamic-texts": "tsx scripts/parse-islamic-texts.ts",
-    "ingest": "tsx scripts/ingest.ts"
+    "ingest": "tsx scripts/ingest.ts",
+    "ingest:rss": "tsx scripts/ingest.ts"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",

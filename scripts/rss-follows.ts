@@ -1,8 +1,8 @@
 /**
- * Each entry is the base URL of a Substack publication (no trailing slash);
- * the ingest script appends `/feed` to get the RSS endpoint.
+ * Each entry is either a publication URL, where the ingest script appends
+ * `/feed`, or a direct RSS feed URL ending in `/feed`.
  */
-export const SUBSTACK_FOLLOWS: string[] = [
+export const RSS_FOLLOWS: string[] = [
   "https://www.afterbabel.com",
   "https://www.aporiamagazine.com",
   "https://www.arktosjournal.com",
@@ -36,4 +36,5 @@ export const SUBSTACK_FOLLOWS: string[] = [
   "https://somaliki.substack.com",
   "https://subscribe.martyrmade.com",
   "https://thewaxingcrescent.substack.com",
+  "https://www.bleepingcomputer.com/feed/",
 ];
