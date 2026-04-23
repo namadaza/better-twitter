@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-04-23T12:34:54.807Z",
+  "fetchedAt": "2026-04-23T18:36:31.408Z",
   "items": [
+    {
+      "type": "substack",
+      "id": "substack-44a267b8966c",
+      "title": "Despite Denials, AIPAC Is Now Funding Campaign of Ala Stanford In Philadelphia",
+      "url": "https://www.dropsitenews.com/p/aipac-udp-ala-stanford-philadelphia-congress-race",
+      "publication": "Drop Site News",
+      "author": "Ryan Grim",
+      "excerpt": "AIPAC has been funneling money into the campaign of Dr.",
+      "publishedAt": "2026-04-23T18:10:48.000Z"
+    },
+    {
+      "type": "substack",
+      "id": "substack-0a061b050aa5",
+      "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+      "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Listen now | Head of Product for Claude Code on how AI is changing the PM role, building products before the model is ready, inside Claude Code's launch room process, and why speed now matters more than strategy",
+      "publishedAt": "2026-04-23T15:01:50.000Z"
+    },
+    {
+      "type": "substack",
+      "id": "substack-6653a97b486c",
+      "title": "Nine Palestinians killed in Israeli airstrikes on Gaza; Hegseth fires Navy Secretary; Journalist Ahmed Shihab-Eldin acquitted in Kuwait",
+      "url": "https://www.dropsitenews.com/p/gaza-israel-strikes-hegseth-navy-secretary-kuwait-ahmed-shihab-eldin",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: April 23, 2026",
+      "publishedAt": "2026-04-23T14:52:55.000Z"
+    },
+    {
+      "type": "substack",
+      "id": "substack-4c58ee0959a1",
+      "title": "The Neocon Upgrade and the New Totalitarianism",
+      "url": "https://www.arktosjournal.com/p/the-neocon-upgrade-and-the-new-totalitarianism",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "Decoding the Palantir Manifesto",
+      "publishedAt": "2026-04-23T13:57:39.000Z"
+    },
     {
       "type": "substack",
       "id": "substack-c9f9cfbc3379",
@@ -428,46 +468,6 @@
       "author": "Arktos Journal",
       "excerpt": "By Joey Oliver AKA The Right Wing Coalition",
       "publishedAt": "2026-04-17T12:14:50.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-c4538f87f0a4",
-      "title": "REMINDER: Live Zoom Call in 90 minutes",
-      "url": "https://georgenoble.substack.com/p/reminder-live-zoom-call-in-90-minutes",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "This is your reminder for the Noble Update LIVE Zoom call today at 2 PM EST.",
-      "publishedAt": "2026-04-16T16:22:40.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-05477ae3e56a",
-      "title": "Exclusive: Hezbollah MP Ibrahim Al-Moussawi Says “We Will Be Respecting the Ceasefire”",
-      "url": "https://www.dropsitenews.com/p/hezbollah-mp-ibrahim-al-moussawi-israel-lebanon-ceasefire-talks-iran",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "Al-Moussawi credited Iran for the deal announced by Trump and blasted the Lebanese government for engaging in direct talks with Israel.",
-      "publishedAt": "2026-04-16T15:34:46.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-545173d1c8d5",
-      "title": "Israel destroys last bridge to southern Lebanon; Russia kills at least 16 in massive overnight attack on Ukraine; Johnson postpones then cancels FISA vote",
-      "url": "https://www.dropsitenews.com/p/israel-lebanon-bridge-russia-ukraine-fisa-vote",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 16, 2026",
-      "publishedAt": "2026-04-16T15:01:15.000Z"
-    },
-    {
-      "type": "substack",
-      "id": "substack-7f42222c5e58",
-      "title": "OUT NOW - The Messiah and the Third Temple: The Heresy and Wars of Christian Zionism",
-      "url": "https://www.arktosjournal.com/p/out-now-the-messiah-and-the-third",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Paweł Lisicki",
-      "publishedAt": "2026-04-16T13:38:46.000Z"
     }
   ]
 }
