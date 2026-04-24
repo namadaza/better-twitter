@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-04-23T21:21:07.203Z",
+  "fetchedAt": "2026-04-24T06:52:29.452Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-72edd3cce26e",
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+      "publishedAt": "2026-04-23T21:33:45.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-e0bfc555c881",
