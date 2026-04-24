@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-04-24T12:34:16.371Z",
+  "fetchedAt": "2026-04-24T18:23:54.404Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-1a68ae47c68d",
+      "title": "Microsoft to roll out Entra passkeys on Windows in late April",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April. [...]",
+      "publishedAt": "2026-04-24T18:13:55.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9e0b3556c2c9",
+      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions. [...]",
+      "publishedAt": "2026-04-24T17:28:46.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c079c88bfa31",
+      "title": "The Justice Dept’s unprecedented campaign to strip citizenship; Soldier charged with using classified info to bet on Polymarket; Meatpackers win after historic strike",
+      "url": "https://www.dropsitenews.com/p/trump-justice-department-denaturalization-soldier-polymarket-maduro-jbs-meatpackers-colorado",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: April 24, 2026",
+      "publishedAt": "2026-04-24T14:47:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a429ab23ed97",
+      "title": "The Death of Gatekeepers",
+      "url": "https://www.infinitescroll.us/p/the-death-of-gatekeepers",
+      "publication": "Infinite Scroll",
+      "author": "Jeremiah Johnson",
+      "excerpt": "And the most enraging thing about our clout-chasing media system",
+      "publishedAt": "2026-04-24T14:12:41.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4a1aba9d866d",
+      "title": "DORA and operational resilience: Credential management as a financial risk control",
+      "url": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Passwork",
+      "excerpt": "Article 9 of DORA makes authentication and access control a legal obligation for EU financial entities. Here is what the regulation requires, and what a breach looks like when those controls are missing. [...]",
+      "publishedAt": "2026-04-24T14:10:20.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7e79df0d9238",
+      "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
+      "publishedAt": "2026-04-24T13:35:33.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-2450e06ee2b2",
@@ -639,55 +699,6 @@
       "author": "George Noble",
       "excerpt": "This shoe company just became an AI infrastructure provider overnight.",
       "publishedAt": "2026-04-17T22:37:08.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-37e0775b072e",
-      "title": "Noble Update April 16  subscriber call recording",
-      "url": "https://georgenoble.substack.com/p/noble-update-april-16-subscriber",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "publishedAt": "2026-04-17T17:00:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-665acaf92404",
-      "title": "Rep. Angie Craig's Campaign Is Quietly Distancing the Minnesota Senate Hopeful From AIPAC",
-      "url": "https://www.dropsitenews.com/p/angie-craig-minnesota-senate-aipac",
-      "publication": "Drop Site News",
-      "author": "Julian Andreone",
-      "excerpt": "After several AIPAC network fundraisers translating to almost $200,000 for Craig's Senate campaign, staffers are saying the pro-Israel lobby group \"hasn't spent a dime.\"",
-      "publishedAt": "2026-04-17T15:41:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5db315962ca5",
-      "title": "Round-up: The myth of Nordic mobility",
-      "url": "https://www.aporiamagazine.com/p/round-up-the-myth-of-nordic-mobility",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "The most interesting articles that came to our attention this week",
-      "publishedAt": "2026-04-17T14:59:13.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-331789a4fcf6",
-      "title": "Iran opens Strait of Hormuz; Thousands return to southern Lebanon as ceasefire takes hold; House rejects Iran resolution by one vote",
-      "url": "https://www.dropsitenews.com/p/iran-opens-strait-of-hormuz-lebanon-ceasefire",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 17, 2026",
-      "publishedAt": "2026-04-17T14:37:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-42fca7c9b33a",
-      "title": "Don’t Let Big Tech Hide Behind a Rainbow Flag",
-      "url": "https://www.afterbabel.com/p/dont-let-big-tech-hide-behind-rainbow-flag",
-      "publication": "After Babel",
-      "author": "Lennon Torres",
-      "excerpt": "Lennon Torres on why social media regulation is a prerequisite for LGBTQ safety.",
-      "publishedAt": "2026-04-17T14:10:47.000Z"
     }
   ]
 }
