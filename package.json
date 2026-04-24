@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "extract:books": "tsx scripts/extract-books.ts",
+    "ingest:koreader": "tsx scripts/ingest-koreader.ts",
     "parse:islamic-texts": "tsx scripts/parse-islamic-texts.ts",
     "ingest": "tsx scripts/ingest.ts",
     "ingest:rss": "tsx scripts/ingest.ts"

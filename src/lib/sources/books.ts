@@ -4,6 +4,7 @@ import { createHash } from "crypto";
 import type { FeedItem } from "@/lib/types";
 
 const BOOKS_DIR = join(process.cwd(), "src", "lib", "data", "books");
+const IGNORED_DIRS = new Set(["koreader-highlights"]);
 
 type BookFile = {
   slug: string;
@@ -92,21 +93,36 @@ async function loadBookFile(path: string): Promise<FeedItem[]> {
   return items;
 }
 
+async function collectBookFiles(dir: string): Promise<string[]> {
+  const entries = await readdir(dir, { withFileTypes: true });
+  const nested = await Promise.all(
+    entries.map(async (entry) => {
+      const path = join(dir, entry.name);
+      if (entry.isDirectory()) {
+        if (IGNORED_DIRS.has(entry.name)) return [];
+        return collectBookFiles(path);
+      }
+      return entry.name.endsWith(".json") ? [path] : [];
+    }),
+  );
+
+  return nested.flat();
+}
+
 export async function loadBooks(): Promise<FeedItem[]> {
-  let entries: string[];
+  let files: string[];
   try {
-    entries = await readdir(BOOKS_DIR);
+    files = await collectBookFiles(BOOKS_DIR);
   } catch {
     return [];
   }
 
-  const files = entries.filter((f) => f.endsWith(".json"));
   const nested = await Promise.all(
-    files.map(async (f) => {
+    files.map(async (path) => {
       try {
-        return await loadBookFile(join(BOOKS_DIR, f));
+        return await loadBookFile(path);
       } catch (error) {
-        console.error(`Error loading book ${f}:`, error);
+        console.error(`Error loading book ${path}:`, error);
         return [];
       }
     }),
