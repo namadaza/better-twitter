@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-04-24T06:52:29.452Z",
+  "fetchedAt": "2026-04-24T12:34:16.371Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-2450e06ee2b2",
+      "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday. [...]",
+      "publishedAt": "2026-04-24T11:38:00.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-72edd3cce26e",
@@ -678,16 +688,6 @@
       "author": "Lennon Torres",
       "excerpt": "Lennon Torres on why social media regulation is a prerequisite for LGBTQ safety.",
       "publishedAt": "2026-04-17T14:10:47.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-caceddd4dbe2",
-      "title": "Is it really Right vs Left?",
-      "url": "https://www.arktosjournal.com/p/is-it-really-right-vs-left",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "By Joey Oliver AKA The Right Wing Coalition",
-      "publishedAt": "2026-04-17T12:14:50.000Z"
     }
   ]
 }
