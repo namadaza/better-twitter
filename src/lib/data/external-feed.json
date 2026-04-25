@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-04-24T18:23:54.404Z",
+  "fetchedAt": "2026-04-25T00:55:20.497Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-97fb794c8c3d",
+      "title": "ADT confirms data breach after ShinyHunters leak threat",
+      "url": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "publishedAt": "2026-04-24T22:53:14.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cedcfa4c59c8",
+      "title": "Firestarter malware survives Cisco firewall updates, security patches",
+      "url": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software. [...]",
+      "publishedAt": "2026-04-24T20:34:08.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-64a99fde1bbb",
+      "title": "Windows Update gets new controls to reduce forced restarts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
+      "publishedAt": "2026-04-24T20:08:26.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8488851845a9",
+      "title": "New BlackFile extortion group linked to surge of vishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
+      "publishedAt": "2026-04-24T18:26:27.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-1a68ae47c68d",
@@ -679,26 +719,6 @@
       "author": "Predictive History",
       "excerpt": "Iran over-performed in the first six weeks of this war. Expect the Americans to dominate once the ceasefire ends.",
       "publishedAt": "2026-04-18T13:11:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0354fbf1f83d",
-      "title": "Donald Trump - Liz Truss would like to have a word with you | Russell Clark",
-      "url": "https://georgenoble.substack.com/p/donald-trump-liz-truss-would-like",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "1.",
-      "publishedAt": "2026-04-17T23:27:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2b4e572de770",
-      "title": "I couldn't believe this",
-      "url": "https://georgenoble.substack.com/p/i-couldnt-believe-this",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "This shoe company just became an AI infrastructure provider overnight.",
-      "publishedAt": "2026-04-17T22:37:08.000Z"
     }
   ]
 }
