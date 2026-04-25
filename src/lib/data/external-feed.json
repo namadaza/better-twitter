@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-04-25T12:25:12.665Z",
+  "fetchedAt": "2026-04-25T18:23:26.731Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-6c24d9a66e40",
+      "title": "Microsoft rolls out revamped Windows Insider Program",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
+      "publishedAt": "2026-04-25T17:07:13.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-11d806acbd14",
+      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
+      "url": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
+      "publishedAt": "2026-04-25T15:07:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3217b9aaf103",
+      "title": "Displaced Lebanese Pool Money to Buy Satellite Images to See What Remains of their Homes",
+      "url": "https://www.dropsitenews.com/p/displaced-southern-lebanese-aitaroun-israeli-military-satellite-images",
+      "publication": "Drop Site News",
+      "author": "Lili Gerges",
+      "excerpt": "For many residents unable to return to southern Lebanon amid Israel’s invasion and demolition campaign, satellite imagery has become the only way they can find out the state of their homes.",
+      "publishedAt": "2026-04-25T14:59:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c85210175303",
+      "title": "Most Partisans Are Deluded",
+      "url": "https://www.aporiamagazine.com/p/most-partisans-are-deluded",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "Humans derive meaning from competing in groups.",
+      "publishedAt": "2026-04-25T14:07:55.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-97fb794c8c3d",
@@ -699,26 +739,6 @@
       "author": "Kiyani",
       "excerpt": "Community Wisdom 182",
       "publishedAt": "2026-04-18T18:38:18.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4ace08a49414",
-      "title": "Now Say it in Arabic",
-      "url": "https://www.themazaj.org/p/now-say-it-in-arabic",
-      "publication": "The Mazaj",
-      "author": "Zahra",
-      "excerpt": "Linguistic Structure Against Human Experience",
-      "publishedAt": "2026-04-18T16:57:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a19419969d9c",
-      "title": "The US-Iran War, Round Two",
-      "url": "https://predictivehistory.substack.com/p/the-us-iran-war-round-two",
-      "publication": "Predictive History Substack",
-      "author": "Predictive History",
-      "excerpt": "Iran over-performed in the first six weeks of this war. Expect the Americans to dominate once the ceasefire ends.",
-      "publishedAt": "2026-04-18T13:11:16.000Z"
     }
   ]
 }
