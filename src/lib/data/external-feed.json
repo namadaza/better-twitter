@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-04-25T18:23:26.731Z",
+  "fetchedAt": "2026-04-26T07:07:05.953Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-2f6284f8dd63",
+      "title": "Waiting Is Not Tawakkul",
+      "url": "https://www.khawatir.blog/p/waiting-is-not-tawakkul",
+      "publication": "Khawatir",
+      "author": "Abdul-Malik Merchant",
+      "excerpt": "Why So Many Muslim Men Want Marriage and Won’t Move Toward It",
+      "publishedAt": "2026-04-26T02:24:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f25fcc7fbb7e",
+      "title": "🧠 Community Wisdom: What great product leaders do differently, Claude vs. ChatGPT, receiving hard feedback two weeks into the job, tips for joining a pre-PMF startup, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-great-product",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 182",
+      "publishedAt": "2026-04-25T19:51:00.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-6c24d9a66e40",
@@ -719,26 +739,6 @@
       "author": "Kasurian",
       "excerpt": "The modus vivendi of two-faced pragmatism can no longer secure Muslim survival in the West. We must properly theorise religious and political freedom.",
       "publishedAt": "2026-04-19T09:56:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-31afea87d9d6",
-      "title": "Wall Street is trying to build a casino inside a casino",
-      "url": "https://georgenoble.substack.com/p/wall-street-is-trying-to-build-a",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "In February and March, asset managers filed to launch DOZENS of exchange-traded funds offering 4x and 5x daily leverage on individual stocks.",
-      "publishedAt": "2026-04-18T22:20:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b1fa34509a25",
-      "title": "🧠 Community Wisdom: Sharing Claude Code skills across the org, Why did lennysjobs.com shut down, opening an LLC for side work, AI for SMB sales, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 182",
-      "publishedAt": "2026-04-18T18:38:18.000Z"
     }
   ]
 }
