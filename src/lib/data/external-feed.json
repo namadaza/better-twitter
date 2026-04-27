@@ -1,6 +1,56 @@
 {
-  "fetchedAt": "2026-04-26T12:26:57.185Z",
+  "fetchedAt": "2026-04-27T01:01:52.119Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-ac4ed27d1d3c",
+      "title": "The mental exercise collection",
+      "url": "https://www.beautyofsaas.com/p/the-mental-exercise-collection-what-best-in-the-world",
+      "publication": "BOSS Letter",
+      "author": "BOSS Letter",
+      "excerpt": "139: Curated from the world's best coaches and psychologists.",
+      "publishedAt": "2026-04-26T22:09:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c624ae693b72",
+      "title": "How to Build a High-Performing Outbound Team in 2026",
+      "url": "https://newsletter.outbound.kitchen/p/outbound-foundations-hiring-icp-message",
+      "publication": "Outbound Kitchen",
+      "author": "Elric Legloire - Outbound Chef",
+      "excerpt": "What Top SaaS Companies Get Right About Outbound in 2026",
+      "publishedAt": "2026-04-26T18:32:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4d8564e850aa",
+      "title": "American utility firm Itron discloses breach of internal IT network",
+      "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]",
+      "publishedAt": "2026-04-26T14:22:34.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3798e9f0a874",
+      "title": "The Return of Oral Culture",
+      "url": "https://kasurian.com/p/return-of-oral-culture",
+      "publication": "Kasurian",
+      "author": "Kasurian",
+      "excerpt": "Walter Ong, Neil Postman, and our new, high-tech oral culture.",
+      "publishedAt": "2026-04-26T13:08:36.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0e5844867dcb",
+      "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+      "url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Listen now | Snap's co-founder on why only two consumer apps broke through in 15 years, how every major Snapchat feature was cloned, why hardware is the only real moat, and why distribution beats product",
+      "publishedAt": "2026-04-26T12:31:49.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-2f6284f8dd63",
@@ -649,86 +699,6 @@
       "author": "Institut Iliade",
       "excerpt": "by Henri Levavasseur",
       "publishedAt": "2026-04-20T09:02:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6ad1bbfe5ced",
-      "title": "Think about this...",
-      "url": "https://georgenoble.substack.com/p/think-about-this",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "The S&P 500 just hit an all-time high.",
-      "publishedAt": "2026-04-19T23:29:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3a1380f9d238",
-      "title": "Bring on the Liquidity | Nobody Special, Robert, Joe Carlasare",
-      "url": "https://georgenoble.substack.com/p/bring-on-the-liquidity-nobody-special",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "1.",
-      "publishedAt": "2026-04-19T21:29:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1b58d99cf1d0",
-      "title": "The online business advice no one profits from telling you",
-      "url": "https://www.beautyofsaas.com/p/the-online-business-advice-no-one-profits-from-telling-you",
-      "publication": "BOSS Letter",
-      "author": "BOSS Letter",
-      "excerpt": "138: Your goal? To make your first $1 online.",
-      "publishedAt": "2026-04-19T20:11:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-fb8b9d62d085",
-      "title": "Trump’s Erratic Behavior May Tank Negotiations, Iran Says, Warning of “Significantly Greater Costs” to the U.S. if War Resumes",
-      "url": "https://www.dropsitenews.com/p/trump-erratic-behavior-iran-israel-war",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "A senior Iranian official told Drop Site that if Trump starts bombing again, Iran will cut off all diplomatic channels and focus on fighting.",
-      "publishedAt": "2026-04-19T17:38:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-785a27180377",
-      "title": "Human Biodiversity's Genteel Revolution",
-      "url": "https://www.aporiamagazine.com/p/human-biodiversitys-genteel-revolution",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "As the revolution in human biodiversity goes mainstream, many of its ancestors are unfairly maligned or forgotten.",
-      "publishedAt": "2026-04-19T17:17:54.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ef64b9bdc6bf",
-      "title": "13 things I shipped in Q1 (+ what's coming)",
-      "url": "https://newsletter.outbound.kitchen/p/13-things-i-shipped-in-q1-whats-coming",
-      "publication": "Outbound Kitchen",
-      "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "Every podcast, every newsletter, plus 3 new systems landing in Q2.",
-      "publishedAt": "2026-04-19T15:14:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bf64fb6b862f",
-      "title": "For the first time in years… X is getting… better?",
-      "url": "https://www.infinitescroll.us/p/for-the-first-time-in-years-x-is",
-      "publication": "Infinite Scroll",
-      "author": "Jeremiah Johnson",
-      "excerpt": "Weekly Scroll: Creator tantrums, cross-cultural poasting, that Trump/Jesus post, and the worst people you know having a very bad time",
-      "publishedAt": "2026-04-19T14:47:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-da2f760fec31",
-      "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
-      "url": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Listen now | Nikhyl Singhal on why half of product managers are at risk, how to cross the reinvention threshold, and why the next two years will be chaotic for PMs",
-      "publishedAt": "2026-04-19T12:31:44.000Z"
     }
   ]
 }
