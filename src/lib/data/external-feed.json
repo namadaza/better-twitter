@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-04-27T07:09:00.824Z",
+  "fetchedAt": "2026-04-27T12:46:41.031Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-da5bc8644994",
+      "title": "Ernest Renan's Aristocratic Dream",
+      "url": "https://www.arktosjournal.com/p/ernest-renans-aristocratic-dream",
+      "publication": "Arktos Journal",
+      "author": "Antoine Dresse",
+      "excerpt": "The Oligarchy of Intelligence vs. the Tyranny of Stupidity",
+      "publishedAt": "2026-04-27T12:09:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9a094dd7bd8b",
+      "title": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
+      "url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Listen now | 🎙️Jason Levin (CEO of Memelord) shows how he built a $100K ARR meme company without coding—plus why every marketer should vibe code and how agents are becoming his primary users",
+      "publishedAt": "2026-04-27T12:03:55.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d49a3e33d6a9",
+      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
+      "publishedAt": "2026-04-27T12:03:46.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-ac4ed27d1d3c",
@@ -679,26 +709,6 @@
       "author": "Drop Site News",
       "excerpt": "Drop Site Daily: April 20, 2026",
       "publishedAt": "2026-04-20T15:00:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-404617b74a73",
-      "title": "How Intercom 2x’d their engineering velocity in 9 months with Claude Code | Brian Scanlan",
-      "url": "https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️ Brian Scanlan (Intercom) shows how they doubled engineering output using Claude Code skills, deep telemetry, and a culture that empowers engineers to ship faster",
-      "publishedAt": "2026-04-20T12:03:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3b808ee7afc6",
-      "title": "Our Civilization: European or 'Judeo-Christian'?",
-      "url": "https://www.arktosjournal.com/p/our-civilization-european-or-judeo",
-      "publication": "Arktos Journal",
-      "author": "Institut Iliade",
-      "excerpt": "by Henri Levavasseur",
-      "publishedAt": "2026-04-20T09:02:46.000Z"
     }
   ]
 }
