@@ -1,6 +1,56 @@
 {
-  "fetchedAt": "2026-04-28T01:03:11.894Z",
+  "fetchedAt": "2026-04-28T13:13:47.612Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-46e91967bf03",
+      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Flare",
+      "excerpt": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]",
+      "publishedAt": "2026-04-28T12:50:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-514c5ca0b0ec",
+      "title": "Round-up: Are taller people more intelligent?",
+      "url": "https://www.aporiamagazine.com/p/round-up-are-taller-people-more-intelligent",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "The most interesting articles that came to our attention this week",
+      "publishedAt": "2026-04-28T11:06:36.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7616fab9bf3e",
+      "title": "OUT NOW: The Ethnocide System",
+      "url": "https://www.arktosjournal.com/p/out-now-the-ethnocide-system",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Guillaume Faye",
+      "publishedAt": "2026-04-28T11:03:37.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-483886fb71b7",
+      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
+      "publishedAt": "2026-04-28T09:51:26.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-839820471a6b",
+      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail accounts via the default Mail app. [...]",
+      "publishedAt": "2026-04-28T08:37:12.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-065fa392b0a2",
@@ -829,16 +879,6 @@
       "author": "Drop Site News",
       "excerpt": "Drop Site Daily: April 21, 2026",
       "publishedAt": "2026-04-21T15:02:41.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-301938f1171c",
-      "title": "Diplomacy or Escalation? The Iran War at a Crossroads",
-      "url": "https://www.dropsitenews.com/p/iran-war-trump-diplomacy-escalation-hassan-ahmadian",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "The Iranian analyst Hassan Ahmadian speaks with Jeremy Scahill about Iran’s strategy, a potential deal, and how decisions are being made in Tehran.",
-      "publishedAt": "2026-04-21T11:50:14.000Z"
     }
   ]
 }
