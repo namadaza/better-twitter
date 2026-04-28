@@ -1,6 +1,166 @@
 {
-  "fetchedAt": "2026-04-27T12:46:41.031Z",
+  "fetchedAt": "2026-04-28T01:03:11.894Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-065fa392b0a2",
+      "title": "Robinhood account creation flaw abused to send phishing emails",
+      "url": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
+      "publishedAt": "2026-04-27T23:11:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b7cec6f65f52",
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
+      "publishedAt": "2026-04-27T21:41:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-466cdef1d572",
+      "title": "Gaza’s Deir Al-Balah Holds First Election Since 2005",
+      "url": "https://www.dropsitenews.com/p/gaza-deir-al-balah-municipal-election-hamas-fatah-west-bank",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "While the vote was lauded as a step forward, it came in the context of an ongoing genocide and occupation and a recent law limiting which candidates can run.",
+      "publishedAt": "2026-04-27T21:24:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-826d90a77bae",
+      "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
+      "url": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
+      "publishedAt": "2026-04-27T20:00:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4620bae0c206",
+      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
+      "publishedAt": "2026-04-27T19:56:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2e74286ff7fb",
+      "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
+      "url": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]",
+      "publishedAt": "2026-04-27T16:27:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f37b4ea0e96b",
+      "title": "Deadliest day in Lebanon since “ceasefire”; Militant surge in Mali; SCOTUS weighing Roundup return",
+      "url": "https://www.dropsitenews.com/p/deadliest-day-lebanon-ceasefire-insurgents-mali-scotus-roundup",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: April 27, 2026",
+      "publishedAt": "2026-04-27T15:55:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8430e3134b5f",
+      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
+      "publishedAt": "2026-04-27T15:17:37.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b11527e11ae8",
+      "title": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "publishedAt": "2026-04-27T15:02:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1654b5d1d94a",
+      "title": "As Trump’s Narrative on Negotiations Flails, Iran Is Setting Its Own Terms for Ending the War",
+      "url": "https://www.dropsitenews.com/p/iran-war-trump-negotiations-munitions-markets-midterms",
+      "publication": "Drop Site News",
+      "author": "Jeremy Scahill",
+      "excerpt": "Despite Trump’s repeated claims that Iran is beginning to capitulate, Tehran believes it has the three Ms on its side: “munitions, markets, and the midterms.”",
+      "publishedAt": "2026-04-27T14:57:37.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1f0917231ad4",
+      "title": "Home security giant ADT data breach affects 5.5 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]",
+      "publishedAt": "2026-04-27T14:43:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e83be7dd788b",
+      "title": "Webinar: Spotting cyberattacks before they begin",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]",
+      "publishedAt": "2026-04-27T14:25:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-de0f69217bba",
+      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
+      "url": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
+      "publishedAt": "2026-04-27T13:50:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-24d13dc4f37c",
+      "title": "Weekly Scroll: Freaks and Gatekeepers",
+      "url": "https://www.infinitescroll.us/p/weekly-scroll-freaks-and-gatekeepers",
+      "publication": "Infinite Scroll",
+      "author": "Jeremiah Johnson",
+      "excerpt": "Nick Fuentes, the rise of clip culture, and one good AI song",
+      "publishedAt": "2026-04-27T13:07:02.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6b11c1e2b726",
+      "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "​22-year-old Evan Tangeman of Newport Beach, California, was sentenced to 70 months in prison for laundering funds stolen in a massive $230 million cryptocurrency heist. [...]",
+      "publishedAt": "2026-04-27T13:01:38.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1d5f3288b28f",
+      "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
+      "url": "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Adaptive Security",
+      "excerpt": "Three seconds of audio is all it takes to clone a voice for fraud. Adaptive Security shows how deepfake calls trick employees into sending real money—and why most defenses don't catch them. [...]",
+      "publishedAt": "2026-04-27T13:00:09.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-da5bc8644994",
@@ -679,36 +839,6 @@
       "author": "Jeremy Scahill",
       "excerpt": "The Iranian analyst Hassan Ahmadian speaks with Jeremy Scahill about Iran’s strategy, a potential deal, and how decisions are being made in Tehran.",
       "publishedAt": "2026-04-21T11:50:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-15bbf3239c63",
-      "title": "Everyone You Meet Online is a Freak",
-      "url": "https://www.infinitescroll.us/p/everyone-you-meet-online-is-a-freak",
-      "publication": "Infinite Scroll",
-      "author": "Jeremiah Johnson",
-      "excerpt": "An internet for the obsessives, by the obsessives",
-      "publishedAt": "2026-04-20T16:28:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8bf36ccf2aae",
-      "title": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
-      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "publishedAt": "2026-04-20T15:33:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8c679afecb3b",
-      "title": "U.S.-Iran ceasefire set to expire with talks in limbo; Gunman in Louisiana kills eight children; Israel’s Gaza-style “Yellow Line” in Lebanon",
-      "url": "https://www.dropsitenews.com/p/us-iran-ceasefire-set-to-expire-israel-yellow-line-lebanon",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 20, 2026",
-      "publishedAt": "2026-04-20T15:00:02.000Z"
     }
   ]
 }
