@@ -1,6 +1,76 @@
 {
-  "fetchedAt": "2026-04-28T13:13:47.612Z",
+  "fetchedAt": "2026-04-28T18:43:15.621Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-c984a7f3dd52",
+      "title": "Billionaire Bankrolling Anti-Platner PAC Gutted Maine Mill Towns",
+      "url": "https://www.dropsitenews.com/p/susan-collins-pac-graham-platner-marc-rowan-apollo-global-management-maine-paper-mills",
+      "publication": "Drop Site News",
+      "author": "Nathan Bernard",
+      "excerpt": "Apollo Global Management bankrupt two of Maine’s largest paper mills, selling them for scraps and wiping out more than 1,000 jobs. Now the CEO is cutting checks to keep Susan Collins in office.",
+      "publishedAt": "2026-04-28T18:22:02.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-51d197b5f27f",
+      "title": "Exposing Canary Mission, and Israel’s 50-Year War on Lebanon",
+      "url": "https://www.dropsitenews.com/p/exposing-canary-mission-and-israels",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site's Ryan Grim, Sharif Abdel Kouddous, and Maysa Mustafa are joined by Jacqueline Sweet to discuss her investigation into Canary Mission, and Mohamad Bazzi to discuss Israel's war on Lebanon.",
+      "publishedAt": "2026-04-28T17:47:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-76ad83fa35e2",
+      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
+      "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider hacking collective. [...]",
+      "publishedAt": "2026-04-28T15:39:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3a42ba3cda5a",
+      "title": "Your Couch-to-5K for AI",
+      "url": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
+      "publication": "Lenny's Newsletter",
+      "author": "Hilary Gridley",
+      "excerpt": "A step-by-step guide to building an AI habit that sticks",
+      "publishedAt": "2026-04-28T15:31:24.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-38d401c7ae97",
+      "title": "UAE exits OPEC; Israel extends Dr. Hossam Abu Safiya’s detention indefinitely; Senate to vote on resolution blocking military action against Cuba",
+      "url": "https://www.dropsitenews.com/p/uae-opec-iran-humiliating-us-senate-cuba",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: April 27, 2026",
+      "publishedAt": "2026-04-28T15:09:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-03869e815144",
+      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
+      "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
+      "publishedAt": "2026-04-28T14:50:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c2160d3e6fa5",
+      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
+      "publishedAt": "2026-04-28T13:18:36.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-46e91967bf03",
@@ -819,66 +889,6 @@
       "author": "Drop Site News",
       "excerpt": "Two upset primary at the Michigan Democratic nominating convention are material and symbolic victories for pro-Palestinian activists at the University of Michigan.",
       "publishedAt": "2026-04-21T18:45:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e067d7bbf220",
-      "title": "The Trump-Iran Standoff: A Return to War or Negotiations?",
-      "url": "https://www.dropsitenews.com/p/us-iran-standoff-war-ceasefire-trump-negotiations-pakistan",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site's Ryan Grim and Jeremy Scahill discuss the latest developments between the United States and Iran as a ceasefire between the two countries is set to expire.",
-      "publishedAt": "2026-04-21T17:34:38.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d9550391bf4e",
-      "title": "The Case for Indigenous Ways of Knowing",
-      "url": "https://www.aporiamagazine.com/p/the-case-for-indigenous-ways-of-knowing",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "Finding a middle ground",
-      "publishedAt": "2026-04-21T17:00:41.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5390fe369123",
-      "title": "Rare Survivors of Pacific Boat Strikes Allege U.S. Forces Kidnapped and Tortured Them",
-      "url": "https://www.dropsitenews.com/p/rare-survivors-of-pacific-boat-strikes",
-      "publication": "Drop Site News",
-      "author": "Camila Lourdes Galarza",
-      "excerpt": "As airstrikes and reports of torture under Ecuador’s U.S.-backed military regime continue to mount, fishermen tell Drop Site News they were blindfolded and held hostage for eight days.",
-      "publishedAt": "2026-04-21T17:00:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ed5e53cec3c2",
-      "title": "This is the single most important number in global markets right now",
-      "url": "https://georgenoble.substack.com/p/this-is-the-single-most-important",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "Paper oil settled at $90 on Friday.",
-      "publishedAt": "2026-04-21T15:05:01.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e2aba66fc554",
-      "title": "New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers",
-      "url": "https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Now 25 incredible products totaling over $30,000 in value—free with your Lenny’s Newsletter subscription",
-      "publishedAt": "2026-04-21T15:03:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-77baa31bbcca",
-      "title": "Iran war prompts biggest energy crisis in history: IEA; Israeli convoy kills West Bank teen biking to school; UK universities paid to surveil student protestors",
-      "url": "https://www.dropsitenews.com/p/iran-war-energy-crisis-israeli-settler-kills-west-bank-teen-uk-surveillance-student-protestors",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 21, 2026",
-      "publishedAt": "2026-04-21T15:02:41.000Z"
     }
   ]
 }
