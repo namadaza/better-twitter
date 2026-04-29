@@ -1,6 +1,96 @@
 {
-  "fetchedAt": "2026-04-29T01:04:23.011Z",
+  "fetchedAt": "2026-04-29T19:13:20.811Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-260d32722dad",
+      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
+      "publishedAt": "2026-04-29T18:32:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c505ff90a970",
+      "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
+      "url": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
+      "publishedAt": "2026-04-29T15:51:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-74ae022b67f5",
+      "title": "U.S., Iran remain deadlocked over blockade; Lebanese aid workers killed in Israeli “double tap“; Over half of South Sudan’s population faces acute hunger",
+      "url": "https://www.dropsitenews.com/p/us-iran-war-blockade-deadlock-lebanon-israel-sudan-hunger",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: April 29, 2026",
+      "publishedAt": "2026-04-29T15:20:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-54986c4dfca9",
+      "title": "European police dismantles €50 million crypto investment fraud ring",
+      "url": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Austrian and Albanian authorities dismantled a criminal ring accused of running a large-scale cryptocurrency investment fraud operation that caused estimated losses of over €50 million ($58.5 million) to victims worldwide. [...]",
+      "publishedAt": "2026-04-29T14:27:36.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2c8d02d46330",
+      "title": "PRE-ORDER NOW - Julius Evola: An Adventurous Life",
+      "url": "https://www.arktosjournal.com/p/pre-order-now-julius-evola-an-adventurous",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Andrea Scarabelli",
+      "publishedAt": "2026-04-29T14:01:54.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8b3587809298",
+      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
+      "url": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Push Security",
+      "excerpt": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
+      "publishedAt": "2026-04-29T13:05:14.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-03d016e68c0d",
+      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
+      "url": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
+      "publishedAt": "2026-04-29T12:41:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-da1151350136",
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
+      "publishedAt": "2026-04-29T10:29:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-320f358f03a8",
+      "title": "Microsoft says backend change broke Teams Free chat and calls",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
+      "publishedAt": "2026-04-29T08:38:07.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-33e422775307",
@@ -790,125 +880,6 @@
       "author": "Bill Toulas",
       "excerpt": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
       "publishedAt": "2026-04-22T20:04:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-75cfc0d3998f",
-      "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
-      "url": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
-      "publishedAt": "2026-04-22T18:52:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e890c6385980",
-      "title": "Two Iranian Women in ICE Detention Are Not, In Fact, Related to Qasem Soleimani, Documents Show",
-      "url": "https://www.dropsitenews.com/p/iranian-women-ice-detention-not-related-qasem-soleimani-rubio-loomer",
-      "publication": "Drop Site News",
-      "author": "Ryan Grim",
-      "excerpt": "After Laura Loomer pointed to two women she claimed were connected to the late Iranian military commander, they were arrested and remain in immigration detention. One is now gravely ill.",
-      "publishedAt": "2026-04-22T17:13:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-81713f351dbb",
-      "title": "ABM: How to gift your top accounts (the right way)",
-      "url": "https://newsletter.outbound.kitchen/p/abm-how-to-gift-your-top-200-accounts",
-      "publication": "Outbound Kitchen",
-      "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "Research → score → gift → note. The full play inside.",
-      "publishedAt": "2026-04-22T16:58:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-80fd5c4f666b",
-      "title": "Podcast: The Akbari–Piffer controversy",
-      "url": "https://www.aporiamagazine.com/p/podcast-the-akbaripiffer-controversy",
-      "publication": "Aporia",
-      "excerpt": "Listen now | With Davide Piffer",
-      "publishedAt": "2026-04-22T15:56:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4a931adb6325",
-      "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
-      "url": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from around the globe. [...]",
-      "publishedAt": "2026-04-22T15:06:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-46d19610b698",
-      "title": "Iran seizes two ships in Strait of Hormuz; Trump extends U.S.-Iran ceasefire; Israel commits 220 ceasefire violations in Lebanon in 3 days",
-      "url": "https://www.dropsitenews.com/p/iran-hormuz-trump-ceasefire-israel-lebanon-violations",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 22, 2026",
-      "publishedAt": "2026-04-22T14:29:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0eeccd470108",
-      "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Flare",
-      "excerpt": "Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales team. [...]",
-      "publishedAt": "2026-04-22T14:01:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ac3999276b82",
-      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
-      "publishedAt": "2026-04-22T12:57:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5b4e6832753e",
-      "title": "Trump Blinks First, Extending Ceasefire with Iran as Hormuz Deadlock Continues",
-      "url": "https://www.dropsitenews.com/p/trump-extends-ceasefire-iran-strait-hormuz",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "Iran is continuing to demand the U.S. lift the naval blockade as a condition for new talks. Trump says resuming war remains an option as Iran prepares retaliation.",
-      "publishedAt": "2026-04-22T12:46:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0f08151b215c",
-      "title": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
-      "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️I built a landing page, slides, and an unhinged redesign to find out what Claude Design is actually good at—plus why GPT Image 2.0 might change how you create brand assets",
-      "publishedAt": "2026-04-22T12:04:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f22f0841a3d7",
-      "title": "The global ideas exchange",
-      "url": "https://on.substack.com/p/the-global-ideas-exchange",
-      "publication": "On Substack",
-      "author": "Farrah @Substack",
-      "excerpt": "Introducing translations and our vision for expanding Substack internationally",
-      "publishedAt": "2026-04-22T12:03:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b31e131dfbe5",
-      "title": "The Coup that Split Europe",
-      "url": "https://www.arktosjournal.com/p/the-coup-that-split-europe",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "A Review of Laurent Guyénot's The Papal Curse",
-      "publishedAt": "2026-04-22T09:02:20.000Z"
     }
   ]
 }
