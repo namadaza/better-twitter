@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-04-28T18:43:15.621Z",
+  "fetchedAt": "2026-04-29T01:04:23.011Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-33e422775307",
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
+      "publishedAt": "2026-04-28T21:25:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1fd4db1a2409",
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability  tracked as CVE-2026-42208. [...]",
+      "publishedAt": "2026-04-28T21:07:23.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0901b1c4701c",
+      "title": "Video service Vimeo confirms Anodot breach exposed user data",
+      "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
+      "publishedAt": "2026-04-28T19:04:22.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-c984a7f3dd52",
@@ -879,16 +909,6 @@
       "author": "Arktos Journal",
       "excerpt": "A Review of Laurent Guyénot's The Papal Curse",
       "publishedAt": "2026-04-22T09:02:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b9f93f4851b5",
-      "title": "Michigan Dems Came Down Hard On Student Protests Against the Gaza Genocide. It Just Blew Up in Their Face.",
-      "url": "https://www.dropsitenews.com/p/michigan-democrats-student-protesters-palestine-israel-elections",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Two upset primary at the Michigan Democratic nominating convention are material and symbolic victories for pro-Palestinian activists at the University of Michigan.",
-      "publishedAt": "2026-04-21T18:45:25.000Z"
     }
   ]
 }
