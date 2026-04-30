@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-04-29T19:13:20.811Z",
+  "fetchedAt": "2026-04-30T01:03:55.496Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-d2fecc76d56e",
+      "title": "Official SAP npm packages compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
+      "publishedAt": "2026-04-29T22:43:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6853a58b1b86",
+      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
+      "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
+      "publishedAt": "2026-04-29T22:13:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ba772ccd0bb4",
+      "title": "A Growing Rat Infestation Plagues Tent Cities in Gaza",
+      "url": "https://www.dropsitenews.com/p/gaza-rats-rodents-disease-displaced-palestinians-tents",
+      "publication": "Drop Site News",
+      "author": "Ahmed Dremly",
+      "excerpt": "“We are suffering from two wars,” Majd Sukar, the head of the Preventive Health Department in Gaza City, said. “The war of bombs, and the war of rats.”",
+      "publishedAt": "2026-04-29T21:06:45.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-fba106b9d6b9",
+      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
+      "publishedAt": "2026-04-29T20:50:35.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-260d32722dad",
@@ -830,56 +870,6 @@
       "author": "Jacqueline Sweet",
       "excerpt": "A Drop Site investigation reveals the highest paid employees of the Israeli group running the infamous pro-Israel doxxing site.",
       "publishedAt": "2026-04-23T11:02:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f816492aee22",
-      "title": "Lebanese Journalist Amal Khalil Bombed and Left to Die by Israel",
-      "url": "https://www.dropsitenews.com/p/lebanon-journalist-amal-khalil-killed-israel",
-      "publication": "Drop Site News",
-      "author": "Jeremy Loffredo",
-      "excerpt": "After Khalil was apparently targeted by Israel, a commentator asserting a connection with the military said journalists \"affiliated with Hezbollah\" are \"destined for death.\"",
-      "publishedAt": "2026-04-22T23:14:54.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-06e3856acd6a",
-      "title": "Trading Post Wednesday, April 22, 2026",
-      "url": "https://michaeljburry.substack.com/p/trading-post-42226",
-      "publication": "Cassandra Unchained",
-      "author": "Michael Burry",
-      "excerpt": "Markets do not make needle tops.",
-      "publishedAt": "2026-04-22T22:10:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bddb0370ff12",
-      "title": "Investing For The Future",
-      "url": "https://georgenoble.substack.com/p/investing-for-the-future",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "I just had an incredible conversation with Danielle Ecuyer - packed with valuable insights and tons of actionable advice you can actually apply.",
-      "publishedAt": "2026-04-22T22:06:41.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-80e8f79de37e",
-      "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
-      "publishedAt": "2026-04-22T20:58:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8b7fcf90a3d5",
-      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
-      "url": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
-      "publishedAt": "2026-04-22T20:04:46.000Z"
     }
   ]
 }
