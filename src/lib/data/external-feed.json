@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-04-30T01:03:55.496Z",
+  "fetchedAt": "2026-04-30T13:11:12.745Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-b5244aa98229",
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+      "publishedAt": "2026-04-30T11:40:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-114870936702",
+      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]",
+      "publishedAt": "2026-04-30T11:21:02.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f79f96767972",
+      "title": "Arktos Journal Interviews Joey Oliver \"The Right Wing Coalition\"",
+      "url": "https://www.arktosjournal.com/p/arktos-journal-interviews-joey-oliver",
+      "publication": "Arktos Journal",
+      "author": "Chris",
+      "excerpt": "Author of newly released bestseller American History Z",
+      "publishedAt": "2026-04-30T11:03:26.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-d2fecc76d56e",
@@ -830,46 +860,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
       "publishedAt": "2026-04-23T13:18:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d3d3f9377993",
-      "title": "UK warns of Chinese hackers using proxy networks to evade detection",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]",
-      "publishedAt": "2026-04-23T12:28:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ee746e95d8b4",
-      "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
-      "url": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]",
-      "publishedAt": "2026-04-23T12:06:18.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-cf763f8a2b97",
-      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
-      "publishedAt": "2026-04-23T11:05:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c9f9cfbc3379",
-      "title": "Meet the Top “Content” Producers Linked to Canary Mission",
-      "url": "https://www.dropsitenews.com/p/canary-mission-israel-megamot-shalom-highest-paid-employees",
-      "publication": "Drop Site News",
-      "author": "Jacqueline Sweet",
-      "excerpt": "A Drop Site investigation reveals the highest paid employees of the Israeli group running the infamous pro-Israel doxxing site.",
-      "publishedAt": "2026-04-23T11:02:39.000Z"
     }
   ]
 }
