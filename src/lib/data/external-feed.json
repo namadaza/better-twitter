@@ -1,6 +1,76 @@
 {
-  "fetchedAt": "2026-04-30T13:11:12.745Z",
+  "fetchedAt": "2026-04-30T18:41:21.688Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-1fcb8b76e363",
+      "title": "Romanian leader of online swatting ring gets 4 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]",
+      "publishedAt": "2026-04-30T17:45:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b4d2f499e88e",
+      "title": "The Arab Man Must Not Be Angry",
+      "url": "https://www.themazaj.org/p/the-arab-man-must-not-be-angry",
+      "publication": "The Mazaj",
+      "author": "Zahra",
+      "excerpt": "The Arab man must not be angry.",
+      "publishedAt": "2026-04-30T17:32:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-be1891ccc502",
+      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]",
+      "publishedAt": "2026-04-30T16:32:18.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8393a03c8079",
+      "title": "April KB5083769 Windows 11 update causes backup software failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
+      "publishedAt": "2026-04-30T15:23:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bb578f84f6e8",
+      "title": "House passes FISA renewal; Maine Gov. Mills suspends Senate campaign; Supreme Court weakens Voting Rights Act",
+      "url": "https://www.dropsitenews.com/p/fisa-renewal-mills-senate-supreme-court-voting-rights",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: April 30, 2026",
+      "publishedAt": "2026-04-30T15:09:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a1d328e367e0",
+      "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
+      "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Sprocket Security",
+      "excerpt": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
+      "publishedAt": "2026-04-30T14:02:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bc3f0d5860a5",
+      "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
+      "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
+      "publishedAt": "2026-04-30T13:54:47.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b5244aa98229",
@@ -770,96 +840,6 @@
       "author": "Bill Toulas",
       "excerpt": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
       "publishedAt": "2026-04-23T18:59:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-44a267b8966c",
-      "title": "Despite Denials, AIPAC Is Now Funding Campaign of Ala Stanford In Philadelphia",
-      "url": "https://www.dropsitenews.com/p/aipac-udp-ala-stanford-philadelphia-congress-race",
-      "publication": "Drop Site News",
-      "author": "Ryan Grim",
-      "excerpt": "AIPAC has been funneling money into the campaign of Dr.",
-      "publishedAt": "2026-04-23T18:10:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3d80fe2dcc7b",
-      "title": "Inside Lena Dunham’s Substack press tour",
-      "url": "https://on.substack.com/p/inside-lena-dunhams-substack-press",
-      "publication": "On Substack",
-      "author": "Arielle Swedback",
-      "excerpt": "Lena Dunham and her social strategist on coming back online, her new memoir Famesick, and embarking on a Substack book tour",
-      "publishedAt": "2026-04-23T17:08:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-769908908c3a",
-      "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
-      "publishedAt": "2026-04-23T16:05:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0a061b050aa5",
-      "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
-      "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Listen now | Head of Product for Claude Code on how AI is changing the PM role, building products before the model is ready, inside Claude Code's launch room process, and why speed now matters more than strategy",
-      "publishedAt": "2026-04-23T15:01:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6653a97b486c",
-      "title": "Nine Palestinians killed in Israeli airstrikes on Gaza; Hegseth fires Navy Secretary; Journalist Ahmed Shihab-Eldin acquitted in Kuwait",
-      "url": "https://www.dropsitenews.com/p/gaza-israel-strikes-hegseth-navy-secretary-kuwait-ahmed-shihab-eldin",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 23, 2026",
-      "publishedAt": "2026-04-23T14:52:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-dd6347df3610",
-      "title": "Cosmetics giant Rituals discloses data breach affecting customers",
-      "url": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
-      "publishedAt": "2026-04-23T14:16:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f9d00f8e0737",
-      "title": "Regular Password Resets Aren’t as Safe as You Think",
-      "url": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Specops Software",
-      "excerpt": "Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
-      "publishedAt": "2026-04-23T14:10:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4c58ee0959a1",
-      "title": "The Neocon Upgrade and the New Totalitarianism",
-      "url": "https://www.arktosjournal.com/p/the-neocon-upgrade-and-the-new-totalitarianism",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "Decoding the Palantir Manifesto",
-      "publishedAt": "2026-04-23T13:57:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a47d241e5dba",
-      "title": "Microsoft: Some Teams users can’t join meetings after Edge update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
-      "publishedAt": "2026-04-23T13:18:10.000Z"
     }
   ]
 }
