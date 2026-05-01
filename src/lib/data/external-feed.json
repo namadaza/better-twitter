@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-04-30T18:41:21.688Z",
+  "fetchedAt": "2026-05-01T07:13:56.030Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-769fe5d07f2f",
+      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
+      "publishedAt": "2026-04-30T18:58:50.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-525c704b82ee",
+      "title": "A Defense of Jean-Paul Sartre",
+      "url": "https://www.aporiamagazine.com/p/a-defense-of-jean-paul-sartre",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "His politics may have been bad, but his philosophy was compelling.",
+      "publishedAt": "2026-04-30T18:53:51.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-1fcb8b76e363",
@@ -790,56 +810,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday. [...]",
       "publishedAt": "2026-04-24T11:38:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-72edd3cce26e",
-      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
-      "publishedAt": "2026-04-23T21:33:45.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e0bfc555c881",
-      "title": "Last night was the biggest disaster in the history of Tesla",
-      "url": "https://georgenoble.substack.com/p/last-night-was-the-biggest-disaster",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "Let me walk you through what actually happened on that earnings call, because the headlines are doing you a disservice:",
-      "publishedAt": "2026-04-23T20:53:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f8dbcb45a14a",
-      "title": "GPT 5.5 just did what no other model could",
-      "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️ Why I'm happy to pay $180 per million output tokens for GPT 5.5 Pro, what it actually did in my Codex workflow, and the intelligence test it completed that Claude Code kept failing",
-      "publishedAt": "2026-04-23T19:39:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6d5f21a94414",
-      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
-      "publishedAt": "2026-04-23T19:21:01.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-eae8a2bd9482",
-      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
-      "url": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
-      "publishedAt": "2026-04-23T18:59:39.000Z"
     }
   ]
 }
