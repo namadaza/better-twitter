@@ -35,35 +35,26 @@ function itemId(slug: string, natural: string): string {
 }
 
 function fanOut(book: BookFile): FeedItem[] {
+  const format: "poem" | "prose" = book.type === "poem" ? "poem" : "prose";
   const out: FeedItem[] = [];
   for (const raw of book.items) {
-    if (book.type === "poem") {
-      const body = (raw.body ?? raw.text ?? "").trim();
-      const title = (raw.title ?? "").trim();
-      if (!body) continue;
-      out.push({
-        type: "poem",
-        id: itemId(book.slug, `${title}\n${body}`),
-        title: title || "Untitled",
-        author: book.author ?? "",
-        book: book.title,
-        body,
-      });
-    } else {
-      const text = (raw.text ?? raw.body ?? "").trim();
-      if (!text) continue;
-      out.push({
-        type: "aphorism",
-        id: itemId(book.slug, text),
-        text,
-        author: book.author,
-        book: book.title,
-        source: raw.source?.trim() || undefined,
-        reference: raw.reference?.trim() || undefined,
-        url: raw.url?.trim() || undefined,
-        secondaryText: raw.secondaryText?.trim() || undefined,
-      });
-    }
+    const body = (raw.body ?? raw.text ?? "").trim();
+    if (!body) continue;
+    const title = raw.title?.trim() || undefined;
+    const naturalKey = format === "poem" ? `${title ?? ""}\n${body}` : body;
+    out.push({
+      type: "book",
+      id: itemId(book.slug, naturalKey),
+      format,
+      body,
+      title,
+      author: book.author,
+      book: book.title,
+      source: raw.source?.trim() || undefined,
+      reference: raw.reference?.trim() || undefined,
+      url: raw.url?.trim() || undefined,
+      secondaryText: raw.secondaryText?.trim() || undefined,
+    });
   }
   return out;
 }

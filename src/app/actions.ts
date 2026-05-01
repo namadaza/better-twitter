@@ -4,6 +4,22 @@ import { createHash } from "crypto";
 import type { FeedItem } from "@/lib/types";
 import { loadAllSources } from "@/lib/sources";
 
+type BucketKey = "highlight" | "rss" | "book" | "islam";
+
+const ISLAMIC_BOOKS = new Set(["The Quran", "Mishkat al-Masabih"]);
+
+const SOURCE_WEIGHTS: Record<BucketKey, number> = {
+  highlight: 4,
+  rss: 4,
+  book: 2,
+  islam: 1,
+};
+
+function bucketFor(item: FeedItem): BucketKey {
+  if (item.type === "book" && ISLAMIC_BOOKS.has(item.book)) return "islam";
+  return item.type;
+}
+
 function makeSeededRandom(seed: string): () => number {
   const hash = createHash("sha256").update(seed).digest();
   let state = hash.readUInt32LE(0) || 1;
@@ -26,57 +42,46 @@ function shuffleWithSeed<T>(items: T[], random: () => number): T[] {
   return shuffled;
 }
 
-type LocalBucket = "quran" | "hadith" | "other";
+export async function getFeedItems(
+  seed: string = "default",
+): Promise<FeedItem[]> {
+  const all = await loadAllSources();
 
-const LOCAL_BUCKET_WEIGHTS: Record<LocalBucket, number> = {
-  quran: 1,
-  hadith: 1,
-  other: 6,
-};
-
-function bucketForLocalItem(item: Exclude<FeedItem, { type: "rss" }>): LocalBucket {
-  if (item.type === "aphorism") {
-    if (item.book === "The Quran") return "quran";
-    if (item.book === "Mishkat al-Masabih") return "hadith";
-  }
-
-  return "other";
-}
-
-function weightedBucketOrder(
-  items: Array<Exclude<FeedItem, { type: "rss" }>>,
-  random: () => number,
-): Array<Exclude<FeedItem, { type: "rss" }>> {
-  const buckets: Record<LocalBucket, Array<Exclude<FeedItem, { type: "rss" }>>> = {
-    quran: [],
-    hadith: [],
-    other: [],
+  const buckets: Record<BucketKey, FeedItem[]> = {
+    highlight: [],
+    rss: [],
+    book: [],
+    islam: [],
   };
+  for (const item of all) buckets[bucketFor(item)].push(item);
 
-  for (const item of items) {
-    buckets[bucketForLocalItem(item)].push(item);
+  for (const key of Object.keys(buckets) as BucketKey[]) {
+    const sorted = [...buckets[key]].sort((a, b) => a.id.localeCompare(b.id));
+    buckets[key] = shuffleWithSeed(sorted, makeSeededRandom(`${seed}:${key}`));
   }
 
-  for (const key of Object.keys(buckets) as LocalBucket[]) {
-    buckets[key] = shuffleWithSeed(buckets[key], random);
-  }
+  const scheduler = makeSeededRandom(seed);
+  const ordered: FeedItem[] = [];
 
-  const ordered: Array<Exclude<FeedItem, { type: "rss" }>> = [];
-
-  while (buckets.quran.length || buckets.hadith.length || buckets.other.length) {
-    const available = (Object.keys(buckets) as LocalBucket[]).filter(
+  while (
+    buckets.highlight.length ||
+    buckets.rss.length ||
+    buckets.book.length ||
+    buckets.islam.length
+  ) {
+    const available = (Object.keys(buckets) as BucketKey[]).filter(
       (key) => buckets[key].length > 0,
     );
     const totalWeight = available.reduce(
-      (sum, key) => sum + LOCAL_BUCKET_WEIGHTS[key],
+      (sum, key) => sum + SOURCE_WEIGHTS[key],
       0,
     );
 
-    let roll = random() * totalWeight;
+    let roll = scheduler() * totalWeight;
     let selected = available[available.length - 1];
 
     for (const key of available) {
-      roll -= LOCAL_BUCKET_WEIGHTS[key];
+      roll -= SOURCE_WEIGHTS[key];
       if (roll < 0) {
         selected = key;
         break;
@@ -88,65 +93,6 @@ function weightedBucketOrder(
   }
 
   return ordered;
-}
-
-function randomInt(min: number, max: number, random: () => number): number {
-  return Math.floor(random() * (max - min + 1)) + min;
-}
-
-export async function getFeedItems(seed: string = "default"): Promise<FeedItem[]> {
-  const all = await loadAllSources();
-  const random = makeSeededRandom(seed);
-  const externalRandom = makeSeededRandom(`${seed}:rss`);
-
-  const external = all
-    .filter((item): item is Extract<FeedItem, { type: "rss" }> => {
-      return item.type === "rss";
-    })
-    .sort((a, b) => a.id.localeCompare(b.id));
-
-  const shuffledExternal = shuffleWithSeed(external, externalRandom);
-
-  const local = weightedBucketOrder(
-    all
-      .filter((item) => item.type !== "rss")
-      .sort((a, b) => a.id.localeCompare(b.id)),
-    random,
-  );
-
-  if (shuffledExternal.length === 0) return local;
-  if (local.length === 0) return shuffledExternal;
-
-  const mixed: FeedItem[] = [];
-  let localCursor = 0;
-  let externalCursor = 0;
-
-  while (
-    localCursor < local.length ||
-    externalCursor < shuffledExternal.length
-  ) {
-    const localGap = randomInt(2, 5, random);
-    let addedLocal = 0;
-
-    while (localCursor < local.length && addedLocal < localGap) {
-      mixed.push(local[localCursor++]);
-      addedLocal += 1;
-    }
-
-    if (externalCursor < shuffledExternal.length) {
-      mixed.push(shuffledExternal[externalCursor++]);
-    }
-
-    if (
-      localCursor >= local.length &&
-      externalCursor < shuffledExternal.length
-    ) {
-      mixed.push(...shuffledExternal.slice(externalCursor));
-      break;
-    }
-  }
-
-  return mixed;
 }
 
 export async function getFeedItemsPage(

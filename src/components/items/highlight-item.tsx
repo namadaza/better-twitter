@@ -8,7 +8,7 @@ export function HighlightItem({ item }: Props) {
   return (
     <article className="px-4 py-8">
       <div className="mb-4 font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
-        From highlights
+        {item.title}
       </div>
       <Expandable collapsedMaxHeight={360}>
         <div
@@ -18,7 +18,7 @@ export function HighlightItem({ item }: Props) {
         </div>
       </Expandable>
       <div className="mt-5 font-serif text-sm text-muted-foreground">
-        {item.title}
+        From Highlights
       </div>
     </article>
   );

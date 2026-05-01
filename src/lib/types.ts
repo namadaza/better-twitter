@@ -6,25 +6,6 @@ export type FeedItem =
       text: string;
     }
   | {
-      type: "poem";
-      id: string;
-      title: string;
-      author: string;
-      book: string;
-      body: string;
-    }
-  | {
-      type: "aphorism";
-      id: string;
-      text: string;
-      author?: string;
-      book: string;
-      source?: string;
-      reference?: string;
-      url?: string;
-      secondaryText?: string;
-    }
-  | {
       type: "rss";
       id: string;
       title: string;
@@ -33,6 +14,19 @@ export type FeedItem =
       author?: string;
       excerpt?: string;
       publishedAt?: string;
+    }
+  | {
+      type: "book";
+      id: string;
+      format: "poem" | "prose";
+      body: string;
+      title?: string;
+      author?: string;
+      book: string;
+      source?: string;
+      reference?: string;
+      url?: string;
+      secondaryText?: string;
     };
 
 export type Theme = "light" | "dark" | "system";

@@ -4,8 +4,7 @@ import { useCallback, useEffect, useState } from "react";
 import type { FeedItem } from "@/lib/types";
 import { getFeedItemsPage } from "@/app/actions";
 import { HighlightItem } from "./items/highlight-item";
-import { PoemItem } from "./items/poem-item";
-import { AphorismItem } from "./items/aphorism-item";
+import { BookItem } from "./items/book-item";
 import { RssItem } from "./items/rss-item";
 
 interface FeedProps {
@@ -17,10 +16,8 @@ function renderItem(item: FeedItem) {
   switch (item.type) {
     case "highlight":
       return <HighlightItem item={item} />;
-    case "poem":
-      return <PoemItem item={item} />;
-    case "aphorism":
-      return <AphorismItem item={item} />;
+    case "book":
+      return <BookItem item={item} />;
     case "rss":
       return <RssItem item={item} />;
   }
