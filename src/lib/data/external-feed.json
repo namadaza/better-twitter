@@ -1,6 +1,116 @@
 {
-  "fetchedAt": "2026-05-01T07:13:56.030Z",
+  "fetchedAt": "2026-05-01T18:38:09.293Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-7f8bb92b4a52",
+      "title": "Why Iran’s Oil Infrastructure Is Not Exploding Like Trump Said It Would",
+      "url": "https://www.dropsitenews.com/p/trump-iran-oil-infrastructure-explode",
+      "publication": "Drop Site News",
+      "author": "Murtaza Hussain",
+      "excerpt": "Trump’s risky gamble to stop Iran from exporting oil shows no signs of succeeding, experts say.",
+      "publishedAt": "2026-05-01T18:23:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a389943a374b",
+      "title": "15-year-old detained over French govt agency data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
+      "publication": "BleepingComputer",
+      "author": "Ionut Ilascu",
+      "excerpt": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
+      "publishedAt": "2026-05-01T17:52:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9f8998ecdfc4",
+      "title": "Story retracted",
+      "url": "https://www.bleepingcomputer.com/news/security/story-retracted/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]",
+      "publishedAt": "2026-05-01T16:26:28.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1e99a63cf374",
+      "title": "May Day 2026; Israel kills over 30 in Lebanon; Displaced Palestinians burn tents in protest of conditions; Mali rebels call for nationwide uprising",
+      "url": "https://www.dropsitenews.com/p/may-day-2026-israel-lebanon-attacks-continue-mali-jnim-uprising",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 1, 2026",
+      "publishedAt": "2026-05-01T15:25:14.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-be7d3ab928d7",
+      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
+      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Criminal IP",
+      "excerpt": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
+      "publishedAt": "2026-05-01T14:02:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-350a8c620b67",
+      "title": "Arbitrating Justice",
+      "url": "https://www.khawatir.blog/p/arbitrating-justice",
+      "publication": "Khawatir",
+      "author": "Abdul-Malik Merchant",
+      "excerpt": "When Legality Is Not Enough",
+      "publishedAt": "2026-05-01T13:20:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6d18e665a4f9",
+      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
+      "publishedAt": "2026-05-01T12:46:48.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4d32c916863a",
+      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]",
+      "publishedAt": "2026-05-01T11:10:07.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f515b1cad25a",
+      "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance improvements for launching startup apps. [...]",
+      "publishedAt": "2026-05-01T10:00:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8e248c449342",
+      "title": "\"History Is Always Open\": Arktos in Conversation with Alain de Benoist",
+      "url": "https://www.arktosjournal.com/p/history-is-always-open-arktos-in",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "An Interview on the Past, Present, and Future",
+      "publishedAt": "2026-05-01T09:15:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cdd42963fb90",
+      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+      "publishedAt": "2026-05-01T07:47:11.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-769fe5d07f2f",
@@ -730,86 +840,6 @@
       "author": "Lawrence Abrams",
       "excerpt": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
       "publishedAt": "2026-04-24T20:08:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8488851845a9",
-      "title": "New BlackFile extortion group linked to surge of vishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
-      "publishedAt": "2026-04-24T18:26:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1a68ae47c68d",
-      "title": "Microsoft to roll out Entra passkeys on Windows in late April",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April. [...]",
-      "publishedAt": "2026-04-24T18:13:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9e0b3556c2c9",
-      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions. [...]",
-      "publishedAt": "2026-04-24T17:28:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c079c88bfa31",
-      "title": "The Justice Dept’s unprecedented campaign to strip citizenship; Soldier charged with using classified info to bet on Polymarket; Meatpackers win after historic strike",
-      "url": "https://www.dropsitenews.com/p/trump-justice-department-denaturalization-soldier-polymarket-maduro-jbs-meatpackers-colorado",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 24, 2026",
-      "publishedAt": "2026-04-24T14:47:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a429ab23ed97",
-      "title": "The Death of Gatekeepers",
-      "url": "https://www.infinitescroll.us/p/the-death-of-gatekeepers",
-      "publication": "Infinite Scroll",
-      "author": "Jeremiah Johnson",
-      "excerpt": "And the most enraging thing about our clout-chasing media system",
-      "publishedAt": "2026-04-24T14:12:41.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4a1aba9d866d",
-      "title": "DORA and operational resilience: Credential management as a financial risk control",
-      "url": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Passwork",
-      "excerpt": "Article 9 of DORA makes authentication and access control a legal obligation for EU financial entities. Here is what the regulation requires, and what a breach looks like when those controls are missing. [...]",
-      "publishedAt": "2026-04-24T14:10:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7e79df0d9238",
-      "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
-      "publishedAt": "2026-04-24T13:35:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2450e06ee2b2",
-      "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday. [...]",
-      "publishedAt": "2026-04-24T11:38:00.000Z"
     }
   ]
 }
