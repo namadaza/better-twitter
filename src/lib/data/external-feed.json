@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-05-02T12:29:25.856Z",
+  "fetchedAt": "2026-05-02T18:27:38.337Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-5e05625a7231",
+      "title": "🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 184",
+      "publishedAt": "2026-05-02T18:02:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-598778c616e2",
+      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
+      "publishedAt": "2026-05-02T14:32:25.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e44dfc05f05d",
+      "title": "Illegal Siege, Brutal Abuse: Our Detention and Assault at the Hands of Israeli Prison Guards",
+      "url": "https://www.dropsitenews.com/p/gaza-flotilla-israel-abducted-abused",
+      "publication": "Drop Site News",
+      "author": "Noa Avishag Schnall",
+      "excerpt": "Two Gaza flotilla members describe their abduction and abuse by Israel last fall.",
+      "publishedAt": "2026-05-02T13:05:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-336307399654",
+      "title": "Illegal Siege, Brutal Abuse: Our Detention and Assault at the Hands of Israeli Prison Guards",
+      "url": "https://www.dropsitenews.com/p/gaza-flotilla-israel-abduction-abuse-prison",
+      "publication": "Drop Site News",
+      "author": "Noa Avishag Schnall",
+      "excerpt": "Two Gaza flotilla members describe their abduction and abuse by Israel last fall.",
+      "publishedAt": "2026-05-02T13:04:36.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-5db4b74126f5",
@@ -800,46 +840,6 @@
       "author": "Kiyani",
       "excerpt": "Community Wisdom 182",
       "publishedAt": "2026-04-25T19:51:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6c24d9a66e40",
-      "title": "Microsoft rolls out revamped Windows Insider Program",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-      "publication": "BleepingComputer",
-      "author": "Mayank Parmar",
-      "excerpt": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
-      "publishedAt": "2026-04-25T17:07:13.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-11d806acbd14",
-      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
-      "url": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
-      "publishedAt": "2026-04-25T15:07:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3217b9aaf103",
-      "title": "Displaced Lebanese Pool Money to Buy Satellite Images to See What Remains of their Homes",
-      "url": "https://www.dropsitenews.com/p/displaced-southern-lebanese-aitaroun-israeli-military-satellite-images",
-      "publication": "Drop Site News",
-      "author": "Lili Gerges",
-      "excerpt": "For many residents unable to return to southern Lebanon amid Israel’s invasion and demolition campaign, satellite imagery has become the only way they can find out the state of their homes.",
-      "publishedAt": "2026-04-25T14:59:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c85210175303",
-      "title": "Most Partisans Are Deluded",
-      "url": "https://www.aporiamagazine.com/p/most-partisans-are-deluded",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "Humans derive meaning from competing in groups.",
-      "publishedAt": "2026-04-25T14:07:55.000Z"
     }
   ]
 }
