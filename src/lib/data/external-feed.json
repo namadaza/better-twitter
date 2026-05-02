@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-05-01T18:38:09.293Z",
+  "fetchedAt": "2026-05-02T01:00:57.014Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-5db4b74126f5",
+      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
+      "publishedAt": "2026-05-02T00:18:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a5e6c5f39ca3",
+      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
+      "url": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
+      "publishedAt": "2026-05-01T23:43:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cfc54c58bbba",
+      "title": "New Lawsuit: Do We Have a Right to Know We're Being Surveilled?",
+      "url": "https://www.dropsitenews.com/p/nyclu-lawsuit-surveillance-camera-location-public-record-flock",
+      "publication": "Drop Site News",
+      "author": "Jessica Burbank",
+      "excerpt": "Scarsdale, New York didn't want to share its plans for Flock surveillance cameras. A new lawsuit brought by NYCLU seeks to change that.",
+      "publishedAt": "2026-05-01T20:26:08.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-7f8bb92b4a52",
@@ -27,7 +57,7 @@
       "title": "Story retracted",
       "url": "https://www.bleepingcomputer.com/news/security/story-retracted/",
       "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
+      "author": "BleepingComputer",
       "excerpt": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]",
       "publishedAt": "2026-05-01T16:26:28.000Z"
     },
@@ -810,36 +840,6 @@
       "author": "Aporia",
       "excerpt": "Humans derive meaning from competing in groups.",
       "publishedAt": "2026-04-25T14:07:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-97fb794c8c3d",
-      "title": "ADT confirms data breach after ShinyHunters leak threat",
-      "url": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "publishedAt": "2026-04-24T22:53:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-cedcfa4c59c8",
-      "title": "Firestarter malware survives Cisco firewall updates, security patches",
-      "url": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software. [...]",
-      "publishedAt": "2026-04-24T20:34:08.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-64a99fde1bbb",
-      "title": "Windows Update gets new controls to reduce forced restarts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
-      "publishedAt": "2026-04-24T20:08:26.000Z"
     }
   ]
 }
