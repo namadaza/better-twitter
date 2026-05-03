@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-05-03T12:29:31.014Z",
+  "fetchedAt": "2026-05-03T18:27:50.584Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-f8a96b7cb0a6",
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
+      "publishedAt": "2026-05-03T18:11:25.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-03489d8d7ac6",
+      "title": "How the Academic Left Failed Syria",
+      "url": "https://kasurian.com/p/academic-left-failed-syria",
+      "publication": "Kasurian",
+      "author": "Kasurian",
+      "excerpt": "On critique without action, and a revolution the Academic Left refused to see.",
+      "publishedAt": "2026-05-03T16:03:45.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-25dc67657c4d",
+      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
+      "publishedAt": "2026-05-03T14:11:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d426aeca084c",
+      "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
+      "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Notion’s design and product lead on why agency beats skills in the AI era, why vibe coding made more software but not better software, and how Notion ships with “drive it like it’s stolen”",
+      "publishedAt": "2026-05-03T12:30:59.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b102df01b8af",
@@ -810,36 +850,6 @@
       "author": "Elric Legloire - Outbound Chef",
       "excerpt": "What Top SaaS Companies Get Right About Outbound in 2026",
       "publishedAt": "2026-04-26T18:32:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4d8564e850aa",
-      "title": "American utility firm Itron discloses breach of internal IT network",
-      "url": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]",
-      "publishedAt": "2026-04-26T14:22:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3798e9f0a874",
-      "title": "The Return of Oral Culture",
-      "url": "https://kasurian.com/p/return-of-oral-culture",
-      "publication": "Kasurian",
-      "author": "Kasurian",
-      "excerpt": "Walter Ong, Neil Postman, and our new, high-tech oral culture.",
-      "publishedAt": "2026-04-26T13:08:36.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0e5844867dcb",
-      "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
-      "url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Listen now | Snap's co-founder on why only two consumer apps broke through in 15 years, how every major Snapchat feature was cloned, why hardware is the only real moat, and why distribution beats product",
-      "publishedAt": "2026-04-26T12:31:49.000Z"
     }
   ]
 }
