@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-02T18:27:38.337Z",
+  "fetchedAt": "2026-05-03T01:07:27.964Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-b102df01b8af",
+      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
+      "publishedAt": "2026-05-02T21:54:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-544c34933189",
+      "title": "Women and Slavery",
+      "url": "https://www.aporiamagazine.com/p/women-and-slavery",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "Unpacking a popular narrative",
+      "publishedAt": "2026-05-02T18:12:06.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-5e05625a7231",
@@ -830,16 +850,6 @@
       "author": "Abdul-Malik Merchant",
       "excerpt": "Why So Many Muslim Men Want Marriage and Won’t Move Toward It",
       "publishedAt": "2026-04-26T02:24:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f25fcc7fbb7e",
-      "title": "🧠 Community Wisdom: What great product leaders do differently, Claude vs. ChatGPT, receiving hard feedback two weeks into the job, tips for joining a pre-PMF startup, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-great-product",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 182",
-      "publishedAt": "2026-04-25T19:51:00.000Z"
     }
   ]
 }
