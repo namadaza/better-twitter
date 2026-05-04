@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-05-04T01:05:08.346Z",
+  "fetchedAt": "2026-05-04T13:23:16.599Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-52b8385565ee",
+      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Progress Software warned customers to patch a critical authentication bypass vulnerability in its MOVEit Automation enterprise-grade managed file transfer (MFT) application. [...]",
+      "publishedAt": "2026-05-04T12:18:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-deb3f18327e8",
+      "title": "Webinar: Why MSPs must rethink security and backup strategies",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Security breaches don't just test your defenses—they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational after attacks. [...]",
+      "publishedAt": "2026-05-04T12:16:24.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a05e40ad2011",
+      "title": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
+      "url": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️ Owen Williams (Stripe) shows how he vibe coded Protodash, the internal tool that turns Stripe’s design system into clickable prototypes in two minutes",
+      "publishedAt": "2026-05-04T12:03:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b03489e5cbcf",
+      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit. [...]",
+      "publishedAt": "2026-05-04T11:28:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-68384e76c976",
+      "title": "Microsoft confirms April Windows updates cause backup failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver. [...]",
+      "publishedAt": "2026-05-04T10:40:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5f6aea096265",
+      "title": "Ethnocide: The System for Killing Peoples",
+      "url": "https://www.arktosjournal.com/p/ethnocide-the-system-for-killing",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by IdeoChoc",
+      "publishedAt": "2026-05-04T07:28:38.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-ea3b67ac6693",
@@ -780,66 +840,6 @@
       "author": "Bill Toulas",
       "excerpt": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
       "publishedAt": "2026-04-27T13:50:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-24d13dc4f37c",
-      "title": "Weekly Scroll: Freaks and Gatekeepers",
-      "url": "https://www.infinitescroll.us/p/weekly-scroll-freaks-and-gatekeepers",
-      "publication": "Infinite Scroll",
-      "author": "Jeremiah Johnson",
-      "excerpt": "Nick Fuentes, the rise of clip culture, and one good AI song",
-      "publishedAt": "2026-04-27T13:07:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6b11c1e2b726",
-      "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "​22-year-old Evan Tangeman of Newport Beach, California, was sentenced to 70 months in prison for laundering funds stolen in a massive $230 million cryptocurrency heist. [...]",
-      "publishedAt": "2026-04-27T13:01:38.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1d5f3288b28f",
-      "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
-      "url": "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Adaptive Security",
-      "excerpt": "Three seconds of audio is all it takes to clone a voice for fraud. Adaptive Security shows how deepfake calls trick employees into sending real money—and why most defenses don't catch them. [...]",
-      "publishedAt": "2026-04-27T13:00:09.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-da5bc8644994",
-      "title": "Ernest Renan's Aristocratic Dream",
-      "url": "https://www.arktosjournal.com/p/ernest-renans-aristocratic-dream",
-      "publication": "Arktos Journal",
-      "author": "Antoine Dresse",
-      "excerpt": "The Oligarchy of Intelligence vs. the Tyranny of Stupidity",
-      "publishedAt": "2026-04-27T12:09:03.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9a094dd7bd8b",
-      "title": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
-      "url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Listen now | 🎙️Jason Levin (CEO of Memelord) shows how he built a $100K ARR meme company without coding—plus why every marketer should vibe code and how agents are becoming his primary users",
-      "publishedAt": "2026-04-27T12:03:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d49a3e33d6a9",
-      "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
-      "publishedAt": "2026-04-27T12:03:46.000Z"
     }
   ]
 }
