@@ -1,6 +1,96 @@
 {
-  "fetchedAt": "2026-05-04T13:23:16.599Z",
+  "fetchedAt": "2026-05-04T18:44:40.607Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-0ea4f73696cd",
+      "title": "THURSDAY: Join Watermelon Pictures and Drop Site News for a virtual screening of Pistachio Wars",
+      "url": "https://www.dropsitenews.com/p/thursday-join-watermelon-pictures",
+      "publication": "Drop Site News",
+      "author": "Nika Soon-Shiong",
+      "excerpt": "We are offering paid subscribers advance priority registration to the screening – because spots will fill up fast!",
+      "publishedAt": "2026-05-04T18:08:14.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5cbff7bea3fa",
+      "title": "Backdoored PyTorch Lightning package drops credential stealer",
+      "url": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
+      "publishedAt": "2026-05-04T17:15:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3db9958278d7",
+      "title": "Trellix discloses data breach after source code repository hack",
+      "url": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
+      "publishedAt": "2026-05-04T16:25:07.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-242b1c9de1db",
+      "title": "Housing costs and immigration",
+      "url": "https://www.aporiamagazine.com/p/housing-costs-and-immigration",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "Debunking the debunkers",
+      "publishedAt": "2026-05-04T16:11:34.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f4560c047c62",
+      "title": "All eyes on the Strait of Hormuz; Israel kills over 60 in Lebanon; Abortion by mail temporarily halted by federal court",
+      "url": "https://www.dropsitenews.com/p/trump-navy-strait-hormuz-iran-israel-lebanon-abortion-access",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 4, 2026",
+      "publishedAt": "2026-05-04T15:13:26.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-047ce3ab15cb",
+      "title": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
+      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "publishedAt": "2026-05-04T15:01:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-13d67223cff1",
+      "title": "We Took Away the Phones — Now What?",
+      "url": "https://www.afterbabel.com/p/rebuilding-youth-community-groups-kaplan",
+      "publication": "After Babel",
+      "author": "Seth Kaplan",
+      "excerpt": "How rebuilding youth community groups can restore a play-based childhood.",
+      "publishedAt": "2026-05-04T14:58:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8bfab84b1fe6",
+      "title": "Trump Escalates Military Threats in Hormuz as Iran Prepares for New Round of U.S.-Israeli Bombings and Assassinations",
+      "url": "https://www.dropsitenews.com/p/trump-iran-war-threats-hormuz-israel",
+      "publication": "Drop Site News",
+      "author": "Jeremy Scahill",
+      "excerpt": "Iran believes Trump is likely to resume the war in failed quest to declare victory, a senior Iranian official told Drop Site",
+      "publishedAt": "2026-05-04T14:42:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d48ed78f2c8b",
+      "title": "They don’t hack, they borrow: How fraudsters target credit unions",
+      "url": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Flare",
+      "excerpt": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
+      "publishedAt": "2026-05-04T13:42:51.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-52b8385565ee",
@@ -760,86 +850,6 @@
       "author": "Lawrence Abrams",
       "excerpt": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
       "publishedAt": "2026-04-27T19:56:03.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2e74286ff7fb",
-      "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]",
-      "publishedAt": "2026-04-27T16:27:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f37b4ea0e96b",
-      "title": "Deadliest day in Lebanon since “ceasefire”; Militant surge in Mali; SCOTUS weighing Roundup return",
-      "url": "https://www.dropsitenews.com/p/deadliest-day-lebanon-ceasefire-insurgents-mali-scotus-roundup",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 27, 2026",
-      "publishedAt": "2026-04-27T15:55:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8430e3134b5f",
-      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
-      "publishedAt": "2026-04-27T15:17:37.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b11527e11ae8",
-      "title": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
-      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "publishedAt": "2026-04-27T15:02:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1654b5d1d94a",
-      "title": "As Trump’s Narrative on Negotiations Flails, Iran Is Setting Its Own Terms for Ending the War",
-      "url": "https://www.dropsitenews.com/p/iran-war-trump-negotiations-munitions-markets-midterms",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "Despite Trump’s repeated claims that Iran is beginning to capitulate, Tehran believes it has the three Ms on its side: “munitions, markets, and the midterms.”",
-      "publishedAt": "2026-04-27T14:57:37.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1f0917231ad4",
-      "title": "Home security giant ADT data breach affects 5.5 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]",
-      "publishedAt": "2026-04-27T14:43:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e83be7dd788b",
-      "title": "Webinar: Spotting cyberattacks before they begin",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]",
-      "publishedAt": "2026-04-27T14:25:35.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-de0f69217bba",
-      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
-      "url": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
-      "publishedAt": "2026-04-27T13:50:42.000Z"
     }
   ]
 }
