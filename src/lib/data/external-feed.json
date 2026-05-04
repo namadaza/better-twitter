@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-05-03T18:27:50.584Z",
+  "fetchedAt": "2026-05-04T01:05:08.346Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-ea3b67ac6693",
+      "title": "Instructure confirms data breach, ShinyHunters claims attack",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
+      "publishedAt": "2026-05-03T22:16:27.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-f8a96b7cb0a6",
@@ -830,26 +840,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mailboxes. [...]",
       "publishedAt": "2026-04-27T12:03:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ac4ed27d1d3c",
-      "title": "The mental exercise collection",
-      "url": "https://www.beautyofsaas.com/p/the-mental-exercise-collection-what-best-in-the-world",
-      "publication": "BOSS Letter",
-      "author": "BOSS Letter",
-      "excerpt": "139: Curated from the world's best coaches and psychologists.",
-      "publishedAt": "2026-04-26T22:09:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c624ae693b72",
-      "title": "How to Build a High-Performing Outbound Team in 2026",
-      "url": "https://newsletter.outbound.kitchen/p/outbound-foundations-hiring-icp-message",
-      "publication": "Outbound Kitchen",
-      "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "What Top SaaS Companies Get Right About Outbound in 2026",
-      "publishedAt": "2026-04-26T18:32:57.000Z"
     }
   ]
 }
