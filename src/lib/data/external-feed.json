@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-04T18:44:40.607Z",
+  "fetchedAt": "2026-05-05T07:04:43.937Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-afef2e0ad516",
+      "title": "Weaver E-cology critical bug exploited in attacks since March",
+      "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
+      "publishedAt": "2026-05-04T22:12:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-629d3dca418d",
+      "title": "Amazon SES increasingly abused in phishing to evade detection",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+      "publishedAt": "2026-05-04T20:03:28.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-0ea4f73696cd",
@@ -800,56 +820,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail accounts via the default Mail app. [...]",
       "publishedAt": "2026-04-28T08:37:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-065fa392b0a2",
-      "title": "Robinhood account creation flaw abused to send phishing emails",
-      "url": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
-      "publishedAt": "2026-04-27T23:11:01.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b7cec6f65f52",
-      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
-      "publishedAt": "2026-04-27T21:41:01.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-466cdef1d572",
-      "title": "Gaza’s Deir Al-Balah Holds First Election Since 2005",
-      "url": "https://www.dropsitenews.com/p/gaza-deir-al-balah-municipal-election-hamas-fatah-west-bank",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "While the vote was lauded as a step forward, it came in the context of an ongoing genocide and occupation and a recent law limiting which candidates can run.",
-      "publishedAt": "2026-04-27T21:24:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-826d90a77bae",
-      "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
-      "url": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
-      "publishedAt": "2026-04-27T20:00:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4620bae0c206",
-      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
-      "url": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
-      "publishedAt": "2026-04-27T19:56:03.000Z"
     }
   ]
 }
