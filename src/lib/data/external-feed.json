@@ -1,6 +1,56 @@
 {
-  "fetchedAt": "2026-05-05T07:04:43.937Z",
+  "fetchedAt": "2026-05-05T12:39:03.910Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-b41a8a1df029",
+      "title": "Google now offers up to $1.5 million for some Android exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) has made easier to find. [...]",
+      "publishedAt": "2026-05-05T11:24:48.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-028e76f0c7bf",
+      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
+      "publishedAt": "2026-05-05T10:13:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-41fef7d96e0c",
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
+      "publishedAt": "2026-05-05T10:03:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4a7d5924e5e6",
+      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+      "url": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
+      "publishedAt": "2026-05-05T09:04:13.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a4de9295e69c",
+      "title": "The Spiritual Journey of Julius Evola",
+      "url": "https://www.arktosjournal.com/p/the-spiritual-journey-of-julius-evola",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Jean Varenne",
+      "publishedAt": "2026-05-05T08:23:46.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-afef2e0ad516",
@@ -780,46 +830,6 @@
       "author": "Sponsored by Flare",
       "excerpt": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]",
       "publishedAt": "2026-04-28T12:50:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-514c5ca0b0ec",
-      "title": "Round-up: Are taller people more intelligent?",
-      "url": "https://www.aporiamagazine.com/p/round-up-are-taller-people-more-intelligent",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "The most interesting articles that came to our attention this week",
-      "publishedAt": "2026-04-28T11:06:36.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7616fab9bf3e",
-      "title": "OUT NOW: The Ethnocide System",
-      "url": "https://www.arktosjournal.com/p/out-now-the-ethnocide-system",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Guillaume Faye",
-      "publishedAt": "2026-04-28T11:03:37.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-483886fb71b7",
-      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-      "publishedAt": "2026-04-28T09:51:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-839820471a6b",
-      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail accounts via the default Mail app. [...]",
-      "publishedAt": "2026-04-28T08:37:12.000Z"
     }
   ]
 }
