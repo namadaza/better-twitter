@@ -1,6 +1,96 @@
 {
-  "fetchedAt": "2026-05-05T12:39:03.910Z",
+  "fetchedAt": "2026-05-05T18:42:47.088Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-46702cd8d930",
+      "title": "How to research accounts in 2 steps (using SPICED)",
+      "url": "https://newsletter.outbound.kitchen/p/how-to-research-accounts-in-2-steps",
+      "publication": "Outbound Kitchen",
+      "author": "Elric Legloire - Outbound Chef",
+      "excerpt": "Step 1 = facts. Step 2 = hypotheses → walk in with reasoning",
+      "publishedAt": "2026-05-05T18:08:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e54518fd573d",
+      "title": "Prominent Christian Zionist Group Is Lobbying U.S. Lawmakers on Israel—Without Revealing It's Funded by Israel",
+      "url": "https://www.dropsitenews.com/p/christian-zionist-eagles-wings-lobbying-congress-israel-government-funding",
+      "publication": "Drop Site News",
+      "author": "Nick Cleveland-Stout",
+      "excerpt": "This week, Eagles’ Wings is spearheading a push on Capitol Hill against Israel’s public relations crisis. They don’t disclose their $700,000 Israeli check.",
+      "publishedAt": "2026-05-05T17:45:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e667a8e7e1fd",
+      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
+      "url": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
+      "publishedAt": "2026-05-05T17:34:09.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a97b5b2e27d9",
+      "title": "“Project Deadlock”: Iran Remains Defiant as Trump Weighs Resumption of War",
+      "url": "https://www.dropsitenews.com/p/iran-us-strait-of-hormuz-ceasefire-blockade-war",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site's Jeremy Scahill and Ryan Grim speak with Abas Aslani, Senior Research Fellow at the Center for Middle East Strategic Studies in Tehran.",
+      "publishedAt": "2026-05-05T17:03:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5cb6a994641b",
+      "title": "“Biological apocalypse” in Gaza; Clashes in the Strait of Hormuz; Dueling ceasefires declared by Russia and Ukraine",
+      "url": "https://www.dropsitenews.com/p/biological-apocalypse-gaza-clashes-strait-hormuz-russia-ukraine-ceasefires",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 5, 2026",
+      "publishedAt": "2026-05-05T14:59:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ce2ce23020f2",
+      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
+      "url": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data collected from hundreds of millions of mobile devices. [...]",
+      "publishedAt": "2026-05-05T14:39:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a2f753358176",
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
+      "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by HeroDevs",
+      "excerpt": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for your projects. [...]",
+      "publishedAt": "2026-05-05T14:00:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1ce97e2f1c45",
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
+      "publishedAt": "2026-05-05T13:03:46.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-fd8d10de6a05",
+      "title": "Why SaaS freemium playbooks don’t work in AI, and what to do instead",
+      "url": "https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont",
+      "publication": "Lenny's Newsletter",
+      "author": "Vikas Kansal",
+      "excerpt": "How to build an AI monetization strategy that actually works",
+      "publishedAt": "2026-05-05T13:03:32.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b41a8a1df029",
@@ -68,7 +158,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
       "publication": "BleepingComputer",
       "author": "Bill Toulas",
-      "excerpt": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+      "excerpt": "The Amazon Simple Email Service (SES) is being increasingly abused, a cybersecurity company's telemetry data shows, to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
       "publishedAt": "2026-05-04T20:03:28.000Z"
     },
     {
@@ -750,86 +840,6 @@
       "author": "Bill Toulas",
       "excerpt": "Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
       "publishedAt": "2026-04-28T19:04:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c984a7f3dd52",
-      "title": "Billionaire Bankrolling Anti-Platner PAC Gutted Maine Mill Towns",
-      "url": "https://www.dropsitenews.com/p/susan-collins-pac-graham-platner-marc-rowan-apollo-global-management-maine-paper-mills",
-      "publication": "Drop Site News",
-      "author": "Nathan Bernard",
-      "excerpt": "Apollo Global Management bankrupt two of Maine’s largest paper mills, selling them for scraps and wiping out more than 1,000 jobs. Now the CEO is cutting checks to keep Susan Collins in office.",
-      "publishedAt": "2026-04-28T18:22:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-51d197b5f27f",
-      "title": "Exposing Canary Mission, and Israel’s 50-Year War on Lebanon",
-      "url": "https://www.dropsitenews.com/p/exposing-canary-mission-and-israels",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site's Ryan Grim, Sharif Abdel Kouddous, and Maysa Mustafa are joined by Jacqueline Sweet to discuss her investigation into Canary Mission, and Mohamad Bazzi to discuss Israel's war on Lebanon.",
-      "publishedAt": "2026-04-28T17:47:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-76ad83fa35e2",
-      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
-      "url": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider hacking collective. [...]",
-      "publishedAt": "2026-04-28T15:39:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3a42ba3cda5a",
-      "title": "Your Couch-to-5K for AI",
-      "url": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
-      "publication": "Lenny's Newsletter",
-      "author": "Hilary Gridley",
-      "excerpt": "A step-by-step guide to building an AI habit that sticks",
-      "publishedAt": "2026-04-28T15:31:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-38d401c7ae97",
-      "title": "UAE exits OPEC; Israel extends Dr. Hossam Abu Safiya’s detention indefinitely; Senate to vote on resolution blocking military action against Cuba",
-      "url": "https://www.dropsitenews.com/p/uae-opec-iran-humiliating-us-senate-cuba",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 27, 2026",
-      "publishedAt": "2026-04-28T15:09:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-03869e815144",
-      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
-      "url": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
-      "publishedAt": "2026-04-28T14:50:40.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c2160d3e6fa5",
-      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
-      "publishedAt": "2026-04-28T13:18:36.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-46e91967bf03",
-      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Flare",
-      "excerpt": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]",
-      "publishedAt": "2026-04-28T12:50:58.000Z"
     }
   ]
 }
