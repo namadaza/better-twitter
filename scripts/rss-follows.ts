@@ -9,6 +9,7 @@ export const RSS_FOLLOWS: string[] = [
   "https://www.avdullahyousef.com",
   "https://www.beautyofsaas.com",
   "https://www.dropsitenews.com",
+  "https://escalationtrap.substack.com",
   "https://georgenoble.substack.com",
   "https://www.greentape.pub",
   "https://heavenlyorder.substack.com",
