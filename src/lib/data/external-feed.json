@@ -1,10 +1,40 @@
 {
-  "fetchedAt": "2026-05-05T18:42:47.088Z",
+  "fetchedAt": "2026-05-06T00:59:41.596Z",
   "items": [
     {
       "type": "rss",
+      "id": "rss-b4d56c065233",
+      "title": "New stealthy Quasar Linux malware targets software developers",
+      "url": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
+      "publishedAt": "2026-05-05T22:01:39.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d67855837393",
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
+      "publishedAt": "2026-05-05T21:20:23.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3f3dcc72323a",
+      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
+      "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
+      "publishedAt": "2026-05-05T19:21:18.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-46702cd8d930",
-      "title": "How to research accounts in 2 steps (using SPICED)",
+      "title": "Your account research is missing this step",
       "url": "https://newsletter.outbound.kitchen/p/how-to-research-accounts-in-2-steps",
       "publication": "Outbound Kitchen",
       "author": "Elric Legloire - Outbound Chef",
@@ -159,6 +189,16 @@
       "publication": "BleepingComputer",
       "author": "Bill Toulas",
       "excerpt": "The Amazon Simple Email Service (SES) is being increasingly abused, a cybersecurity company's telemetry data shows, to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+      "publishedAt": "2026-05-04T20:03:28.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-62426c779662",
+      "title": "Researchers report Amazon SES abused in phishing to evade detection",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Cybersecurity firm Kaspersky reports that the Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
       "publishedAt": "2026-05-04T20:03:28.000Z"
     },
     {
@@ -810,36 +850,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
       "publishedAt": "2026-04-29T08:38:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-33e422775307",
-      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-      "url": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
-      "publishedAt": "2026-04-28T21:25:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1fd4db1a2409",
-      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability  tracked as CVE-2026-42208. [...]",
-      "publishedAt": "2026-04-28T21:07:23.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0901b1c4701c",
-      "title": "Video service Vimeo confirms Anodot breach exposed user data",
-      "url": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
-      "publishedAt": "2026-04-28T19:04:22.000Z"
     }
   ]
 }
