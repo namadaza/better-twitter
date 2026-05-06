@@ -1,6 +1,86 @@
 {
-  "fetchedAt": "2026-05-06T12:51:28.314Z",
+  "fetchedAt": "2026-05-06T18:45:22.420Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-298d764f2a07",
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+      "publishedAt": "2026-05-06T18:38:38.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f5e4cc2d87c4",
+      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
+      "publishedAt": "2026-05-06T18:06:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-364f02f8345c",
+      "title": "Video: Skewed perceptions of crime",
+      "url": "https://www.aporiamagazine.com/p/video-skewed-perceptions-of-crime",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "With Noah Carl",
+      "publishedAt": "2026-05-06T16:43:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-33140aa340b1",
+      "title": "DAEMON Tools devs confirm breach, release malware-free version",
+      "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
+      "publishedAt": "2026-05-06T16:43:30.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bdeea8fbf699",
+      "title": "U.S. floats “wish list” to end Iran war; Israeli strikes kill eight in Lebanon; Republicans want $1 billion for East Wing",
+      "url": "https://www.dropsitenews.com/p/iran-ceasefire-lebanon-israel-east-wing-trump",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 6, 2026",
+      "publishedAt": "2026-05-06T15:55:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-22679691a209",
+      "title": "Why ransomware attacks succeed even when backups exist",
+      "url": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Acronis",
+      "excerpt": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
+      "publishedAt": "2026-05-06T14:04:14.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-60be78d41f09",
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on  Microsoft Teams social engineering to gain access and establish persistence. [...]",
+      "publishedAt": "2026-05-06T13:02:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3cff6d0d4ee6",
+      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
+      "publishedAt": "2026-05-06T12:56:32.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-cd45e1892500",
@@ -790,66 +870,6 @@
       "author": "Bill Toulas",
       "excerpt": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
       "publishedAt": "2026-04-29T20:50:35.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-260d32722dad",
-      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
-      "publishedAt": "2026-04-29T18:32:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c505ff90a970",
-      "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
-      "url": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
-      "publishedAt": "2026-04-29T15:51:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-74ae022b67f5",
-      "title": "U.S., Iran remain deadlocked over blockade; Lebanese aid workers killed in Israeli “double tap“; Over half of South Sudan’s population faces acute hunger",
-      "url": "https://www.dropsitenews.com/p/us-iran-war-blockade-deadlock-lebanon-israel-sudan-hunger",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 29, 2026",
-      "publishedAt": "2026-04-29T15:20:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-54986c4dfca9",
-      "title": "European police dismantles €50 million crypto investment fraud ring",
-      "url": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Austrian and Albanian authorities dismantled a criminal ring accused of running a large-scale cryptocurrency investment fraud operation that caused estimated losses of over €50 million ($58.5 million) to victims worldwide. [...]",
-      "publishedAt": "2026-04-29T14:27:36.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2c8d02d46330",
-      "title": "PRE-ORDER NOW - Julius Evola: An Adventurous Life",
-      "url": "https://www.arktosjournal.com/p/pre-order-now-julius-evola-an-adventurous",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Andrea Scarabelli",
-      "publishedAt": "2026-04-29T14:01:54.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8b3587809298",
-      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
-      "url": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Push Security",
-      "excerpt": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
-      "publishedAt": "2026-04-29T13:05:14.000Z"
     }
   ]
 }
