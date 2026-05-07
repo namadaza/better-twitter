@@ -1,6 +1,56 @@
 {
-  "fetchedAt": "2026-05-07T01:03:55.395Z",
+  "fetchedAt": "2026-05-07T13:19:38.262Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-f2feb604b2a1",
+      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
+      "url": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
+      "publishedAt": "2026-05-07T12:11:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-dfb2acb17eb3",
+      "title": "Webinar: Why modern attacks require both security and recovery",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
+      "publishedAt": "2026-05-07T12:00:08.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-782494e78a9f",
+      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
+      "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
+      "publishedAt": "2026-05-07T10:57:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8ec2712c200c",
+      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
+      "publishedAt": "2026-05-07T10:02:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-11205b92d1a9",
+      "title": "Code with Claude: The 5 biggest updates explained",
+      "url": "https://www.lennysnewsletter.com/p/code-with-claude-the-5-biggest-updates",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️ Everything Anthropic launched at Code with Claude",
+      "publishedAt": "2026-05-07T01:39:47.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b945da8debad",
@@ -830,36 +880,6 @@
       "author": "Bill Toulas",
       "excerpt": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
       "publishedAt": "2026-04-30T13:54:47.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b5244aa98229",
-      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
-      "publishedAt": "2026-04-30T11:40:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-114870936702",
-      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]",
-      "publishedAt": "2026-04-30T11:21:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f79f96767972",
-      "title": "Arktos Journal Interviews Joey Oliver \"The Right Wing Coalition\"",
-      "url": "https://www.arktosjournal.com/p/arktos-journal-interviews-joey-oliver",
-      "publication": "Arktos Journal",
-      "author": "Chris",
-      "excerpt": "Author of newly released bestseller American History Z",
-      "publishedAt": "2026-04-30T11:03:26.000Z"
     }
   ]
 }
