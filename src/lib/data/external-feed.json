@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-05-06T18:45:22.420Z",
+  "fetchedAt": "2026-05-07T01:03:55.395Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-b945da8debad",
+      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
+      "publishedAt": "2026-05-06T21:36:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4751ebc29a25",
+      "title": "“We stopped classes and tried to flee”—Pakistan Targets Afghan Civilians in Scorched-Earth Military Campaign",
+      "url": "https://www.dropsitenews.com/p/pakistant-afghanistan-university-attack",
+      "publication": "Drop Site News",
+      "author": "Emran Feroz",
+      "excerpt": "Pakistan is turning Afghan schools, centers of worship, and family homes into kill zones.",
+      "publishedAt": "2026-05-06T21:05:13.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cc1ec9e0cb57",
+      "title": "Spending Money For Maximum Return: Stop Buying Things. Start Buying Back Your Life.",
+      "url": "https://www.beautyofsaas.com/p/spending-money-for-maximum-return-buying-things",
+      "publication": "BOSS Letter",
+      "author": "BOSS Letter",
+      "excerpt": "140: This will change how you spend your money.",
+      "publishedAt": "2026-05-06T20:23:17.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-298d764f2a07",
@@ -830,46 +860,6 @@
       "author": "Chris",
       "excerpt": "Author of newly released bestseller American History Z",
       "publishedAt": "2026-04-30T11:03:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d2fecc76d56e",
-      "title": "Official SAP npm packages compromised to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
-      "publishedAt": "2026-04-29T22:43:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6853a58b1b86",
-      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-      "url": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
-      "publishedAt": "2026-04-29T22:13:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ba772ccd0bb4",
-      "title": "A Growing Rat Infestation Plagues Tent Cities in Gaza",
-      "url": "https://www.dropsitenews.com/p/gaza-rats-rodents-disease-displaced-palestinians-tents",
-      "publication": "Drop Site News",
-      "author": "Ahmed Dremly",
-      "excerpt": "“We are suffering from two wars,” Majd Sukar, the head of the Preventive Health Department in Gaza City, said. “The war of bombs, and the war of rats.”",
-      "publishedAt": "2026-04-29T21:06:45.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-fba106b9d6b9",
-      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
-      "publishedAt": "2026-04-29T20:50:35.000Z"
     }
   ]
 }
