@@ -1,6 +1,76 @@
 {
-  "fetchedAt": "2026-05-07T13:19:38.262Z",
+  "fetchedAt": "2026-05-07T18:45:47.170Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-b72553b3ceac",
+      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+      "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
+      "publishedAt": "2026-05-07T18:35:50.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2bb7eb91ba3d",
+      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute  the Vidar Stealer info-stealing malware. [...]",
+      "publishedAt": "2026-05-07T18:00:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-aaef7ceb2cdf",
+      "title": "The Imperial Collection: Julius Evola Special Edition Sale",
+      "url": "https://www.arktosjournal.com/p/the-imperial-collection-julius-evola",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "As Arktos launches our “Monumental May” of Evola publications — the first of a whole series of Evola titles planned for release in 2026 — we are pleased to announce a special sale on the limited collector’s editions of Evola’s Pagan Imperialism and Metaphysics of War",
+      "publishedAt": "2026-05-07T17:31:14.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-295d0e349a68",
+      "title": "Saudis and Kuwait suspend U.S. base access over Hormuz action; Israel razes Palestinian vineyards for settler road; Midterm updates",
+      "url": "https://www.dropsitenews.com/p/trump-hormuz-israel-west-bank-settler-midterms",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 7, 2026",
+      "publishedAt": "2026-05-07T15:32:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-38ebe81a823b",
+      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "publishedAt": "2026-05-07T15:20:51.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-71944f7ad3c9",
+      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
+      "url": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Keep Aware",
+      "excerpt": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
+      "publishedAt": "2026-05-07T14:01:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-94105be95a83",
+      "title": "Americans sentenced for running 'laptop farms' for North Korea",
+      "url": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
+      "publishedAt": "2026-05-07T13:45:48.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-f2feb604b2a1",
@@ -648,7 +718,7 @@
       "url": "https://www.dropsitenews.com/p/gaza-flotilla-israel-abduction-abuse-prison",
       "publication": "Drop Site News",
       "author": "Noa Avishag Schnall",
-      "excerpt": "Two Gaza flotilla members describe their abduction and abuse by Israel last fall.",
+      "excerpt": "In the extended version of their account, two Gaza flotilla members describe their abduction and abuse by Israel last fall.",
       "publishedAt": "2026-05-02T13:04:36.000Z"
     },
     {
@@ -810,76 +880,6 @@
       "author": "Aporia",
       "excerpt": "His politics may have been bad, but his philosophy was compelling.",
       "publishedAt": "2026-04-30T18:53:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1fcb8b76e363",
-      "title": "Romanian leader of online swatting ring gets 4 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]",
-      "publishedAt": "2026-04-30T17:45:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b4d2f499e88e",
-      "title": "The Arab Man Must Not Be Angry",
-      "url": "https://www.themazaj.org/p/the-arab-man-must-not-be-angry",
-      "publication": "The Mazaj",
-      "author": "Zahra",
-      "excerpt": "The Arab man must not be angry.",
-      "publishedAt": "2026-04-30T17:32:04.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-be1891ccc502",
-      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]",
-      "publishedAt": "2026-04-30T16:32:18.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8393a03c8079",
-      "title": "April KB5083769 Windows 11 update causes backup software failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
-      "publishedAt": "2026-04-30T15:23:03.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bb578f84f6e8",
-      "title": "House passes FISA renewal; Maine Gov. Mills suspends Senate campaign; Supreme Court weakens Voting Rights Act",
-      "url": "https://www.dropsitenews.com/p/fisa-renewal-mills-senate-supreme-court-voting-rights",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: April 30, 2026",
-      "publishedAt": "2026-04-30T15:09:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a1d328e367e0",
-      "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
-      "url": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Sprocket Security",
-      "excerpt": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
-      "publishedAt": "2026-04-30T14:02:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bc3f0d5860a5",
-      "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
-      "url": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
-      "publishedAt": "2026-04-30T13:54:47.000Z"
     }
   ]
 }
