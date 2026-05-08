@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-05-08T01:04:02.656Z",
+  "fetchedAt": "2026-05-08T12:53:23.391Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-4aec03676085",
+      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "publishedAt": "2026-05-08T12:16:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0007c1cd081b",
+      "title": "Zara data breach exposed personal information of 197,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
+      "publishedAt": "2026-05-08T10:42:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b4d783455279",
+      "title": "Former govt contractor convicted for wiping dozens of federal databases",
+      "url": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
+      "publishedAt": "2026-05-08T08:45:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-dd319165afcf",
+      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
+      "url": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+      "publishedAt": "2026-05-08T07:45:24.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-93be192ca401",
@@ -840,56 +880,6 @@
       "author": "Abdul-Malik Merchant",
       "excerpt": "When Legality Is Not Enough",
       "publishedAt": "2026-05-01T13:20:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6d18e665a4f9",
-      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-      "publishedAt": "2026-05-01T12:46:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4d32c916863a",
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]",
-      "publishedAt": "2026-05-01T11:10:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f515b1cad25a",
-      "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has released the KB5083631 optional cumulative update for Windows 11, which includes 34 changes, such as a new Xbox mode for Windows PCs, enhanced security and performance for batch files, and performance improvements for launching startup apps. [...]",
-      "publishedAt": "2026-05-01T10:00:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8e248c449342",
-      "title": "\"History Is Always Open\": Arktos in Conversation with Alain de Benoist",
-      "url": "https://www.arktosjournal.com/p/history-is-always-open-arktos-in",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "An Interview on the Past, Present, and Future",
-      "publishedAt": "2026-05-01T09:15:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-cdd42963fb90",
-      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
-      "publishedAt": "2026-05-01T07:47:11.000Z"
     }
   ]
 }
