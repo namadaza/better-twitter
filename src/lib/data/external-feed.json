@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-05-07T18:45:47.170Z",
+  "fetchedAt": "2026-05-08T01:04:02.656Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-93be192ca401",
+      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
+      "publishedAt": "2026-05-07T22:36:54.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e2c9a7fe7af0",
+      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
+      "publishedAt": "2026-05-07T22:06:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-eb1ede61d335",
+      "title": "Israel Kills Son of Hamas Leader Khalil al-Hayya as it Pushes Maximalist Demands in Gaza Talks",
+      "url": "https://www.dropsitenews.com/p/gaza-khalil-al-hayya-son-killed-israel-ceasefire-talks",
+      "publication": "Drop Site News",
+      "author": "Abdel Qader Sabbah",
+      "excerpt": "Azzam al-Hayya, who was one of nine Palestinians killed on Wednesday in Israeli attacks on Gaza, is the fourth son of Hamas leader Khalil al-Hayya to be killed by Israel.",
+      "publishedAt": "2026-05-07T20:28:34.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b72553b3ceac",
@@ -860,26 +890,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
       "publishedAt": "2026-05-01T07:47:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-769fe5d07f2f",
-      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
-      "publishedAt": "2026-04-30T18:58:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-525c704b82ee",
-      "title": "A Defense of Jean-Paul Sartre",
-      "url": "https://www.aporiamagazine.com/p/a-defense-of-jean-paul-sartre",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "His politics may have been bad, but his philosophy was compelling.",
-      "publishedAt": "2026-04-30T18:53:51.000Z"
     }
   ]
 }
