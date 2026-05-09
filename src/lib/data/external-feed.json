@@ -1,6 +1,76 @@
 {
-  "fetchedAt": "2026-05-08T12:53:23.391Z",
+  "fetchedAt": "2026-05-09T01:03:27.463Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-6731643a9bb5",
+      "title": "Epstein Advised U.S. Treasury on Crypto During Obama’s Iran Sanctions Push",
+      "url": "https://www.dropsitenews.com/p/epstein-iran-treasury-cryptocurrency-bitcoin",
+      "publication": "Drop Site News",
+      "author": "Murtaza Hussain",
+      "excerpt": "Treasury officials consulted with Jeffrey Epstein about using cryptocurrency during negotiations with Iran over nuclear deal, even as he made investments in blockchain technology.",
+      "publishedAt": "2026-05-08T20:16:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-82a30c72c5ce",
+      "title": "Weekly Scroll: Doom and Gloom",
+      "url": "https://www.infinitescroll.us/p/weekly-scroll-doom-and-gloom",
+      "publication": "Infinite Scroll",
+      "author": "Jeremiah Johnson",
+      "excerpt": "Ben Shapiro's downfall, Salary Fights, and a fascinating movie trend",
+      "publishedAt": "2026-05-08T19:26:45.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a7686b8778c3",
+      "title": "U.S. and Iran exchange strikes; Israel kills 32 in Lebanon; New York passes ICE restrictions",
+      "url": "https://www.dropsitenews.com/p/us-iran-war-israel-lebanon-new-york-ice",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 8, 2026",
+      "publishedAt": "2026-05-08T17:34:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0bce879d8569",
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
+      "publishedAt": "2026-05-08T16:18:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-329665bf521d",
+      "title": "Round-up: Did violence decline in history?",
+      "url": "https://www.aporiamagazine.com/p/round-up-did-violence-decline-in",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "The most interesting articles that came to our attention this week",
+      "publishedAt": "2026-05-08T16:05:07.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a9dae60418d1",
+      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
+      "url": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Prophet Security",
+      "excerpt": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
+      "publishedAt": "2026-05-08T14:02:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cb7dd74f707a",
+      "title": "Trellix source code breach claimed by RansomHouse hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
+      "publishedAt": "2026-05-08T13:23:23.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-4aec03676085",
@@ -38,7 +108,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
       "publication": "BleepingComputer",
       "author": "Sergiu Gatlan",
-      "excerpt": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+      "excerpt": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
       "publishedAt": "2026-05-08T07:45:24.000Z"
     },
     {
@@ -790,96 +860,6 @@
       "author": "Noa Avishag Schnall",
       "excerpt": "In the extended version of their account, two Gaza flotilla members describe their abduction and abuse by Israel last fall.",
       "publishedAt": "2026-05-02T13:04:36.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5db4b74126f5",
-      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-      "publication": "BleepingComputer",
-      "author": "Mayank Parmar",
-      "excerpt": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
-      "publishedAt": "2026-05-02T00:18:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a5e6c5f39ca3",
-      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
-      "url": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
-      "publishedAt": "2026-05-01T23:43:35.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-cfc54c58bbba",
-      "title": "New Lawsuit: Do We Have a Right to Know We're Being Surveilled?",
-      "url": "https://www.dropsitenews.com/p/nyclu-lawsuit-surveillance-camera-location-public-record-flock",
-      "publication": "Drop Site News",
-      "author": "Jessica Burbank",
-      "excerpt": "Scarsdale, New York didn't want to share its plans for Flock surveillance cameras. A new lawsuit brought by NYCLU seeks to change that.",
-      "publishedAt": "2026-05-01T20:26:08.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7f8bb92b4a52",
-      "title": "Why Iran’s Oil Infrastructure Is Not Exploding Like Trump Said It Would",
-      "url": "https://www.dropsitenews.com/p/trump-iran-oil-infrastructure-explode",
-      "publication": "Drop Site News",
-      "author": "Murtaza Hussain",
-      "excerpt": "Trump’s risky gamble to stop Iran from exporting oil shows no signs of succeeding, experts say.",
-      "publishedAt": "2026-05-01T18:23:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a389943a374b",
-      "title": "15-year-old detained over French govt agency data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
-      "publication": "BleepingComputer",
-      "author": "Ionut Ilascu",
-      "excerpt": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
-      "publishedAt": "2026-05-01T17:52:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9f8998ecdfc4",
-      "title": "Story retracted",
-      "url": "https://www.bleepingcomputer.com/news/security/story-retracted/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]",
-      "publishedAt": "2026-05-01T16:26:28.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1e99a63cf374",
-      "title": "May Day 2026; Israel kills over 30 in Lebanon; Displaced Palestinians burn tents in protest of conditions; Mali rebels call for nationwide uprising",
-      "url": "https://www.dropsitenews.com/p/may-day-2026-israel-lebanon-attacks-continue-mali-jnim-uprising",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 1, 2026",
-      "publishedAt": "2026-05-01T15:25:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-be7d3ab928d7",
-      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Criminal IP",
-      "excerpt": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
-      "publishedAt": "2026-05-01T14:02:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-350a8c620b67",
-      "title": "Arbitrating Justice",
-      "url": "https://www.khawatir.blog/p/arbitrating-justice",
-      "publication": "Khawatir",
-      "author": "Abdul-Malik Merchant",
-      "excerpt": "When Legality Is Not Enough",
-      "publishedAt": "2026-05-01T13:20:32.000Z"
     }
   ]
 }
