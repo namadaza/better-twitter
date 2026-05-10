@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-05-10T12:30:51.278Z",
+  "fetchedAt": "2026-05-10T18:29:20.513Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-f1734d857a8d",
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "publication": "BleepingComputer",
+      "author": "Ax Sharma",
+      "excerpt": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions that install malware on their Mac. [...]",
+      "publishedAt": "2026-05-10T17:52:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b52c4ee6aae4",
+      "title": "Wrestling with God",
+      "url": "https://www.aporiamagazine.com/p/wrestling-with-god",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "For decades, I have wrestled with God. I am no nearer a resolution than when I began.",
+      "publishedAt": "2026-05-10T17:06:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d378098fb435",
+      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+      "url": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
+      "publishedAt": "2026-05-10T14:16:47.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-6b33fa6bee71",
@@ -820,46 +850,6 @@
       "author": "Lawrence Abrams",
       "excerpt": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
       "publishedAt": "2026-05-03T22:16:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f8a96b7cb0a6",
-      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
-      "publishedAt": "2026-05-03T18:11:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-03489d8d7ac6",
-      "title": "How the Academic Left Failed Syria",
-      "url": "https://kasurian.com/p/academic-left-failed-syria",
-      "publication": "Kasurian",
-      "author": "Kasurian",
-      "excerpt": "On critique without action, and a revolution the Academic Left refused to see.",
-      "publishedAt": "2026-05-03T16:03:45.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-25dc67657c4d",
-      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
-      "url": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
-      "publishedAt": "2026-05-03T14:11:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d426aeca084c",
-      "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
-      "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Notion’s design and product lead on why agency beats skills in the AI era, why vibe coding made more software but not better software, and how Notion ships with “drive it like it’s stolen”",
-      "publishedAt": "2026-05-03T12:30:59.000Z"
     }
   ]
 }
