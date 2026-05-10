@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-05-09T12:31:16.027Z",
+  "fetchedAt": "2026-05-10T01:09:29.040Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-60a7c6fdc027",
+      "title": "JDownloader site hacked to replace installers with Python RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
+      "publishedAt": "2026-05-09T19:27:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-42580aa5203d",
+      "title": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 185",
+      "publishedAt": "2026-05-09T18:18:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4b7392d1d6ca",
+      "title": "Two Rivers",
+      "url": "https://www.themazaj.org/p/two-rivers",
+      "publication": "The Mazaj",
+      "author": "Zahra",
+      "excerpt": "A Poem",
+      "publishedAt": "2026-05-09T15:04:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d5d38f3d7b7a",
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
+      "publishedAt": "2026-05-09T14:26:03.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-6731643a9bb5",
@@ -800,66 +840,6 @@
       "author": "Lenny Rachitsky",
       "excerpt": "Notion’s design and product lead on why agency beats skills in the AI era, why vibe coding made more software but not better software, and how Notion ships with “drive it like it’s stolen”",
       "publishedAt": "2026-05-03T12:30:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b102df01b8af",
-      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
-      "publishedAt": "2026-05-02T21:54:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-544c34933189",
-      "title": "Women and Slavery",
-      "url": "https://www.aporiamagazine.com/p/women-and-slavery",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "Unpacking a popular narrative",
-      "publishedAt": "2026-05-02T18:12:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5e05625a7231",
-      "title": "🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 184",
-      "publishedAt": "2026-05-02T18:02:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-598778c616e2",
-      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-      "url": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
-      "publishedAt": "2026-05-02T14:32:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e44dfc05f05d",
-      "title": "Illegal Siege, Brutal Abuse: Our Detention and Assault at the Hands of Israeli Prison Guards",
-      "url": "https://www.dropsitenews.com/p/gaza-flotilla-israel-abducted-abused",
-      "publication": "Drop Site News",
-      "author": "Noa Avishag Schnall",
-      "excerpt": "Two Gaza flotilla members describe their abduction and abuse by Israel last fall.",
-      "publishedAt": "2026-05-02T13:05:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-336307399654",
-      "title": "Illegal Siege, Brutal Abuse: Our Detention and Assault at the Hands of Israeli Prison Guards",
-      "url": "https://www.dropsitenews.com/p/gaza-flotilla-israel-abduction-abuse-prison",
-      "publication": "Drop Site News",
-      "author": "Noa Avishag Schnall",
-      "excerpt": "In the extended version of their account, two Gaza flotilla members describe their abduction and abuse by Israel last fall.",
-      "publishedAt": "2026-05-02T13:04:36.000Z"
     }
   ]
 }
