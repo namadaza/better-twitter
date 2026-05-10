@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-10T07:06:46.718Z",
+  "fetchedAt": "2026-05-10T12:30:51.278Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-6b33fa6bee71",
+      "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+      "url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Listen now | The Lean Startup author on why most mission-driven companies are just mission-“hopeful,” why only 20% of founders remain CEO three years post-IPO, and the Delaware filing every founder should make",
+      "publishedAt": "2026-05-10T12:03:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ce85b048b298",
+      "title": "The Twilight of Mammon",
+      "url": "https://kasurian.com/p/twilight-of-mammon",
+      "publication": "Kasurian",
+      "author": "Kasurian",
+      "excerpt": "On the moral anthropology of the market order.",
+      "publishedAt": "2026-05-10T09:11:40.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-60a7c6fdc027",
