@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-05-11T07:30:06.220Z",
+  "fetchedAt": "2026-05-11T13:15:57.097Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-a8a4df0e71a4",
+      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+      "url": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]",
+      "publishedAt": "2026-05-11T13:02:30.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b4f6ef121066",
+      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
+      "publishedAt": "2026-05-11T12:30:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-426db5cae9f7",
+      "title": "Spec-driven development: The AI engineering workflow at Notion | Ryan Nystrom",
+      "url": "https://www.lennysnewsletter.com/p/spec-driven-development-the-ai-engineering",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙 Ryan Nystrom (Notion) shows how to automate standups, ship PRs from a single comment, and use spec-first development so agents do the coding while you do the thinking",
+      "publishedAt": "2026-05-11T12:03:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5b75b7f11ebb",
+      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
+      "url": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
+      "publishedAt": "2026-05-11T09:03:02.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-3baed167a896",
@@ -800,56 +840,6 @@
       "author": "Sponsored by Flare",
       "excerpt": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
       "publishedAt": "2026-05-04T13:42:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-52b8385565ee",
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Progress Software warned customers to patch a critical authentication bypass vulnerability in its MOVEit Automation enterprise-grade managed file transfer (MFT) application. [...]",
-      "publishedAt": "2026-05-04T12:18:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-deb3f18327e8",
-      "title": "Webinar: Why MSPs must rethink security and backup strategies",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "Security breaches don't just test your defenses—they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational after attacks. [...]",
-      "publishedAt": "2026-05-04T12:16:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a05e40ad2011",
-      "title": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
-      "url": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️ Owen Williams (Stripe) shows how he vibe coded Protodash, the internal tool that turns Stripe’s design system into clickable prototypes in two minutes",
-      "publishedAt": "2026-05-04T12:03:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b03489e5cbcf",
-      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit. [...]",
-      "publishedAt": "2026-05-04T11:28:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-68384e76c976",
-      "title": "Microsoft confirms April Windows updates cause backup failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver. [...]",
-      "publishedAt": "2026-05-04T10:40:11.000Z"
     }
   ]
 }
