@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-10T18:29:20.513Z",
+  "fetchedAt": "2026-05-11T07:30:06.220Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-3baed167a896",
+      "title": "For the Sovereignty of Peoples",
+      "url": "https://www.arktosjournal.com/p/for-the-sovereignty-of-peoples",
+      "publication": "Arktos Journal",
+      "author": "Rose Sybil",
+      "excerpt": "Localization vs. Globalism",
+      "publishedAt": "2026-05-11T06:26:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-13059738a1fb",
+      "title": "Boxing, Industry, Immigration, America...",
+      "url": "https://subscribe.martyrmade.com/p/boxing-industry-immigration-america",
+      "publication": "The Martyr Made Substack",
+      "author": "Darryl Cooper",
+      "excerpt": "Hello everybody.",
+      "publishedAt": "2026-05-11T04:05:37.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-f1734d857a8d",
@@ -830,26 +850,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver. [...]",
       "publishedAt": "2026-05-04T10:40:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5f6aea096265",
-      "title": "Ethnocide: The System for Killing Peoples",
-      "url": "https://www.arktosjournal.com/p/ethnocide-the-system-for-killing",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by IdeoChoc",
-      "publishedAt": "2026-05-04T07:28:38.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ea3b67ac6693",
-      "title": "Instructure confirms data breach, ShinyHunters claims attack",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
-      "publishedAt": "2026-05-03T22:16:27.000Z"
     }
   ]
 }
