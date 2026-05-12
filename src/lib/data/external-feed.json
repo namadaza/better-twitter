@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-05-12T07:13:33.879Z",
+  "fetchedAt": "2026-05-12T12:55:30.540Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-28643c82c60e",
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+      "publishedAt": "2026-05-12T11:29:36.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-136788c9e159",
+      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [...]",
+      "publishedAt": "2026-05-12T11:04:55.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-34c0bb8300b4",
+      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
+      "publishedAt": "2026-05-12T09:23:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-842a758e07d3",
+      "title": "The Philosophical and Civilizational Challenge of AI",
+      "url": "https://www.arktosjournal.com/p/the-philosophical-and-civilizational",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Alexander Dugin",
+      "publishedAt": "2026-05-12T07:16:26.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-46615be7e66f",
@@ -760,56 +800,6 @@
       "author": "Vikas Kansal",
       "excerpt": "How to build an AI monetization strategy that actually works",
       "publishedAt": "2026-05-05T13:03:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b41a8a1df029",
-      "title": "Google now offers up to $1.5 million for some Android exploits",
-      "url": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) has made easier to find. [...]",
-      "publishedAt": "2026-05-05T11:24:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-028e76f0c7bf",
-      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
-      "publishedAt": "2026-05-05T10:13:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-41fef7d96e0c",
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
-      "publishedAt": "2026-05-05T10:03:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4a7d5924e5e6",
-      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
-      "url": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
-      "publishedAt": "2026-05-05T09:04:13.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a4de9295e69c",
-      "title": "The Spiritual Journey of Julius Evola",
-      "url": "https://www.arktosjournal.com/p/the-spiritual-journey-of-julius-evola",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Jean Varenne",
-      "publishedAt": "2026-05-05T08:23:46.000Z"
     }
   ]
 }
