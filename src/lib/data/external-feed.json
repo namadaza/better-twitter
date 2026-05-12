@@ -1,6 +1,96 @@
 {
-  "fetchedAt": "2026-05-11T13:15:57.097Z",
+  "fetchedAt": "2026-05-12T01:03:09.745Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-46615be7e66f",
+      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
+      "url": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]",
+      "publishedAt": "2026-05-11T22:40:34.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-53a8b28e2c87",
+      "title": "Official CheckMarx Jenkins package compromised with infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
+      "publishedAt": "2026-05-11T22:03:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ea0fd95ae7f5",
+      "title": "New GhostLock tool abuses Windows API to block file access",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
+      "publishedAt": "2026-05-11T22:02:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-080564cda409",
+      "title": "Israel kills 70 in Lebanon; Trump rejects Iran proposal; Putin says Ukraine war “coming to an end”",
+      "url": "https://www.dropsitenews.com/p/israel-lebanon-war-trump-iran-putin-ukraine",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 11, 2026",
+      "publishedAt": "2026-05-11T16:28:30.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d215fc76fcfd",
+      "title": "🎙️ How I AI: Quests, token leaderboards, and the elite AI adoption playbook & Notion’s spec-driven development",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "publishedAt": "2026-05-11T16:02:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-461c997313ca",
+      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+      "publication": "BleepingComputer",
+      "author": "Ionut Ilascu",
+      "excerpt": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
+      "publishedAt": "2026-05-11T15:26:26.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ec2c06ed31a8",
+      "title": "Attachment—δεσμός—التعلق",
+      "url": "https://www.themazaj.org/p/attachment",
+      "publication": "The Mazaj",
+      "author": "Zahra",
+      "excerpt": "A Proper Introduction to Attachment Theory (Because 'TikTok Psychology' has Flattened it)",
+      "publishedAt": "2026-05-11T15:00:38.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-abd7c8b8541d",
+      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
+      "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Specops Software",
+      "excerpt": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
+      "publishedAt": "2026-05-11T13:53:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6302de919088",
+      "title": "PRE-ORDER NOW: The Woman Problem",
+      "url": "https://www.arktosjournal.com/p/pre-order-now-the-woman-problem",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Julius Evola",
+      "publishedAt": "2026-05-11T13:44:16.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-a8a4df0e71a4",
@@ -54,7 +144,7 @@
     {
       "type": "rss",
       "id": "rss-13059738a1fb",
-      "title": "Boxing, Industry, Immigration, America...",
+      "title": "Boxing, Industry, Immigration, America…",
       "url": "https://subscribe.martyrmade.com/p/boxing-industry-immigration-america",
       "publication": "The Martyr Made Substack",
       "author": "Darryl Cooper",
@@ -720,126 +810,6 @@
       "author": "Arktos Journal",
       "excerpt": "by Jean Varenne",
       "publishedAt": "2026-05-05T08:23:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-afef2e0ad516",
-      "title": "Weaver E-cology critical bug exploited in attacks since March",
-      "url": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
-      "publishedAt": "2026-05-04T22:12:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-629d3dca418d",
-      "title": "Amazon SES increasingly abused in phishing to evade detection",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Amazon Simple Email Service (SES) is being increasingly abused, a cybersecurity company's telemetry data shows, to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
-      "publishedAt": "2026-05-04T20:03:28.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-62426c779662",
-      "title": "Researchers report Amazon SES abused in phishing to evade detection",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Cybersecurity firm Kaspersky reports that the Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
-      "publishedAt": "2026-05-04T20:03:28.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0ea4f73696cd",
-      "title": "THURSDAY: Join Watermelon Pictures and Drop Site News for a virtual screening of Pistachio Wars",
-      "url": "https://www.dropsitenews.com/p/thursday-join-watermelon-pictures",
-      "publication": "Drop Site News",
-      "author": "Nika Soon-Shiong",
-      "excerpt": "We are offering paid subscribers advance priority registration to the screening – because spots will fill up fast!",
-      "publishedAt": "2026-05-04T18:08:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5cbff7bea3fa",
-      "title": "Backdoored PyTorch Lightning package drops credential stealer",
-      "url": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
-      "publishedAt": "2026-05-04T17:15:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3db9958278d7",
-      "title": "Trellix discloses data breach after source code repository hack",
-      "url": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
-      "publishedAt": "2026-05-04T16:25:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-242b1c9de1db",
-      "title": "Housing costs and immigration",
-      "url": "https://www.aporiamagazine.com/p/housing-costs-and-immigration",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "Debunking the debunkers",
-      "publishedAt": "2026-05-04T16:11:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f4560c047c62",
-      "title": "All eyes on the Strait of Hormuz; Israel kills over 60 in Lebanon; Abortion by mail temporarily halted by federal court",
-      "url": "https://www.dropsitenews.com/p/trump-navy-strait-hormuz-iran-israel-lebanon-abortion-access",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 4, 2026",
-      "publishedAt": "2026-05-04T15:13:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-047ce3ab15cb",
-      "title": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
-      "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "publishedAt": "2026-05-04T15:01:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-13d67223cff1",
-      "title": "We Took Away the Phones — Now What?",
-      "url": "https://www.afterbabel.com/p/rebuilding-youth-community-groups-kaplan",
-      "publication": "After Babel",
-      "author": "Seth Kaplan",
-      "excerpt": "How rebuilding youth community groups can restore a play-based childhood.",
-      "publishedAt": "2026-05-04T14:58:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8bfab84b1fe6",
-      "title": "Trump Escalates Military Threats in Hormuz as Iran Prepares for New Round of U.S.-Israeli Bombings and Assassinations",
-      "url": "https://www.dropsitenews.com/p/trump-iran-war-threats-hormuz-israel",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "Iran believes Trump is likely to resume the war in failed quest to declare victory, a senior Iranian official told Drop Site",
-      "publishedAt": "2026-05-04T14:42:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d48ed78f2c8b",
-      "title": "They don’t hack, they borrow: How fraudsters target credit unions",
-      "url": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Flare",
-      "excerpt": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
-      "publishedAt": "2026-05-04T13:42:51.000Z"
     }
   ]
 }
