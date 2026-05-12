@@ -1,6 +1,86 @@
 {
-  "fetchedAt": "2026-05-12T12:55:30.540Z",
+  "fetchedAt": "2026-05-12T18:48:01.187Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-be6e701efc21",
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
+      "publishedAt": "2026-05-12T18:23:09.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-15ac02dcbae9",
+      "title": "Palestinians Lose More Land After Israel Secretly Approves a Record Number of Settlements in the West Bank",
+      "url": "https://www.dropsitenews.com/p/west-bank-new-israeli-settlements-palestinian-land",
+      "publication": "Drop Site News",
+      "author": "Naqaa Hamed",
+      "excerpt": "“This represents an unprecedented pace and scale of expansion,” said Amir Daoud of the Colonization and Wall Resistance Commission.",
+      "publishedAt": "2026-05-12T18:11:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-75fc6d015127",
+      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "publishedAt": "2026-05-12T18:09:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6fc0c1ae4630",
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
+      "publishedAt": "2026-05-12T18:08:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-339d959fb130",
+      "title": "Škoda warns of customer data breach after online shop hack",
+      "url": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
+      "publishedAt": "2026-05-12T17:07:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-31d47b0667a6",
+      "title": "Android 17 to expand banking scam call and privacy protections",
+      "url": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
+      "publishedAt": "2026-05-12T17:00:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5d4060d8e322",
+      "title": "Trump says Iran ceasefire on “life support”; Israel sent Iron Dome batteries and personnel to UAE; Key primaries in Nebraska",
+      "url": "https://www.dropsitenews.com/p/trump-iran-ceasefire-life-support-israel-iron-dome-uae-nebraska-primary",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 12, 2026",
+      "publishedAt": "2026-05-12T14:51:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9446f6dc0e28",
+      "title": "Even smart immigrants change culture",
+      "url": "https://www.aporiamagazine.com/p/even-smart-immigrants-change-culture",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "A response to Richard Hanania",
+      "publishedAt": "2026-05-12T14:46:46.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-28643c82c60e",
@@ -710,96 +790,6 @@
       "author": "Bill Toulas",
       "excerpt": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
       "publishedAt": "2026-05-05T19:21:18.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-46702cd8d930",
-      "title": "Your account research is missing this step",
-      "url": "https://newsletter.outbound.kitchen/p/how-to-research-accounts-in-2-steps",
-      "publication": "Outbound Kitchen",
-      "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "Step 1 = facts. Step 2 = hypotheses → walk in with reasoning",
-      "publishedAt": "2026-05-05T18:08:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e54518fd573d",
-      "title": "Prominent Christian Zionist Group Is Lobbying U.S. Lawmakers on Israel—Without Revealing It's Funded by Israel",
-      "url": "https://www.dropsitenews.com/p/christian-zionist-eagles-wings-lobbying-congress-israel-government-funding",
-      "publication": "Drop Site News",
-      "author": "Nick Cleveland-Stout",
-      "excerpt": "This week, Eagles’ Wings is spearheading a push on Capitol Hill against Israel’s public relations crisis. They don’t disclose their $700,000 Israeli check.",
-      "publishedAt": "2026-05-05T17:45:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e667a8e7e1fd",
-      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
-      "url": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
-      "publishedAt": "2026-05-05T17:34:09.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a97b5b2e27d9",
-      "title": "“Project Deadlock”: Iran Remains Defiant as Trump Weighs Resumption of War",
-      "url": "https://www.dropsitenews.com/p/iran-us-strait-of-hormuz-ceasefire-blockade-war",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site's Jeremy Scahill and Ryan Grim speak with Abas Aslani, Senior Research Fellow at the Center for Middle East Strategic Studies in Tehran.",
-      "publishedAt": "2026-05-05T17:03:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5cb6a994641b",
-      "title": "“Biological apocalypse” in Gaza; Clashes in the Strait of Hormuz; Dueling ceasefires declared by Russia and Ukraine",
-      "url": "https://www.dropsitenews.com/p/biological-apocalypse-gaza-clashes-strait-hormuz-russia-ukraine-ceasefires",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 5, 2026",
-      "publishedAt": "2026-05-05T14:59:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ce2ce23020f2",
-      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data collected from hundreds of millions of mobile devices. [...]",
-      "publishedAt": "2026-05-05T14:39:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a2f753358176",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
-      "url": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by HeroDevs",
-      "excerpt": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for your projects. [...]",
-      "publishedAt": "2026-05-05T14:00:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1ce97e2f1c45",
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
-      "publishedAt": "2026-05-05T13:03:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-fd8d10de6a05",
-      "title": "Why SaaS freemium playbooks don’t work in AI, and what to do instead",
-      "url": "https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont",
-      "publication": "Lenny's Newsletter",
-      "author": "Vikas Kansal",
-      "excerpt": "How to build an AI monetization strategy that actually works",
-      "publishedAt": "2026-05-05T13:03:32.000Z"
     }
   ]
 }
