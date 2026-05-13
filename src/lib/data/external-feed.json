@@ -1,6 +1,56 @@
 {
-  "fetchedAt": "2026-05-13T12:58:37.200Z",
+  "fetchedAt": "2026-05-13T18:49:26.520Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-3351f0f73caa",
+      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
+      "publishedAt": "2026-05-13T16:37:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9ddf80958202",
+      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after attacks. [...]",
+      "publishedAt": "2026-05-13T15:45:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f95644c7344b",
+      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
+      "publishedAt": "2026-05-13T15:42:46.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-db988ed33de6",
+      "title": "Trump arrives in Beijing flanked by tech CEOs; South Carolina blocks redistricting push; Nigerian strike kills 100 in local market",
+      "url": "https://www.dropsitenews.com/p/trump-china-elon-musk-south-carolina-redistricting-nigeria-market-strike",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 13, 2026",
+      "publishedAt": "2026-05-13T14:58:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e26cc96f8272",
+      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
+      "publishedAt": "2026-05-13T14:36:09.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-0f66f3a854e9",
@@ -170,6 +220,16 @@
       "author": "Bill Toulas",
       "excerpt": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
       "publishedAt": "2026-05-12T17:00:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8d2b9eae13bf",
+      "title": "From Iran to Nebraska: Ripple Effects of US-Israeli War plus updates on Epstein files",
+      "url": "https://www.dropsitenews.com/p/from-iran-to-nebraska-ripple-effects",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site's Murtaza Hussain, Maysa Mustafa and Julian Andreone discuss the Strait of Hormuz, Epstein’s ties to the U.S. Treasury Dept, and a live dispatch from Courtney Bonneau from South Lebanon.",
+      "publishedAt": "2026-05-12T16:07:00.000Z"
     },
     {
       "type": "rss",
@@ -760,76 +820,6 @@
       "author": "BOSS Letter",
       "excerpt": "140: This will change how you spend your money.",
       "publishedAt": "2026-05-06T20:23:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-298d764f2a07",
-      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
-      "publishedAt": "2026-05-06T18:38:38.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f5e4cc2d87c4",
-      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
-      "publishedAt": "2026-05-06T18:06:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-364f02f8345c",
-      "title": "Video: Skewed perceptions of crime",
-      "url": "https://www.aporiamagazine.com/p/video-skewed-perceptions-of-crime",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "With Noah Carl",
-      "publishedAt": "2026-05-06T16:43:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-33140aa340b1",
-      "title": "DAEMON Tools devs confirm breach, release malware-free version",
-      "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
-      "publishedAt": "2026-05-06T16:43:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bdeea8fbf699",
-      "title": "U.S. floats “wish list” to end Iran war; Israeli strikes kill eight in Lebanon; Republicans want $1 billion for East Wing",
-      "url": "https://www.dropsitenews.com/p/iran-ceasefire-lebanon-israel-east-wing-trump",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 6, 2026",
-      "publishedAt": "2026-05-06T15:55:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-22679691a209",
-      "title": "Why ransomware attacks succeed even when backups exist",
-      "url": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Acronis",
-      "excerpt": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
-      "publishedAt": "2026-05-06T14:04:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-60be78d41f09",
-      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on  Microsoft Teams social engineering to gain access and establish persistence. [...]",
-      "publishedAt": "2026-05-06T13:02:52.000Z"
     }
   ]
 }
