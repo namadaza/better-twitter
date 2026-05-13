@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-05-13T07:17:59.167Z",
+  "fetchedAt": "2026-05-13T12:58:37.200Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-0f66f3a854e9",
+      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+      "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
+      "publishedAt": "2026-05-13T12:49:54.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-37bd59121762",
+      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
+      "url": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Picus Security",
+      "excerpt": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]",
+      "publishedAt": "2026-05-13T12:30:38.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4b15ccb09735",
+      "title": "Microsoft says some users can't install Office on Windows 365 devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
+      "publishedAt": "2026-05-13T11:53:54.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7150b250e6e4",
+      "title": "Let Loose the Memes of War",
+      "url": "https://www.infinitescroll.us/p/let-loose-the-memes-of-war",
+      "publication": "Infinite Scroll",
+      "author": "Jeremiah Johnson",
+      "excerpt": "Why is America losing the online propaganda war with Iran?",
+      "publishedAt": "2026-05-13T11:38:54.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-459d3ce55cd6",
@@ -790,46 +830,6 @@
       "author": "Bill Toulas",
       "excerpt": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on  Microsoft Teams social engineering to gain access and establish persistence. [...]",
       "publishedAt": "2026-05-06T13:02:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3cff6d0d4ee6",
-      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
-      "publishedAt": "2026-05-06T12:56:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-cd45e1892500",
-      "title": "Quests, token leaderboards, and a skills marketplace: The elite AI adoption playbook | John Kim (Sendbird)",
-      "url": "https://www.lennysnewsletter.com/p/quests-token-leaderboards-and-a-skills",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️Sendbird’s CEO turned AI adoption into a product, including quests, token tiers, and a marketing team that ships live swag stores in a day with zero engineers",
-      "publishedAt": "2026-05-06T12:03:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9c1e560966da",
-      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
-      "publishedAt": "2026-05-06T09:18:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-87b6e7daef29",
-      "title": "The Cinema of Conservative Collapse",
-      "url": "https://www.arktosjournal.com/p/the-cinema-of-conservative-collapse",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "Askr Svarte Reviews \"Kineuropa\"",
-      "publishedAt": "2026-05-06T08:24:33.000Z"
     }
   ]
 }
