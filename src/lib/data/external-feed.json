@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-05-12T18:48:01.187Z",
+  "fetchedAt": "2026-05-13T01:07:41.808Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-a69d158ce675",
+      "title": "Compounding: How Some People Become Unrecognizable",
+      "url": "https://www.beautyofsaas.com/p/how-some-people-become-unrecognizable",
+      "publication": "BOSS Letter",
+      "author": "BOSS Letter",
+      "excerpt": "141: The 8th wonder of the world... And how to actually use it.",
+      "publishedAt": "2026-05-13T00:20:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ec5d4d4cf7f5",
+      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors to steal student data and disrupt schools during final exams. [...]",
+      "publishedAt": "2026-05-12T23:09:55.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-de693e91b9d2",
+      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
+      "publishedAt": "2026-05-12T20:17:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-42ed9ffae974",
+      "title": "Webinar: Fixing the gaps in network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outages. [...]",
+      "publishedAt": "2026-05-12T19:46:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d4a35a7edc59",
+      "title": "Signal adds security warnings for social engineering, phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
+      "publishedAt": "2026-05-12T19:40:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0c116e36af6d",
+      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
+      "publishedAt": "2026-05-12T18:58:34.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-be6e701efc21",
@@ -760,36 +820,6 @@
       "author": "Arktos Journal",
       "excerpt": "Askr Svarte Reviews \"Kineuropa\"",
       "publishedAt": "2026-05-06T08:24:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b4d56c065233",
-      "title": "New stealthy Quasar Linux malware targets software developers",
-      "url": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
-      "publishedAt": "2026-05-05T22:01:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d67855837393",
-      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
-      "publishedAt": "2026-05-05T21:20:23.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3f3dcc72323a",
-      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
-      "url": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
-      "publishedAt": "2026-05-05T19:21:18.000Z"
     }
   ]
 }
