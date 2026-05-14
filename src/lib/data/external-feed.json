@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-14T01:08:57.054Z",
+  "fetchedAt": "2026-05-14T07:14:37.443Z",
   "items": [
     {
       "type": "rss",
@@ -820,16 +820,6 @@
       "author": "Bill Toulas",
       "excerpt": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
       "publishedAt": "2026-05-07T10:02:35.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-11205b92d1a9",
-      "title": "Code with Claude: The 5 biggest updates explained",
-      "url": "https://www.lennysnewsletter.com/p/code-with-claude-the-5-biggest-updates",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️ Everything Anthropic launched at Code with Claude",
-      "publishedAt": "2026-05-07T01:39:47.000Z"
     }
   ]
 }
