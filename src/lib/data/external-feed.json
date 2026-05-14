@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-05-14T07:14:37.443Z",
+  "fetchedAt": "2026-05-14T12:50:31.413Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-7064ec358444",
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
+      "publishedAt": "2026-05-14T12:12:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bfe853db407e",
+      "title": "The State of Childhood in the U.S.",
+      "url": "https://www.afterbabel.com/p/state-of-childhood-ifs-2026",
+      "publication": "After Babel",
+      "author": "Lyman Stone",
+      "excerpt": "A new survey of U.S. parents by the Institute for Family Studies suggests that kids are still overprotected in the real world and underprotected online.",
+      "publishedAt": "2026-05-14T11:02:51.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d85cb2418bce",
+      "title": "OUT NOW - Julius Evola: An Adventurous Life",
+      "url": "https://www.arktosjournal.com/p/out-now-julius-evola-an-adventurous",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Andrea Scarabelli",
+      "publishedAt": "2026-05-14T10:42:08.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4cb5cc699c4b",
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
+      "url": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
+      "publishedAt": "2026-05-14T10:03:39.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9e1580d7df2c",
+      "title": "US charges suspected Dream Market admin arrested in Germany",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
+      "publishedAt": "2026-05-14T08:55:46.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-21b9779dd19b",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300)  that allows attackers to run malicious code as root. [...]",
+      "publishedAt": "2026-05-14T07:34:19.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-e9b2c969cb0d",
@@ -780,46 +840,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
       "publishedAt": "2026-05-07T13:45:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f2feb604b2a1",
-      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
-      "url": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
-      "publishedAt": "2026-05-07T12:11:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-dfb2acb17eb3",
-      "title": "Webinar: Why modern attacks require both security and recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
-      "publishedAt": "2026-05-07T12:00:08.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-782494e78a9f",
-      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-      "url": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
-      "publishedAt": "2026-05-07T10:57:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8ec2712c200c",
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
-      "publishedAt": "2026-05-07T10:02:35.000Z"
     }
   ]
 }
