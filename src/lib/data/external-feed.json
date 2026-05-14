@@ -1,6 +1,56 @@
 {
-  "fetchedAt": "2026-05-14T12:50:31.413Z",
+  "fetchedAt": "2026-05-14T18:47:23.348Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-2cf351e1f941",
+      "title": "How to diagnose a non-performing outbound rep",
+      "url": "https://newsletter.outbound.kitchen/p/how-to-diagnose-a-non-performing",
+      "publication": "Outbound Kitchen",
+      "author": "Elric Legloire - Outbound Chef",
+      "excerpt": "Before you fire your rep, run these 5 checks.",
+      "publishedAt": "2026-05-14T17:10:39.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e85ac2cf84f6",
+      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+      "url": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
+      "publishedAt": "2026-05-14T15:43:41.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d30513bbf0b9",
+      "title": "\"Empire\" as Anti-Western Narrative",
+      "url": "https://www.aporiamagazine.com/p/empire-as-anti-western-narrative",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "Colonialism was never exclusively Western.",
+      "publishedAt": "2026-05-14T15:24:50.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d0027bad98af",
+      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
+      "url": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by NMFTA",
+      "excerpt": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]",
+      "publishedAt": "2026-05-14T15:21:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-39559f27809e",
+      "title": "Iran allows Chinese vessels through Hormuz; Israel threatens defamation suit against NYT; Over 60 killed in Sudan",
+      "url": "https://www.dropsitenews.com/p/iran-china-hormuz-trump-israel-defamation-sudan",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 14, 2026",
+      "publishedAt": "2026-05-14T14:29:51.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-7064ec358444",
@@ -770,76 +820,6 @@
       "author": "Abdel Qader Sabbah",
       "excerpt": "Azzam al-Hayya, who was one of nine Palestinians killed on Wednesday in Israeli attacks on Gaza, is the fourth son of Hamas leader Khalil al-Hayya to be killed by Israel.",
       "publishedAt": "2026-05-07T20:28:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b72553b3ceac",
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-      "publishedAt": "2026-05-07T18:35:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2bb7eb91ba3d",
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute  the Vidar Stealer info-stealing malware. [...]",
-      "publishedAt": "2026-05-07T18:00:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-aaef7ceb2cdf",
-      "title": "The Imperial Collection: Julius Evola Special Edition Sale",
-      "url": "https://www.arktosjournal.com/p/the-imperial-collection-julius-evola",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "As Arktos launches our “Monumental May” of Evola publications — the first of a whole series of Evola titles planned for release in 2026 — we are pleased to announce a special sale on the limited collector’s editions of Evola’s Pagan Imperialism and Metaphysics of War",
-      "publishedAt": "2026-05-07T17:31:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-295d0e349a68",
-      "title": "Saudis and Kuwait suspend U.S. base access over Hormuz action; Israel razes Palestinian vineyards for settler road; Midterm updates",
-      "url": "https://www.dropsitenews.com/p/trump-hormuz-israel-west-bank-settler-midterms",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 7, 2026",
-      "publishedAt": "2026-05-07T15:32:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-38ebe81a823b",
-      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-      "publishedAt": "2026-05-07T15:20:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-71944f7ad3c9",
-      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
-      "url": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Keep Aware",
-      "excerpt": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
-      "publishedAt": "2026-05-07T14:01:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-94105be95a83",
-      "title": "Americans sentenced for running 'laptop farms' for North Korea",
-      "url": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
-      "publishedAt": "2026-05-07T13:45:48.000Z"
     }
   ]
 }
