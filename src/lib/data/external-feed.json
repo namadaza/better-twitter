@@ -1,6 +1,35 @@
 {
-  "fetchedAt": "2026-05-16T13:12:45.804Z",
+  "fetchedAt": "2026-05-16T18:29:08.021Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-68b228d8e47e",
+      "title": "Podcast: Genes and Social Mobility",
+      "url": "https://www.aporiamagazine.com/p/podcast-genes-and-social-mobility",
+      "publication": "Aporia",
+      "excerpt": "With Gregory Clark",
+      "publishedAt": "2026-05-16T18:08:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f9a8dad0a835",
+      "title": "Does the Body Actually Keep the Score?",
+      "url": "https://www.themazaj.org/p/does-the-body-actually-keep-the-score",
+      "publication": "The Mazaj",
+      "author": "Zahra",
+      "excerpt": "Research Notes 001: On Van der Kolk’s Claim that ‘The Body Keeps the Score’",
+      "publishedAt": "2026-05-16T16:26:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8ee6b2ddff07",
+      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
+      "publishedAt": "2026-05-16T14:15:37.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-107286687829",
@@ -830,36 +859,6 @@
       "author": "Lawrence Abrams",
       "excerpt": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
       "publishedAt": "2026-05-09T19:27:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-42580aa5203d",
-      "title": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 185",
-      "publishedAt": "2026-05-09T18:18:35.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4b7392d1d6ca",
-      "title": "Two Rivers",
-      "url": "https://www.themazaj.org/p/two-rivers",
-      "publication": "The Mazaj",
-      "author": "Zahra",
-      "excerpt": "A Poem",
-      "publishedAt": "2026-05-09T15:04:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d5d38f3d7b7a",
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
-      "publishedAt": "2026-05-09T14:26:03.000Z"
     }
   ]
 }
