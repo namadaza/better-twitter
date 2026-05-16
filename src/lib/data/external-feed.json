@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-15T18:55:30.519Z",
+  "fetchedAt": "2026-05-16T13:12:45.804Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-107286687829",
+      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+      "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
+      "publishedAt": "2026-05-15T19:30:33.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c5e8dbf38d9e",
+      "title": "U.S. Agencies Will Operate From Surveillance Tower in Chihuahua, Despite Recent Unauthorized CIA Presence in the Mexican State",
+      "url": "https://www.dropsitenews.com/p/juarez-chihuahua-border-surveillance-cia",
+      "publication": "Drop Site News",
+      "author": "Jose Olivares",
+      "excerpt": "Chihuahua officials will share intelligence data from surveillance cameras, license-plate readers, drones, and helicopters with U.S. agencies.",
+      "publishedAt": "2026-05-15T19:09:57.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-2d5e8864fcf8",
@@ -840,26 +860,6 @@
       "author": "Bill Toulas",
       "excerpt": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
       "publishedAt": "2026-05-09T14:26:03.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6731643a9bb5",
-      "title": "Epstein Advised U.S. Treasury on Crypto During Obama’s Iran Sanctions Push",
-      "url": "https://www.dropsitenews.com/p/epstein-iran-treasury-cryptocurrency-bitcoin",
-      "publication": "Drop Site News",
-      "author": "Murtaza Hussain",
-      "excerpt": "Treasury officials consulted with Jeffrey Epstein about using cryptocurrency during negotiations with Iran over nuclear deal, even as he made investments in blockchain technology.",
-      "publishedAt": "2026-05-08T20:16:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-82a30c72c5ce",
-      "title": "Weekly Scroll: Doom and Gloom",
-      "url": "https://www.infinitescroll.us/p/weekly-scroll-doom-and-gloom",
-      "publication": "Infinite Scroll",
-      "author": "Jeremiah Johnson",
-      "excerpt": "Ben Shapiro's downfall, Salary Fights, and a fascinating movie trend",
-      "publishedAt": "2026-05-08T19:26:45.000Z"
     }
   ]
 }
