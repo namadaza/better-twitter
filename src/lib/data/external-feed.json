@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-16T18:29:08.021Z",
+  "fetchedAt": "2026-05-17T07:15:55.713Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-19dd64f7aba4",
+      "title": "🧠 Community Wisdom: Screening AI slop in hiring, Wispr Flow alternatives for voice transcription, multi-agent pipeline vs. MCP, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 185",
+      "publishedAt": "2026-05-16T21:46:34.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-fe12ff9d82f9",
+      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+      "publication": "BleepingComputer",
+      "author": "Ax Sharma",
+      "excerpt": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix.…",
+      "publishedAt": "2026-05-16T20:55:44.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-68b228d8e47e",
@@ -849,16 +869,6 @@
       "author": "Kasurian",
       "excerpt": "On the moral anthropology of the market order.",
       "publishedAt": "2026-05-10T09:11:40.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-60a7c6fdc027",
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
-      "publishedAt": "2026-05-09T19:27:58.000Z"
     }
   ]
 }
