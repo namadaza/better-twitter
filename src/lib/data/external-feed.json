@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-05-17T07:15:55.713Z",
+  "fetchedAt": "2026-05-17T18:37:29.606Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-ef1239be17be",
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+      "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+      "publishedAt": "2026-05-17T14:43:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-17a7906d7990",
+      "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
+      "url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Listen now | Caitlin Kalinowski on supply chain vulnerabilities threaten the robotics revolution, why consumer VR failed, and what she learned building products at Apple, Meta, and OpenAI",
+      "publishedAt": "2026-05-17T12:31:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-dd31cb507581",
+      "title": "How Zoning Shaped Islam in North America",
+      "url": "https://kasurian.com/p/zoning-islam-north-america",
+      "publication": "Kasurian",
+      "author": "Kasurian",
+      "excerpt": "The suburban zoning regime lies upstream of religious life and observance.",
+      "publishedAt": "2026-05-17T09:03:31.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-19dd64f7aba4",
@@ -819,56 +849,6 @@
       "author": "Darryl Cooper",
       "excerpt": "Hello everybody.",
       "publishedAt": "2026-05-11T04:05:37.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f1734d857a8d",
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "publication": "BleepingComputer",
-      "author": "Ax Sharma",
-      "excerpt": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions that install malware on their Mac. [...]",
-      "publishedAt": "2026-05-10T17:52:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b52c4ee6aae4",
-      "title": "Wrestling with God",
-      "url": "https://www.aporiamagazine.com/p/wrestling-with-god",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "For decades, I have wrestled with God. I am no nearer a resolution than when I began.",
-      "publishedAt": "2026-05-10T17:06:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d378098fb435",
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "url": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
-      "publishedAt": "2026-05-10T14:16:47.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6b33fa6bee71",
-      "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
-      "url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Listen now | The Lean Startup author on why most mission-driven companies are just mission-“hopeful,” why only 20% of founders remain CEO three years post-IPO, and the Delaware filing every founder should make",
-      "publishedAt": "2026-05-10T12:03:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ce85b048b298",
-      "title": "The Twilight of Mammon",
-      "url": "https://kasurian.com/p/twilight-of-mammon",
-      "publication": "Kasurian",
-      "author": "Kasurian",
-      "excerpt": "On the moral anthropology of the market order.",
-      "publishedAt": "2026-05-10T09:11:40.000Z"
     }
   ]
 }
