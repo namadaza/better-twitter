@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-05-18T13:31:02.479Z",
+  "fetchedAt": "2026-05-18T18:47:05.958Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-1e53e99d2a03",
+      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+      "url": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Adaptive Security",
+      "excerpt": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
+      "publishedAt": "2026-05-18T18:45:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-782d47073880",
+      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
+      "publishedAt": "2026-05-18T17:28:02.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-65f6fca4dfdb",
+      "title": "Round-up: Sex differences in intelligence",
+      "url": "https://www.aporiamagazine.com/p/round-up-sex-differences-in-intelligence",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "The most interesting articles that came to our attention this week",
+      "publishedAt": "2026-05-18T16:00:55.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8dcaec65ca2d",
+      "title": "Long Island Rail workers strike; Hezbollah’s fiber-optic drone warfare; Ebola outbreak in DRC",
+      "url": "https://www.dropsitenews.com/p/long-island-rail-strike-hezbollah-drone-ebola-drc",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 18, 2026",
+      "publishedAt": "2026-05-18T15:49:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5976346bcacb",
+      "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "publishedAt": "2026-05-18T15:00:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-fdf10de26d12",
+      "title": "Grafana says stolen GitHub token let hackers steal codebase",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
+      "publishedAt": "2026-05-18T13:46:26.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-37685756271e",
@@ -819,66 +879,6 @@
       "author": "Lawrence Abrams",
       "excerpt": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
       "publishedAt": "2026-05-11T22:02:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-080564cda409",
-      "title": "Israel kills 70 in Lebanon; Trump rejects Iran proposal; Putin says Ukraine war “coming to an end”",
-      "url": "https://www.dropsitenews.com/p/israel-lebanon-war-trump-iran-putin-ukraine",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 11, 2026",
-      "publishedAt": "2026-05-11T16:28:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d215fc76fcfd",
-      "title": "🎙️ How I AI: Quests, token leaderboards, and the elite AI adoption playbook & Notion’s spec-driven development",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "publishedAt": "2026-05-11T16:02:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-461c997313ca",
-      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-      "publication": "BleepingComputer",
-      "author": "Ionut Ilascu",
-      "excerpt": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
-      "publishedAt": "2026-05-11T15:26:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ec2c06ed31a8",
-      "title": "Attachment—δεσμός—التعلق",
-      "url": "https://www.themazaj.org/p/attachment",
-      "publication": "The Mazaj",
-      "author": "Zahra",
-      "excerpt": "A Proper Introduction to Attachment Theory (Because 'TikTok Psychology' has Flattened it)",
-      "publishedAt": "2026-05-11T15:00:38.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-abd7c8b8541d",
-      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
-      "url": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Specops Software",
-      "excerpt": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
-      "publishedAt": "2026-05-11T13:53:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6302de919088",
-      "title": "PRE-ORDER NOW: The Woman Problem",
-      "url": "https://www.arktosjournal.com/p/pre-order-now-the-woman-problem",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Julius Evola",
-      "publishedAt": "2026-05-11T13:44:16.000Z"
     }
   ]
 }
