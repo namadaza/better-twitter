@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-17T18:37:29.606Z",
+  "fetchedAt": "2026-05-18T01:11:44.682Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-64d02c2020fb",
+      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems.  [...]",
+      "publishedAt": "2026-05-17T22:30:08.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-07a8eded5b74",
+      "title": "From Mutual Suspicion to Political Embrace: How the U.S. Learned to Stop Worrying and Love Pakistan",
+      "url": "https://www.dropsitenews.com/p/pakistan-mediator-united-states-iran-trump-imran-khan",
+      "publication": "Drop Site News",
+      "author": "Waqas Ahmed",
+      "excerpt": "Yesterday, Pakistan’s Prime Minister Shehbaz Sharif told the Sunday Times that Pakistan serving as a mediator in the U.S.-Iran war is “one of the shining moments in our history.”",
+      "publishedAt": "2026-05-17T18:35:46.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-ef1239be17be",
