@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-18T01:11:44.682Z",
+  "fetchedAt": "2026-05-18T07:42:03.459Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-64de174d576c",
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
+      "publishedAt": "2026-05-18T07:18:33.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-07ab3290f108",
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
+      "publishedAt": "2026-05-18T05:33:20.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-64d02c2020fb",
@@ -849,26 +869,6 @@
       "author": "Bill Toulas",
       "excerpt": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
       "publishedAt": "2026-05-11T09:03:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3baed167a896",
-      "title": "For the Sovereignty of Peoples",
-      "url": "https://www.arktosjournal.com/p/for-the-sovereignty-of-peoples",
-      "publication": "Arktos Journal",
-      "author": "Rose Sybil",
-      "excerpt": "Localization vs. Globalism",
-      "publishedAt": "2026-05-11T06:26:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-13059738a1fb",
-      "title": "Boxing, Industry, Immigration, America…",
-      "url": "https://subscribe.martyrmade.com/p/boxing-industry-immigration-america",
-      "publication": "The Martyr Made Substack",
-      "author": "Darryl Cooper",
-      "excerpt": "Hello everybody.",
-      "publishedAt": "2026-05-11T04:05:37.000Z"
     }
   ]
 }
