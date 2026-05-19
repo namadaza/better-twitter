@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-05-18T18:47:05.958Z",
+  "fetchedAt": "2026-05-19T01:11:49.526Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-7b98db42668a",
+      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
+      "url": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
+      "publishedAt": "2026-05-18T22:15:30.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ed3e7e0655eb",
+      "title": "SHub macOS infostealer variant spoofs Apple security updates",
+      "url": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
+      "publishedAt": "2026-05-18T21:42:20.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1e2365b1c8c7",
+      "title": "In the Wake of Iran War, African Nations Struggle to Cope with Rising Fuel Costs",
+      "url": "https://www.dropsitenews.com/p/iran-war-africa-fuel-prices",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Fuel prices have spiked across the African continent, leading to desperate stop-gap measures to manage the crisis.",
+      "publishedAt": "2026-05-18T19:37:18.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-1e53e99d2a03",
@@ -849,36 +879,6 @@
       "author": "Arktos Journal",
       "excerpt": "by Alexander Dugin",
       "publishedAt": "2026-05-12T07:16:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-46615be7e66f",
-      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
-      "url": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]",
-      "publishedAt": "2026-05-11T22:40:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-53a8b28e2c87",
-      "title": "Official CheckMarx Jenkins package compromised with infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
-      "publishedAt": "2026-05-11T22:03:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ea0fd95ae7f5",
-      "title": "New GhostLock tool abuses Windows API to block file access",
-      "url": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
-      "publishedAt": "2026-05-11T22:02:00.000Z"
     }
   ]
 }
