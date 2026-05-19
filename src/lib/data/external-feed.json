@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-19T01:11:49.526Z",
+  "fetchedAt": "2026-05-19T07:29:16.806Z",
   "items": [
     {
       "type": "rss",
@@ -869,16 +869,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
       "publishedAt": "2026-05-12T09:23:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-842a758e07d3",
-      "title": "The Philosophical and Civilizational Challenge of AI",
-      "url": "https://www.arktosjournal.com/p/the-philosophical-and-civilizational",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Alexander Dugin",
-      "publishedAt": "2026-05-12T07:16:26.000Z"
     }
   ]
 }
