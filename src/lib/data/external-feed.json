@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-05-19T07:29:16.806Z",
+  "fetchedAt": "2026-05-19T13:23:30.339Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-06bc6f4c281e",
+      "title": "OUT NOW: The Woman Problem",
+      "url": "https://www.arktosjournal.com/p/out-now-the-woman-problem",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Julius Evola",
+      "publishedAt": "2026-05-19T12:37:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9b748e5f01a7",
+      "title": "Webinar: The hidden bottlenecks in network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce response delays and improve operational coordination. [...]",
+      "publishedAt": "2026-05-19T12:14:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-19ebb50973ae",
+      "title": "Microsoft confirms patching issues in restricted Windows networks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
+      "publishedAt": "2026-05-19T11:22:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2928b3467388",
+      "title": "Hondurasgate: Key Leaked Audio Files, Revealing U.S. Intervention in Honduras, Found Authentic \"With Moderate Confidence\"",
+      "url": "https://www.dropsitenews.com/p/hondurasgate-leaked-audio-files-juan-orlando-hernandez-likely-authentic",
+      "publication": "Drop Site News",
+      "author": "José Luis Granados Ceja",
+      "excerpt": "Analysis by Earshot found that three leaked Hondurasgate audio files, revealing a complex plot by Washington to sideline leftist governments in Mexico and Colombia, are likely to be authentic.",
+      "publishedAt": "2026-05-19T10:03:22.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-7b98db42668a",
@@ -839,36 +879,6 @@
       "author": "Aporia",
       "excerpt": "A response to Richard Hanania",
       "publishedAt": "2026-05-12T14:46:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-28643c82c60e",
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
-      "publishedAt": "2026-05-12T11:29:36.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-136788c9e159",
-      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [...]",
-      "publishedAt": "2026-05-12T11:04:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-34c0bb8300b4",
-      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
-      "url": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
-      "publishedAt": "2026-05-12T09:23:56.000Z"
     }
   ]
 }
