@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-05-20T13:09:58.766Z",
+  "fetchedAt": "2026-05-20T18:59:35.570Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-af9c6eb65349",
+      "title": "Treasure Your Attention",
+      "url": "https://www.afterbabel.com/p/haidt-nyu-commencement-address",
+      "publication": "After Babel",
+      "author": "Jon Haidt",
+      "excerpt": "Jonathan Haidt's advice to the NYU Class of 2026 on how to flourish in a world that raises many obstacles to human flourishing.",
+      "publishedAt": "2026-05-20T17:15:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ddd3b10d8173",
+      "title": "Grafana breach caused by missed token rotation after TanStack attack",
+      "url": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
+      "publishedAt": "2026-05-20T15:46:37.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0938b10b3920",
+      "title": "Cuba Girds for Invasion as Trump Launches Raúl Castro Indictment Amid Punishing Blockade",
+      "url": "https://www.dropsitenews.com/p/raul-castro-indictment-cuba-starlink-trump-invasion",
+      "publication": "Drop Site News",
+      "author": "José Luis Granados Ceja",
+      "excerpt": "Plus: The Trump administration tried to push boxes of Starlinks onto Cuba as part of its $100 million humanitarian aid offer.",
+      "publishedAt": "2026-05-20T15:42:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-51d3bc2cd9e5",
+      "title": "Hormuz traffic doubles; Israel lobby takes down Thomas Massie; Nigerian military claims joint U.S. strikes killed 175",
+      "url": "https://www.dropsitenews.com/p/hormuz-traffic-doubles-israel-lobby-massie-nigeria-strikes",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 20, 2026",
+      "publishedAt": "2026-05-20T15:07:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6f39582c605a",
+      "title": "Race and IQ: The Big Picture",
+      "url": "https://www.aporiamagazine.com/p/race-and-iq-the-big-picture",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "Surveying the grand sweep of history",
+      "publishedAt": "2026-05-20T15:03:25.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-512e3c0ec8e7",
+      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
+      "url": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Specops Software",
+      "excerpt": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
+      "publishedAt": "2026-05-20T14:02:12.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-1975a5a8ff85",
@@ -859,56 +919,6 @@
       "author": "Bill Toulas",
       "excerpt": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
       "publishedAt": "2026-05-13T20:23:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3351f0f73caa",
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
-      "publishedAt": "2026-05-13T16:37:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9ddf80958202",
-      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after attacks. [...]",
-      "publishedAt": "2026-05-13T15:45:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f95644c7344b",
-      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
-      "publishedAt": "2026-05-13T15:42:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-db988ed33de6",
-      "title": "Trump arrives in Beijing flanked by tech CEOs; South Carolina blocks redistricting push; Nigerian strike kills 100 in local market",
-      "url": "https://www.dropsitenews.com/p/trump-china-elon-musk-south-carolina-redistricting-nigeria-market-strike",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 13, 2026",
-      "publishedAt": "2026-05-13T14:58:01.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e26cc96f8272",
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
-      "publishedAt": "2026-05-13T14:36:09.000Z"
     }
   ]
 }
