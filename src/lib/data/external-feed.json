@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-05-19T18:49:19.184Z",
+  "fetchedAt": "2026-05-20T01:13:29.075Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-04cbe1f3ed7a",
+      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
+      "publishedAt": "2026-05-19T22:25:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ff58ee6f405d",
+      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
+      "url": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
+      "publishedAt": "2026-05-19T21:47:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-32f1afa82740",
+      "title": "Discord rolls out end-to-end encryption on voice, video calls",
+      "url": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
+      "publishedAt": "2026-05-19T20:37:45.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-517712307367",
+      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
+      "publishedAt": "2026-05-19T19:45:39.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-775d4df7d736",
+      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
+      "publishedAt": "2026-05-19T19:35:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-afa913734e92",
+      "title": "After Insurgents Battle Military Junta, Mali Pushed Toward War and Economic Collapse",
+      "url": "https://www.dropsitenews.com/p/mali-attacks-jnim-tuareg-france-bamako-kati-kidal",
+      "publication": "Drop Site News",
+      "author": "Mamadou Diallo",
+      "excerpt": "Widespread violence has gripped Mali as militant groups have advanced to pose a significant threat to the ruling regime.",
+      "publishedAt": "2026-05-19T18:53:00.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-72ac147ad656",
@@ -819,66 +879,6 @@
       "author": "Arktos Journal",
       "excerpt": "by Joey Oliver",
       "publishedAt": "2026-05-13T07:08:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a69d158ce675",
-      "title": "Compounding: How Some People Become Unrecognizable",
-      "url": "https://www.beautyofsaas.com/p/how-some-people-become-unrecognizable",
-      "publication": "BOSS Letter",
-      "author": "BOSS Letter",
-      "excerpt": "141: The 8th wonder of the world... And how to actually use it.",
-      "publishedAt": "2026-05-13T00:20:04.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ec5d4d4cf7f5",
-      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors to steal student data and disrupt schools during final exams. [...]",
-      "publishedAt": "2026-05-12T23:09:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-de693e91b9d2",
-      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
-      "publishedAt": "2026-05-12T20:17:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-42ed9ffae974",
-      "title": "Webinar: Fixing the gaps in network incident response",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outages. [...]",
-      "publishedAt": "2026-05-12T19:46:04.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d4a35a7edc59",
-      "title": "Signal adds security warnings for social engineering, phishing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
-      "publishedAt": "2026-05-12T19:40:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0c116e36af6d",
-      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
-      "publishedAt": "2026-05-12T18:58:34.000Z"
     }
   ]
 }
