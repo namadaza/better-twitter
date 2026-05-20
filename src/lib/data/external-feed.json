@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-20T01:13:29.075Z",
+  "fetchedAt": "2026-05-20T07:29:16.086Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-f5ce61b26c4e",
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
+      "publishedAt": "2026-05-20T05:08:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6fdd27584dfe",
+      "title": "What launched at Google I/O 2026 (30-minute day 1 recap)",
+      "url": "https://www.lennysnewsletter.com/p/what-launched-at-google-io-2026-30",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️ Every major Google I/O 2026 launch—what's fast, what's broken, and what builders should actually care about",
+      "publishedAt": "2026-05-20T01:59:31.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-04cbe1f3ed7a",
@@ -869,16 +889,6 @@
       "author": "Jeremiah Johnson",
       "excerpt": "Why is America losing the online propaganda war with Iran?",
       "publishedAt": "2026-05-13T11:38:54.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-459d3ce55cd6",
-      "title": "Why the Dissident Right Is Considering Political Arson",
-      "url": "https://www.arktosjournal.com/p/why-the-dissident-right-is-considering",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Joey Oliver",
-      "publishedAt": "2026-05-13T07:08:30.000Z"
     }
   ]
 }
