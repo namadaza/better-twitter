@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-20T18:59:35.570Z",
+  "fetchedAt": "2026-05-21T01:13:59.547Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-9b7865b92a97",
+      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
+      "publishedAt": "2026-05-20T21:36:24.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7fb963b9bebb",
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+      "publishedAt": "2026-05-20T21:19:17.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-af9c6eb65349",
@@ -879,46 +899,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300)  that allows attackers to run malicious code as root. [...]",
       "publishedAt": "2026-05-14T07:34:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e9b2c969cb0d",
-      "title": "Somali Pirates Demand $10M Ransom for Oil Tanker Owned by Emirati Company",
-      "url": "https://www.dropsitenews.com/p/somali-pirates-demand-10-million-dollar-ransom-oil-tanker-uae",
-      "publication": "Drop Site News",
-      "author": "Mohamed Gabobe",
-      "excerpt": "The Egyptian government is exerting pressure on Somalia’s ambassador over the fate of the hijacked tanker and its crew.",
-      "publishedAt": "2026-05-13T23:33:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4bd1ee2f3a61",
-      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-      "url": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
-      "publishedAt": "2026-05-13T22:23:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9f05964a2717",
-      "title": "Iranian hackers targeted major South Korean electronics maker",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
-      "publishedAt": "2026-05-13T21:59:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-78e2879062ec",
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
-      "publishedAt": "2026-05-13T20:23:50.000Z"
     }
   ]
 }
