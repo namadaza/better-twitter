@@ -1,6 +1,116 @@
 {
-  "fetchedAt": "2026-05-22T07:29:17.874Z",
+  "fetchedAt": "2026-05-22T19:05:42.475Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-66fbb3e9d53d",
+      "title": "The humanities will not make you moral",
+      "url": "https://www.aporiamagazine.com/p/the-humanities-will-not-make-you",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "They do offer access to a world of aesthetic excellence that is good for its own sake",
+      "publishedAt": "2026-05-22T18:02:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3d98fd2c065d",
+      "title": "“The Occupation’s Conditions”: Trump’s Board of Peace Demands that Hamas Surrender to Netanyahu’s Gaza Agenda",
+      "url": "https://www.dropsitenews.com/p/gaza-hamas-trump-board-netanyahu-israel-mladenov-disarmament",
+      "publication": "Drop Site News",
+      "author": "Jeremy Scahill",
+      "excerpt": "As Israel threatens to resume full-scale genocide in Gaza, Palestinian resistance leaders spoke to Drop Site about deceptive negotiations and the push to disarm.",
+      "publishedAt": "2026-05-22T17:37:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6b721dcdd3c8",
+      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
+      "publishedAt": "2026-05-22T17:24:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-53167d548bf7",
+      "title": "Israel Is on a Killing Spree of Paramedics and Rescue Workers in Lebanon",
+      "url": "https://www.dropsitenews.com/p/israel-lebanon-paramedics-rescue-workers-hospitals-ambulances",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Israel has killed over 120 rescue workers, damaged 16 hospitals, and targeted over 130 ambulances in Lebanon since March 2.",
+      "publishedAt": "2026-05-22T16:34:38.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-dcdbd649cf79",
+      "title": "Goodbye, Lenny's Reads!",
+      "url": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "After a year of bringing you these audio versions of my newsletter, I’ve decided it’s time to wind down this experiment.",
+      "publishedAt": "2026-05-22T15:41:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-35c363342bc7",
+      "title": "Former US execs plead guilty to aiding tech support scammers",
+      "url": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+      "publishedAt": "2026-05-22T15:32:18.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-703d24efeba6",
+      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
+      "publishedAt": "2026-05-22T13:39:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4238de1f5298",
+      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
+      "publishedAt": "2026-05-22T13:14:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2246fa6d9a49",
+      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
+      "url": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by IPQS",
+      "excerpt": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
+      "publishedAt": "2026-05-22T13:09:18.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-249df750beb5",
+      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
+      "publishedAt": "2026-05-22T12:00:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-50bd682069e1",
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+      "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
+      "publishedAt": "2026-05-22T09:01:20.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-22de0bfc15ea",
@@ -759,96 +869,6 @@
       "author": "Jose Olivares",
       "excerpt": "Chihuahua officials will share intelligence data from surveillance cameras, license-plate readers, drones, and helicopters with U.S. agencies.",
       "publishedAt": "2026-05-15T19:09:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2d5e8864fcf8",
-      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
-      "url": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
-      "publishedAt": "2026-05-15T17:47:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c0df2df4e685",
-      "title": "Popular node-ipc npm package compromised to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
-      "publishedAt": "2026-05-15T17:10:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-beed15649430",
-      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
-      "url": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
-      "publishedAt": "2026-05-15T15:56:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d4219d1200af",
-      "title": "Palestinians commemorate Nakba; 40% of Sudan faces “acute hunger”; U.S. offers aid to Cuba amid U.S. blockade of Cuba",
-      "url": "https://www.dropsitenews.com/p/palestinians-nakba-sudan-acute-hunger-cuba-blockade-aid-offer",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 15, 2026",
-      "publishedAt": "2026-05-15T15:18:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c6f4e12c4715",
-      "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
-      "publishedAt": "2026-05-15T14:49:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c8a0959dfd34",
-      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Flare",
-      "excerpt": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
-      "publishedAt": "2026-05-15T14:02:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-360b9c0e85c0",
-      "title": "Microsoft to automatically roll back faulty Windows drivers",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
-      "publishedAt": "2026-05-15T12:29:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-669cbe9af21b",
-      "title": "With No Equipment Allowed Into Gaza, Palestinians Are Digging With Their Hands to Retrieve the Dead",
-      "url": "https://www.dropsitenews.com/p/gaza-retrieve-bodies-remains-buried-rubble-civil-defense",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Mahmoud Khilla managed to find the remains of two relatives but he is still digging through the rubble for his wife and children. “We will continue and we will find them,” he said.",
-      "publishedAt": "2026-05-15T11:46:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f310af1f4eab",
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
-      "publishedAt": "2026-05-15T09:40:42.000Z"
     }
   ]
 }
