@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-21T19:24:00.443Z",
+  "fetchedAt": "2026-05-22T07:29:17.874Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-22de0bfc15ea",
+      "title": "“Identitarians of all countries, unite!”",
+      "url": "https://www.arktosjournal.com/p/identitarians-of-all-countries-unite",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "An Interview with Jean-Yves Le Gallou on Remigration",
+      "publishedAt": "2026-05-22T07:25:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bcf10aebf3b5",
+      "title": "Survival Mode: 8 Signs You Are Stuck And What It Takes To Never Go Back",
+      "url": "https://www.beautyofsaas.com/p/survival-mode-8-signs-you-are-stuck",
+      "publication": "BOSS Letter",
+      "author": "BOSS Letter",
+      "excerpt": "142: This post tells you exactly where you stand and what to do next.",
+      "publishedAt": "2026-05-21T21:49:05.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-5bdd0fd810d4",
@@ -829,56 +849,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
       "publishedAt": "2026-05-15T09:40:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1fc80370edca",
-      "title": "Leaked Documents Show Cisco Systems’ Deep Relationship with Israeli Security State",
-      "url": "https://www.dropsitenews.com/p/cisco-systems-israel-genocide-gaza",
-      "publication": "Drop Site News",
-      "author": "Murtaza Hussain",
-      "excerpt": "“Never Let a Good Crisis Go To Waste”: Internal documents show Cisco’s growing collaboration with the Israeli military over the course of the genocide in Gaza.",
-      "publishedAt": "2026-05-15T00:04:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a77d09ffefb4",
-      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-      "url": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-      "publication": "BleepingComputer",
-      "author": "Ionut Ilascu",
-      "excerpt": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
-      "publishedAt": "2026-05-14T22:50:36.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-991d43795e3e",
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
-      "publishedAt": "2026-05-14T21:07:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d6cd85a81ea5",
-      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices. [...]",
-      "publishedAt": "2026-05-14T20:09:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-356f053b79cb",
-      "title": "The Embodiment of Rage Bait",
-      "url": "https://www.infinitescroll.us/p/the-embodiment-of-rage-bait",
-      "publication": "Infinite Scroll",
-      "author": "Jeremiah Johnson",
-      "excerpt": "A white nationalist streamer shot a black man in public. How did we get here?",
-      "publishedAt": "2026-05-14T19:52:25.000Z"
     }
   ]
 }
