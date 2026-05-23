@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-22T19:05:42.475Z",
+  "fetchedAt": "2026-05-23T01:08:08.284Z",
   "items": [
     {
       "type": "rss",
@@ -849,26 +849,6 @@
       "author": "Bill Toulas",
       "excerpt": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
       "publishedAt": "2026-05-16T14:15:37.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-107286687829",
-      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
-      "url": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
-      "publishedAt": "2026-05-15T19:30:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c5e8dbf38d9e",
-      "title": "U.S. Agencies Will Operate From Surveillance Tower in Chihuahua, Despite Recent Unauthorized CIA Presence in the Mexican State",
-      "url": "https://www.dropsitenews.com/p/juarez-chihuahua-border-surveillance-cia",
-      "publication": "Drop Site News",
-      "author": "Jose Olivares",
-      "excerpt": "Chihuahua officials will share intelligence data from surveillance cameras, license-plate readers, drones, and helicopters with U.S. agencies.",
-      "publishedAt": "2026-05-15T19:09:57.000Z"
     }
   ]
 }
