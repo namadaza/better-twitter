@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-05-24T07:18:55.217Z",
+  "fetchedAt": "2026-05-24T12:35:54.077Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-0defa1f0c53d",
+      "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
+      "url": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Why most work will happen inside Codex or Claude Code, the CLI era is over, every agent needs a human, and why he’s wildly bullish on PMs and designers",
+      "publishedAt": "2026-05-24T12:31:49.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-060cacb15205",
@@ -820,26 +830,6 @@
       "author": "Bill Toulas",
       "excerpt": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
       "publishedAt": "2026-05-17T14:43:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-17a7906d7990",
-      "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
-      "url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Listen now | Caitlin Kalinowski on supply chain vulnerabilities threaten the robotics revolution, why consumer VR failed, and what she learned building products at Apple, Meta, and OpenAI",
-      "publishedAt": "2026-05-17T12:31:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-dd31cb507581",
-      "title": "How Zoning Shaped Islam in North America",
-      "url": "https://kasurian.com/p/zoning-islam-north-america",
-      "publication": "Kasurian",
-      "author": "Kasurian",
-      "excerpt": "The suburban zoning regime lies upstream of religious life and observance.",
-      "publishedAt": "2026-05-17T09:03:31.000Z"
     }
   ]
 }
