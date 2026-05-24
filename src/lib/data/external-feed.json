@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-05-23T12:32:54.760Z",
+  "fetchedAt": "2026-05-24T01:13:34.559Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-060cacb15205",
+      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
+      "publishedAt": "2026-05-23T20:48:23.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b474596b96f7",
+      "title": "🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 186",
+      "publishedAt": "2026-05-23T20:33:09.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cfaca70a0a98",
+      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+      "url": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
+      "publishedAt": "2026-05-23T14:23:44.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-c2a9e8513835",
@@ -810,55 +840,6 @@
       "author": "Kasurian",
       "excerpt": "The suburban zoning regime lies upstream of religious life and observance.",
       "publishedAt": "2026-05-17T09:03:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-19dd64f7aba4",
-      "title": "🧠 Community Wisdom: Screening AI slop in hiring, Wispr Flow alternatives for voice transcription, multi-agent pipeline vs. MCP, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 185",
-      "publishedAt": "2026-05-16T21:46:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-fe12ff9d82f9",
-      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-      "publication": "BleepingComputer",
-      "author": "Ax Sharma",
-      "excerpt": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix.…",
-      "publishedAt": "2026-05-16T20:55:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-68b228d8e47e",
-      "title": "Podcast: Genes and Social Mobility",
-      "url": "https://www.aporiamagazine.com/p/podcast-genes-and-social-mobility",
-      "publication": "Aporia",
-      "excerpt": "With Gregory Clark",
-      "publishedAt": "2026-05-16T18:08:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f9a8dad0a835",
-      "title": "Does the Body Actually Keep the Score?",
-      "url": "https://www.themazaj.org/p/does-the-body-actually-keep-the-score",
-      "publication": "The Mazaj",
-      "author": "Zahra",
-      "excerpt": "Research Notes 001: On Van der Kolk’s Claim that ‘The Body Keeps the Score’",
-      "publishedAt": "2026-05-16T16:26:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8ee6b2ddff07",
-      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
-      "publishedAt": "2026-05-16T14:15:37.000Z"
     }
   ]
 }
