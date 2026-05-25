@@ -1,6 +1,76 @@
 {
-  "fetchedAt": "2026-05-25T13:24:20.794Z",
+  "fetchedAt": "2026-05-25T18:44:23.870Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-e925edaffd1b",
+      "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "Anthropic appears to be preparing for the public rollout of the Mythos model, which was announced in April as a restricted model that poses major security risks to private and public software. [...]",
+      "publishedAt": "2026-05-25T17:07:33.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f9a2e2a84234",
+      "title": "Israel Has Physically Divided Gaza With Over 25 Kilometers of Earthen Barriers",
+      "url": "https://www.dropsitenews.com/p/gaza-israel-earth-berms-military-bases-ceasefire",
+      "publication": "Drop Site News",
+      "author": "Forensic Architecture",
+      "excerpt": "Newly constructed Israeli military bases along the “yellow line” appear like elevated military forts in Gaza’s devastated landscape.",
+      "publishedAt": "2026-05-25T16:13:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a12ad68bc5f7",
+      "title": "War in the Name of Peace: A Critique of the Ideological Foundations of Contemporary Europe",
+      "url": "https://www.arktosjournal.com/p/war-in-the-name-of-peace-a-critique",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Bostian Marco Turk",
+      "publishedAt": "2026-05-25T16:10:34.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6f4ff62f9e64",
+      "title": "Communism and Cold Winters Theory",
+      "url": "https://www.aporiamagazine.com/p/communism-and-cold-winters-theory",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "Tracing the history of some important ideas",
+      "publishedAt": "2026-05-25T15:26:13.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2daa962cafa8",
+      "title": "🎙️ How I AI: How the engineer behind Claude Cowork actually uses Claude Cowork & What launched at Google I/O 2026",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "publishedAt": "2026-05-25T15:02:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-531dcf4c710c",
+      "title": "The Example Is Not the Problem",
+      "url": "https://www.khawatir.blog/p/the-example-is-not-the-problem",
+      "publication": "Khawatir",
+      "author": "Abdul-Malik Merchant",
+      "excerpt": "The gap between us and the Awliyāʾ is not what we have been telling ourselves it is.",
+      "publishedAt": "2026-05-25T14:22:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-51073e365edd",
+      "title": "Weekly Scroll: Content Nukes and Google Pukes",
+      "url": "https://www.infinitescroll.us/p/weekly-scroll-content-nukes-and-google",
+      "publication": "Infinite Scroll",
+      "author": "Jeremiah Johnson",
+      "excerpt": "The future of fair use and the middle class internet are now in question",
+      "publishedAt": "2026-05-25T14:12:55.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b5b7537d00dc",
@@ -720,56 +790,6 @@
       "author": "Sponsored by Adaptive Security",
       "excerpt": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
       "publishedAt": "2026-05-18T18:45:35.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-782d47073880",
-      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
-      "publishedAt": "2026-05-18T17:28:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-65f6fca4dfdb",
-      "title": "Round-up: Sex differences in intelligence",
-      "url": "https://www.aporiamagazine.com/p/round-up-sex-differences-in-intelligence",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "The most interesting articles that came to our attention this week",
-      "publishedAt": "2026-05-18T16:00:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8dcaec65ca2d",
-      "title": "Long Island Rail workers strike; Hezbollah’s fiber-optic drone warfare; Ebola outbreak in DRC",
-      "url": "https://www.dropsitenews.com/p/long-island-rail-strike-hezbollah-drone-ebola-drc",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 18, 2026",
-      "publishedAt": "2026-05-18T15:49:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5976346bcacb",
-      "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "publishedAt": "2026-05-18T15:00:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-fdf10de26d12",
-      "title": "Grafana says stolen GitHub token let hackers steal codebase",
-      "url": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
-      "publishedAt": "2026-05-18T13:46:26.000Z"
     }
   ]
 }
