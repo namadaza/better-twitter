@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-24T18:32:16.030Z",
+  "fetchedAt": "2026-05-25T07:52:21.000Z",
   "items": [
     {
       "type": "rss",
@@ -800,46 +800,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
       "publishedAt": "2026-05-18T08:33:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-64de174d576c",
-      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
-      "publishedAt": "2026-05-18T07:18:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-07ab3290f108",
-      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
-      "publishedAt": "2026-05-18T05:33:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-64d02c2020fb",
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems.  [...]",
-      "publishedAt": "2026-05-17T22:30:08.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-07a8eded5b74",
-      "title": "From Mutual Suspicion to Political Embrace: How the U.S. Learned to Stop Worrying and Love Pakistan",
-      "url": "https://www.dropsitenews.com/p/pakistan-mediator-united-states-iran-trump-imran-khan",
-      "publication": "Drop Site News",
-      "author": "Waqas Ahmed",
-      "excerpt": "Yesterday, Pakistan’s Prime Minister Shehbaz Sharif told the Sunday Times that Pakistan serving as a mediator in the U.S.-Iran war is “one of the shining moments in our history.”",
-      "publishedAt": "2026-05-17T18:35:46.000Z"
     }
   ]
 }
