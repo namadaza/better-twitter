@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-25T18:44:23.870Z",
+  "fetchedAt": "2026-05-26T01:09:39.747Z",
   "items": [
     {
       "type": "rss",
@@ -750,46 +750,6 @@
       "author": "José Luis Granados Ceja",
       "excerpt": "Analysis by Earshot found that three leaked Hondurasgate audio files, revealing a complex plot by Washington to sideline leftist governments in Mexico and Colombia, are likely to be authentic.",
       "publishedAt": "2026-05-19T10:03:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7b98db42668a",
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-      "url": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
-      "publishedAt": "2026-05-18T22:15:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ed3e7e0655eb",
-      "title": "SHub macOS infostealer variant spoofs Apple security updates",
-      "url": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
-      "publishedAt": "2026-05-18T21:42:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1e2365b1c8c7",
-      "title": "In the Wake of Iran War, African Nations Struggle to Cope with Rising Fuel Costs",
-      "url": "https://www.dropsitenews.com/p/iran-war-africa-fuel-prices",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Fuel prices have spiked across the African continent, leading to desperate stop-gap measures to manage the crisis.",
-      "publishedAt": "2026-05-18T19:37:18.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1e53e99d2a03",
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "url": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Adaptive Security",
-      "excerpt": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
-      "publishedAt": "2026-05-18T18:45:35.000Z"
     }
   ]
 }
