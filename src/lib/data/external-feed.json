@@ -1,6 +1,56 @@
 {
-  "fetchedAt": "2026-05-26T07:28:34.173Z",
+  "fetchedAt": "2026-05-26T13:17:38.062Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-770059b94a13",
+      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
+      "publishedAt": "2026-05-26T12:19:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-95baa49240e0",
+      "title": "Webinar: Too many tools are slowing network incident response",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce manual coordination and improve incident response times. [...]",
+      "publishedAt": "2026-05-26T12:16:24.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-49eca5fbf02c",
+      "title": "Feast of the Sacrifice",
+      "url": "https://kasurian.com/p/feast-of-the-sacrifice",
+      "publication": "Kasurian",
+      "author": "Kasurian",
+      "excerpt": "An annual reminder of our moral origins.",
+      "publishedAt": "2026-05-26T10:28:20.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2dafdd1f28ba",
+      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
+      "publishedAt": "2026-05-26T08:46:45.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9a93392b6705",
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
+      "publishedAt": "2026-05-26T07:41:25.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-47fe377fedc2",
@@ -720,46 +770,6 @@
       "author": "Sponsored by BeyondTrust",
       "excerpt": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
       "publishedAt": "2026-05-19T14:00:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-06bc6f4c281e",
-      "title": "OUT NOW: The Woman Problem",
-      "url": "https://www.arktosjournal.com/p/out-now-the-woman-problem",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Julius Evola",
-      "publishedAt": "2026-05-19T12:37:03.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9b748e5f01a7",
-      "title": "Webinar: The hidden bottlenecks in network incident response",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce response delays and improve operational coordination. [...]",
-      "publishedAt": "2026-05-19T12:14:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-19ebb50973ae",
-      "title": "Microsoft confirms patching issues in restricted Windows networks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
-      "publishedAt": "2026-05-19T11:22:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2928b3467388",
-      "title": "Hondurasgate: Key Leaked Audio Files, Revealing U.S. Intervention in Honduras, Found Authentic \"With Moderate Confidence\"",
-      "url": "https://www.dropsitenews.com/p/hondurasgate-leaked-audio-files-juan-orlando-hernandez-likely-authentic",
-      "publication": "Drop Site News",
-      "author": "José Luis Granados Ceja",
-      "excerpt": "Analysis by Earshot found that three leaked Hondurasgate audio files, revealing a complex plot by Washington to sideline leftist governments in Mexico and Colombia, are likely to be authentic.",
-      "publishedAt": "2026-05-19T10:03:22.000Z"
     }
   ]
 }
