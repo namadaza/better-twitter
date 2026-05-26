@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-05-26T01:09:39.747Z",
+  "fetchedAt": "2026-05-26T07:28:34.173Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-47fe377fedc2",
+      "title": "7-Eleven data breach exposes personal information of 185,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
+      "publishedAt": "2026-05-26T07:01:12.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-e925edaffd1b",
