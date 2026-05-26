@@ -1,6 +1,56 @@
 {
-  "fetchedAt": "2026-05-26T13:17:38.062Z",
+  "fetchedAt": "2026-05-26T18:58:54.885Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-1cdd08d0c2f1",
+      "title": "U.S.-Iran Negotiations in the Balance, Israel Escalates Attacks Against Gaza and Lebanon",
+      "url": "https://www.dropsitenews.com/p/us-iran-negotiations-ceasefire-gaza-lebanon",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site's Jeremy Scahill and Sharif Abdel Kouddous go live to Tehran and Gaza to get the latest on U.S.-Iran negotiations, Israel's escalating attacks on Gaza, and more.",
+      "publishedAt": "2026-05-26T16:31:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-dcfc6cbbc1b5",
+      "title": "Your show rate is a meeting quality problem",
+      "url": "https://newsletter.outbound.kitchen/p/your-show-rate-is-a-meeting-quality",
+      "publication": "Outbound Kitchen",
+      "author": "Elric Legloire - Outbound Chef",
+      "excerpt": "Run these 6 checks on the booked meeting before you blame Calendly.",
+      "publishedAt": "2026-05-26T16:05:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-275e74f41c93",
+      "title": "Essential books for product builders—part 1",
+      "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "36 timeless books that’ll make you a better builder, leader, and person",
+      "publishedAt": "2026-05-26T15:25:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3df5baac31e9",
+      "title": "Peace talks continue as U.S. and Iran trade strikes; Netanyahu escalates in Lebanon; China ships 15,000 tons of rice to Cuba",
+      "url": "https://www.dropsitenews.com/p/us-iran-negotiations-netanyahu-lebanon-china-cuba",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 26, 2026",
+      "publishedAt": "2026-05-26T15:07:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bf4d14c9a4ec",
+      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+      "url": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Varonis",
+      "excerpt": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. [...]",
+      "publishedAt": "2026-05-26T14:01:11.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-770059b94a13",
@@ -670,106 +720,6 @@
       "author": "Bill Toulas",
       "excerpt": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
       "publishedAt": "2026-05-19T19:35:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-afa913734e92",
-      "title": "After Insurgents Battle Military Junta, Mali Pushed Toward War and Economic Collapse",
-      "url": "https://www.dropsitenews.com/p/mali-attacks-jnim-tuareg-france-bamako-kati-kidal",
-      "publication": "Drop Site News",
-      "author": "Mamadou Diallo",
-      "excerpt": "Widespread violence has gripped Mali as militant groups have advanced to pose a significant threat to the ruling regime.",
-      "publishedAt": "2026-05-19T18:53:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-72ac147ad656",
-      "title": "The State of Trump’s Iran Quagmire and a Look at the War in Sudan",
-      "url": "https://www.dropsitenews.com/p/trump-iran-negar-mortazavi-sudan-rsf-humanitarian-update-misan-harriman",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "As President Donald Trump struggles to find a path to declare victory in his war of choice against Iran, he now claims he called off a resumption of military attacks he said were planned for Tuesday.",
-      "publishedAt": "2026-05-19T18:25:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b9ef3a6ae267",
-      "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
-      "publication": "BleepingComputer",
-      "author": "Mayank Parmar",
-      "excerpt": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
-      "publishedAt": "2026-05-19T16:22:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f85f69a84f6d",
-      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
-      "publishedAt": "2026-05-19T16:10:47.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d5910013e872",
-      "title": "San Diego mosque attack; Death toll in Lebanon tops 3,000; Kentucky votes in most expensive House primary ever",
-      "url": "https://www.dropsitenews.com/p/san-diego-mosque-attack-death-toll-lebanon-kentucky-primary",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 19, 2026",
-      "publishedAt": "2026-05-19T15:43:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a8f8de06184c",
-      "title": "The Lenny and Friends Summit is back!",
-      "url": "https://www.lennysnewsletter.com/p/the-lenny-and-friends-summit-is-back",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "September 10th in San Francisco. Applications are now open.",
-      "publishedAt": "2026-05-19T15:27:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-69beeb13f745",
-      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
-      "publishedAt": "2026-05-19T14:30:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0267bedbdcb7",
-      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
-      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
-      "publishedAt": "2026-05-19T14:16:41.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c48c134f35e4",
-      "title": "What is 'Mental Health', Really?",
-      "url": "https://www.themazaj.org/p/what-is-mental-health-really",
-      "publication": "The Mazaj",
-      "author": "Zahra",
-      "excerpt": "Redefining Mental Health Beyond Productive Output and Toward 'The Good Life'",
-      "publishedAt": "2026-05-19T14:04:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-aca7be9c148b",
-      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by BeyondTrust",
-      "excerpt": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
-      "publishedAt": "2026-05-19T14:00:10.000Z"
     }
   ]
 }
