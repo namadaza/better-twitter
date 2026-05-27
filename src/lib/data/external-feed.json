@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-05-27T01:14:01.677Z",
+  "fetchedAt": "2026-05-27T07:42:30.065Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-f610a7c6cd86",
+      "title": "Awakening Europe with Friedrich Nietzsche",
+      "url": "https://www.arktosjournal.com/p/awakening-europe-with-friedrich-nietzsche",
+      "publication": "Arktos Journal",
+      "author": "Jafe Arnold",
+      "excerpt": "Inspiration from the Institut Iliade",
+      "publishedAt": "2026-05-27T05:37:27.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-e135034280c4",
@@ -660,36 +670,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
       "publishedAt": "2026-05-20T08:14:08.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c6682ea2f675",
-      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
-      "publishedAt": "2026-05-20T07:31:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f5ce61b26c4e",
-      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-      "url": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
-      "publishedAt": "2026-05-20T05:08:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6fdd27584dfe",
-      "title": "What launched at Google I/O 2026 (30-minute day 1 recap)",
-      "url": "https://www.lennysnewsletter.com/p/what-launched-at-google-io-2026-30",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️ Every major Google I/O 2026 launch—what's fast, what's broken, and what builders should actually care about",
-      "publishedAt": "2026-05-20T01:59:31.000Z"
     }
   ]
 }
