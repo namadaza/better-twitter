@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-05-27T13:28:51.280Z",
+  "fetchedAt": "2026-05-27T18:59:30.257Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-194a6ddcb20f",
+      "title": "Video: Factors reducing crime",
+      "url": "https://www.aporiamagazine.com/p/video-factors-reducing-crime",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "With Noah Carl",
+      "publishedAt": "2026-05-27T18:45:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4a878c343147",
+      "title": "The Iran War Is Crushing Nebraska Workers. Dan Osborn Is One of Them",
+      "url": "https://www.dropsitenews.com/p/iran-war-nebraska-farmers-fertilizer-prices-osborn-ricketts",
+      "publication": "Drop Site News",
+      "author": "Ryan Grim",
+      "excerpt": "With the cost of fertilizer and energy inputs surging due to the war on Iran, Nebraska’s farming industry, always squeaking by on the thinnest of margins, is being thoroughly brutalized.",
+      "publishedAt": "2026-05-27T15:59:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-763f43592653",
+      "title": "Israeli strikes kill 31 in Lebanon, 14 in Gaza; Paxton defeats Cornyn in Texas; Ebola outbreak spreads to Central African cities",
+      "url": "https://www.dropsitenews.com/p/israel-lebanon-gaza-paxton-cornyn-texas-ebola",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 27, 2026",
+      "publishedAt": "2026-05-27T14:46:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1d58f3cca79f",
+      "title": "Can you enforce strong Active Directory password rules without frustrating users?",
+      "url": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Specops Software",
+      "excerpt": "Strong Active Directory passwords don't have to come at the expense of usability. Specops Software explains how passphrases, breached password protection, and self-service resets can improve security without frustrating users. [...]",
+      "publishedAt": "2026-05-27T14:00:10.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-8ced61be6f69",
@@ -620,66 +660,6 @@
       "author": "Bill Toulas",
       "excerpt": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
       "publishedAt": "2026-05-20T21:19:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-af9c6eb65349",
-      "title": "Treasure Your Attention",
-      "url": "https://www.afterbabel.com/p/haidt-nyu-commencement-address",
-      "publication": "After Babel",
-      "author": "Jon Haidt",
-      "excerpt": "Jonathan Haidt's advice to the NYU Class of 2026 on how to flourish in a world that raises many obstacles to human flourishing.",
-      "publishedAt": "2026-05-20T17:15:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ddd3b10d8173",
-      "title": "Grafana breach caused by missed token rotation after TanStack attack",
-      "url": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
-      "publishedAt": "2026-05-20T15:46:37.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0938b10b3920",
-      "title": "Cuba Girds for Invasion as Trump Launches Raúl Castro Indictment Amid Punishing Blockade",
-      "url": "https://www.dropsitenews.com/p/raul-castro-indictment-cuba-starlink-trump-invasion",
-      "publication": "Drop Site News",
-      "author": "José Luis Granados Ceja",
-      "excerpt": "Plus: The Trump administration tried to push boxes of Starlinks onto Cuba as part of its $100 million humanitarian aid offer.",
-      "publishedAt": "2026-05-20T15:42:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-51d3bc2cd9e5",
-      "title": "Hormuz traffic doubles; Israel lobby takes down Thomas Massie; Nigerian military claims joint U.S. strikes killed 175",
-      "url": "https://www.dropsitenews.com/p/hormuz-traffic-doubles-israel-lobby-massie-nigeria-strikes",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 20, 2026",
-      "publishedAt": "2026-05-20T15:07:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6f39582c605a",
-      "title": "Race and IQ: The Big Picture",
-      "url": "https://www.aporiamagazine.com/p/race-and-iq-the-big-picture",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "Surveying the grand sweep of history",
-      "publishedAt": "2026-05-20T15:03:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-512e3c0ec8e7",
-      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
-      "url": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Specops Software",
-      "excerpt": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
-      "publishedAt": "2026-05-20T14:02:12.000Z"
     }
   ]
 }
