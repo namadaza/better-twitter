@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-05-26T18:58:54.885Z",
+  "fetchedAt": "2026-05-27T01:14:01.677Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-e135034280c4",
+      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+      "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+      "publication": "BleepingComputer",
+      "author": "Ionut Ilascu",
+      "excerpt": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
+      "publishedAt": "2026-05-26T20:07:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6e9f72dd0bdb",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "publishedAt": "2026-05-26T19:46:01.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-1cdd08d0c2f1",
@@ -670,56 +690,6 @@
       "author": "Claire Vo",
       "excerpt": "Watch now | 🎙️ Every major Google I/O 2026 launch—what's fast, what's broken, and what builders should actually care about",
       "publishedAt": "2026-05-20T01:59:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-04cbe1f3ed7a",
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
-      "publishedAt": "2026-05-19T22:25:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ff58ee6f405d",
-      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
-      "url": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
-      "publishedAt": "2026-05-19T21:47:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-32f1afa82740",
-      "title": "Discord rolls out end-to-end encryption on voice, video calls",
-      "url": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
-      "publishedAt": "2026-05-19T20:37:45.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-517712307367",
-      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
-      "publishedAt": "2026-05-19T19:45:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-775d4df7d736",
-      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
-      "publishedAt": "2026-05-19T19:35:32.000Z"
     }
   ]
 }
