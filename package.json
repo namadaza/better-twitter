@@ -12,16 +12,23 @@
     "ingest:koreader": "tsx scripts/ingest-koreader.ts",
     "parse:islamic-texts": "tsx scripts/parse-islamic-texts.ts",
     "ingest": "tsx scripts/ingest.ts",
-    "ingest:rss": "tsx scripts/ingest.ts"
+    "ingest:rss": "tsx scripts/ingest.ts",
+    "ingest:commons": "tsx scripts/fetch-commons-images.ts"
   },
   "dependencies": {
+    "@vercel/blob": "*",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "dotenv": "^16.0.0",
     "lucide-react": "^0.536.0",
     "next": "15.4.10",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "tailwind-merge": "^3.3.1"
+  },
+  "resolutions": {
+    "@vercel/blob": "*",
+    "dotenv": "^16.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

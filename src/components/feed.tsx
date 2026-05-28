@@ -6,6 +6,8 @@ import { getFeedItemsPage } from "@/app/actions";
 import { HighlightItem } from "./items/highlight-item";
 import { BookItem } from "./items/book-item";
 import { RssItem } from "./items/rss-item";
+import { ArtworkItem } from "./items/artwork-item";
+import type { Artwork } from "./items/artwork-item";
 
 interface FeedProps {
   initialItems: FeedItem[];
@@ -27,6 +29,37 @@ export function Feed({ initialItems, seed }: FeedProps) {
   const [items, setItems] = useState<FeedItem[]>(initialItems);
   const [loading, setLoading] = useState(false);
   const [hasMore, setHasMore] = useState(initialItems.length === 30);
+  const [artworks, setArtworks] = useState<Artwork[]>([]);
+
+  // Load the generated commons artworks manifest at runtime.
+  useEffect(() => {
+    let mounted = true;
+    (async () => {
+        try {
+          // dynamic import so this doesn't error at build time if file is missing
+          // cast the import to a shape that contains Artwork items
+          const mod = (await import("@/lib/data/commons_artworks.json")) as {
+            items?: Artwork[];
+            default?: { items?: Artwork[] };
+          };
+          const items = mod.items ?? mod.default?.items ?? [];
+          if (!mounted) return;
+          // shuffle a copy so presentation varies
+        const copy = items.slice();
+        for (let i = copy.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [copy[i], copy[j]] = [copy[j], copy[i]];
+        }
+        setArtworks(copy);
+      } catch (e) {
+        // ignore if missing or can't be read
+        console.warn("Could not load commons_artworks.json", e);
+      }
+    })();
+    return () => {
+      mounted = false;
+    };
+  }, []);
 
   const loadMore = useCallback(async () => {
     if (loading || !hasMore) return;
@@ -67,6 +100,13 @@ export function Feed({ initialItems, seed }: FeedProps) {
           {renderItem(item)}
           {index < items.length - 1 && (
             <div className="mx-4 border-t border-border/50" />
+          )}
+          {/* Insert an artwork post after every 4 feed items */}
+          {artworks.length > 0 && index % 4 === 0 && (
+            <div className="mt-4">
+              <ArtworkItem art={artworks[Math.floor(index / 4) % artworks.length]} />
+              <div className="mx-4 border-t border-border/50" />
+            </div>
           )}
         </div>
       ))}
