@@ -1,6 +1,126 @@
 {
-  "fetchedAt": "2026-05-28T07:37:53.562Z",
+  "fetchedAt": "2026-05-28T19:32:39.318Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-dedf3a80d272",
+      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...]",
+      "publishedAt": "2026-05-28T19:08:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b60be15acf72",
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+      "publishedAt": "2026-05-28T17:25:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a46dbcc271c4",
+      "title": "Hungry Palestinians in Gaza Protest World Central Kitchen Scaling Back Amid Rising Food Costs and Israeli Blockade",
+      "url": "https://www.dropsitenews.com/p/gaza-world-central-kitchen-food-hunger-israel-blockade",
+      "publication": "Drop Site News",
+      "author": "Abdel Qader Sabbah",
+      "excerpt": "“If the World Central Kitchen stops, there will be no breakfast, no lunch, and no dinner.”",
+      "publishedAt": "2026-05-28T17:02:24.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2cf70df9f9eb",
+      "title": "Israeli strikes kill 16 in Gaza on Eid Al-Adha; Trump threatens to “blow up” Oman; DOJ opens perjury investigation into E. Jean Carroll",
+      "url": "https://www.dropsitenews.com/p/israeli-gaza-eid-trump-oman-doj-jean-carrol",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 28, 2026",
+      "publishedAt": "2026-05-28T15:17:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f05b0f57f2a7",
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
+      "publishedAt": "2026-05-28T14:25:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5d26d5b2c447",
+      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+      "url": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Kaseya",
+      "excerpt": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
+      "publishedAt": "2026-05-28T14:01:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-38aaa82f0198",
+      "title": "How a DEA Sting Sparked a Colombian Insurgency",
+      "url": "https://www.dropsitenews.com/p/dea-colombia-segunda-marquetalia-venezuela-maduro-santrich-petro",
+      "publication": "Drop Site News",
+      "author": "Jose Olivares",
+      "excerpt": "The U.S. claims former Venezuelan President Nicolás Maduro backed “narco-terrorist” groups. One of them was Washington’s creation.",
+      "publishedAt": "2026-05-28T13:00:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c5f7f7befbb0",
+      "title": "Cómo una operación encubierta de la DEA dio origen a una insurgencia colombiana",
+      "url": "https://www.dropsitenews.com/p/maduro-santrich-petro-segunda-marquetalia-dea-colombia-venezuela",
+      "publication": "Drop Site News",
+      "author": "Jose Olivares",
+      "excerpt": "Estados Unidos afirma que el expresidente venezolano Nicolás Maduro respaldó a grupos “narcoterroristas”. Uno de ellos fue creación de Washington.",
+      "publishedAt": "2026-05-28T13:00:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5ca0a01e25af",
+      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
+      "url": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
+      "publishedAt": "2026-05-28T12:43:29.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0ee8741895e8",
+      "title": "Webinar: Why network incidents take too long to resolve",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and improve response times. [...]",
+      "publishedAt": "2026-05-28T12:20:28.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7d5273950708",
+      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
+      "publishedAt": "2026-05-28T10:49:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-820af45a7ca9",
+      "title": "Sextortionist sentenced to 33 years for targeting 145 children",
+      "url": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A Canadian man was sentenced to 33 years in prison after pleading guilty to targeting more than 145 children across the United States, some as young as 6 years old, in an eight-year-long sextortion scheme. [...]",
+      "publishedAt": "2026-05-28T09:25:59.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-9a71a71376c2",
@@ -540,106 +660,6 @@
       "author": "BOSS Letter",
       "excerpt": "142: This post tells you exactly where you stand and what to do next.",
       "publishedAt": "2026-05-21T21:49:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5bdd0fd810d4",
-      "title": "Google accidentally exposed details of unfixed Chromium flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
-      "publishedAt": "2026-05-21T18:13:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-23434d6f835f",
-      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
-      "publishedAt": "2026-05-21T15:11:08.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-be73c43d2cc9",
-      "title": "DNC releases 2024 autopsy; UN warns of global food crisis from Hormuz blockade; Big Tobacco wins at FDA after Trump donation",
-      "url": "https://www.dropsitenews.com/p/dnc-autopsy-un-food-crisis-hormuz-iran-tobacco-trump",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 21, 2026",
-      "publishedAt": "2026-05-21T14:43:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a1aba2428f9d",
-      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Flare",
-      "excerpt": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions.  Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation. [...]",
-      "publishedAt": "2026-05-21T14:00:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d0664b197315",
-      "title": "Chinese hackers target telcos with new Linux, Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and JFMBackdoor, respectively. [...]",
-      "publishedAt": "2026-05-21T14:00:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-736488108356",
-      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges. [...]",
-      "publishedAt": "2026-05-21T13:58:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-746a59a05cbc",
-      "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law enforcement operation. [...]",
-      "publishedAt": "2026-05-21T13:09:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7071fbcb5f1f",
-      "title": "Flipper One project needs community help to build open Linux platform",
-      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
-      "publishedAt": "2026-05-21T11:00:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-03ef4c901075",
-      "title": "The Crisis of Reality",
-      "url": "https://www.arktosjournal.com/p/the-crisis-of-reality",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Alexander Dugin",
-      "publishedAt": "2026-05-21T09:02:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3231428ce36f",
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
-      "publishedAt": "2026-05-21T07:49:48.000Z"
     }
   ]
 }
