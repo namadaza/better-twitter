@@ -31,14 +31,14 @@ export function Feed({ initialItems, seed }: FeedProps) {
   const [hasMore, setHasMore] = useState(initialItems.length === 30);
   const [artworks, setArtworks] = useState<Artwork[]>([]);
 
-  // Load the generated commons artworks manifest at runtime.
+  // Load the generated WikiArt artworks manifest at runtime.
   useEffect(() => {
     let mounted = true;
     (async () => {
         try {
           // dynamic import so this doesn't error at build time if file is missing
           // cast the import to a shape that contains Artwork items
-          const mod = (await import("@/lib/data/commons_artworks.json")) as {
+          const mod = (await import("@/lib/data/wikiart_artworks.json")) as {
             items?: Artwork[];
             default?: { items?: Artwork[] };
           };
@@ -53,7 +53,7 @@ export function Feed({ initialItems, seed }: FeedProps) {
         setArtworks(copy);
       } catch (e) {
         // ignore if missing or can't be read
-        console.warn("Could not load commons_artworks.json", e);
+        console.warn("Could not load wikiart_artworks.json", e);
       }
     })();
     return () => {

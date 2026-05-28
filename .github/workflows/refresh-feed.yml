@@ -15,6 +15,7 @@ permissions:
 
 jobs:
   ingest:
+    environment: production
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -28,20 +29,23 @@ jobs:
 
       - run: npm run ingest
 
-      - name: Fetch Wikimedia Commons artwork
+      - name: Fetch artwork from WikiArt
         env:
           BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
+          # Optional: if these WikiArt secrets are set the script will use the WikiArt API
+          WIKIART_ACCESS_KEY: ${{ secrets.WIKIART_ACCESS_KEY }}
+          WIKIART_SECRET_KEY: ${{ secrets.WIKIART_SECRET_KEY }}
         run: |
-          npm run ingest:commons
+          npm run ingest:wikiart
 
-      - name: Commit updated feed and commons manifest
+      - name: Commit updated feed and WikiArt manifest
         run: |
-          if git diff --quiet src/lib/data/external-feed.json src/lib/data/commons_artworks.json; then
+          if git diff --quiet src/lib/data/external-feed.json src/lib/data/wikiart_artworks.json; then
             echo "No changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/lib/data/external-feed.json src/lib/data/commons_artworks.json
-          git commit -m "chore(ingest): refresh external feed and commons artworks"
+          git add src/lib/data/external-feed.json src/lib/data/wikiart_artworks.json
+          git commit -m "chore(ingest): refresh external feed and wikiart artworks"
           git push

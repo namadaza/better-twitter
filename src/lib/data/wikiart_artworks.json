@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-28T20:28:10.952Z",
+  "generated_at": "2026-05-28T20:57:07.334Z",
   "source": "wikiart",
-  "count": 45,
+  "count": 65,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -1767,11 +1767,11 @@
         "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/a-bath-woman-bathing-her-feet.jpg",
         "height": 591
       },
-        "width": 800,
-        "height": 591,
-        "doNotRender": true,
-        "mime": null
-      },
+      "width": 800,
+      "height": 591,
+      "doNotRender": true,
+      "mime": null
+    },
     {
       "id": "wikiart:57727e4aedc2cb3880ea61de",
       "title": "Arnauts of Cairo at the Gate of Bab-el-Nasr",
@@ -2601,6 +2601,1239 @@
       },
       "width": 1145,
       "height": 886,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c415aa",
+      "title": "Argenteuil",
+      "artist": "Monet Claude",
+      "year": 1875,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Argenteuil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Argenteuil.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/claude-monet/argenteuil-1875(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/argenteuil-1875",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:47:39.033Z",
+      "fingerprint_sha256": "4d7e56a84445b626bedd8c890ca1d9a51278f6846b95386c35e5e5c343f20ef6",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c415aa",
+        "title": "Argenteuil",
+        "url": "argenteuil-1875",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1875,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 56,
+        "sizeY": 67,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Boat",
+          "Sky",
+          "Vehicle",
+          "Reflection",
+          "Harbor",
+          "Watercraft"
+        ],
+        "description": "",
+        "width": 1282,
+        "image": "https://uploads8.wikiart.org/images/claude-monet/argenteuil-1875(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1282,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4173a",
+      "title": "Beach and Cliffs at Pourville, Morning Effect",
+      "artist": "Monet Claude",
+      "year": 1882,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Beach_and_Cliffs_at_Pourville,_Morning_Effect.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Beach_and_Cliffs_at_Pourville%2C_Morning_Effect.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/claude-monet/beach-and-cliffs-at-pourville-morning-effect.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/beach-and-cliffs-at-pourville-morning-effect",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:47:46.225Z",
+      "fingerprint_sha256": "0b1e1e33051609f9e33314c3f06de9a20c94525b0711bfe04f4d099876462e68",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4173a",
+        "title": "Beach and Cliffs at Pourville, Morning Effect",
+        "url": "beach-and-cliffs-at-pourville-morning-effect",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Natural landscape",
+          "Rock",
+          "Cliff"
+        ],
+        "description": "",
+        "width": 1223,
+        "image": "https://uploads0.wikiart.org/images/claude-monet/beach-and-cliffs-at-pourville-morning-effect.jpg",
+        "height": 1024
+      },
+      "width": 1223,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4151a",
+      "title": "Antibes Seen from the Salis Gardens 02",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Antibes_Seen_from_the_Salis_Gardens_02.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Antibes_Seen_from_the_Salis_Gardens_02.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/antibes-seen-from-the-salis-gardens-02(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/antibes-seen-from-the-salis-gardens-02",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:47:53.565Z",
+      "fingerprint_sha256": "1a65efce16eac53bd7221af68938500eafc8bcc20713b869e2432ae5848b508b",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4151a",
+        "title": "Antibes Seen from the Salis Gardens 02",
+        "url": "antibes-seen-from-the-salis-gardens-02",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": {
+          "id": "57726d83edc2cb3880b488f5",
+          "title": "Antibes"
+        },
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Sky",
+          "Nature",
+          "Natural landscape",
+          "Atmospheric phenomenon",
+          "Atmosphere",
+          "morning",
+          "Woody plant"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/antibes-seen-from-the-salis-gardens-02(1).jpg",
+        "height": 887
+      },
+      "width": 1280,
+      "height": 887,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4152a",
+      "title": "Antibes, Afternoon Effect",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Antibes,_Afternoon_Effect.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Antibes%2C_Afternoon_Effect.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/claude-monet/antibes-afternoon-effect(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/antibes-afternoon-effect",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:47:59.982Z",
+      "fingerprint_sha256": "cf3a23592661442681cfe73cc68adf631f24e272e48e3dca36d65a4302c17108",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4152a",
+        "title": "Antibes, Afternoon Effect",
+        "url": "antibes-afternoon-effect",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": {
+          "id": "57726d83edc2cb3880b488f5",
+          "title": "Antibes"
+        },
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky"
+        ],
+        "description": "",
+        "width": 1500,
+        "image": "https://uploads8.wikiart.org/images/claude-monet/antibes-afternoon-effect(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1500,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4157a",
+      "title": "Apple Trees on the Chantemesle Hill",
+      "artist": "Monet Claude",
+      "year": 1878,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_on_the_Chantemesle_Hill.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_on_the_Chantemesle_Hill.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/claude-monet/apple-trees-on-the-chantemesle-hill(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/apple-trees-on-the-chantemesle-hill",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:48:06.200Z",
+      "fingerprint_sha256": "192f2b75af6b49ea11c71df18c30e42957c640239a2cbd7ef27da5282d6137dc",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4157a",
+        "title": "Apple Trees on the Chantemesle Hill",
+        "url": "apple-trees-on-the-chantemesle-hill",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1878,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Plant",
+          "Woody plant",
+          "Flower",
+          "autumn",
+          "Branch"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads3.wikiart.org/images/claude-monet/apple-trees-on-the-chantemesle-hill(1).jpg",
+        "height": 1018
+      },
+      "width": 1280,
+      "height": 1018,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4179a",
+      "title": "Bennecourt",
+      "artist": "Monet Claude",
+      "year": 1885,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Bennecourt.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Bennecourt.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/claude-monet/bennecourt.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/bennecourt",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:48:12.471Z",
+      "fingerprint_sha256": "9c0f8a3ede3c2376a2b8e46cf9262ac9f51499da6b03f91e32f5e8a5710e7e5e",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4179a",
+        "title": "Bennecourt",
+        "url": "bennecourt",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1885,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Town",
+          "Sky",
+          "Medieval architecture",
+          "Building",
+          "Village"
+        ],
+        "description": "",
+        "width": 1027,
+        "image": "https://uploads2.wikiart.org/images/claude-monet/bennecourt.jpg",
+        "height": 1024
+      },
+      "width": 1027,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c414ca",
+      "title": "Anglers on the Seine at Poissy",
+      "artist": "Monet Claude",
+      "year": 1882,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Anglers_on_the_Seine_at_Poissy.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Anglers_on_the_Seine_at_Poissy.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/claude-monet/anglers-on-the-seine-at-poissy(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/anglers-on-the-seine-at-poissy",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:48:18.730Z",
+      "fingerprint_sha256": "c83846761f5932c30da52a5a7e5192cd17b87a619ceb3457a932217e09efa02b",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c414ca",
+        "title": "Anglers on the Seine at Poissy",
+        "url": "anglers-on-the-seine-at-poissy",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": 81.7,
+        "sizeY": 59.8,
+        "diameter": null,
+        "galleries": [
+          "Belvedere, Vienna, Austria"
+        ],
+        "tags": [
+          "Water",
+          "Watercraft rowing"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads7.wikiart.org/images/claude-monet/anglers-on-the-seine-at-poissy(1).jpg",
+        "height": 933
+      },
+      "width": 1280,
+      "height": 933,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4176a",
+      "title": "Belle-Ile, Rain Effect",
+      "artist": "Monet Claude",
+      "year": 1886,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Belle-Ile,_Rain_Effect.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Belle-Ile%2C_Rain_Effect.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/claude-monet/belle-ile-rain-effect.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/belle-ile-rain-effect",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:48:24.017Z",
+      "fingerprint_sha256": "71230b34738df955cfbd0190b32c41ff92e5ea4a8e681e3ea2e69d7ea03f4dc5",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4176a",
+        "title": "Belle-Ile, Rain Effect",
+        "url": "belle-ile-rain-effect",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1886,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "islands-and-bays",
+          "cliffs-and-rocks",
+          "Belle-Île",
+          "Water",
+          "Rock",
+          "Sea",
+          "Sky",
+          "Coast",
+          "Cliff",
+          "Tide",
+          "Ocean",
+          "Brittany"
+        ],
+        "description": "",
+        "width": 1251,
+        "image": "https://uploads4.wikiart.org/images/claude-monet/belle-ile-rain-effect.jpg",
+        "height": 1024
+      },
+      "width": 1251,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4146a",
+      "title": "Agapanthus Flowers",
+      "artist": "Monet Claude",
+      "year": 1917,
+      "genres": [
+        "flower painting"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Agapanthus_Flowers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Agapanthus_Flowers.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/claude-monet/agapanthus-flowers-1917(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/agapanthus-flowers-1917",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:48:31.510Z",
+      "fingerprint_sha256": "8debae356b82e5fe2af96448ff2b768990e214caa38b95c0bbb15fb3ac1108bc",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4146a",
+        "title": "Agapanthus Flowers",
+        "url": "agapanthus-flowers-1917",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1917,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e50"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "flower painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Flower",
+          "Plant",
+          "Botany",
+          "Wildflower",
+          "Iris"
+        ],
+        "description": "",
+        "width": 1076,
+        "image": "https://uploads7.wikiart.org/images/claude-monet/agapanthus-flowers-1917(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1076,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c414ea",
+      "title": "Antibes in the Morning",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Antibes_in_the_Morning.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Antibes_in_the_Morning.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/antibes-in-the-morning(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/antibes-in-the-morning",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:48:38.029Z",
+      "fingerprint_sha256": "5c790baa67be7c75758b6e3b19274f78e743914d3e3b9d45c8992f026748a5eb",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c414ea",
+        "title": "Antibes in the Morning",
+        "url": "antibes-in-the-morning",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": {
+          "id": "57726d83edc2cb3880b488f5",
+          "title": "Antibes"
+        },
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Natural landscape",
+          "Nature",
+          "Atmospheric phenomenon",
+          "morning",
+          "Woody plant",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1496,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/antibes-in-the-morning(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1496,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c416ba",
+      "title": "At Val-Saint-Nicolas near Dieppe in the Morning",
+      "artist": "Monet Claude",
+      "year": 1897,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/At_Val-Saint-Nicolas_near_Dieppe_in_the_Morning.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/At_Val-Saint-Nicolas_near_Dieppe_in_the_Morning.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/claude-monet/at-val-saint-nicolas-near-dieppe-in-the-morning.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/at-val-saint-nicolas-near-dieppe-in-the-morning",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:48:44.232Z",
+      "fingerprint_sha256": "a9344137e8555951b197745c402e38ad08dd3839f1fb198f3daad1f81c094caf",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c416ba",
+        "title": "At Val-Saint-Nicolas near Dieppe in the Morning",
+        "url": "at-val-saint-nicolas-near-dieppe-in-the-morning",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1897,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Normandy",
+          "cliffs-and-rocks"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads3.wikiart.org/images/claude-monet/at-val-saint-nicolas-near-dieppe-in-the-morning.jpg",
+        "height": 843
+      },
+      "width": 1280,
+      "height": 843,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4166a",
+      "title": "At Cap d'Antibes",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/At_Cap_dAntibes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/At_Cap_dAntibes.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/claude-monet/at-cap-d-antibes.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/at-cap-d-antibes",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:48:50.709Z",
+      "fingerprint_sha256": "d7f51bd8194e73b0b0103b404189079492b2be33ddce21df02998081fbb08339",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4166a",
+        "title": "At Cap d'Antibes",
+        "url": "at-cap-d-antibes",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Natural landscape",
+          "Bank",
+          "Woody plant",
+          "Sky",
+          "Water"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads8.wikiart.org/images/claude-monet/at-cap-d-antibes.jpg",
+        "height": 896
+      },
+      "width": 1280,
+      "height": 896,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4149a",
+      "title": "Amsterdam in the Snow",
+      "artist": "Monet Claude",
+      "year": 1874,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Amsterdam_in_the_Snow.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Amsterdam_in_the_Snow.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/claude-monet/amsterdam-in-the-snow(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/amsterdam-in-the-snow",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:48:57.026Z",
+      "fingerprint_sha256": "2d22e0387585dd802c0b4d3c889825621c3f35b8d6eae009499d8fcd368178e3",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4149a",
+        "title": "Amsterdam in the Snow",
+        "url": "amsterdam-in-the-snow",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1874,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": {
+          "id": "61e4a2cc9e43632d80100000",
+          "title": "Holland"
+        },
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads7.wikiart.org/images/claude-monet/amsterdam-in-the-snow(1).jpg",
+        "height": 930
+      },
+      "width": 1280,
+      "height": 930,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4142a",
+      "title": "A Windmill near Zaandam",
+      "artist": "Monet Claude",
+      "year": 1871,
+      "genres": [
+        "landscape",
+        "marina"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/A_Windmill_near_Zaandam.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/A_Windmill_near_Zaandam.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/claude-monet/a-windmill-near-zaandam(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/a-windmill-near-zaandam",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:49:03.108Z",
+      "fingerprint_sha256": "d42e89c8b4b9c3837434f6b4800c5faf9715919de7951186a22ed23f3e8541a2",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4142a",
+        "title": "A Windmill near Zaandam",
+        "url": "a-windmill-near-zaandam",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1871,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": {
+          "id": "61e4a2cc9e43632d80100000",
+          "title": "Holland"
+        },
+        "genres": [
+          "landscape",
+          "marina"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 41,
+        "sizeY": 72.5,
+        "diameter": null,
+        "galleries": [
+          "Ashmolean Museum, Oxford, UK"
+        ],
+        "tags": [
+          "Windmill",
+          "Vehicle",
+          "Fluyt"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads0.wikiart.org/images/claude-monet/a-windmill-near-zaandam(1).jpg",
+        "height": 579
+      },
+      "width": 1000,
+      "height": 579,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4156a",
+      "title": "Apple Trees near Vetheuil",
+      "artist": "Monet Claude",
+      "year": 1878,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_near_Vetheuil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_near_Vetheuil.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/claude-monet/apple-trees-near-vetheuil(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/apple-trees-near-vetheuil",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:49:14.825Z",
+      "fingerprint_sha256": "f56b8d863dd52562df5f405718ba6029286d84f98091bd7b4e0f8888ac93122e",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4156a",
+        "title": "Apple Trees near Vetheuil",
+        "url": "apple-trees-near-vetheuil",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1878,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Plant",
+          "Woody plant",
+          "Rural area"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads2.wikiart.org/images/claude-monet/apple-trees-near-vetheuil(1).jpg",
+        "height": 933
+      },
+      "width": 1280,
+      "height": 933,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92dfe",
+      "title": "Bench",
+      "artist": "Manet Edouard",
+      "year": 1881,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Bench.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Bench.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/edouard-manet/bench-1881.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/bench-1881",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:56:09.381Z",
+      "fingerprint_sha256": "e1638874702908942b41ef5a701ea28bbb41c6b7c95080299be4ab8587fcc557",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92dfe",
+        "title": "Bench",
+        "url": "bench-1881",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "summer",
+          "gardens-and-parks",
+          "Textile"
+        ],
+        "description": "",
+        "width": 604,
+        "image": "https://uploads3.wikiart.org/images/edouard-manet/bench-1881.jpg",
+        "height": 459
+      },
+      "width": 604,
+      "height": 459,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92cac",
+      "title": "A young girl",
+      "artist": "Manet Edouard",
+      "year": 1880,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_young_girl.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_young_girl.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/edouard-manet/a-young-girl-1880.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-young-girl-1880",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:56:16.387Z",
+      "fingerprint_sha256": "af0a51aa9041a874100f5b51f418d37475533f061ffec7881d155edeb14827e6",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92cac",
+        "title": "A young girl",
+        "url": "a-young-girl-1880",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae7346",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "pastel",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Hermitage Museum, Saint Petersburg, Russia"
+        ],
+        "tags": [
+          "female-portraits",
+          "Lady",
+          "Chin",
+          "Cheek",
+          "Forehead"
+        ],
+        "description": "",
+        "width": 575,
+        "image": "https://uploads1.wikiart.org/images/edouard-manet/a-young-girl-1880.jpg",
+        "height": 735
+      },
+      "width": 575,
+      "height": 735,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92e9c",
+      "title": "Branch of White Peonies and Secateurs",
+      "artist": "Manet Edouard",
+      "year": 1864,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Branch_of_White_Peonies_and_Secateurs.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Branch_of_White_Peonies_and_Secateurs.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/edouard-manet/branch-of-white-peonies-and-secateurs-1864.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/branch-of-white-peonies-and-secateurs-1864",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:56:22.708Z",
+      "fingerprint_sha256": "5311d3a1a5be6234f118074b1c4979fd952391f7a4c524cc0c61df228ec55239",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92e9c",
+        "title": "Branch of White Peonies and Secateurs",
+        "url": "branch-of-white-peonies-and-secateurs-1864",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1864,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 46.5,
+        "sizeY": 31,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "flowers-and-plants",
+          "Still life photography",
+          "Flower",
+          "Plant",
+          "Gardenia"
+        ],
+        "description": "",
+        "width": 901,
+        "image": "https://uploads8.wikiart.org/images/edouard-manet/branch-of-white-peonies-and-secateurs-1864.jpg",
+        "height": 613
+      },
+      "width": 901,
+      "height": 613,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92ce8",
+      "title": "Angelina",
+      "artist": "Manet Edouard",
+      "year": 1865,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Angelina.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Angelina.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/edouard-manet/angelina-1865.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/angelina-1865",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:56:29.672Z",
+      "fingerprint_sha256": "bdd516ed06ee52beffa4e4a9705440407c7bf7c039abf05812a39bff7db8aa1f",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92ce8",
+        "title": "Angelina",
+        "url": "angelina-1865",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1865,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 72,
+        "sizeY": 92,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "female-portraits"
+        ],
+        "description": "",
+        "width": 516,
+        "image": "https://uploads6.wikiart.org/images/edouard-manet/angelina-1865.jpg",
+        "height": 656
+      },
+      "width": 516,
+      "height": 656,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92f98",
+      "title": "Guitar and Hat",
+      "artist": "Manet Edouard",
+      "year": 1862,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Guitar_and_Hat.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Guitar_and_Hat.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/edouard-manet/guitar-and-hat-1862.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/guitar-and-hat-1862",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:56:36.591Z",
+      "fingerprint_sha256": "609b67082d6aa9d685ea0b16bdcf62c2f05650ad33c01cbaf19040ed413b93f5",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92f98",
+        "title": "Guitar and Hat",
+        "url": "guitar-and-hat-1862",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1862,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée Calvet, Avignon, France"
+        ],
+        "tags": [
+          "clothing-and-textile",
+          "musical-instruments"
+        ],
+        "description": "",
+        "width": 788,
+        "image": "https://uploads3.wikiart.org/images/edouard-manet/guitar-and-hat-1862.jpg",
+        "height": 484
+      },
+      "width": 788,
+      "height": 484,
       "mime": null
     }
   ]
