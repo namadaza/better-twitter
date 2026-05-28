@@ -30,7 +30,9 @@ export function ArtworkItem({ art }: { art: Artwork }) {
   // Prefer the top-level year when available; fall back to the source's completion year.
   // This allows either `year` or `raw_extmetadata.completitionYear` to be used.
   const completionYear = art.year ?? art.raw_extmetadata?.completitionYear;
-  // Format artist names as "Last, First" when possible. If the artist
+  // Format artist names by treating the last space-separated token as the
+  // family name (last name) and the preceding tokens as given names.
+  // Example: "Jean-Leon Gerome" -> "Gerome, Jean-Leon". If the name
   // already contains a comma or is a single word, leave it unchanged.
   const formatArtist = (name?: string) => {
     if (!name) return undefined;
@@ -38,9 +40,9 @@ export function ArtworkItem({ art }: { art: Artwork }) {
     if (trimmed.includes(",")) return trimmed;
     const parts = trimmed.split(/\s+/);
     if (parts.length === 1) return parts[0];
-    const last = parts.pop();
-    const first = parts.join(" ");
-    return `${last}, ${first}`;
+    const last = parts[parts.length - 1];
+    const rest = parts.slice(0, parts.length - 1).join(" ");
+    return `${last}, ${rest}`;
   };
 
   const formattedArtist = formatArtist(art.artist);
