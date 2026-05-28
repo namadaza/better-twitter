@@ -1911,6 +1911,7 @@
     {
       "id": "wikiart:57727e49edc2cb3880ea606e",
       "title": "A Roman Slave Market",
+      "doNotRender": true,
       "artist": "Gerome Jean-Leon",
       "year": 1884,
       "genres": ["genre painting"],
