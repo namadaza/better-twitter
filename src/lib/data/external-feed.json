@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-05-27T18:59:30.257Z",
+  "fetchedAt": "2026-05-28T01:06:28.079Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-9a71a71376c2",
+      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
+      "url": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
+      "publication": "BleepingComputer",
+      "author": "Ionut Ilascu",
+      "excerpt": "Threat actors are targeting systems with high-performance computers in an ongoing cryptojacking campaign spread through a coordinated SEO poisoning operation that also manipulated AI chatbot recommendations. [...]",
+      "publishedAt": "2026-05-27T21:31:25.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-194a6ddcb20f",
@@ -640,26 +650,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
       "publishedAt": "2026-05-21T06:54:01.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9b7865b92a97",
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
-      "publishedAt": "2026-05-20T21:36:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7fb963b9bebb",
-      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
-      "publishedAt": "2026-05-20T21:19:17.000Z"
     }
   ]
 }
