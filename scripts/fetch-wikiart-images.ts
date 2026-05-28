@@ -67,9 +67,10 @@ function sha256Hex(buf: Uint8Array) {
 async function wikiArtApi(pathname: string, params: Record<string, string> = {}) {
   const url = new URL(`${WIKIART_BASE}${pathname}`);
   Object.entries(params).forEach(([k, v]) => url.searchParams.append(k, v));
-  url.searchParams.set('accessKey', WIKIART_ACCESS);
-  url.searchParams.set('secretKey', WIKIART_SECRET);
-  const headers: Record<string, string> = { 'User-Agent': USER_AGENT, 'X-Access-Key': WIKIART_ACCESS, 'X-Secret-Key': WIKIART_SECRET };
+  // WIKIART_ACCESS and WIKIART_SECRET are validated at startup; assert non-null for TS
+  url.searchParams.set('accessKey', WIKIART_ACCESS!);
+  url.searchParams.set('secretKey', WIKIART_SECRET!);
+  const headers: Record<string, string> = { 'User-Agent': USER_AGENT, 'X-Access-Key': WIKIART_ACCESS!, 'X-Secret-Key': WIKIART_SECRET! };
   const res = await fetch(url.toString(), { headers });
   if (!res.ok) throw new Error(`WikiArt API ${res.status} ${res.statusText}`);
   return res.json();
