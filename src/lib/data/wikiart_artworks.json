@@ -1965,6 +1965,7 @@
     {
       "id": "wikiart:57727e4aedc2cb3880ea624e",
       "title": "Bathsheba",
+      "doNotRender": true,
       "artist": "Gerome Jean-Leon",
       "year": null,
       "genres": ["religious painting"],

@@ -30,7 +30,21 @@ export function ArtworkItem({ art }: { art: Artwork }) {
   // Prefer the top-level year when available; fall back to the source's completion year.
   // This allows either `year` or `raw_extmetadata.completitionYear` to be used.
   const completionYear = art.year ?? art.raw_extmetadata?.completitionYear;
-  const subtitle = [art.artist, completionYear].filter(Boolean).join(" · ");
+  // Format artist names as "Last, First" when possible. If the artist
+  // already contains a comma or is a single word, leave it unchanged.
+  const formatArtist = (name?: string) => {
+    if (!name) return undefined;
+    const trimmed = name.trim();
+    if (trimmed.includes(",")) return trimmed;
+    const parts = trimmed.split(/\s+/);
+    if (parts.length === 1) return parts[0];
+    const last = parts.pop();
+    const first = parts.join(" ");
+    return `${last}, ${first}`;
+  };
+
+  const formattedArtist = formatArtist(art.artist);
+  const subtitle = [formattedArtist, completionYear].filter(Boolean).join(" · ");
 
   return (
     <article className="px-4 py-8">
