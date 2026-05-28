@@ -8,6 +8,11 @@ dotenv.config({ path: process.env.DOTENV_PATH || '.env.local' });
 import fs from 'fs/promises';
 import path from 'path';
 import { put } from '@vercel/blob';
+
+// Local approximation of the `PutBody` union accepted by @vercel/blob.
+// @vercel/blob's package doesn't export a PutBody type in the installed version,
+// so declare a compatible union here to satisfy TypeScript.
+type PutBodyLocal = string | Uint8Array | Buffer | Blob | ReadableStream<any> | File;
 import crypto from 'crypto';
 
 const BLOB_TOKEN = process.env.BLOB_READ_WRITE_TOKEN;
@@ -171,8 +176,11 @@ async function downloadBuffer(url: string) {
   return Buffer.from(ab);
 }
 
-async function uploadToBlob(pathName: string, buffer: Uint8Array) {
-  // @vercel/blob put accepts string | Uint8Array
+async function uploadToBlob(pathName: string, buffer: PutBodyLocal) {
+  // Use the PutBody type exported by @vercel/blob so TypeScript accepts
+  // the union of Buffer/Uint8Array/string/etc. at call sites.
+  // The @vercel/blob package's shipped types are a bit restrictive here; allow the call.
+  // @ts-ignore - allow passing our PutBodyLocal to put()
   const res = await put(pathName, buffer, { access: 'public', token: BLOB_TOKEN });
   return res.url as string;
 }
@@ -344,8 +352,8 @@ async function run() {
     for (const t of TOPICS) {
       let candidates: Candidate[] = [];
       console.log(`Gathering candidates for topic ${t.key} (strategy=${t.strategy})`);
-      if (t.strategy === 'category') {
-        const cms = await categoryMembers(t.category, 200);
+        if (t.strategy === 'category') {
+          const cms = await categoryMembers(t.category!, 200);
         console.log(`Found ${cms.length} category members for ${t.category}`);
         candidates = cms.map((c: any) => ({ title: c.title }));
       } else if (t.strategy === 'sparql') {

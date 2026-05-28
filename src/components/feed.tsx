@@ -7,6 +7,7 @@ import { HighlightItem } from "./items/highlight-item";
 import { BookItem } from "./items/book-item";
 import { RssItem } from "./items/rss-item";
 import { ArtworkItem } from "./items/artwork-item";
+import type { Artwork } from "./items/artwork-item";
 
 interface FeedProps {
   initialItems: FeedItem[];
@@ -28,18 +29,22 @@ export function Feed({ initialItems, seed }: FeedProps) {
   const [items, setItems] = useState<FeedItem[]>(initialItems);
   const [loading, setLoading] = useState(false);
   const [hasMore, setHasMore] = useState(initialItems.length === 30);
-  const [artworks, setArtworks] = useState<any[]>([]);
+  const [artworks, setArtworks] = useState<Artwork[]>([]);
 
   // Load the generated commons artworks manifest at runtime.
   useEffect(() => {
     let mounted = true;
     (async () => {
-      try {
-        // dynamic import so this doesn't error at build time if file is missing
-        const mod = await import("@/lib/data/commons_artworks.json");
-        const items = mod?.items || mod?.default?.items || [];
-        if (!mounted) return;
-        // shuffle a copy so presentation varies
+        try {
+          // dynamic import so this doesn't error at build time if file is missing
+          // cast the import to a shape that contains Artwork items
+          const mod = (await import("@/lib/data/commons_artworks.json")) as {
+            items?: Artwork[];
+            default?: { items?: Artwork[] };
+          };
+          const items = mod.items ?? mod.default?.items ?? [];
+          if (!mounted) return;
+          // shuffle a copy so presentation varies
         const copy = items.slice();
         for (let i = copy.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));

@@ -1,11 +1,11 @@
 import { ExternalLink } from "lucide-react";
 import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
 
-type Artwork = {
+export type Artwork = {
   id?: string;
   title?: string;
   artist?: string;
-  year?: string;
+  year?: number | string | null;
   license_name?: string;
   license_url?: string;
   thumbnail_url?: string;
@@ -15,9 +15,10 @@ type Artwork = {
   // When true the feed should skip rendering this artwork (keeps it in the dataset)
   doNotRender?: boolean;
   // Raw external metadata from the source (some sources provide a `completitionYear`)
+  // Use `unknown` for arbitrary metadata instead of `any` to satisfy lint rules.
   raw_extmetadata?: {
     completitionYear?: number | string | null;
-    [key: string]: any;
+    [key: string]: unknown;
   };
 };
 
