@@ -1,5 +1,6 @@
 import { ExternalLink } from "lucide-react";
 import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
+import { formatArtist } from "./artwork-item.helpers";
 
 export type Artwork = {
   id?: string;
@@ -30,23 +31,14 @@ export function ArtworkItem({ art }: { art: Artwork }) {
   // Prefer the top-level year when available; fall back to the source's completion year.
   // This allows either `year` or `raw_extmetadata.completitionYear` to be used.
   const completionYear = art.year ?? art.raw_extmetadata?.completitionYear;
-  // Format artist names by treating the last space-separated token as the
-  // family name (last name) and the preceding tokens as given names.
-  // Example: "Jean-Leon Gerome" -> "Gerome, Jean-Leon". If the name
-  // already contains a comma or is a single word, leave it unchanged.
-  const formatArtist = (name?: string) => {
-    if (!name) return undefined;
-    const trimmed = name.trim();
-    if (trimmed.includes(",")) return trimmed;
-    const parts = trimmed.split(/\s+/);
-    if (parts.length === 1) return parts[0];
-    const last = parts[parts.length - 1];
-    const rest = parts.slice(0, parts.length - 1).join(" ");
-    return `${last}, ${rest}`;
-  };
-
+  // Format artist names by treating the first space-separated token as the
+  // family name (last name) and the remaining tokens as given names.
+  // Example: "Mansur Ustad" -> "Mansur, Ustad". If the name already
+  // contains a comma or is a single word, leave it unchanged.
   const formattedArtist = formatArtist(art.artist);
-  const subtitle = [formattedArtist, completionYear].filter(Boolean).join(" · ");
+  const subtitle = [formattedArtist, completionYear]
+    .filter(Boolean)
+    .join(" · ");
 
   return (
     <article className="px-4 py-8">
