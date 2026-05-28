@@ -12,12 +12,24 @@ type Artwork = {
   full_image_url?: string | null;
   source_file_page?: string;
   genres?: string[];
+  // When true the feed should skip rendering this artwork (keeps it in the dataset)
+  doNotRender?: boolean;
+  // Raw external metadata from the source (some sources provide a `completitionYear`)
+  raw_extmetadata?: {
+    completitionYear?: number | string | null;
+    [key: string]: any;
+  };
 };
 
 export function ArtworkItem({ art }: { art: Artwork }) {
+  // Skip rendering items explicitly marked to not render in the feed.
+  if (art.doNotRender) return null;
   // Use the title from the manifest as the main heading to avoid rendering raw metadata markup.
   const title = art.title || "Artwork";
-  const subtitle = [art.artist, art.year].filter(Boolean).join(" · ");
+  // Prefer the top-level year when available; fall back to the source's completion year.
+  // This allows either `year` or `raw_extmetadata.completitionYear` to be used.
+  const completionYear = art.year ?? art.raw_extmetadata?.completitionYear;
+  const subtitle = [art.artist, completionYear].filter(Boolean).join(" · ");
 
   return (
     <article className="px-4 py-8">

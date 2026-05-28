@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-28T20:14:42.296Z",
+  "generated_at": "2026-05-28T20:28:10.952Z",
   "source": "wikiart",
-  "count": 15,
+  "count": 45,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -883,6 +883,1724 @@
       },
       "width": 287,
       "height": 396,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728205edc2cb3880f63e7c",
+      "title": "Iskandar enthroned",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_enthroned.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_enthroned.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/ahmad-musa/iskandar-enthroned-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/iskandar-enthroned-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:00.667Z",
+      "fingerprint_sha256": "90795d06f4f289443fb33537ebe7ac51cb3f75da6f82eb1d12b813f5d005ebb4",
+      "raw_extmetadata": {
+        "id": "57728205edc2cb3880f63e7c",
+        "title": "Iskandar enthroned",
+        "url": "iskandar-enthroned-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Text",
+          "History"
+        ],
+        "description": "",
+        "width": 402,
+        "image": "https://uploads4.wikiart.org/images/ahmad-musa/iskandar-enthroned-1336.jpg",
+        "height": 600
+      },
+      "width": 402,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728204edc2cb3880f63e4c",
+      "title": "Isfandiyar approaches Gushtasp",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Isfandiyar_approaches_Gushtasp.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Isfandiyar_approaches_Gushtasp.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/ahmad-musa/isfandiyar-approaches-gushtasp-detail-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/isfandiyar-approaches-gushtasp-detail-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:03.703Z",
+      "fingerprint_sha256": "0abb0f9f73545d5cf20fc79a5dfdf95e238d2874f49c542b650d4aad452b518e",
+      "raw_extmetadata": {
+        "id": "57728204edc2cb3880f63e4c",
+        "title": "Isfandiyar approaches Gushtasp",
+        "url": "isfandiyar-approaches-gushtasp-detail-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Textile",
+          "History",
+          "Organism"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads5.wikiart.org/images/ahmad-musa/isfandiyar-approaches-gushtasp-detail-1336.jpg",
+        "height": 594
+      },
+      "width": 700,
+      "height": 594,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728205edc2cb3880f63e5c",
+      "title": "Iskandar at Israfil (detail)",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_at_Israfil_(detail).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_at_Israfil_%28detail%29.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/ahmad-musa/iskandar-at-israfil-detail-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/iskandar-at-israfil-detail-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:06.652Z",
+      "fingerprint_sha256": "6a1eb2665d809dd55f9eec85435e54c16e4e5cd7ff04a1beb1ada75a86b3dfff",
+      "raw_extmetadata": {
+        "id": "57728205edc2cb3880f63e5c",
+        "title": "Iskandar at Israfil (detail)",
+        "url": "iskandar-at-israfil-detail-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Textile",
+          "Organism"
+        ],
+        "description": "",
+        "width": 406,
+        "image": "https://uploads3.wikiart.org/images/ahmad-musa/iskandar-at-israfil-detail-1336.jpg",
+        "height": 600
+      },
+      "width": 406,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728204edc2cb3880f63e3c",
+      "title": "Faridun sees Iraj's coffin",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Faridun_sees_Irajs_coffin.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Faridun_sees_Irajs_coffin.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/ahmad-musa/faridun-sees-iraj-s-coffin-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/faridun-sees-iraj-s-coffin-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:09.696Z",
+      "fingerprint_sha256": "26bf24aad00d492a4fb54cc472dc9c1b5081c90d984081828f736ada703812b6",
+      "raw_extmetadata": {
+        "id": "57728204edc2cb3880f63e3c",
+        "title": "Faridun sees Iraj's coffin",
+        "url": "faridun-sees-iraj-s-coffin-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads3.wikiart.org/images/ahmad-musa/faridun-sees-iraj-s-coffin-1336.jpg",
+        "height": 508
+      },
+      "width": 700,
+      "height": 508,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728205edc2cb3880f63e6c",
+      "title": "Iskandar at Israfil",
+      "artist": "Musa Ahmad",
+      "year": null,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_at_Israfil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_at_Israfil.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/ahmad-musa/iskandar-at-israfil.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/iskandar-at-israfil",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:12.336Z",
+      "fingerprint_sha256": "4358359cad036ab4f06e5e1bd8de550496905def7d2b4b4548f3f283066fdf48",
+      "raw_extmetadata": {
+        "id": "57728205edc2cb3880f63e6c",
+        "title": "Iskandar at Israfil",
+        "url": "iskandar-at-israfil",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Text"
+        ],
+        "description": "",
+        "width": 401,
+        "image": "https://uploads0.wikiart.org/images/ahmad-musa/iskandar-at-israfil.jpg",
+        "height": 600
+      },
+      "width": 401,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728204edc2cb3880f63dfc",
+      "title": "Bahram Gur and the Dragon",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_and_the_Dragon.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_and_the_Dragon.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/ahmad-musa/bahram-gur-and-the-dragon-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/bahram-gur-and-the-dragon-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:15.012Z",
+      "fingerprint_sha256": "d8e1bc4270e055dc4ced48debfb5463811721f71d50ebd20c499f88c90cc2bbd",
+      "raw_extmetadata": {
+        "id": "57728204edc2cb3880f63dfc",
+        "title": "Bahram Gur and the Dragon",
+        "url": "bahram-gur-and-the-dragon-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Organism"
+        ],
+        "description": "",
+        "width": 402,
+        "image": "https://uploads2.wikiart.org/images/ahmad-musa/bahram-gur-and-the-dragon-1336.jpg",
+        "height": 600
+      },
+      "width": 402,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728204edc2cb3880f63ddc",
+      "title": "Ardashir captures Ardawan",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Ardashir_captures_Ardawan.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Ardashir_captures_Ardawan.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/ahmad-musa/ardashir-captures-ardawan-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/ardashir-captures-ardawan-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:17.903Z",
+      "fingerprint_sha256": "9adc9771b7cfa3e87b2565e95db021a544e1c10193102be9dc92df89f4548969",
+      "raw_extmetadata": {
+        "id": "57728204edc2cb3880f63ddc",
+        "title": "Ardashir captures Ardawan",
+        "url": "ardashir-captures-ardawan-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Textile"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads2.wikiart.org/images/ahmad-musa/ardashir-captures-ardawan-1336.jpg",
+        "height": 486
+      },
+      "width": 700,
+      "height": 486,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728205edc2cb3880f63e8c",
+      "title": "Rustam kills Istendiyar",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Rustam_kills_Istendiyar.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Rustam_kills_Istendiyar.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/ahmad-musa/rustam-kills-istendiyar-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/rustam-kills-istendiyar-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:20.746Z",
+      "fingerprint_sha256": "19e8ef7b122860125f2cca374d65ca1bfcac2ec417d8266ff17c8c0e61ab3f6e",
+      "raw_extmetadata": {
+        "id": "57728205edc2cb3880f63e8c",
+        "title": "Rustam kills Istendiyar",
+        "url": "rustam-kills-istendiyar-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Textile",
+          "Horse",
+          "Mythology",
+          "Organism"
+        ],
+        "description": "",
+        "width": 600,
+        "image": "https://uploads0.wikiart.org/images/ahmad-musa/rustam-kills-istendiyar-1336.jpg",
+        "height": 390
+      },
+      "width": 600,
+      "height": 390,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728204edc2cb3880f63dec",
+      "title": "Ardashir fights Bahman",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Ardashir_fights_Bahman.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Ardashir_fights_Bahman.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/ahmad-musa/ardashir-fights-bahman-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/ardashir-fights-bahman-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:23.649Z",
+      "fingerprint_sha256": "6b3e61616234e1233f6b11921fc5be1ecbc909b210cd37d74bee7ad2d314092e",
+      "raw_extmetadata": {
+        "id": "57728204edc2cb3880f63dec",
+        "title": "Ardashir fights Bahman",
+        "url": "ardashir-fights-bahman-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Textile"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads8.wikiart.org/images/ahmad-musa/ardashir-fights-bahman-1336.jpg",
+        "height": 488
+      },
+      "width": 700,
+      "height": 488,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728204edc2cb3880f63e1c",
+      "title": "Bahram Gur tramples Azadeh",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_tramples_Azadeh.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_tramples_Azadeh.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/ahmad-musa/bahram-gur-tramples-azadeh-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/bahram-gur-tramples-azadeh-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:26.580Z",
+      "fingerprint_sha256": "d3b584fb5146362f960705788bcb2a50e11e05ceaacfa547b385a62de9911337",
+      "raw_extmetadata": {
+        "id": "57728204edc2cb3880f63e1c",
+        "title": "Bahram Gur tramples Azadeh",
+        "url": "bahram-gur-tramples-azadeh-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Textile",
+          "History"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads3.wikiart.org/images/ahmad-musa/bahram-gur-tramples-azadeh-1336.jpg",
+        "height": 469
+      },
+      "width": 700,
+      "height": 469,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577282f4edc2cb3880f95722",
+      "title": "Archangel Gabriel carries the Prophet Muhammad over the mountains",
+      "artist": "Musa Ahmad",
+      "year": null,
+      "genres": [],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Archangel_Gabriel_carries_the_Prophet_Muhammad_over_the_mountains.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Archangel_Gabriel_carries_the_Prophet_Muhammad_over_the_mountains.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/ahmad-musa/archangel-gabriel-carries-the-prophet-muhammad-over-the-mountains(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/archangel-gabriel-carries-the-prophet-muhammad-over-the-mountains",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:29.321Z",
+      "fingerprint_sha256": "09afb77b4be48e9ccb383fc6aa58a8bb09b8c37de27e453db2fe7b02a0abf7d9",
+      "raw_extmetadata": {
+        "id": "577282f4edc2cb3880f95722",
+        "title": "Archangel Gabriel carries the Prophet Muhammad over the mountains",
+        "url": "archangel-gabriel-carries-the-prophet-muhammad-over-the-mountains",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 300,
+        "image": "https://uploads4.wikiart.org/images/ahmad-musa/archangel-gabriel-carries-the-prophet-muhammad-over-the-mountains(1).jpg",
+        "height": 426
+      },
+      "width": 300,
+      "height": 426,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728204edc2cb3880f63e2c",
+      "title": "Darab and Rastnawan fight the Rumis",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Darab_and_Rastnawan_fight_the_Rumis.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Darab_and_Rastnawan_fight_the_Rumis.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/ahmad-musa/darab-and-rastnawan-fight-the-rumis-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/darab-and-rastnawan-fight-the-rumis-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:32.466Z",
+      "fingerprint_sha256": "d1e723495726438a56e16e1aeffe0643c4a059f308d3fdc478b853156a58ac55",
+      "raw_extmetadata": {
+        "id": "57728204edc2cb3880f63e2c",
+        "title": "Darab and Rastnawan fight the Rumis",
+        "url": "darab-and-rastnawan-fight-the-rumis-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Textile"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads3.wikiart.org/images/ahmad-musa/darab-and-rastnawan-fight-the-rumis-1336.jpg",
+        "height": 639
+      },
+      "width": 700,
+      "height": 639,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728204edc2cb3880f63e0c",
+      "title": "Bahram Gur kills the wolf",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_kills_the_wolf.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_kills_the_wolf.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/ahmad-musa/bahram-gur-kills-the-wolf-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/bahram-gur-kills-the-wolf-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:35.490Z",
+      "fingerprint_sha256": "6232c92a3fb89477e7fa725443944f84d9d84f3339a705e0fab25a9816951fa7",
+      "raw_extmetadata": {
+        "id": "57728204edc2cb3880f63e0c",
+        "title": "Bahram Gur kills the wolf",
+        "url": "bahram-gur-kills-the-wolf-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Picture frame",
+          "Textile"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads2.wikiart.org/images/ahmad-musa/bahram-gur-kills-the-wolf-1336.jpg",
+        "height": 552
+      },
+      "width": 700,
+      "height": 552,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728204edc2cb3880f63dca",
+      "title": "Afrasyab kills Navdar",
+      "artist": "Musa Ahmad",
+      "year": 1336,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "ahmad-musa",
+      "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Afrasyab_kills_Navdar.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Afrasyab_kills_Navdar.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/ahmad-musa/afrasyab-kills-navdar-1336.jpg",
+      "source_file_page": "https://www.wikiart.org/en/ahmad-musa/afrasyab-kills-navdar-1336",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:38.513Z",
+      "fingerprint_sha256": "71b8968a3c3aaaa69894bc2a5b7977eb6c16f753474488c8552f8d6ddad503a9",
+      "raw_extmetadata": {
+        "id": "57728204edc2cb3880f63dca",
+        "title": "Afrasyab kills Navdar",
+        "url": "afrasyab-kills-navdar-1336",
+        "artistUrl": "ahmad-musa",
+        "artistName": "Musa Ahmad",
+        "artistId": "57726daeedc2cb3880b4d9a1",
+        "completitionYear": 1336,
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 439,
+        "image": "https://uploads7.wikiart.org/images/ahmad-musa/afrasyab-kills-navdar-1336.jpg",
+        "height": 600
+      },
+      "width": 439,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2368edc2c9a6687a89a4",
+      "title": "Young Beggars",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Young_Beggars.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Young_Beggars.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-young-beggars-23-508-museum-of-fine-arts.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/young-beggars",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:18:44.724Z",
+      "fingerprint_sha256": "28701f5dbc5738fbd77b58438a7687a5eee2e64480a2d734deedb0b63fca1dc6",
+      "raw_extmetadata": {
+        "id": "5f0c2368edc2c9a6687a89a4",
+        "title": "Young Beggars",
+        "url": "young-beggars",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Picture frame"
+        ],
+        "description": "",
+        "width": 1483,
+        "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-young-beggars-23-508-museum-of-fine-arts.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1483,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea5fee",
+      "title": "A Bath, Woman Bathing Her Feet",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Bath,_Woman_Bathing_Her_Feet.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Bath%2C_Woman_Bathing_Her_Feet.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jean-leon-gerome/a-bath-woman-bathing-her-feet.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-bath-woman-bathing-her-feet",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:15.440Z",
+      "fingerprint_sha256": "577151b3182efffd6bdfc6b162aaf5ba1a3c6dd2c42b7055e64b8872c74fca35",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea5fee",
+        "title": "A Bath, Woman Bathing Her Feet",
+        "url": "a-bath-woman-bathing-her-feet",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Academicism",
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "bathing-and-swimming",
+          "Mythology"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/a-bath-woman-bathing-her-feet.jpg",
+        "height": 591
+      },
+        "width": 800,
+        "height": 591,
+        "doNotRender": true,
+        "mime": null
+      },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea61de",
+      "title": "Arnauts of Cairo at the Gate of Bab-el-Nasr",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnauts_of_Cairo_at_the_Gate_of_Bab-el-Nasr.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnauts_of_Cairo_at_the_Gate_of_Bab-el-Nasr.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jean-leon-gerome/arnauts-of-cairo-at-the-gate-of-bab-el-nasr.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/arnauts-of-cairo-at-the-gate-of-bab-el-nasr",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:19.493Z",
+      "fingerprint_sha256": "88b9bf9efa63188123353f3c8738d0847fa984c8e2840f23a8d37ee2006eaeb2",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea61de",
+        "title": "Arnauts of Cairo at the Gate of Bab-el-Nasr",
+        "url": "arnauts-of-cairo-at-the-gate-of-bab-el-nasr",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "group-portraits",
+          "Egypt",
+          "Cairo"
+        ],
+        "description": "",
+        "width": 386,
+        "image": "https://uploads3.wikiart.org/images/jean-leon-gerome/arnauts-of-cairo-at-the-gate-of-bab-el-nasr.jpg",
+        "height": 570
+      },
+      "width": 386,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea623e",
+      "title": "Bathing Women",
+      "artist": "Gerome Jean-Leon",
+      "year": 1898,
+      "genres": [
+        "nude painting (nu)"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathing_Women.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathing_Women.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jean-leon-gerome/bathing-women.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bathing-women",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:23.647Z",
+      "fingerprint_sha256": "e2b07f0e5f69532c01c957b98aa817a5975071b4c30de54886485d34cace0d67",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea623e",
+        "title": "Bathing Women",
+        "url": "bathing-women",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1898,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6eb8",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "nude painting (nu)"
+        ],
+        "styles": [
+          "Academicism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-nude",
+          "bathing-and-swimming",
+          "Picture frame"
+        ],
+        "description": "",
+        "width": 1038,
+        "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/bathing-women.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1038,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea620e",
+      "title": "Bashi-Bazouk Chieftain",
+      "artist": "Gerome Jean-Leon",
+      "year": 1881,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bashi-Bazouk_Chieftain.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bashi-Bazouk_Chieftain.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jean-leon-gerome/bashi-bazouk-chieftain.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bashi-bazouk-chieftain",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:27.654Z",
+      "fingerprint_sha256": "05ae6b43a5fc6e75f90596bb0601204705f2959ca1120f1cd69dadcda5d9fc64",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea620e",
+        "title": "Bashi-Bazouk Chieftain",
+        "url": "bashi-bazouk-chieftain",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits",
+          "1880s paintings from France"
+        ],
+        "description": "",
+        "width": 450,
+        "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/bashi-bazouk-chieftain.jpg",
+        "height": 372
+      },
+      "width": 450,
+      "height": 372,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea629e",
+      "title": "Caesar Crossing the Rubicon",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "sculpture"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Caesar_Crossing_the_Rubicon.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Caesar_Crossing_the_Rubicon.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jean-leon-gerome/caesar-crossing-the-rubicon.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/caesar-crossing-the-rubicon",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:31.871Z",
+      "fingerprint_sha256": "f24c9c4f264413d6fe1a50a656486938148bb433efdc7b5a4c4570353fba8122",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea629e",
+        "title": "Caesar Crossing the Rubicon",
+        "url": "caesar-crossing-the-rubicon",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6f00"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "famous-people",
+          "Julius-Caesar",
+          "Statue",
+          "Bronze sculpture",
+          "Figurine",
+          "Horse",
+          "Horse trainer",
+          "Roman-Republic"
+        ],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads5.wikiart.org/images/jean-leon-gerome/caesar-crossing-the-rubicon.jpg",
+        "height": 510
+      },
+      "width": 640,
+      "height": 510,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea62fe",
+      "title": "Dancer with an Apple",
+      "artist": "Gerome Jean-Leon",
+      "year": 1890,
+      "genres": [
+        "sculpture"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Dancer_with_an_Apple.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Dancer_with_an_Apple.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jean-leon-gerome/dancer-with-an-apple.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/dancer-with-an-apple",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:35.882Z",
+      "fingerprint_sha256": "00f3a136c4e5b1a10469730f0ee9bda848d85661e294fef5ca58f72200441ff7",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea62fe",
+        "title": "Dancer with an Apple",
+        "url": "dancer-with-an-apple",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6f00",
+          "57726bcdedc2cb3880ae746e"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "bronze"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Statue",
+          "Bronze sculpture",
+          "Classical sculpture",
+          "Figurine",
+          "Monument"
+        ],
+        "description": "",
+        "width": 742,
+        "image": "https://uploads5.wikiart.org/images/jean-leon-gerome/dancer-with-an-apple.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 742,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea603e",
+      "title": "A Hot Day in Cairo (front of the Mosque)",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Hot_Day_in_Cairo_(front_of_the_Mosque).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Hot_Day_in_Cairo_%28front_of_the_Mosque%29.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jean-leon-gerome/a-hot-day-in-cairo-front-of-the-mosque.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-hot-day-in-cairo-front-of-the-mosque",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:40.071Z",
+      "fingerprint_sha256": "3a04b12364269fe3af5d31eede589d7becd898c3c7f709b0e3fb8dd8cf6ec04d",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea603e",
+        "title": "A Hot Day in Cairo (front of the Mosque)",
+        "url": "a-hot-day-in-cairo-front-of-the-mosque",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Egypt",
+          "Cairo",
+          "Camel"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads5.wikiart.org/images/jean-leon-gerome/a-hot-day-in-cairo-front-of-the-mosque.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 800,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea617e",
+      "title": "Arab Girl with Waterpipe",
+      "artist": "Gerome Jean-Leon",
+      "year": 1873,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arab_Girl_with_Waterpipe.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arab_Girl_with_Waterpipe.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jean-leon-gerome/arab-girl-with-waterpipe.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/arab-girl-with-waterpipe",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:43.383Z",
+      "fingerprint_sha256": "e2e63bd832bac2db98b740470d087d59ae9733d30d381ded465a652ae88d5184",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea617e",
+        "title": "Arab Girl with Waterpipe",
+        "url": "arab-girl-with-waterpipe",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1873,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits",
+          "Lady"
+        ],
+        "description": "",
+        "width": 599,
+        "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/arab-girl-with-waterpipe.jpg",
+        "height": 956
+      },
+      "width": 599,
+      "height": 956,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea633e",
+      "title": "Diogenes",
+      "artist": "Gerome Jean-Leon",
+      "year": 1860,
+      "genres": [
+        "history painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Diogenes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Diogenes.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jean-leon-gerome/diogenes-1860.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/diogenes-1860",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:47.747Z",
+      "fingerprint_sha256": "3c56f6a36d573cfd6ea246c9d717301f062dc41906f2c3aa4769e9b6f724f540",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea633e",
+        "title": "Diogenes",
+        "url": "diogenes-1860",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1860,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6e68",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "history painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Walters Art Museum, Baltimore, MD, US"
+        ],
+        "tags": [
+          "famous-people",
+          "Mythology",
+          "Diogenes",
+          "dogs",
+          "Barrel",
+          "Lantern"
+        ],
+        "description": "",
+        "width": 1634,
+        "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/diogenes-1860.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1634,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea606e",
+      "title": "A Roman Slave Market",
+      "artist": "Gerome Jean-Leon",
+      "year": 1884,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Roman_Slave_Market.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Roman_Slave_Market.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/00382/images/jean-leon-gerome/a-roman-slave-market-1884-jean-leon-gerome.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-roman-slave-market",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:51.127Z",
+      "fingerprint_sha256": "8ef9aaefffeedfbeb6def194a34ca38dae1e34b1ce3441f78aad10199c817eaa",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea606e",
+        "title": "A Roman Slave Market",
+        "url": "a-roman-slave-market",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1884,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Walters Art Museum, Baltimore, MD, US"
+        ],
+        "tags": [
+          "female-nude",
+          "Mythology",
+          "Human body",
+          "1880s paintings from France"
+        ],
+        "description": "",
+        "width": 599,
+        "image": "https://uploads6.wikiart.org/00382/images/jean-leon-gerome/a-roman-slave-market-1884-jean-leon-gerome.jpg",
+        "height": 661
+      },
+      "width": 599,
+      "height": 661,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea624e",
+      "title": "Bathsheba",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "religious painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathsheba.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathsheba.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jean-leon-gerome/bathsheba.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bathsheba",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:55.041Z",
+      "fingerprint_sha256": "bfb9e12c5fed284a3447d4208e146f83c4791e68cc134792fba7086357aa5d14",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea624e",
+        "title": "Bathsheba",
+        "url": "bathsheba",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Christianity",
+          "famous-people",
+          "Bathsheba"
+        ],
+        "description": "",
+        "width": 750,
+        "image": "https://uploads5.wikiart.org/images/jean-leon-gerome/bathsheba.jpg",
+        "height": 459
+      },
+      "width": 750,
+      "height": 459,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea61ce",
+      "title": "Arnautm Smoking",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnautm_Smoking.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnautm_Smoking.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jean-leon-gerome/arnautm-smoking.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/arnautm-smoking",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:27:59.018Z",
+      "fingerprint_sha256": "37bc9f1670cbe12753b3c7bc47fc3ec77eb532b21b0f684f94cb1d3c591c865d",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea61ce",
+        "title": "Arnautm Smoking",
+        "url": "arnautm-smoking",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 422,
+        "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/arnautm-smoking.jpg",
+        "height": 570
+      },
+      "width": 422,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea61be",
+      "title": "Arnaut of Cairo",
+      "artist": "Gerome Jean-Leon",
+      "year": 1871,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnaut_of_Cairo.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnaut_of_Cairo.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jean-leon-gerome/arnaut-of-cairo.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/arnaut-of-cairo",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:28:03.285Z",
+      "fingerprint_sha256": "7f05862e0d95eff37a25d1e96d5e60e64438e650df5ab3963597c890d8dbf6a6",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea61be",
+        "title": "Arnaut of Cairo",
+        "url": "arnaut-of-cairo",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1871,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "male-portraits",
+          "Lady"
+        ],
+        "description": "",
+        "width": 934,
+        "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/arnaut-of-cairo.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 934,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea619e",
+      "title": "Arms Dealer in Cairo",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arms_Dealer_in_Cairo.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arms_Dealer_in_Cairo.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jean-leon-gerome/arms-dealer-in-cairo.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/arms-dealer-in-cairo",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:28:07.436Z",
+      "fingerprint_sha256": "2bd54a8f30701fda3fff4c8cdede360e2fabbea94b06a961332ed033a413a418",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea619e",
+        "title": "Arms Dealer in Cairo",
+        "url": "arms-dealer-in-cairo",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "markets-and-shops",
+          "Egypt",
+          "Cairo"
+        ],
+        "description": "",
+        "width": 791,
+        "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/arms-dealer-in-cairo.jpg",
+        "height": 1000
+      },
+      "width": 791,
+      "height": 1000,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea618e",
+      "title": "Arabs Crossing the Desert",
+      "artist": "Gerome Jean-Leon",
+      "year": 1870,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arabs_Crossing_the_Desert.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arabs_Crossing_the_Desert.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jean-leon-gerome/arabs-crossing-the-desert.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/arabs-crossing-the-desert",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-28T20:28:10.550Z",
+      "fingerprint_sha256": "ec21edc8566b4f763fc639cb26eb53b98660be75313f15d7775a4d4ce3b83958",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea618e",
+        "title": "Arabs Crossing the Desert",
+        "url": "arabs-crossing-the-desert",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1870,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "deserts-and-steppes",
+          "Rein",
+          "Horse",
+          "Ecoregion",
+          "Steppe",
+          "Herd"
+        ],
+        "description": "",
+        "width": 1145,
+        "image": "https://uploads3.wikiart.org/images/jean-leon-gerome/arabs-crossing-the-desert.jpg",
+        "height": 886
+      },
+      "width": 1145,
+      "height": 886,
       "mime": null
     }
   ]
