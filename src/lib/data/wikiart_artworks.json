@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-29T01:22:13.208Z",
+  "generated_at": "2026-05-29T13:30:10.217Z",
   "source": "wikiart",
-  "count": 80,
+  "count": 95,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -4662,6 +4662,829 @@
       },
       "width": 450,
       "height": 699,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb38800261dd",
+      "title": "Sleeping Rustam",
+      "artist": "Sultan Muhammad",
+      "year": null,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/Sleeping_Rustam.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/Sleeping_Rustam.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/sultan-muhammad/sleeping-rustam.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/sleeping-rustam",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:28:06.028Z",
+      "fingerprint_sha256": "4be782f847a471cb41d943cbacf008eef0ec6994a8423bd64ba1976f159af9c9",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb38800261dd",
+        "title": "Sleeping Rustam",
+        "url": "sleeping-rustam",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Organism"
+        ],
+        "description": "",
+        "width": 681,
+        "image": "https://uploads1.wikiart.org/images/sultan-muhammad/sleeping-rustam.jpg",
+        "height": 1024
+      },
+      "width": 681,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb388002622d",
+      "title": "The Feast of Sada",
+      "artist": "Sultan Muhammad",
+      "year": 1522,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/The_Feast_of_Sada.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/The_Feast_of_Sada.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/sultan-muhammad/the-feast-of-sada-1522.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/the-feast-of-sada-1522",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:28:11.208Z",
+      "fingerprint_sha256": "256c89d65c0abd5281bad02317ed5e0eba667de2c51f8f8bca3b870112ad7d0a",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb388002622d",
+        "title": "The Feast of Sada",
+        "url": "the-feast-of-sada-1522",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": 1522,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 696,
+        "image": "https://uploads8.wikiart.org/images/sultan-muhammad/the-feast-of-sada-1522.jpg",
+        "height": 1024
+      },
+      "width": 696,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb38800261cb",
+      "title": "Allegory of Drunkenness",
+      "artist": "Sultan Muhammad",
+      "year": 1525,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/Allegory_of_Drunkenness.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/Allegory_of_Drunkenness.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/sultan-muhammad/allegory-of-drunkenness-1525.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/allegory-of-drunkenness-1525",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:28:16.412Z",
+      "fingerprint_sha256": "1fe0a6e63fc5191e33bc9e899dde155a6838c898fd13edffd083fcbe116b81d0",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb38800261cb",
+        "title": "Allegory of Drunkenness",
+        "url": "allegory-of-drunkenness-1525",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": 1525,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 647,
+        "image": "https://uploads5.wikiart.org/images/sultan-muhammad/allegory-of-drunkenness-1525.jpg",
+        "height": 1024
+      },
+      "width": 647,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb388002624d",
+      "title": "Tiran Zahhak",
+      "artist": "Sultan Muhammad",
+      "year": null,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/Tiran_Zahhak.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/Tiran_Zahhak.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/sultan-muhammad/tiran-zahhak.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/tiran-zahhak",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:28:21.685Z",
+      "fingerprint_sha256": "f2bfa485e63bae0df5aae494af1ce113ce528125815e99310adfa70694d34143",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb388002624d",
+        "title": "Tiran Zahhak",
+        "url": "tiran-zahhak",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 708,
+        "image": "https://uploads7.wikiart.org/images/sultan-muhammad/tiran-zahhak.jpg",
+        "height": 1024
+      },
+      "width": 708,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5a72bd5cedc2c9cb4cff496b",
+      "title": "Untitled",
+      "artist": "Abedin Zainul",
+      "year": 1973,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "better-twitter/artwork/images/wikiart/zainul-abedin/Untitled.Jpeg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/zainul-abedin/Untitled.Jpeg",
+      "full_image_url": "https://uploads0.wikiart.org/00169/images/zainul-abedin/untitled-1973.Jpeg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/untitled-1973",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:28:35.377Z",
+      "fingerprint_sha256": "5ae2412d97781c0688b09534ea1914629840c510661c4f49978137779834921c",
+      "raw_extmetadata": {
+        "id": "5a72bd5cedc2c9cb4cff496b",
+        "title": "Untitled",
+        "url": "untitled-1973",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1973,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": 7.5,
+        "sizeY": 9,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Head"
+        ],
+        "description": "",
+        "width": 328,
+        "image": "https://uploads0.wikiart.org/00169/images/zainul-abedin/untitled-1973.Jpeg",
+        "height": 385
+      },
+      "width": 328,
+      "height": 385,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5a72c0a7edc2c9cb4c35a578",
+      "title": "Famine Sketch",
+      "artist": "Abedin Zainul",
+      "year": 1943,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "better-twitter/artwork/images/wikiart/zainul-abedin/Famine_Sketch.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/zainul-abedin/Famine_Sketch.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00169/images/zainul-abedin/famine-sketch-1943.jpg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/famine-sketch-1943",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:28:40.648Z",
+      "fingerprint_sha256": "954df96f26cede2e9ece8702bbd8e393511426a243e896a5d0fd9cdb171768ff",
+      "raw_extmetadata": {
+        "id": "5a72c0a7edc2c9cb4c35a578",
+        "title": "Famine Sketch",
+        "url": "famine-sketch-1943",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1943,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [],
+        "media": [
+          "ink",
+          "paper"
+        ],
+        "sizeX": 42.5,
+        "sizeY": 65.6,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Human"
+        ],
+        "description": "",
+        "width": 666,
+        "image": "https://uploads4.wikiart.org/00169/images/zainul-abedin/famine-sketch-1943.jpg",
+        "height": 1024
+      },
+      "width": 666,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5a72bcddedc2c9cb4cf6d2b7",
+      "title": "The Three Faces",
+      "artist": "Abedin Zainul",
+      "year": 1968,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "better-twitter/artwork/images/wikiart/zainul-abedin/The_Three_Faces.Jpeg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/zainul-abedin/The_Three_Faces.Jpeg",
+      "full_image_url": "https://uploads7.wikiart.org/00169/images/zainul-abedin/untitled-the-three-faces-1968.Jpeg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/the-three-faces-1968",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:28:45.171Z",
+      "fingerprint_sha256": "34f08e5a871900d28506254f6b9a7204cdac604db112751a81d0486bbd4373e3",
+      "raw_extmetadata": {
+        "id": "5a72bcddedc2c9cb4cf6d2b7",
+        "title": "The Three Faces",
+        "url": "the-three-faces-1968",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1968,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": 22,
+        "sizeY": 29.5,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sketch",
+          "Face",
+          "Head",
+          "Nose"
+        ],
+        "description": "",
+        "width": 412,
+        "image": "https://uploads7.wikiart.org/00169/images/zainul-abedin/untitled-the-three-faces-1968.Jpeg",
+        "height": 570
+      },
+      "width": 412,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5a72bc33edc2c9cb4ceb1916",
+      "title": "Famine Series",
+      "artist": "Abedin Zainul",
+      "year": 1953,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "better-twitter/artwork/images/wikiart/zainul-abedin/Famine_Series.Jpeg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/zainul-abedin/Famine_Series.Jpeg",
+      "full_image_url": "https://uploads5.wikiart.org/00169/images/zainul-abedin/famine-series-1953.Jpeg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/famine-series-1953",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:28:50.359Z",
+      "fingerprint_sha256": "765010ba199cbb5dc6bbc5c0f38ce8bdf468b28d11892ef5c3d0465fe22ad21e",
+      "raw_extmetadata": {
+        "id": "5a72bc33edc2c9cb4ceb1916",
+        "title": "Famine Series",
+        "url": "famine-series-1953",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1953,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "Bangladesh",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": 38.2,
+        "sizeY": 55,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sketch",
+          "Standing",
+          "Figure drawing",
+          "Human"
+        ],
+        "description": "",
+        "width": 397,
+        "image": "https://uploads5.wikiart.org/00169/images/zainul-abedin/famine-series-1953.Jpeg",
+        "height": 570
+      },
+      "width": 397,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5a72bd96edc2c9cb4c03504f",
+      "title": "Rangamoti",
+      "artist": "Abedin Zainul",
+      "year": 1955,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "better-twitter/artwork/images/wikiart/zainul-abedin/Rangamoti.Jpeg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/zainul-abedin/Rangamoti.Jpeg",
+      "full_image_url": "https://uploads1.wikiart.org/00169/images/zainul-abedin/rangamoti-1955.Jpeg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/rangamoti-1955",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:29:00.527Z",
+      "fingerprint_sha256": "1a6b3e09ad4671fe41aadad3f37ad724436f679d9e4b0f309e96416e339544fc",
+      "raw_extmetadata": {
+        "id": "5a72bd96edc2c9cb4c03504f",
+        "title": "Rangamoti",
+        "url": "rangamoti-1955",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1955,
+        "dictionaries": [
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": 26.5,
+        "sizeY": 22,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 570,
+        "image": "https://uploads1.wikiart.org/00169/images/zainul-abedin/rangamoti-1955.Jpeg",
+        "height": 508
+      },
+      "width": 570,
+      "height": 508,
+      "mime": null
+    },
+    {
+      "id": "wikiart:621743779e436307a810653a",
+      "title": "Ukon khula",
+      "artist": "Abedin Zainul",
+      "year": 1945,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "better-twitter/artwork/images/wikiart/zainul-abedin/Ukon_khula.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/zainul-abedin/Ukon_khula.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00381/images/zainul-abedin/picsart-02-24-02-33-11.jpg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/ukon-khula-1945",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:29:10.413Z",
+      "fingerprint_sha256": "bab0d12ff07a2224a877c3fbd14a4c517202707956af4a872beade377cb54f8f",
+      "raw_extmetadata": {
+        "id": "621743779e436307a810653a",
+        "title": "Ukon khula",
+        "url": "ukon-khula-1945",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1945,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 300,
+        "image": "https://uploads1.wikiart.org/00381/images/zainul-abedin/picsart-02-24-02-33-11.jpg",
+        "height": 442
+      },
+      "width": 300,
+      "height": 442,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5a72bff4edc2c9cb4c296691",
+      "title": "Laborer couple",
+      "artist": "Abedin Zainul",
+      "year": 1943,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "better-twitter/artwork/images/wikiart/zainul-abedin/Laborer_couple.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/zainul-abedin/Laborer_couple.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00169/images/zainul-abedin/labour.jpg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/laborer-couple-1943",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:29:14.912Z",
+      "fingerprint_sha256": "dc88a8e7b7084313bbf5879ecacb7d4dd890fbc76ab637d2a316b65d917f5d41",
+      "raw_extmetadata": {
+        "id": "5a72bff4edc2c9cb4c296691",
+        "title": "Laborer couple",
+        "url": "laborer-couple-1943",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1943,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 468,
+        "image": "https://uploads1.wikiart.org/00169/images/zainul-abedin/labour.jpg",
+        "height": 571
+      },
+      "width": 468,
+      "height": 571,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5a72bb9dedc2c9cb4ce19358",
+      "title": "Study of a Crow",
+      "artist": "Abedin Zainul",
+      "year": 1949,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "better-twitter/artwork/images/wikiart/zainul-abedin/Study_of_a_Crow.Jpeg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/zainul-abedin/Study_of_a_Crow.Jpeg",
+      "full_image_url": "https://uploads7.wikiart.org/00169/images/zainul-abedin/study-of-a-crow-1949.Jpeg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/study-of-a-crow-1949",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:29:20.233Z",
+      "fingerprint_sha256": "8f224e834a510220d474f4a2ea5442769894e18e3138eb1f1bdb694f2969e0ab",
+      "raw_extmetadata": {
+        "id": "5a72bb9dedc2c9cb4ce19358",
+        "title": "Study of a Crow",
+        "url": "study-of-a-crow-1949",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1949,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000",
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "Bangladesh",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [],
+        "media": [
+          "ink",
+          "paper"
+        ],
+        "sizeX": 36.6,
+        "sizeY": 26.1,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Bird",
+          "Beak"
+        ],
+        "description": "",
+        "width": 570,
+        "image": "https://uploads7.wikiart.org/00169/images/zainul-abedin/study-of-a-crow-1949.Jpeg",
+        "height": 410
+      },
+      "width": 570,
+      "height": 410,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5a72bdbcedc2c9cb4c05f429",
+      "title": "Santal Couples",
+      "artist": "Abedin Zainul",
+      "year": 1968,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "better-twitter/artwork/images/wikiart/zainul-abedin/Santal_Couples.Jpeg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/zainul-abedin/Santal_Couples.Jpeg",
+      "full_image_url": "https://uploads6.wikiart.org/00169/images/zainul-abedin/santal-couples-1968.Jpeg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/santal-couples-1968",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:29:25.400Z",
+      "fingerprint_sha256": "3dc33a7e889d0847935c001496aab3d16ac0693a57e012e86e325cd809bbf7fc",
+      "raw_extmetadata": {
+        "id": "5a72bdbcedc2c9cb4c05f429",
+        "title": "Santal Couples",
+        "url": "santal-couples-1968",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1968,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Human"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads6.wikiart.org/00169/images/zainul-abedin/santal-couples-1968.Jpeg",
+        "height": 353
+      },
+      "width": 500,
+      "height": 353,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92e38",
+      "title": "Boating",
+      "artist": "Manet Edouard",
+      "year": 1874,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Boating.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Boating.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/edouard-manet/boating-1874.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/boating-1874",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:30:04.471Z",
+      "fingerprint_sha256": "df06f923ebf8c2ee1f0783876f3d95dd09b03b591d15448a45a055031d9488ac",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92e38",
+        "title": "Boating",
+        "url": "boating-1874",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1874,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 130.2,
+        "sizeY": 97.2,
+        "diameter": null,
+        "galleries": [
+          "Metropolitan Museum of Art (Met), New York City, NY, US"
+        ],
+        "tags": [
+          "games-and-sport",
+          "couples",
+          "leisure-and-sleep"
+        ],
+        "description": "",
+        "width": 1178,
+        "image": "https://uploads5.wikiart.org/images/edouard-manet/boating-1874.jpg",
+        "height": 882
+      },
+      "width": 1178,
+      "height": 882,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92f14",
+      "title": "Eel and Red Mullet",
+      "artist": "Manet Edouard",
+      "year": 1864,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Eel_and_Red_Mullet.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Eel_and_Red_Mullet.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/eel-and-red-mullet-1864.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/eel-and-red-mullet-1864",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T13:30:09.817Z",
+      "fingerprint_sha256": "40e6c8936d9dca63c593e7d94307d6ba81159d08955887b9df8348ece0c11da1",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92f14",
+        "title": "Eel and Red Mullet",
+        "url": "eel-and-red-mullet-1864",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1864,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "dishware-and-cutlery",
+          "food-and-beverages",
+          "Python",
+          "Serpent",
+          "Python family"
+        ],
+        "description": "",
+        "width": 705,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/eel-and-red-mullet-1864.jpg",
+        "height": 588
+      },
+      "width": 705,
+      "height": 588,
       "mime": null
     }
   ]

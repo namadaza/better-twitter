@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-05-29T07:36:21.434Z",
+  "fetchedAt": "2026-05-29T13:23:24.282Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-4bea549d1aaa",
+      "title": "A Little Bit of Everything, All of the Time",
+      "url": "https://www.infinitescroll.us/p/a-little-bit-of-everything-all-of",
+      "publication": "Infinite Scroll",
+      "author": "Jeremiah Johnson",
+      "excerpt": "The most 2020s art ever made",
+      "publishedAt": "2026-05-29T12:11:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2486c339b4e4",
+      "title": "Google Chrome adds session cookie theft protection for all users",
+      "url": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
+      "publishedAt": "2026-05-29T12:08:08.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-424355449376",
+      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
+      "url": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
+      "publishedAt": "2026-05-29T11:07:07.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a0212edf5f53",
+      "title": "US charges Google security engineer with Polymarket insider trading",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
+      "publishedAt": "2026-05-29T10:11:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a896cc0ca4c3",
+      "title": "OUT NOW: Metaphysics of War (Expanded Edition)",
+      "url": "https://www.arktosjournal.com/p/out-now-metaphysics-of-war-expanded",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Julius Evola",
+      "publishedAt": "2026-05-29T09:01:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-37410dec5c3d",
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]",
+      "publishedAt": "2026-05-29T08:29:40.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-3b450a0cd5e6",
@@ -660,46 +720,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
       "publishedAt": "2026-05-22T13:39:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4238de1f5298",
-      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Drupal is warning that hackers are attempting to exploit a \"highly critical\" SQL injection vulnerability announced earlier this week. [...]",
-      "publishedAt": "2026-05-22T13:14:40.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2246fa6d9a49",
-      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-      "url": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by IPQS",
-      "excerpt": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
-      "publishedAt": "2026-05-22T13:09:18.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-249df750beb5",
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
-      "publishedAt": "2026-05-22T12:00:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-50bd682069e1",
-      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-      "url": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
-      "publishedAt": "2026-05-22T09:01:20.000Z"
     }
   ]
 }
