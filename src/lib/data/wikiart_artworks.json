@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-29T16:06:52.558Z",
+  "generated_at": "2026-05-29T19:08:41.895Z",
   "source": "wikiart",
-  "count": 130,
+  "count": 145,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -7540,6 +7540,890 @@
       },
       "width": 800,
       "height": 557,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbff9",
+      "title": "Gardens of Aranjuez (1)",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Gardens_of_Aranjuez_(1).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Gardens_of_Aranjuez_%281%29.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/santiago-rusinol/jardines-de-aranjuez-1.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/jardines-de-aranjuez-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:11.539Z",
+      "fingerprint_sha256": "6b684a382b4129e3849b1d4a74b9320172c550676e604bf84f112157c17c6ad2",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbff9",
+        "title": "Gardens of Aranjuez (1)",
+        "url": "jardines-de-aranjuez-1",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Nature",
+          "Natural landscape",
+          "Reflection",
+          "Natural environment",
+          "Leaf",
+          "Forest",
+          "Northern hardwood forest",
+          "Woody plant"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads0.wikiart.org/images/santiago-rusinol/jardines-de-aranjuez-1.jpg",
+        "height": 604
+      },
+      "width": 800,
+      "height": 604,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbf69",
+      "title": "Café des Incoherents, Montmartre",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Caf_des_Incoherents,_Montmartre.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Caf_des_Incoherents%2C_Montmartre.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/santiago-rusinol/caf-des-incoherents-montmartre.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/caf-des-incoherents-montmartre",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:13.664Z",
+      "fingerprint_sha256": "e067b9bef3eb08c7d80f4149ae61ac7effadece676594634606a41d6dc15cf48",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbf69",
+        "title": "Café des Incoherents, Montmartre",
+        "url": "caf-des-incoherents-montmartre",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tavern"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads8.wikiart.org/images/santiago-rusinol/caf-des-incoherents-montmartre.jpg",
+        "height": 545
+      },
+      "width": 800,
+      "height": 545,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc0a9",
+      "title": "Rue des Saules in Montmartre",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Rue_des_Saules_in_Montmartre.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Rue_des_Saules_in_Montmartre.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/santiago-rusinol/rue-des-saules-in-montmartre.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/rue-des-saules-in-montmartre",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:15.948Z",
+      "fingerprint_sha256": "82130e7d20acc63f2064a7bd7f6346d6d18ed92e81e063d0eb6a26e240565efc",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc0a9",
+        "title": "Rue des Saules in Montmartre",
+        "url": "rue-des-saules-in-montmartre",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Town",
+          "Street",
+          "Neighbourhood",
+          "House",
+          "Road"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads6.wikiart.org/images/santiago-rusinol/rue-des-saules-in-montmartre.jpg",
+        "height": 540
+      },
+      "width": 800,
+      "height": 540,
+      "mime": null
+    },
+    {
+      "id": "wikiart:62fcfcdd9e436329dc264a0d",
+      "title": "Path in a Park",
+      "artist": "Rusinol Santiago",
+      "year": 1925,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Path_in_a_Park.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Path_in_a_Park.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00406/images/santiago-rusinol/santiago-rusin-ol-sendero-en-um-parque.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/path-in-a-park-1925",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:18.273Z",
+      "fingerprint_sha256": "75c7e7a5254872906cb890c647d75a19553ef2acf9fd2171140328e4f789c953",
+      "raw_extmetadata": {
+        "id": "62fcfcdd9e436329dc264a0d",
+        "title": "Path in a Park",
+        "url": "path-in-a-park-1925",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1925,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Spain",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 89,
+        "sizeY": 110,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 977,
+        "image": "https://uploads1.wikiart.org/00406/images/santiago-rusinol/santiago-rusin-ol-sendero-en-um-parque.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 977,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845eedc2cb3880fdbf29",
+      "title": "Avenue of plane trees",
+      "artist": "Rusinol Santiago",
+      "year": 1916,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Avenue_of_plane_trees.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Avenue_of_plane_trees.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/santiago-rusinol/avenue-of-plane-trees-1916.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/avenue-of-plane-trees-1916",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:20.578Z",
+      "fingerprint_sha256": "9d4ce08674541e01697994d94616062e36365982a23400b1ad6b0ca0f2e4b630",
+      "raw_extmetadata": {
+        "id": "5772845eedc2cb3880fdbf29",
+        "title": "Avenue of plane trees",
+        "url": "avenue-of-plane-trees-1916",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1916,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Woodland",
+          "Grove",
+          "Forest",
+          "Northern hardwood forest",
+          "Nature",
+          "Natural environment",
+          "Trunk",
+          "Deciduous",
+          "Temperate broadleaf and mixed forest"
+        ],
+        "description": "",
+        "width": 818,
+        "image": "https://uploads4.wikiart.org/images/santiago-rusinol/avenue-of-plane-trees-1916.jpg",
+        "height": 1024
+      },
+      "width": 818,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc079",
+      "title": "Portrait of Eric Satie at the harmonium",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Portrait_of_Eric_Satie_at_the_harmonium.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Portrait_of_Eric_Satie_at_the_harmonium.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/santiago-rusinol/portrait-of-eric-satie-at-the-harmonium.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/portrait-of-eric-satie-at-the-harmonium",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:22.505Z",
+      "fingerprint_sha256": "f1adc9bef14ffd450cb37bbc9f1b9ebbf760a2d38f0dfcb8e1336beb34e99d69",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc079",
+        "title": "Portrait of Eric Satie at the harmonium",
+        "url": "portrait-of-eric-satie-at-the-harmonium",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Pianist",
+          "Musician",
+          "Jazz pianist",
+          "Composer",
+          "Recital",
+          "Fortepiano",
+          "Spinet",
+          "Classical music"
+        ],
+        "description": "",
+        "width": 616,
+        "image": "https://uploads8.wikiart.org/images/santiago-rusinol/portrait-of-eric-satie-at-the-harmonium.jpg",
+        "height": 740
+      },
+      "width": 616,
+      "height": 740,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728460edc2cb3880fdc149",
+      "title": "Ticket seller at the Moulin de la Galette dance hall",
+      "artist": "Rusinol Santiago",
+      "year": 1890,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Ticket_seller_at_the_Moulin_de_la_Galette_dance_hall.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Ticket_seller_at_the_Moulin_de_la_Galette_dance_hall.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/santiago-rusinol/ticket-seller-at-the-moulin-de-la-galette-dance-hall-1890.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/ticket-seller-at-the-moulin-de-la-galette-dance-hall-1890",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:24.452Z",
+      "fingerprint_sha256": "f4e7a76c0d9a302607c6d942d61f843cc87c6c2bf7de13bacbf26daa2be6f8ac",
+      "raw_extmetadata": {
+        "id": "57728460edc2cb3880fdc149",
+        "title": "Ticket seller at the Moulin de la Galette dance hall",
+        "url": "ticket-seller-at-the-moulin-de-la-galette-dance-hall-1890",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 637,
+        "image": "https://uploads8.wikiart.org/images/santiago-rusinol/ticket-seller-at-the-moulin-de-la-galette-dance-hall-1890.jpg",
+        "height": 760
+      },
+      "width": 637,
+      "height": 760,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845eedc2cb3880fdbf39",
+      "title": "Before the morphine",
+      "artist": "Rusinol Santiago",
+      "year": 1890,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Before_the_morphine.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Before_the_morphine.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/santiago-rusinol/before-the-morphine-1890.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/before-the-morphine-1890",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:26.306Z",
+      "fingerprint_sha256": "dd5ed8ef46508bef6789cb68109d0a5119b292a993be7e223097cad3f1567c35",
+      "raw_extmetadata": {
+        "id": "5772845eedc2cb3880fdbf39",
+        "title": "Before the morphine",
+        "url": "before-the-morphine-1890",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads2.wikiart.org/images/santiago-rusinol/before-the-morphine-1890.jpg",
+        "height": 639
+      },
+      "width": 800,
+      "height": 639,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc0e9",
+      "title": "Terraced Garden in Mallorca",
+      "artist": "Rusinol Santiago",
+      "year": 1911,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Terraced_Garden_in_Mallorca.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Terraced_Garden_in_Mallorca.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/santiago-rusinol/terraced-garden-in-mallorca-1911.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/terraced-garden-in-mallorca-1911",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:28.414Z",
+      "fingerprint_sha256": "2d23654f0606e0b346e7310ce9d7531d4419812850b83c01929f9428e33bdcf8",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc0e9",
+        "title": "Terraced Garden in Mallorca",
+        "url": "terraced-garden-in-mallorca-1911",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1911,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Nature",
+          "Natural landscape",
+          "Flower",
+          "spring",
+          "Plant",
+          "Blossom"
+        ],
+        "description": "",
+        "width": 799,
+        "image": "https://uploads1.wikiart.org/images/santiago-rusinol/terraced-garden-in-mallorca-1911.jpg",
+        "height": 598
+      },
+      "width": 799,
+      "height": 598,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728460edc2cb3880fdc119",
+      "title": "The landing stage",
+      "artist": "Rusinol Santiago",
+      "year": 1911,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/The_landing_stage.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/The_landing_stage.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/santiago-rusinol/the-landing-stage-1911.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/the-landing-stage-1911",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:30.970Z",
+      "fingerprint_sha256": "b02b134ac956128bc4d42930736beb80805fa277ec09c65d899b577c15052043",
+      "raw_extmetadata": {
+        "id": "57728460edc2cb3880fdc119",
+        "title": "The landing stage",
+        "url": "the-landing-stage-1911",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1911,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Museu Nacional d'Art de Catalunya (MNAC), Barcelona, Spain"
+        ],
+        "tags": [
+          "Water",
+          "Tree",
+          "Waterway",
+          "Sky",
+          "Pond",
+          "Leaf",
+          "Reflection"
+        ],
+        "description": "",
+        "width": 1261,
+        "image": "https://uploads0.wikiart.org/images/santiago-rusinol/the-landing-stage-1911.jpg",
+        "height": 1024
+      },
+      "width": 1261,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc049",
+      "title": "The gate",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/The_gate.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/The_gate.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/santiago-rusinol/la-verja.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/la-verja",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:33.062Z",
+      "fingerprint_sha256": "bac018988b811e7a06f3686344da006786094824db91e6b0be90267413870112",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc049",
+        "title": "The gate",
+        "url": "la-verja",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Leaf"
+        ],
+        "description": "",
+        "width": 405,
+        "image": "https://uploads4.wikiart.org/images/santiago-rusinol/la-verja.jpg",
+        "height": 500
+      },
+      "width": 405,
+      "height": 500,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845eedc2cb3880fdbf49",
+      "title": "Blue Courtyard, Arenys de Munt",
+      "artist": "Rusinol Santiago",
+      "year": 1913,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Blue_Courtyard,_Arenys_de_Munt.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Blue_Courtyard%2C_Arenys_de_Munt.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/santiago-rusinol/blue-courtyard-arenys-de-munt-1913.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/blue-courtyard-arenys-de-munt-1913",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:35.509Z",
+      "fingerprint_sha256": "e09fa13c2e014532ff6b0a3dacc7281a4d447860474b9ea0942fe8a789152a4c",
+      "raw_extmetadata": {
+        "id": "5772845eedc2cb3880fdbf49",
+        "title": "Blue Courtyard, Arenys de Munt",
+        "url": "blue-courtyard-arenys-de-munt-1913",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1913,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Museu Nacional d'Art de Catalunya (MNAC), Barcelona, Spain"
+        ],
+        "tags": [
+          "Alley",
+          "Neighbourhood",
+          "Tree",
+          "Street",
+          "Town",
+          "Urban area",
+          "Majorelle blue",
+          "Road"
+        ],
+        "description": "",
+        "width": 1253,
+        "image": "https://uploads3.wikiart.org/images/santiago-rusinol/blue-courtyard-arenys-de-munt-1913.jpg",
+        "height": 1024
+      },
+      "width": 1253,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc099",
+      "title": "Portrait of Ramon Casas",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Portrait_of_Ramon_Casas.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Portrait_of_Ramon_Casas.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/santiago-rusinol/portrait-of-ramon-casas.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/portrait-of-ramon-casas",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:37.403Z",
+      "fingerprint_sha256": "069cd7a0cc6e427659e677621734aa0e8e73cc5ea83bab9ee03232b4d1d16d7c",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc099",
+        "title": "Portrait of Ramon Casas",
+        "url": "portrait-of-ramon-casas",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Gentleman",
+          "Sitting",
+          "Painter"
+        ],
+        "description": "",
+        "width": 453,
+        "image": "https://uploads1.wikiart.org/images/santiago-rusinol/portrait-of-ramon-casas.jpg",
+        "height": 801
+      },
+      "width": 453,
+      "height": 801,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbfb9",
+      "title": "Gardens of the Generalife",
+      "artist": "Rusinol Santiago",
+      "year": 1895,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Gardens_of_the_Generalife.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Gardens_of_the_Generalife.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/santiago-rusinol/gardens-of-the-generalife-1895.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/gardens-of-the-generalife-1895",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:39.605Z",
+      "fingerprint_sha256": "eda9754eeb1bcfa299795b0e28d42f4d17117c44d8d947f8af75cb1ef7b9d4d4",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbfb9",
+        "title": "Gardens of the Generalife",
+        "url": "gardens-of-the-generalife-1895",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1895,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Leaf",
+          "Woody plant",
+          "autumn",
+          "Botany",
+          "Plant",
+          "House"
+        ],
+        "description": "",
+        "width": 816,
+        "image": "https://uploads8.wikiart.org/images/santiago-rusinol/gardens-of-the-generalife-1895.jpg",
+        "height": 1024
+      },
+      "width": 816,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbfa9",
+      "title": "Figure study",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Figure_study.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Figure_study.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/santiago-rusinol/figure-study.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/figure-study",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T19:08:41.495Z",
+      "fingerprint_sha256": "a66c6b1e0d59dcae1b31ea576fa150fe4a2ba2ce236a29f342ceb6ce679ce00f",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbfa9",
+        "title": "Figure study",
+        "url": "figure-study",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Lady",
+          "Dress"
+        ],
+        "description": "",
+        "width": 445,
+        "image": "https://uploads8.wikiart.org/images/santiago-rusinol/figure-study.jpg",
+        "height": 751
+      },
+      "width": 445,
+      "height": 751,
       "mime": null
     }
   ]

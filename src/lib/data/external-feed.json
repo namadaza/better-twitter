@@ -1,6 +1,76 @@
 {
-  "fetchedAt": "2026-05-29T13:23:24.282Z",
+  "fetchedAt": "2026-05-29T19:03:34.334Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-7df353ae293a",
+      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+      "url": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+      "publishedAt": "2026-05-29T18:21:36.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6f0e9ae39d86",
+      "title": "California AG sues 23andMe over 2023 breach exposing health data",
+      "url": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
+      "publishedAt": "2026-05-29T18:08:47.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-479771cda443",
+      "title": "Iranians Return to South Pars Gas Complex to Repair and Rebuild",
+      "url": "https://www.dropsitenews.com/p/iran-south-pars-gas-complex-engineers-rebuild",
+      "publication": "Drop Site News",
+      "author": "Peiman Salehi",
+      "excerpt": "Engineers at the facility estimate 12% of the crucial gas facility's capacity was affected by U.S.-Israeli strikes in March.",
+      "publishedAt": "2026-05-29T17:54:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-26a5fce43c02",
+      "title": "Round-up: Meta-analysis of the black–white IQ gap",
+      "url": "https://www.aporiamagazine.com/p/round-up-meta-analysis-of-the-blackwhite",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "The most interesting articles that came to our attention this week",
+      "publishedAt": "2026-05-29T17:05:25.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c43e6a3f9b54",
+      "title": "U.S. and Iran draft deal, pending Trump approval; Netanyahu orders IDF to take 70% of Gaza; Kenya refuses to be “dumping ground” for Ebola",
+      "url": "https://www.dropsitenews.com/p/us-iran-draft-trump-netanyahu-gaza-kenya-ebola",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: May 29, 2026",
+      "publishedAt": "2026-05-29T15:46:51.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-caf9ce943e02",
+      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
+      "url": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Flare",
+      "excerpt": "DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into polished attack platforms. [...]",
+      "publishedAt": "2026-05-29T14:32:02.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-36ae2124c68e",
+      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]",
+      "publishedAt": "2026-05-29T14:26:36.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-4bea549d1aaa",
@@ -650,76 +720,6 @@
       "author": "Jeremy Scahill",
       "excerpt": "The framework would defer nuclear enrichment talks until there is a deal to end the war and open the Strait of Hormuz, a senior Iranian official told Drop Site.",
       "publishedAt": "2026-05-23T03:37:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-66fbb3e9d53d",
-      "title": "The humanities will not make you moral",
-      "url": "https://www.aporiamagazine.com/p/the-humanities-will-not-make-you",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "They do offer access to a world of aesthetic excellence that is good for its own sake",
-      "publishedAt": "2026-05-22T18:02:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3d98fd2c065d",
-      "title": "“The Occupation’s Conditions”: Trump’s Board of Peace Demands that Hamas Surrender to Netanyahu’s Gaza Agenda",
-      "url": "https://www.dropsitenews.com/p/gaza-hamas-trump-board-netanyahu-israel-mladenov-disarmament",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "As Israel threatens to resume full-scale genocide in Gaza, Palestinian resistance leaders spoke to Drop Site about deceptive negotiations and the push to disarm.",
-      "publishedAt": "2026-05-22T17:37:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6b721dcdd3c8",
-      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
-      "publishedAt": "2026-05-22T17:24:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-53167d548bf7",
-      "title": "Israel Is on a Killing Spree of Paramedics and Rescue Workers in Lebanon",
-      "url": "https://www.dropsitenews.com/p/israel-lebanon-paramedics-rescue-workers-hospitals-ambulances",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Israel has killed over 120 rescue workers, damaged 16 hospitals, and targeted over 130 ambulances in Lebanon since March 2.",
-      "publishedAt": "2026-05-22T16:34:38.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-dcdbd649cf79",
-      "title": "Goodbye, Lenny's Reads!",
-      "url": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "After a year of bringing you these audio versions of my newsletter, I’ve decided it’s time to wind down this experiment.",
-      "publishedAt": "2026-05-22T15:41:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-35c363342bc7",
-      "title": "Former US execs plead guilty to aiding tech support scammers",
-      "url": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
-      "publishedAt": "2026-05-22T15:32:18.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-703d24efeba6",
-      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-      "publishedAt": "2026-05-22T13:39:19.000Z"
     }
   ]
 }
