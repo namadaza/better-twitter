@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-29T13:30:10.217Z",
+  "generated_at": "2026-05-29T16:06:52.558Z",
   "source": "wikiart",
-  "count": 95,
+  "count": 130,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -5485,6 +5485,2061 @@
       },
       "width": 705,
       "height": 588,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844dedc2cb3880fd4db3",
+      "title": "Road in the Cuyamacas",
+      "artist": "Reiffel Charles",
+      "year": 1934,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Road_in_the_Cuyamacas.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Road_in_the_Cuyamacas.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/charles-reiffel/road-in-the-cuyamacas-1934.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/road-in-the-cuyamacas-1934",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:01:49.502Z",
+      "fingerprint_sha256": "a445dd27b02419a568a6370c2b0428a4630222c7a1b70e7a8ceb3237ddfd8f8d",
+      "raw_extmetadata": {
+        "id": "5772844dedc2cb3880fd4db3",
+        "title": "Road in the Cuyamacas",
+        "url": "road-in-the-cuyamacas-1934",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1934,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Nature",
+          "Natural landscape",
+          "Mountainous landforms",
+          "Mountain",
+          "Badlands",
+          "Highland"
+        ],
+        "description": "",
+        "width": 866,
+        "image": "https://uploads3.wikiart.org/images/charles-reiffel/road-in-the-cuyamacas-1934.jpg",
+        "height": 675
+      },
+      "width": 866,
+      "height": 675,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4cd3",
+      "title": "Beach at Del Mar",
+      "artist": "Reiffel Charles",
+      "year": 1931,
+      "genres": [
+        "marina"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Beach_at_Del_Mar.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Beach_at_Del_Mar.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/charles-reiffel/beach-at-del-mar-1931.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/beach-at-del-mar-1931",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:01:52.127Z",
+      "fingerprint_sha256": "7d4ed49960fc9db0ce45e29ed41d1f4460115a6adb34af9981738dc7adb0bfad",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4cd3",
+        "title": "Beach at Del Mar",
+        "url": "beach-at-del-mar-1931",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1931,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Shore",
+          "Sea",
+          "Coast",
+          "summer",
+          "Ocean",
+          "Sky"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads7.wikiart.org/images/charles-reiffel/beach-at-del-mar-1931.jpg",
+        "height": 495
+      },
+      "width": 700,
+      "height": 495,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d53",
+      "title": "La Jolla Shores",
+      "artist": "Reiffel Charles",
+      "year": 1931,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/La_Jolla_Shores.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/La_Jolla_Shores.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/charles-reiffel/la-jolla-shores-1931.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/la-jolla-shores-1931",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:01:56.082Z",
+      "fingerprint_sha256": "0b3abc1e8b6dd0d02a815b2d423e2c33acf2d89c9ea4a5d5cf8ce613f7729535",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d53",
+        "title": "La Jolla Shores",
+        "url": "la-jolla-shores-1931",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1931,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Coast",
+          "Sea",
+          "Shore",
+          "Ocean",
+          "Sky",
+          "Coastal and oceanic landforms"
+        ],
+        "description": "",
+        "width": 587,
+        "image": "https://uploads6.wikiart.org/images/charles-reiffel/la-jolla-shores-1931.jpg",
+        "height": 525
+      },
+      "width": 587,
+      "height": 525,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4cf3",
+      "title": "Foggy Morning, No. 2",
+      "artist": "Reiffel Charles",
+      "year": 1895,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Foggy_Morning,_No._2.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Foggy_Morning%2C_No._2.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/charles-reiffel/foggy-morning-no-2-1895.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/foggy-morning-no-2-1895",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:01:58.562Z",
+      "fingerprint_sha256": "f4e8895515ded283ec32b84927cb39f2a8b807ff257d69041ee892e0f9e39fae",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4cf3",
+        "title": "Foggy Morning, No. 2",
+        "url": "foggy-morning-no-2-1895",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1895,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Beige"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads0.wikiart.org/images/charles-reiffel/foggy-morning-no-2-1895.jpg",
+        "height": 469
+      },
+      "width": 700,
+      "height": 469,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d83",
+      "title": "Morning, Nogales, Arizona",
+      "artist": "Reiffel Charles",
+      "year": 1928,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Morning,_Nogales,_Arizona.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Morning%2C_Nogales%2C_Arizona.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/charles-reiffel/morning-nogales-arizona-1928.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/morning-nogales-arizona-1928",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:02:00.679Z",
+      "fingerprint_sha256": "f24288217e04b67dff908bbd7a8dc2a74a08ae898f5781b0e9d1aabfb47ebb7b",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d83",
+        "title": "Morning, Nogales, Arizona",
+        "url": "morning-nogales-arizona-1928",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1928,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mountainous landforms",
+          "Mountain",
+          "Natural landscape",
+          "Hill",
+          "Highland",
+          "Mountain range",
+          "Valley"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads5.wikiart.org/images/charles-reiffel/morning-nogales-arizona-1928.jpg",
+        "height": 637
+      },
+      "width": 700,
+      "height": 637,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d63",
+      "title": "Maine Coast Booths Bay",
+      "artist": "Reiffel Charles",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Maine_Coast_Booths_Bay.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Maine_Coast_Booths_Bay.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/charles-reiffel/maine-coast-booths-bay.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/maine-coast-booths-bay",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:02:03.515Z",
+      "fingerprint_sha256": "c62608c8398c81b33b93421c5f1683503c642af96d4571ce7dc2695235791282",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d63",
+        "title": "Maine Coast Booths Bay",
+        "url": "maine-coast-booths-bay",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape",
+          "Shore",
+          "Inlet",
+          "Coast",
+          "Bank",
+          "Bay"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads8.wikiart.org/images/charles-reiffel/maine-coast-booths-bay.jpg",
+        "height": 420
+      },
+      "width": 500,
+      "height": 420,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d43",
+      "title": "In the San Felipe Valley",
+      "artist": "Reiffel Charles",
+      "year": 1927,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/In_the_San_Felipe_Valley.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/In_the_San_Felipe_Valley.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/charles-reiffel/in-the-san-felipe-valley-1927.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/in-the-san-felipe-valley-1927",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:02:05.747Z",
+      "fingerprint_sha256": "9a3eb3b56d9e98e651c153fbd2fb85a79ea371a33ab8c028d7a33b33f64774a2",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d43",
+        "title": "In the San Felipe Valley",
+        "url": "in-the-san-felipe-valley-1927",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1927,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mountainous landforms",
+          "Mountain",
+          "Natural landscape"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads6.wikiart.org/images/charles-reiffel/in-the-san-felipe-valley-1927.jpg",
+        "height": 647
+      },
+      "width": 700,
+      "height": 647,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844dedc2cb3880fd4dd3",
+      "title": "The Mill In Winter",
+      "artist": "Reiffel Charles",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/The_Mill_In_Winter.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/The_Mill_In_Winter.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/charles-reiffel/the-mill-in-winter.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/the-mill-in-winter",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:02:07.864Z",
+      "fingerprint_sha256": "5e17382c3fc888fab41fbe9e3f7553bd26470cd8079bc418152012ee1f8b8910",
+      "raw_extmetadata": {
+        "id": "5772844dedc2cb3880fd4dd3",
+        "title": "The Mill In Winter",
+        "url": "the-mill-in-winter",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "winter",
+          "Natural landscape",
+          "Tree",
+          "Snow"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads4.wikiart.org/images/charles-reiffel/the-mill-in-winter.jpg",
+        "height": 404
+      },
+      "width": 500,
+      "height": 404,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d73",
+      "title": "Morning at Laguna",
+      "artist": "Reiffel Charles",
+      "year": 1935,
+      "genres": [
+        "marina"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Morning_at_Laguna.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Morning_at_Laguna.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/charles-reiffel/morning-at-laguna-1935.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/morning-at-laguna-1935",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:02:10.378Z",
+      "fingerprint_sha256": "ed8aea6e2ecd6d0edea81ad70cee06912d4d0cdcad19c7d452452aa7ae72e8a9",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d73",
+        "title": "Morning at Laguna",
+        "url": "morning-at-laguna-1935",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1935,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Water",
+          "Sea",
+          "Ocean",
+          "Shore",
+          "Coast",
+          "Wave"
+        ],
+        "description": "",
+        "width": 607,
+        "image": "https://uploads8.wikiart.org/images/charles-reiffel/morning-at-laguna-1935.jpg",
+        "height": 525
+      },
+      "width": 607,
+      "height": 525,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d33",
+      "title": "In the Banner Valley",
+      "artist": "Reiffel Charles",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/In_the_Banner_Valley.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/In_the_Banner_Valley.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/charles-reiffel/in-the-banner-valley.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/in-the-banner-valley",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:02:12.520Z",
+      "fingerprint_sha256": "717ac28c1a195bc85def7fda965fa09fd05bbbc138cd141899d074ff9389a643",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d33",
+        "title": "In the Banner Valley",
+        "url": "in-the-banner-valley",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape",
+          "Ecoregion",
+          "Mountain",
+          "Terrain"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads6.wikiart.org/images/charles-reiffel/in-the-banner-valley.jpg",
+        "height": 407
+      },
+      "width": 500,
+      "height": 407,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4cb3",
+      "title": "Autumn Design",
+      "artist": "Reiffel Charles",
+      "year": 1922,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Autumn_Design.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Autumn_Design.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/charles-reiffel/autumn-design-1922.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/autumn-design-1922",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:02:24.212Z",
+      "fingerprint_sha256": "70e19a3df685a7fa03813e659f72397359a223427fbb32f7cb9c6b7e5d0c6a0d",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4cb3",
+        "title": "Autumn Design",
+        "url": "autumn-design-1922",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1922,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Northern hardwood forest",
+          "Tree",
+          "Woodland",
+          "Forest"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads4.wikiart.org/images/charles-reiffel/autumn-design-1922.jpg",
+        "height": 456
+      },
+      "width": 500,
+      "height": 456,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4cc3",
+      "title": "Ballast Point California",
+      "artist": "Reiffel Charles",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Ballast_Point_California.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Ballast_Point_California.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/charles-reiffel/ballast-point-california.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/ballast-point-california",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:02:26.455Z",
+      "fingerprint_sha256": "3890baeb938e0393ca177c92e6208860128b51c29fc611c673fe5ffb375dffcf",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4cc3",
+        "title": "Ballast Point California",
+        "url": "ballast-point-california",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads1.wikiart.org/images/charles-reiffel/ballast-point-california.jpg",
+        "height": 460
+      },
+      "width": 500,
+      "height": 460,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844dedc2cb3880fd4dc3",
+      "title": "Summer Design",
+      "artist": "Reiffel Charles",
+      "year": 1917,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Summer_Design.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Summer_Design.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/charles-reiffel/summer-design-1917.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/summer-design-1917",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:02:29.018Z",
+      "fingerprint_sha256": "31c1dce0cfd3dc0e1754758f8254b200963e1a63976896fa9ac288e953778e4c",
+      "raw_extmetadata": {
+        "id": "5772844dedc2cb3880fd4dc3",
+        "title": "Summer Design",
+        "url": "summer-design-1917",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1917,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 574,
+        "image": "https://uploads4.wikiart.org/images/charles-reiffel/summer-design-1917.jpg",
+        "height": 525
+      },
+      "width": 574,
+      "height": 525,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4ce3",
+      "title": "Edge of the Oak Grove",
+      "artist": "Reiffel Charles",
+      "year": 1935,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Edge_of_the_Oak_Grove.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Edge_of_the_Oak_Grove.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/charles-reiffel/edge-of-the-oak-grove-1935.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/edge-of-the-oak-grove-1935",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:03:31.363Z",
+      "fingerprint_sha256": "8e57a24b1c3a2d9d061b96844f9f8029213276f90314507c1ef054b315e3e15c",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4ce3",
+        "title": "Edge of the Oak Grove",
+        "url": "edge-of-the-oak-grove-1935",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1935,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Picture frame"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads3.wikiart.org/images/charles-reiffel/edge-of-the-oak-grove-1935.jpg",
+        "height": 601
+      },
+      "width": 700,
+      "height": 601,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4da3",
+      "title": "Point Loma",
+      "artist": "Reiffel Charles",
+      "year": 1937,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Point_Loma.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Point_Loma.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/charles-reiffel/point-loma-1937.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/point-loma-1937",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:03:34.036Z",
+      "fingerprint_sha256": "edf57ca9f131915771626223a9d86b3e3527ff09e3dc1ed3e15e57ea071f07fa",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4da3",
+        "title": "Point Loma",
+        "url": "point-loma-1937",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1937,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape"
+        ],
+        "description": "",
+        "width": 514,
+        "image": "https://uploads1.wikiart.org/images/charles-reiffel/point-loma-1937.jpg",
+        "height": 525
+      },
+      "width": 514,
+      "height": 525,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d13",
+      "title": "Hilly Landscape with Houses",
+      "artist": "Reiffel Charles",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Hilly_Landscape_with_Houses.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Hilly_Landscape_with_Houses.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/charles-reiffel/hilly-landscape-with-houses.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/hilly-landscape-with-houses",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:04:40.085Z",
+      "fingerprint_sha256": "5f1fba1b59cccbfe88f7e71444556a6382d809de499e4092b90a775431761d06",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d13",
+        "title": "Hilly Landscape with Houses",
+        "url": "hilly-landscape-with-houses",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Rural area"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads4.wikiart.org/images/charles-reiffel/hilly-landscape-with-houses.jpg",
+        "height": 417
+      },
+      "width": 500,
+      "height": 417,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d23",
+      "title": "Holiday, Mission Beach",
+      "artist": "Reiffel Charles",
+      "year": 1938,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Holiday,_Mission_Beach.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Holiday%2C_Mission_Beach.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/charles-reiffel/holiday-mission-beach-1938.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/holiday-mission-beach-1938",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:04:43.585Z",
+      "fingerprint_sha256": "4c1b08273821e66c3c47f55a81ab6fb526991e0fcafdc9d8d70d7d8f8a21f3fa",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d23",
+        "title": "Holiday, Mission Beach",
+        "url": "holiday-mission-beach-1938",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1938,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 600,
+        "image": "https://uploads3.wikiart.org/images/charles-reiffel/holiday-mission-beach-1938.jpg",
+        "height": 536
+      },
+      "width": 600,
+      "height": 536,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d93",
+      "title": "Mountains",
+      "artist": "Reiffel Charles",
+      "year": 1935,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Mountains.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Mountains.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/charles-reiffel/mountains-1935.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/mountains-1935",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:04:47.041Z",
+      "fingerprint_sha256": "1d6fe131d96f340e164c811f631723a447603f1cb76e685372091babf23ad1b1",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d93",
+        "title": "Mountains",
+        "url": "mountains-1935",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1935,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mountainous landforms",
+          "Mountain",
+          "Mountain range",
+          "Ridge",
+          "Fell",
+          "Highland",
+          "Massif",
+          "Geology"
+        ],
+        "description": "",
+        "width": 488,
+        "image": "https://uploads0.wikiart.org/images/charles-reiffel/mountains-1935.jpg",
+        "height": 400
+      },
+      "width": 488,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4d03",
+      "title": "Harbor Night",
+      "artist": "Reiffel Charles",
+      "year": 1937,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Harbor_Night.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Harbor_Night.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/charles-reiffel/harbor-night-1937.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/harbor-night-1937",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:04:50.497Z",
+      "fingerprint_sha256": "29cbaeb9b1e7f7d7660ce9ac4872889fa6f51a5317cb798c0da24c998e9bb071",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4d03",
+        "title": "Harbor Night",
+        "url": "harbor-night-1937",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": 1937,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "City",
+          "Sky",
+          "Human settlement"
+        ],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads3.wikiart.org/images/charles-reiffel/harbor-night-1937.jpg",
+        "height": 523
+      },
+      "width": 700,
+      "height": 523,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772844cedc2cb3880fd4ca1",
+      "title": "Autumn Design No. 2",
+      "artist": "Reiffel Charles",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "charles-reiffel",
+      "blob_path": "better-twitter/artwork/images/wikiart/charles-reiffel/Autumn_Design_No._2.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/charles-reiffel/Autumn_Design_No._2.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/charles-reiffel/autumn-design-no-2.jpg",
+      "source_file_page": "https://www.wikiart.org/en/charles-reiffel/autumn-design-no-2",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:04:53.159Z",
+      "fingerprint_sha256": "ba897962f7db897b1ee156fc39b853636cd183f5a776b2121d176af17c4cef10",
+      "raw_extmetadata": {
+        "id": "5772844cedc2cb3880fd4ca1",
+        "title": "Autumn Design No. 2",
+        "url": "autumn-design-no-2",
+        "artistUrl": "charles-reiffel",
+        "artistName": "Reiffel Charles",
+        "artistId": "57726dc3edc2cb3880b4fb62",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads4.wikiart.org/images/charles-reiffel/autumn-design-no-2.jpg",
+        "height": 464
+      },
+      "width": 500,
+      "height": 464,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89ab13edc2c9f4407de877",
+      "title": "Notre-Dame de Paris",
+      "artist": "Jongkind Johan",
+      "year": 1854,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Notre-Dame_de_Paris.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Notre-Dame_de_Paris.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00283/images/johan-jongkind/39939445591-fe2e94d290-b.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/notre-dame-de-paris-1854",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:05:51.616Z",
+      "fingerprint_sha256": "ce72cf33564f01665b514e3ab31967ec69edf1008da8457166e4c319b1f85932",
+      "raw_extmetadata": {
+        "id": "5e89ab13edc2c9f4407de877",
+        "title": "Notre-Dame de Paris",
+        "url": "notre-dame-de-paris-1854",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1854,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 40,
+        "sizeY": 27,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Ruins",
+          "Medieval architecture",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1023,
+        "image": "https://uploads4.wikiart.org/00283/images/johan-jongkind/39939445591-fe2e94d290-b.jpg",
+        "height": 647
+      },
+      "width": 1023,
+      "height": 647,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e3775edc2c96bec09c450",
+      "title": "Le Boulevard Jourdan, Paris",
+      "artist": "Jongkind Johan",
+      "year": 1865,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Le_Boulevard_Jourdan,_Paris.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Le_Boulevard_Jourdan%2C_Paris.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00283/images/johan-jongkind/gmiii-mcag-1995-41-001.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/le-boulevard-jourdan-paris-1865",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:05:55.559Z",
+      "fingerprint_sha256": "119900d8109f9bde14e64487dbe665738d2e89d70c47bcfa77571ccc00ff0493",
+      "raw_extmetadata": {
+        "id": "5e8e3775edc2c96bec09c450",
+        "title": "Le Boulevard Jourdan, Paris",
+        "url": "le-boulevard-jourdan-paris-1865",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1865,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Realism",
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 37.4,
+        "sizeY": 19,
+        "diameter": null,
+        "galleries": [
+          "Manchester Art Gallery, Manchester, UK"
+        ],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads2.wikiart.org/00283/images/johan-jongkind/gmiii-mcag-1995-41-001.jpg",
+        "height": 617
+      },
+      "width": 800,
+      "height": 617,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89b64eedc2c9f440e4ca93",
+      "title": "Honfleur, Sunrise at Harbour Entry",
+      "artist": "Jongkind Johan",
+      "year": 1863,
+      "genres": [
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Honfleur,_Sunrise_at_Harbour_Entry.png",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Honfleur%2C_Sunrise_at_Harbour_Entry.png",
+      "full_image_url": "https://uploads6.wikiart.org/00283/images/johan-jongkind/ads-zytu.png",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/honfleur-sunrise-at-harbour-entry-1863",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:05:58.734Z",
+      "fingerprint_sha256": "e945e3ecb2ce5f74f33060803615916a745ec9831fcc559f36573ed8499817bc",
+      "raw_extmetadata": {
+        "id": "5e89b64eedc2c9f440e4ca93",
+        "title": "Honfleur, Sunrise at Harbour Entry",
+        "url": "honfleur-sunrise-at-harbour-entry-1863",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1863,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism",
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 41,
+        "sizeY": 30,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Boat",
+          "Vehicle",
+          "Sailing",
+          "Watercraft",
+          "Sailboat",
+          "Sailing ship",
+          "Sail"
+        ],
+        "description": "",
+        "width": 515,
+        "image": "https://uploads6.wikiart.org/00283/images/johan-jongkind/ads-zytu.png",
+        "height": 371
+      },
+      "width": 515,
+      "height": 371,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e2ce8edc2c96bec9d971f",
+      "title": "Wind Mill at Antwerp",
+      "artist": "Jongkind Johan",
+      "year": 1866,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Wind_Mill_at_Antwerp.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Wind_Mill_at_Antwerp.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-1.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/wind-mill-at-antwerp-1866",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:03.097Z",
+      "fingerprint_sha256": "aecf2aa9232d4ec478ec738c9fdc71aeda7d3e07972069a56c2f0f6fc9a899d2",
+      "raw_extmetadata": {
+        "id": "5e8e2ce8edc2c96bec9d971f",
+        "title": "Wind Mill at Antwerp",
+        "url": "wind-mill-at-antwerp-1866",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1866,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae7436",
+          "57726bccedc2cb3880ae725e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "watercolor",
+          "chalk"
+        ],
+        "sizeX": 35.1,
+        "sizeY": 23,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Windmill"
+        ],
+        "description": "",
+        "width": 1200,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-1.jpg",
+        "height": 790
+      },
+      "width": 1200,
+      "height": 790,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e3a32edc2c96bec26f62a",
+      "title": "River Scene",
+      "artist": "Jongkind Johan",
+      "year": 1880,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/River_Scene.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/River_Scene.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/00283/images/johan-jongkind/ng-ng-ng4583-001.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/river-scene-1880",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:07.155Z",
+      "fingerprint_sha256": "94e76fceb7df30deea9c9856a8a896ce42d5e50edcf0164dcb0505f0725824a1",
+      "raw_extmetadata": {
+        "id": "5e8e3a32edc2c96bec26f62a",
+        "title": "River Scene",
+        "url": "river-scene-1880",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 80,
+        "sizeY": 52.1,
+        "diameter": null,
+        "galleries": [
+          "National Gallery, London, UK"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads5.wikiart.org/00283/images/johan-jongkind/ng-ng-ng4583-001.jpg",
+        "height": 520
+      },
+      "width": 800,
+      "height": 520,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89c581edc2c9f4406c06fd",
+      "title": "A View of the Harbour, Rotterdam",
+      "artist": "Jongkind Johan",
+      "year": 1856,
+      "genres": [
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/A_View_of_the_Harbour,_Rotterdam.png",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/A_View_of_the_Harbour%2C_Rotterdam.png",
+      "full_image_url": "https://uploads6.wikiart.org/00283/images/johan-jongkind/ads-z111111111111.png",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/a-view-of-the-harbour-rotterdam-1856",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:10.821Z",
+      "fingerprint_sha256": "be6c315532ad94b7e544d042481d36456aee3a96c8183d7c71a9d119ca95e42b",
+      "raw_extmetadata": {
+        "id": "5e89c581edc2c9f4406c06fd",
+        "title": "A View of the Harbour, Rotterdam",
+        "url": "a-view-of-the-harbour-rotterdam-1856",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1856,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 56,
+        "sizeY": 43,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Boat",
+          "Watercraft",
+          "Sailing ship",
+          "Flagship",
+          "Ship of the line",
+          "Clipper",
+          "East indiaman",
+          "Galiot"
+        ],
+        "description": "",
+        "width": 750,
+        "image": "https://uploads6.wikiart.org/00283/images/johan-jongkind/ads-z111111111111.png",
+        "height": 532
+      },
+      "width": 750,
+      "height": 532,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e2c5aedc2c96bec9768b3",
+      "title": "View from the Quai d'Orsay",
+      "artist": "Jongkind Johan",
+      "year": 1854,
+      "genres": [
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/View_from_the_Quai_dOrsay.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/View_from_the_Quai_dOrsay.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00283/images/johan-jongkind/main-image.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/view-from-the-quai-dorsay-1854",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:14.344Z",
+      "fingerprint_sha256": "8b68c95c6b336558bf313c92fc38788f75ef06dbc56e164235b1d4e8128cde01",
+      "raw_extmetadata": {
+        "id": "5e8e2c5aedc2c96bec9768b3",
+        "title": "View from the Quai d'Orsay",
+        "url": "view-from-the-quai-dorsay-1854",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1854,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 66,
+        "sizeY": 43.8,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle"
+        ],
+        "description": "",
+        "width": 1200,
+        "image": "https://uploads8.wikiart.org/00283/images/johan-jongkind/main-image.jpg",
+        "height": 786
+      },
+      "width": 1200,
+      "height": 786,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e3354edc2c96becde679c",
+      "title": "Paris, Demolition of the Rue des Francs-Bourgeois",
+      "artist": "Jongkind Johan",
+      "year": 1868,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Paris,_Demolition_of_the_Rue_des_Francs-Bourgeois.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Paris%2C_Demolition_of_the_Rue_des_Francs-Bourgeois.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/00283/images/johan-jongkind/gl-gm-35-293-001.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/paris-demolition-of-the-rue-des-francs-bourgeois-1868",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:18.699Z",
+      "fingerprint_sha256": "f1ef696c7f91ed8cfe309481389caa9098ca25b613248673189f8b7d66656128",
+      "raw_extmetadata": {
+        "id": "5e8e3354edc2c96becde679c",
+        "title": "Paris, Demolition of the Rue des Francs-Bourgeois",
+        "url": "paris-demolition-of-the-rue-des-francs-bourgeois-1868",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1868,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 42.5,
+        "sizeY": 34.3,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads5.wikiart.org/00283/images/johan-jongkind/gl-gm-35-293-001.jpg",
+        "height": 596
+      },
+      "width": 800,
+      "height": 596,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89c0fcedc2c9f44040bd0a",
+      "title": "View of a square in Avignon, with a hardware store",
+      "artist": "Jongkind Johan",
+      "year": 1880,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/View_of_a_square_in_Avignon,_with_a_hardware_store.png",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/View_of_a_square_in_Avignon%2C_with_a_hardware_store.png",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/jhvhjgbiuhoi.png",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/view-of-a-square-in-avignon-with-a-hardware-store-1880",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:23.532Z",
+      "fingerprint_sha256": "2d017d8e53625ffd378f430810d4c0f7fbdc0757ea6b6a7b021bd7fb68b28f9f",
+      "raw_extmetadata": {
+        "id": "5e89c0fcedc2c9f44040bd0a",
+        "title": "View of a square in Avignon, with a hardware store",
+        "url": "view-of-a-square-in-avignon-with-a-hardware-store-1880",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae7436",
+          "57726bcdedc2cb3880ae7356",
+          "57726bcdedc2cb3880ae72c6",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "watercolor",
+          "pencil",
+          "gouache"
+        ],
+        "sizeX": 37.1,
+        "sizeY": 27,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Building",
+          "Medieval architecture"
+        ],
+        "description": "",
+        "width": 692,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/jhvhjgbiuhoi.png",
+        "height": 408
+      },
+      "width": 692,
+      "height": 408,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e31f2edc2c96becd1441c",
+      "title": "Dutch Fishing Boats, Verso: Sketches of Boats",
+      "artist": "Jongkind Johan",
+      "year": 1870,
+      "genres": [
+        "marina",
+        "sketch and study"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Dutch_Fishing_Boats,_Verso_Sketches_of_Boats.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Dutch_Fishing_Boats%2C_Verso_Sketches_of_Boats.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-7.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/dutch-fishing-boats-verso-sketches-of-boats-1870",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:30.905Z",
+      "fingerprint_sha256": "74be76b969b33124e57f0cef12b30bfc6f01889bacb6e715ff62b7d738628271",
+      "raw_extmetadata": {
+        "id": "5e8e31f2edc2c96becd1441c",
+        "title": "Dutch Fishing Boats, Verso: Sketches of Boats",
+        "url": "dutch-fishing-boats-verso-sketches-of-boats-1870",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1870,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae7436",
+          "57726bccedc2cb3880ae725e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e98",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina",
+          "sketch and study"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "watercolor",
+          "chalk"
+        ],
+        "sizeX": 26.7,
+        "sizeY": 16.2,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 1200,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-7.jpg",
+        "height": 747
+      },
+      "width": 1200,
+      "height": 747,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e2de0edc2c96beca7c2e4",
+      "title": "View of Rotterdam",
+      "artist": "Jongkind Johan",
+      "year": 1867,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/View_of_Rotterdam.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/View_of_Rotterdam.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-2.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/view-of-rotterdam-1867",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:35.095Z",
+      "fingerprint_sha256": "4952c43833fbda37e2f471fab68448114e9ca025fa39cf29108811cdfe97d147",
+      "raw_extmetadata": {
+        "id": "5e8e2de0edc2c96beca7c2e4",
+        "title": "View of Rotterdam",
+        "url": "view-of-rotterdam-1867",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1867,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae7436",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "watercolor"
+        ],
+        "sizeX": 37.5,
+        "sizeY": 24.5,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Windmill",
+          "Mill"
+        ],
+        "description": "",
+        "width": 777,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-2.jpg",
+        "height": 522
+      },
+      "width": 777,
+      "height": 522,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e3aa6edc2c96bec2bd378",
+      "title": "The Boulevard de Port-Royal, Paris",
+      "artist": "Jongkind Johan",
+      "year": 1877,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/The_Boulevard_de_Port-Royal,_Paris.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/The_Boulevard_de_Port-Royal%2C_Paris.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/00283/images/johan-jongkind/ng-ng-ng6529-001.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/the-boulevard-de-port-royal-paris-1877",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:39.515Z",
+      "fingerprint_sha256": "69472dad199c216ac8594b5609c9201603b6eb2438b8a5426c40658196cf7b01",
+      "raw_extmetadata": {
+        "id": "5e8e3aa6edc2c96bec2bd378",
+        "title": "The Boulevard de Port-Royal, Paris",
+        "url": "the-boulevard-de-port-royal-paris-1877",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1877,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 66.5,
+        "sizeY": 42.2,
+        "diameter": null,
+        "galleries": [
+          "National Gallery, London, UK"
+        ],
+        "tags": [
+          "Sky",
+          "Road"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads5.wikiart.org/00283/images/johan-jongkind/ng-ng-ng6529-001.jpg",
+        "height": 491
+      },
+      "width": 800,
+      "height": 491,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89a9f0edc2c9f44072f4f4",
+      "title": "Winter Scene in Holland",
+      "artist": "Jongkind Johan",
+      "year": 1846,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Winter_Scene_in_Holland.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Winter_Scene_in_Holland.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/00283/images/johan-jongkind/johan-barthold-jongkind-winter-scene-1846-meisterdrucke-307436.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/winter-scene-in-holland-1846",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:43.196Z",
+      "fingerprint_sha256": "fcf9911f51e9f07da81f4689e9fb401305116d436593f904fe595605546c1026",
+      "raw_extmetadata": {
+        "id": "5e89a9f0edc2c9f44072f4f4",
+        "title": "Winter Scene in Holland",
+        "url": "winter-scene-in-holland-1846",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1846,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 79.5,
+        "sizeY": 55,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads6.wikiart.org/00283/images/johan-jongkind/johan-barthold-jongkind-winter-scene-1846-meisterdrucke-307436.jpg",
+        "height": 494
+      },
+      "width": 700,
+      "height": 494,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89a8f6edc2c9f44069a755",
+      "title": "Portrait of the Artist by Himself",
+      "artist": "Jongkind Johan",
+      "year": 1850,
+      "genres": [
+        "self-portrait"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Portrait_of_the_Artist_by_Himself.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Portrait_of_the_Artist_by_Himself.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00283/images/johan-jongkind/469px-self-portrait-by-johan-barthold-jongkind-1850.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/portrait-of-the-artist-by-himself-1850",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:47.709Z",
+      "fingerprint_sha256": "15bf766a6f42efb97c18ac438841b3cd276ccd0a296550408e558c717e1d1a13",
+      "raw_extmetadata": {
+        "id": "5e89a8f6edc2c9f44069a755",
+        "title": "Portrait of the Artist by Himself",
+        "url": "portrait-of-the-artist-by-himself-1850",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1850,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae7436",
+          "57726b4eedc2cb3880ad6f08",
+          "57726b51edc2cb3880ad7600"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "self-portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "watercolor"
+        ],
+        "sizeX": 17,
+        "sizeY": 20.5,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 469,
+        "image": "https://uploads4.wikiart.org/00283/images/johan-jongkind/469px-self-portrait-by-johan-barthold-jongkind-1850.jpg",
+        "height": 599
+      },
+      "width": 469,
+      "height": 599,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e3b73edc2c96bec345fc6",
+      "title": "Skating in Holland",
+      "artist": "Jongkind Johan",
+      "year": 1890,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Skating_in_Holland.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Skating_in_Holland.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/00283/images/johan-jongkind/ng-ng-ng3253-001.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/skating-in-holland-1900",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T16:06:52.156Z",
+      "fingerprint_sha256": "fc367af6ebaddfc08b7733490dfc73a540e614b52a4f7e7c3e9934404b2abe30",
+      "raw_extmetadata": {
+        "id": "5e8e3b73edc2c96bec345fc6",
+        "title": "Skating in Holland",
+        "url": "skating-in-holland-1900",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 46.4,
+        "sizeY": 31.8,
+        "diameter": null,
+        "galleries": [
+          "National Gallery, London, UK"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads5.wikiart.org/00283/images/johan-jongkind/ng-ng-ng3253-001.jpg",
+        "height": 557
+      },
+      "width": 800,
+      "height": 557,
       "mime": null
     }
   ]
