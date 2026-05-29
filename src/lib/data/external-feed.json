@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-05-28T19:32:39.318Z",
+  "fetchedAt": "2026-05-29T01:16:00.998Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-3b450a0cd5e6",
+      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
+      "publishedAt": "2026-05-29T00:21:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2144ea5574eb",
+      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
+      "publishedAt": "2026-05-28T22:24:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-aeb3382b76d8",
+      "title": "20k subscribers celebration post + AMA + giveaway",
+      "url": "https://www.beautyofsaas.com/p/20k-subscribers-celebration-post",
+      "publication": "BOSS Letter",
+      "author": "BOSS Letter",
+      "excerpt": "143: The best is yet to come...",
+      "publishedAt": "2026-05-28T21:38:45.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a54a4ea2d757",
+      "title": "Claude Opus 4.8 is here. Is it as good as they say?",
+      "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️My first impressions of Opus 4.8—where it excels and where it falls short",
+      "publishedAt": "2026-05-28T21:35:07.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-64270e5fc406",
+      "title": "BTMOB Android malware service generates custom phishing payloads",
+      "url": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
+      "publishedAt": "2026-05-28T21:10:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-778480ebe982",
+      "title": "Tyre is Now the Epicenter of Israel’s Assault on Lebanon",
+      "url": "https://www.dropsitenews.com/p/tyre-sour-lebanon-israeli-assault-displacement",
+      "publication": "Drop Site News",
+      "author": "Lylla Younes",
+      "excerpt": "“It was the worst night since the start of the war, and this has been the worst war we have seen.”",
+      "publishedAt": "2026-05-28T20:20:34.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-dedf3a80d272",
@@ -650,16 +710,6 @@
       "author": "Arktos Journal",
       "excerpt": "An Interview with Jean-Yves Le Gallou on Remigration",
       "publishedAt": "2026-05-22T07:25:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bcf10aebf3b5",
-      "title": "Survival Mode: 8 Signs You Are Stuck And What It Takes To Never Go Back",
-      "url": "https://www.beautyofsaas.com/p/survival-mode-8-signs-you-are-stuck",
-      "publication": "BOSS Letter",
-      "author": "BOSS Letter",
-      "excerpt": "142: This post tells you exactly where you stand and what to do next.",
-      "publishedAt": "2026-05-21T21:49:05.000Z"
     }
   ]
 }

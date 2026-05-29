@@ -1,14 +1,16 @@
 {
-  "generated_at": "2026-05-28T20:57:07.334Z",
+  "generated_at": "2026-05-29T01:22:13.208Z",
   "source": "wikiart",
-  "count": 65,
+  "count": 80,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
       "title": "Untitled",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Untitled.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Untitled.jpg",
@@ -33,8 +35,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -66,7 +72,9 @@
       "title": "Study of a Gold-mantled Chloropsis",
       "artist": "Mansur Ustad",
       "year": 1640,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Study_of_a_Gold-mantled_Chloropsis.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Study_of_a_Gold-mantled_Chloropsis.jpg",
@@ -91,14 +99,20 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Textile"],
+        "tags": [
+          "Textile"
+        ],
         "description": "",
         "width": 689,
         "image": "https://uploads2.wikiart.org/images/ustad-mansur/study-of-a-gold-mantled-chloropsis-1640.jpg!HD.jpg",
@@ -113,7 +127,9 @@
       "title": "A turkey-Cock Brought to Jahangir from Goa in 1612",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/A_turkey-Cock_Brought_to_Jahangir_from_Goa_in_1612.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/A_turkey-Cock_Brought_to_Jahangir_from_Goa_in_1612.jpg",
@@ -138,14 +154,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Bird", "Turkey", "Galliformes", "Wild turkey"],
+        "tags": [
+          "Bird",
+          "Turkey",
+          "Galliformes",
+          "Wild turkey"
+        ],
         "description": "",
         "width": 450,
         "image": "https://uploads6.wikiart.org/images/ustad-mansur/a-turkey-cock-brought-to-jahangir-from-goa-in-1612.jpg",
@@ -160,7 +185,9 @@
       "title": "Jahangirshahi",
       "artist": "Mansur Ustad",
       "year": 1610,
-      "genres": ["flower painting"],
+      "genres": [
+        "flower painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Jahangirshahi.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Jahangirshahi.jpg",
@@ -185,14 +212,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["flower painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "flower painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Botany", "Flower", "Plant"],
+        "tags": [
+          "Botany",
+          "Flower",
+          "Plant"
+        ],
         "description": "The only known signed flower painting by Ustad Mansur, signed \"Jahangirshahi, the work of the slave of the Presence-Chamber, Mansur Naqqash; c. 1610.\"",
         "width": 280,
         "image": "https://uploads1.wikiart.org/images/ustad-mansur/jahangirshahi-1610.jpg",
@@ -207,7 +242,9 @@
       "title": "Nilgai Blue Cow",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Nilgai_Blue_Cow.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Nilgai_Blue_Cow.jpg",
@@ -232,14 +269,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Vertebrate", "Mammal", "Wildlife", "Terrestrial animal"],
+        "tags": [
+          "Vertebrate",
+          "Mammal",
+          "Wildlife",
+          "Terrestrial animal"
+        ],
         "description": "",
         "width": 461,
         "image": "https://uploads7.wikiart.org/images/ustad-mansur/nilgai-blue-cow.jpg",
@@ -254,7 +300,9 @@
       "title": "Dodo",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["wildlife painting"],
+      "genres": [
+        "wildlife painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Dodo.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Dodo.jpg",
@@ -279,8 +327,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["wildlife painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "wildlife painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -308,7 +360,9 @@
       "title": "Indian Lapwing",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Indian_Lapwing.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Indian_Lapwing.jpg",
@@ -333,14 +387,24 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Bird", "Beak", "Shorebird", "Picture frame", "Sandpiper"],
+        "tags": [
+          "Bird",
+          "Beak",
+          "Shorebird",
+          "Picture frame",
+          "Sandpiper"
+        ],
         "description": "",
         "width": 283,
         "image": "https://uploads6.wikiart.org/images/ustad-mansur/indian-lapwing.jpg",
@@ -355,7 +419,9 @@
       "title": "Himalayan cheer pheasant",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Himalayan_cheer_pheasant.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Himalayan_cheer_pheasant.jpg",
@@ -380,14 +446,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Pheasant", "Bird", "Galliformes", "Beak"],
+        "tags": [
+          "Pheasant",
+          "Bird",
+          "Galliformes",
+          "Beak"
+        ],
         "description": "",
         "width": 307,
         "image": "https://uploads7.wikiart.org/images/ustad-mansur/himalayan-cheer-pheasant.jpg",
@@ -402,7 +477,9 @@
       "title": "A Barbet (Himalayan blue-throated bird)",
       "artist": "Mansur Ustad",
       "year": 1615,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/A_Barbet_(Himalayan_blue-throated_bird).jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/A_Barbet_%28Himalayan_blue-throated_bird%29.jpg",
@@ -427,14 +504,21 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Bird", "Parrot"],
+        "tags": [
+          "Bird",
+          "Parrot"
+        ],
         "description": "",
         "width": 554,
         "image": "https://uploads7.wikiart.org/images/ustad-mansur/a-barbet-himalayan-blue-throated-bird-1615.jpg",
@@ -449,7 +533,9 @@
       "title": "Crane",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Crane.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Crane.jpg",
@@ -474,14 +560,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Bird", "Crane-like bird", "Crane"],
+        "tags": [
+          "Bird",
+          "Crane-like bird",
+          "Crane"
+        ],
         "description": "",
         "width": 344,
         "image": "https://uploads6.wikiart.org/images/ustad-mansur/crane.jpg",
@@ -496,7 +590,9 @@
       "title": "Two Cranes",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Two_Cranes.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Two_Cranes.jpg",
@@ -521,8 +617,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -551,7 +651,9 @@
       "title": "Zebra",
       "artist": "Mansur Ustad",
       "year": 1621,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Zebra.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Zebra.jpg",
@@ -576,14 +678,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Zebra", "Terrestrial animal", "Wildlife", "Quagga"],
+        "tags": [
+          "Zebra",
+          "Terrestrial animal",
+          "Wildlife",
+          "Quagga"
+        ],
         "description": "",
         "width": 696,
         "image": "https://uploads2.wikiart.org/images/ustad-mansur/zebra-1621.jpg",
@@ -598,7 +709,9 @@
       "title": "Portrait of a Falcon from Northern India",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Portrait_of_a_Falcon_from_Northern_India.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Portrait_of_a_Falcon_from_Northern_India.jpg",
@@ -623,14 +736,24 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Bird", "Peregrine falcon", "Hawk", "Falcon", "Beak"],
+        "tags": [
+          "Bird",
+          "Peregrine falcon",
+          "Hawk",
+          "Falcon",
+          "Beak"
+        ],
         "description": "",
         "width": 401,
         "image": "https://uploads5.wikiart.org/images/ustad-mansur/portrait-of-a-falcon-from-northern-india.jpg",
@@ -645,7 +768,9 @@
       "title": "A Chameleon",
       "artist": "Mansur Ustad",
       "year": 1612,
-      "genres": ["animal painting"],
+      "genres": [
+        "animal painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/A_Chameleon.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/A_Chameleon.jpg",
@@ -670,8 +795,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["animal painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -702,7 +831,9 @@
       "title": "Tulip",
       "artist": "Mansur Ustad",
       "year": null,
-      "genres": ["flower painting"],
+      "genres": [
+        "flower painting"
+      ],
       "topic": "ustad-mansur",
       "blob_path": "better-twitter/artwork/images/wikiart/ustad-mansur/Tulip.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ustad-mansur/Tulip.jpg",
@@ -727,8 +858,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["flower painting"],
-        "styles": ["Mughal"],
+        "genres": [
+          "flower painting"
+        ],
+        "styles": [
+          "Mughal"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -755,7 +890,9 @@
       "title": "Iskandar enthroned",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_enthroned.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_enthroned.jpg",
@@ -780,14 +917,21 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Text", "History"],
+        "tags": [
+          "Text",
+          "History"
+        ],
         "description": "",
         "width": 402,
         "image": "https://uploads4.wikiart.org/images/ahmad-musa/iskandar-enthroned-1336.jpg",
@@ -802,7 +946,9 @@
       "title": "Isfandiyar approaches Gushtasp",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Isfandiyar_approaches_Gushtasp.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Isfandiyar_approaches_Gushtasp.jpg",
@@ -827,14 +973,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Textile", "History", "Organism"],
+        "tags": [
+          "Textile",
+          "History",
+          "Organism"
+        ],
         "description": "",
         "width": 700,
         "image": "https://uploads5.wikiart.org/images/ahmad-musa/isfandiyar-approaches-gushtasp-detail-1336.jpg",
@@ -849,7 +1003,9 @@
       "title": "Iskandar at Israfil (detail)",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_at_Israfil_(detail).jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_at_Israfil_%28detail%29.jpg",
@@ -874,14 +1030,21 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Textile", "Organism"],
+        "tags": [
+          "Textile",
+          "Organism"
+        ],
         "description": "",
         "width": 406,
         "image": "https://uploads3.wikiart.org/images/ahmad-musa/iskandar-at-israfil-detail-1336.jpg",
@@ -896,7 +1059,9 @@
       "title": "Faridun sees Iraj's coffin",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Faridun_sees_Irajs_coffin.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Faridun_sees_Irajs_coffin.jpg",
@@ -921,8 +1086,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -943,7 +1112,9 @@
       "title": "Iskandar at Israfil",
       "artist": "Musa Ahmad",
       "year": null,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_at_Israfil.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Iskandar_at_Israfil.jpg",
@@ -968,14 +1139,20 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Text"],
+        "tags": [
+          "Text"
+        ],
         "description": "",
         "width": 401,
         "image": "https://uploads0.wikiart.org/images/ahmad-musa/iskandar-at-israfil.jpg",
@@ -990,7 +1167,9 @@
       "title": "Bahram Gur and the Dragon",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_and_the_Dragon.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_and_the_Dragon.jpg",
@@ -1015,14 +1194,20 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Organism"],
+        "tags": [
+          "Organism"
+        ],
         "description": "",
         "width": 402,
         "image": "https://uploads2.wikiart.org/images/ahmad-musa/bahram-gur-and-the-dragon-1336.jpg",
@@ -1037,7 +1222,9 @@
       "title": "Ardashir captures Ardawan",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Ardashir_captures_Ardawan.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Ardashir_captures_Ardawan.jpg",
@@ -1062,14 +1249,20 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Textile"],
+        "tags": [
+          "Textile"
+        ],
         "description": "",
         "width": 700,
         "image": "https://uploads2.wikiart.org/images/ahmad-musa/ardashir-captures-ardawan-1336.jpg",
@@ -1084,7 +1277,9 @@
       "title": "Rustam kills Istendiyar",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Rustam_kills_Istendiyar.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Rustam_kills_Istendiyar.jpg",
@@ -1109,14 +1304,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Textile", "Horse", "Mythology", "Organism"],
+        "tags": [
+          "Textile",
+          "Horse",
+          "Mythology",
+          "Organism"
+        ],
         "description": "",
         "width": 600,
         "image": "https://uploads0.wikiart.org/images/ahmad-musa/rustam-kills-istendiyar-1336.jpg",
@@ -1131,7 +1335,9 @@
       "title": "Ardashir fights Bahman",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Ardashir_fights_Bahman.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Ardashir_fights_Bahman.jpg",
@@ -1156,14 +1362,20 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Textile"],
+        "tags": [
+          "Textile"
+        ],
         "description": "",
         "width": 700,
         "image": "https://uploads8.wikiart.org/images/ahmad-musa/ardashir-fights-bahman-1336.jpg",
@@ -1178,7 +1390,9 @@
       "title": "Bahram Gur tramples Azadeh",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_tramples_Azadeh.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_tramples_Azadeh.jpg",
@@ -1203,14 +1417,21 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Textile", "History"],
+        "tags": [
+          "Textile",
+          "History"
+        ],
         "description": "",
         "width": 700,
         "image": "https://uploads3.wikiart.org/images/ahmad-musa/bahram-gur-tramples-azadeh-1336.jpg",
@@ -1243,12 +1464,16 @@
         "artistName": "Musa Ahmad",
         "artistId": "57726daeedc2cb3880b4d9a1",
         "completitionYear": null,
-        "dictionaries": ["57726b51edc2cb3880ad75f8"],
+        "dictionaries": [
+          "57726b51edc2cb3880ad75f8"
+        ],
         "location": "",
         "period": null,
         "serie": null,
         "genres": [],
-        "styles": ["Ilkhanid"],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -1269,7 +1494,9 @@
       "title": "Darab and Rastnawan fight the Rumis",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Darab_and_Rastnawan_fight_the_Rumis.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Darab_and_Rastnawan_fight_the_Rumis.jpg",
@@ -1294,14 +1521,20 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Textile"],
+        "tags": [
+          "Textile"
+        ],
         "description": "",
         "width": 700,
         "image": "https://uploads3.wikiart.org/images/ahmad-musa/darab-and-rastnawan-fight-the-rumis-1336.jpg",
@@ -1316,7 +1549,9 @@
       "title": "Bahram Gur kills the wolf",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_kills_the_wolf.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Bahram_Gur_kills_the_wolf.jpg",
@@ -1341,14 +1576,21 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Picture frame", "Textile"],
+        "tags": [
+          "Picture frame",
+          "Textile"
+        ],
         "description": "",
         "width": 700,
         "image": "https://uploads2.wikiart.org/images/ahmad-musa/bahram-gur-kills-the-wolf-1336.jpg",
@@ -1363,7 +1605,9 @@
       "title": "Afrasyab kills Navdar",
       "artist": "Musa Ahmad",
       "year": 1336,
-      "genres": ["miniature"],
+      "genres": [
+        "miniature"
+      ],
       "topic": "ahmad-musa",
       "blob_path": "better-twitter/artwork/images/wikiart/ahmad-musa/Afrasyab_kills_Navdar.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/ahmad-musa/Afrasyab_kills_Navdar.jpg",
@@ -1388,8 +1632,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["miniature"],
-        "styles": ["Ilkhanid"],
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Ilkhanid"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -1410,7 +1658,9 @@
       "title": "Young Beggars",
       "artist": "Decamps Alexandre-Gabriel",
       "year": null,
-      "genres": ["genre painting"],
+      "genres": [
+        "genre painting"
+      ],
       "topic": "alexandre-gabriel-decamps",
       "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Young_Beggars.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Young_Beggars.jpg",
@@ -1437,14 +1687,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["genre painting"],
-        "styles": ["Romanticism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Picture frame"],
+        "tags": [
+          "Picture frame"
+        ],
         "description": "",
         "width": 1483,
         "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-young-beggars-23-508-museum-of-fine-arts.jpg!HD.jpg",
@@ -1459,7 +1718,9 @@
       "title": "A Bath, Woman Bathing Her Feet",
       "artist": "Gerome Jean-Leon",
       "year": null,
-      "genres": ["genre painting"],
+      "genres": [
+        "genre painting"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Bath,_Woman_Bathing_Her_Feet.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Bath%2C_Woman_Bathing_Her_Feet.jpg",
@@ -1485,14 +1746,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["genre painting"],
-        "styles": ["Academicism", "Orientalism"],
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Academicism",
+          "Orientalism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["bathing-and-swimming", "Mythology"],
+        "tags": [
+          "bathing-and-swimming",
+          "Mythology"
+        ],
         "description": "",
         "width": 800,
         "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/a-bath-woman-bathing-her-feet.jpg",
@@ -1508,7 +1777,9 @@
       "title": "Arnauts of Cairo at the Gate of Bab-el-Nasr",
       "artist": "Gerome Jean-Leon",
       "year": null,
-      "genres": ["genre painting"],
+      "genres": [
+        "genre painting"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnauts_of_Cairo_at_the_Gate_of_Bab-el-Nasr.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnauts_of_Cairo_at_the_Gate_of_Bab-el-Nasr.jpg",
@@ -1533,14 +1804,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["genre painting"],
-        "styles": ["Orientalism"],
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["group-portraits", "Egypt", "Cairo"],
+        "tags": [
+          "group-portraits",
+          "Egypt",
+          "Cairo"
+        ],
         "description": "",
         "width": 386,
         "image": "https://uploads3.wikiart.org/images/jean-leon-gerome/arnauts-of-cairo-at-the-gate-of-bab-el-nasr.jpg",
@@ -1556,7 +1835,9 @@
       "doNotRender": true,
       "artist": "Gerome Jean-Leon",
       "year": 1898,
-      "genres": ["nude painting (nu)"],
+      "genres": [
+        "nude painting (nu)"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathing_Women.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathing_Women.jpg",
@@ -1584,14 +1865,26 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["nude painting (nu)"],
-        "styles": ["Academicism", "Orientalism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "nude painting (nu)"
+        ],
+        "styles": [
+          "Academicism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["female-nude", "bathing-and-swimming", "Picture frame"],
+        "tags": [
+          "female-nude",
+          "bathing-and-swimming",
+          "Picture frame"
+        ],
         "description": "",
         "width": 1038,
         "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/bathing-women.jpg!HD.jpg",
@@ -1606,7 +1899,9 @@
       "title": "Bashi-Bazouk Chieftain",
       "artist": "Gerome Jean-Leon",
       "year": 1881,
-      "genres": ["portrait"],
+      "genres": [
+        "portrait"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bashi-Bazouk_Chieftain.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bashi-Bazouk_Chieftain.jpg",
@@ -1631,14 +1926,21 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["portrait"],
-        "styles": ["Orientalism"],
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["male-portraits", "1880s paintings from France"],
+        "tags": [
+          "male-portraits",
+          "1880s paintings from France"
+        ],
         "description": "",
         "width": 450,
         "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/bashi-bazouk-chieftain.jpg",
@@ -1653,7 +1955,9 @@
       "title": "Caesar Crossing the Rubicon",
       "artist": "Gerome Jean-Leon",
       "year": null,
-      "genres": ["sculpture"],
+      "genres": [
+        "sculpture"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Caesar_Crossing_the_Rubicon.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Caesar_Crossing_the_Rubicon.jpg",
@@ -1678,8 +1982,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["sculpture"],
-        "styles": ["Academicism"],
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Academicism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -1709,7 +2017,9 @@
       "title": "Dancer with an Apple",
       "artist": "Gerome Jean-Leon",
       "year": 1890,
-      "genres": ["sculpture"],
+      "genres": [
+        "sculpture"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Dancer_with_an_Apple.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Dancer_with_an_Apple.jpg",
@@ -1735,9 +2045,15 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["sculpture"],
-        "styles": ["Academicism"],
-        "media": ["bronze"],
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "bronze"
+        ],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
@@ -1763,7 +2079,9 @@
       "title": "A Hot Day in Cairo (front of the Mosque)",
       "artist": "Gerome Jean-Leon",
       "year": null,
-      "genres": ["cityscape"],
+      "genres": [
+        "cityscape"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Hot_Day_in_Cairo_(front_of_the_Mosque).jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Hot_Day_in_Cairo_%28front_of_the_Mosque%29.jpg",
@@ -1788,14 +2106,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["cityscape"],
-        "styles": ["Orientalism"],
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Egypt", "Cairo", "Camel"],
+        "tags": [
+          "Egypt",
+          "Cairo",
+          "Camel"
+        ],
         "description": "",
         "width": 800,
         "image": "https://uploads5.wikiart.org/images/jean-leon-gerome/a-hot-day-in-cairo-front-of-the-mosque.jpg!HD.jpg",
@@ -1810,7 +2136,9 @@
       "title": "Arab Girl with Waterpipe",
       "artist": "Gerome Jean-Leon",
       "year": 1873,
-      "genres": ["portrait"],
+      "genres": [
+        "portrait"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arab_Girl_with_Waterpipe.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arab_Girl_with_Waterpipe.jpg",
@@ -1835,14 +2163,21 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["portrait"],
-        "styles": ["Orientalism"],
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["female-portraits", "Lady"],
+        "tags": [
+          "female-portraits",
+          "Lady"
+        ],
         "description": "",
         "width": 599,
         "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/arab-girl-with-waterpipe.jpg",
@@ -1857,7 +2192,9 @@
       "title": "Diogenes",
       "artist": "Gerome Jean-Leon",
       "year": 1860,
-      "genres": ["history painting"],
+      "genres": [
+        "history painting"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Diogenes.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Diogenes.jpg",
@@ -1884,13 +2221,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["history painting"],
-        "styles": ["Academicism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "history painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
-        "galleries": ["Walters Art Museum, Baltimore, MD, US"],
+        "galleries": [
+          "Walters Art Museum, Baltimore, MD, US"
+        ],
         "tags": [
           "famous-people",
           "Mythology",
@@ -1914,7 +2260,9 @@
       "doNotRender": true,
       "artist": "Gerome Jean-Leon",
       "year": 1884,
-      "genres": ["genre painting"],
+      "genres": [
+        "genre painting"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Roman_Slave_Market.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Roman_Slave_Market.jpg",
@@ -1941,13 +2289,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["genre painting"],
-        "styles": ["Academicism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
-        "galleries": ["Walters Art Museum, Baltimore, MD, US"],
+        "galleries": [
+          "Walters Art Museum, Baltimore, MD, US"
+        ],
         "tags": [
           "female-nude",
           "Mythology",
@@ -1969,7 +2326,9 @@
       "doNotRender": true,
       "artist": "Gerome Jean-Leon",
       "year": null,
-      "genres": ["religious painting"],
+      "genres": [
+        "religious painting"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathsheba.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathsheba.jpg",
@@ -1994,14 +2353,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["religious painting"],
-        "styles": ["Academicism"],
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Christianity", "famous-people", "Bathsheba"],
+        "tags": [
+          "Christianity",
+          "famous-people",
+          "Bathsheba"
+        ],
         "description": "",
         "width": 750,
         "image": "https://uploads5.wikiart.org/images/jean-leon-gerome/bathsheba.jpg",
@@ -2016,7 +2383,9 @@
       "title": "Arnautm Smoking",
       "artist": "Gerome Jean-Leon",
       "year": null,
-      "genres": ["genre painting"],
+      "genres": [
+        "genre painting"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnautm_Smoking.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnautm_Smoking.jpg",
@@ -2041,8 +2410,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["genre painting"],
-        "styles": ["Orientalism"],
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -2063,7 +2436,9 @@
       "title": "Arnaut of Cairo",
       "artist": "Gerome Jean-Leon",
       "year": 1871,
-      "genres": ["portrait"],
+      "genres": [
+        "portrait"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnaut_of_Cairo.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnaut_of_Cairo.jpg",
@@ -2088,14 +2463,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["portrait"],
-        "styles": ["Orientalism"],
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
-        "galleries": ["Private Collection"],
-        "tags": ["male-portraits", "Lady"],
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "male-portraits",
+          "Lady"
+        ],
         "description": "",
         "width": 934,
         "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/arnaut-of-cairo.jpg!HD.jpg",
@@ -2110,7 +2494,9 @@
       "title": "Arms Dealer in Cairo",
       "artist": "Gerome Jean-Leon",
       "year": null,
-      "genres": ["genre painting"],
+      "genres": [
+        "genre painting"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arms_Dealer_in_Cairo.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arms_Dealer_in_Cairo.jpg",
@@ -2135,14 +2521,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["genre painting"],
-        "styles": ["Orientalism"],
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["markets-and-shops", "Egypt", "Cairo"],
+        "tags": [
+          "markets-and-shops",
+          "Egypt",
+          "Cairo"
+        ],
         "description": "",
         "width": 791,
         "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/arms-dealer-in-cairo.jpg",
@@ -2157,7 +2551,9 @@
       "title": "Arabs Crossing the Desert",
       "artist": "Gerome Jean-Leon",
       "year": 1870,
-      "genres": ["genre painting"],
+      "genres": [
+        "genre painting"
+      ],
       "topic": "jean-leon-gerome",
       "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arabs_Crossing_the_Desert.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arabs_Crossing_the_Desert.jpg",
@@ -2182,8 +2578,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["genre painting"],
-        "styles": ["Orientalism"],
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -2211,7 +2611,9 @@
       "title": "Argenteuil",
       "artist": "Monet Claude",
       "year": 1875,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Argenteuil.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Argenteuil.jpg",
@@ -2238,13 +2640,22 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": 56,
         "sizeY": 67,
         "diameter": null,
-        "galleries": ["Musée d'Orsay, Paris, France"],
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
         "tags": [
           "Boat",
           "Sky",
@@ -2267,7 +2678,9 @@
       "title": "Beach and Cliffs at Pourville, Morning Effect",
       "artist": "Monet Claude",
       "year": 1882,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Beach_and_Cliffs_at_Pourville,_Morning_Effect.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Beach_and_Cliffs_at_Pourville%2C_Morning_Effect.jpg",
@@ -2292,14 +2705,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Sky", "Natural landscape", "Rock", "Cliff"],
+        "tags": [
+          "Sky",
+          "Natural landscape",
+          "Rock",
+          "Cliff"
+        ],
         "description": "",
         "width": 1223,
         "image": "https://uploads0.wikiart.org/images/claude-monet/beach-and-cliffs-at-pourville-morning-effect.jpg",
@@ -2314,7 +2736,9 @@
       "title": "Antibes Seen from the Salis Gardens 02",
       "artist": "Monet Claude",
       "year": 1888,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Antibes_Seen_from_the_Salis_Gardens_02.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Antibes_Seen_from_the_Salis_Gardens_02.jpg",
@@ -2342,8 +2766,12 @@
           "id": "57726d83edc2cb3880b488f5",
           "title": "Antibes"
         },
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -2373,7 +2801,9 @@
       "title": "Antibes, Afternoon Effect",
       "artist": "Monet Claude",
       "year": 1888,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Antibes,_Afternoon_Effect.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Antibes%2C_Afternoon_Effect.jpg",
@@ -2401,14 +2831,20 @@
           "id": "57726d83edc2cb3880b488f5",
           "title": "Antibes"
         },
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Sky"],
+        "tags": [
+          "Sky"
+        ],
         "description": "",
         "width": 1500,
         "image": "https://uploads8.wikiart.org/images/claude-monet/antibes-afternoon-effect(1).jpg!HD.jpg",
@@ -2423,7 +2859,9 @@
       "title": "Apple Trees on the Chantemesle Hill",
       "artist": "Monet Claude",
       "year": 1878,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_on_the_Chantemesle_Hill.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_on_the_Chantemesle_Hill.jpg",
@@ -2448,14 +2886,25 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Tree", "Plant", "Woody plant", "Flower", "autumn", "Branch"],
+        "tags": [
+          "Tree",
+          "Plant",
+          "Woody plant",
+          "Flower",
+          "autumn",
+          "Branch"
+        ],
         "description": "",
         "width": 1280,
         "image": "https://uploads3.wikiart.org/images/claude-monet/apple-trees-on-the-chantemesle-hill(1).jpg",
@@ -2470,7 +2919,9 @@
       "title": "Bennecourt",
       "artist": "Monet Claude",
       "year": 1885,
-      "genres": ["cityscape"],
+      "genres": [
+        "cityscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Bennecourt.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Bennecourt.jpg",
@@ -2495,14 +2946,24 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["cityscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Town", "Sky", "Medieval architecture", "Building", "Village"],
+        "tags": [
+          "Town",
+          "Sky",
+          "Medieval architecture",
+          "Building",
+          "Village"
+        ],
         "description": "",
         "width": 1027,
         "image": "https://uploads2.wikiart.org/images/claude-monet/bennecourt.jpg",
@@ -2517,7 +2978,9 @@
       "title": "Anglers on the Seine at Poissy",
       "artist": "Monet Claude",
       "year": 1882,
-      "genres": ["genre painting"],
+      "genres": [
+        "genre painting"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Anglers_on_the_Seine_at_Poissy.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Anglers_on_the_Seine_at_Poissy.jpg",
@@ -2542,14 +3005,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["genre painting"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": 81.7,
         "sizeY": 59.8,
         "diameter": null,
-        "galleries": ["Belvedere, Vienna, Austria"],
-        "tags": ["Water", "Watercraft rowing"],
+        "galleries": [
+          "Belvedere, Vienna, Austria"
+        ],
+        "tags": [
+          "Water",
+          "Watercraft rowing"
+        ],
         "description": "",
         "width": 1280,
         "image": "https://uploads7.wikiart.org/images/claude-monet/anglers-on-the-seine-at-poissy(1).jpg",
@@ -2564,7 +3036,9 @@
       "title": "Belle-Ile, Rain Effect",
       "artist": "Monet Claude",
       "year": 1886,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Belle-Ile,_Rain_Effect.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Belle-Ile%2C_Rain_Effect.jpg",
@@ -2589,8 +3063,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -2624,7 +3102,9 @@
       "title": "Agapanthus Flowers",
       "artist": "Monet Claude",
       "year": 1917,
-      "genres": ["flower painting"],
+      "genres": [
+        "flower painting"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Agapanthus_Flowers.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Agapanthus_Flowers.jpg",
@@ -2649,14 +3129,24 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["flower painting"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "flower painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Flower", "Plant", "Botany", "Wildflower", "Iris"],
+        "tags": [
+          "Flower",
+          "Plant",
+          "Botany",
+          "Wildflower",
+          "Iris"
+        ],
         "description": "",
         "width": 1076,
         "image": "https://uploads7.wikiart.org/images/claude-monet/agapanthus-flowers-1917(1).jpg!HD.jpg",
@@ -2671,7 +3161,9 @@
       "title": "Antibes in the Morning",
       "artist": "Monet Claude",
       "year": 1888,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Antibes_in_the_Morning.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Antibes_in_the_Morning.jpg",
@@ -2699,8 +3191,12 @@
           "id": "57726d83edc2cb3880b488f5",
           "title": "Antibes"
         },
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -2729,7 +3225,9 @@
       "title": "At Val-Saint-Nicolas near Dieppe in the Morning",
       "artist": "Monet Claude",
       "year": 1897,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/At_Val-Saint-Nicolas_near_Dieppe_in_the_Morning.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/At_Val-Saint-Nicolas_near_Dieppe_in_the_Morning.jpg",
@@ -2754,14 +3252,21 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Normandy", "cliffs-and-rocks"],
+        "tags": [
+          "Normandy",
+          "cliffs-and-rocks"
+        ],
         "description": "",
         "width": 1280,
         "image": "https://uploads3.wikiart.org/images/claude-monet/at-val-saint-nicolas-near-dieppe-in-the-morning.jpg",
@@ -2776,7 +3281,9 @@
       "title": "At Cap d'Antibes",
       "artist": "Monet Claude",
       "year": 1888,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/At_Cap_dAntibes.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/At_Cap_dAntibes.jpg",
@@ -2801,8 +3308,12 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -2830,7 +3341,9 @@
       "title": "Amsterdam in the Snow",
       "artist": "Monet Claude",
       "year": 1874,
-      "genres": ["cityscape"],
+      "genres": [
+        "cityscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Amsterdam_in_the_Snow.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Amsterdam_in_the_Snow.jpg",
@@ -2858,8 +3371,12 @@
           "id": "61e4a2cc9e43632d80100000",
           "title": "Holland"
         },
-        "genres": ["cityscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
@@ -2880,7 +3397,10 @@
       "title": "A Windmill near Zaandam",
       "artist": "Monet Claude",
       "year": 1871,
-      "genres": ["landscape", "marina"],
+      "genres": [
+        "landscape",
+        "marina"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/A_Windmill_near_Zaandam.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/A_Windmill_near_Zaandam.jpg",
@@ -2911,14 +3431,28 @@
           "id": "61e4a2cc9e43632d80100000",
           "title": "Holland"
         },
-        "genres": ["landscape", "marina"],
-        "styles": ["Impressionism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "landscape",
+          "marina"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": 41,
         "sizeY": 72.5,
         "diameter": null,
-        "galleries": ["Ashmolean Museum, Oxford, UK"],
-        "tags": ["Windmill", "Vehicle", "Fluyt"],
+        "galleries": [
+          "Ashmolean Museum, Oxford, UK"
+        ],
+        "tags": [
+          "Windmill",
+          "Vehicle",
+          "Fluyt"
+        ],
         "description": "",
         "width": 1000,
         "image": "https://uploads0.wikiart.org/images/claude-monet/a-windmill-near-zaandam(1).jpg",
@@ -2933,7 +3467,9 @@
       "title": "Apple Trees near Vetheuil",
       "artist": "Monet Claude",
       "year": 1878,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "claude-monet",
       "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_near_Vetheuil.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_near_Vetheuil.jpg",
@@ -2958,14 +3494,23 @@
         "location": "",
         "period": null,
         "serie": null,
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
         "media": [],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["Tree", "Plant", "Woody plant", "Rural area"],
+        "tags": [
+          "Tree",
+          "Plant",
+          "Woody plant",
+          "Rural area"
+        ],
         "description": "",
         "width": 1280,
         "image": "https://uploads2.wikiart.org/images/claude-monet/apple-trees-near-vetheuil(1).jpg",
@@ -2980,7 +3525,9 @@
       "title": "Bench",
       "artist": "Manet Edouard",
       "year": 1881,
-      "genres": ["landscape"],
+      "genres": [
+        "landscape"
+      ],
       "topic": "edouard-manet",
       "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Bench.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Bench.jpg",
@@ -3007,14 +3554,25 @@
         "location": "France",
         "period": null,
         "serie": null,
-        "genres": ["landscape"],
-        "styles": ["Impressionism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
         "galleries": [],
-        "tags": ["summer", "gardens-and-parks", "Textile"],
+        "tags": [
+          "summer",
+          "gardens-and-parks",
+          "Textile"
+        ],
         "description": "",
         "width": 604,
         "image": "https://uploads3.wikiart.org/images/edouard-manet/bench-1881.jpg",
@@ -3029,7 +3587,9 @@
       "title": "A young girl",
       "artist": "Manet Edouard",
       "year": 1880,
-      "genres": ["portrait"],
+      "genres": [
+        "portrait"
+      ],
       "topic": "edouard-manet",
       "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_young_girl.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_young_girl.jpg",
@@ -3056,14 +3616,29 @@
         "location": "ParisFrance",
         "period": null,
         "serie": null,
-        "genres": ["portrait"],
-        "styles": ["Impressionism"],
-        "media": ["pastel", "canvas"],
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "pastel",
+          "canvas"
+        ],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
-        "galleries": ["Hermitage Museum, Saint Petersburg, Russia"],
-        "tags": ["female-portraits", "Lady", "Chin", "Cheek", "Forehead"],
+        "galleries": [
+          "Hermitage Museum, Saint Petersburg, Russia"
+        ],
+        "tags": [
+          "female-portraits",
+          "Lady",
+          "Chin",
+          "Cheek",
+          "Forehead"
+        ],
         "description": "",
         "width": 575,
         "image": "https://uploads1.wikiart.org/images/edouard-manet/a-young-girl-1880.jpg",
@@ -3078,7 +3653,9 @@
       "title": "Branch of White Peonies and Secateurs",
       "artist": "Manet Edouard",
       "year": 1864,
-      "genres": ["still life"],
+      "genres": [
+        "still life"
+      ],
       "topic": "edouard-manet",
       "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Branch_of_White_Peonies_and_Secateurs.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Branch_of_White_Peonies_and_Secateurs.jpg",
@@ -3105,13 +3682,22 @@
         "location": "ParisFrance",
         "period": null,
         "serie": null,
-        "genres": ["still life"],
-        "styles": ["Realism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": 46.5,
         "sizeY": 31,
         "diameter": null,
-        "galleries": ["Musée d'Orsay, Paris, France"],
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
         "tags": [
           "flowers-and-plants",
           "Still life photography",
@@ -3133,7 +3719,9 @@
       "title": "Angelina",
       "artist": "Manet Edouard",
       "year": 1865,
-      "genres": ["portrait"],
+      "genres": [
+        "portrait"
+      ],
       "topic": "edouard-manet",
       "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Angelina.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Angelina.jpg",
@@ -3160,14 +3748,25 @@
         "location": "ParisFrance",
         "period": null,
         "serie": null,
-        "genres": ["portrait"],
-        "styles": ["Realism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": 72,
         "sizeY": 92,
         "diameter": null,
-        "galleries": ["Musée d'Orsay, Paris, France"],
-        "tags": ["female-portraits"],
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "female-portraits"
+        ],
         "description": "",
         "width": 516,
         "image": "https://uploads6.wikiart.org/images/edouard-manet/angelina-1865.jpg",
@@ -3182,7 +3781,9 @@
       "title": "Guitar and Hat",
       "artist": "Manet Edouard",
       "year": 1862,
-      "genres": ["still life"],
+      "genres": [
+        "still life"
+      ],
       "topic": "edouard-manet",
       "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Guitar_and_Hat.jpg",
       "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Guitar_and_Hat.jpg",
@@ -3209,14 +3810,26 @@
         "location": "ParisFrance",
         "period": null,
         "serie": null,
-        "genres": ["still life"],
-        "styles": ["Realism"],
-        "media": ["oil", "canvas"],
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
         "sizeX": null,
         "sizeY": null,
         "diameter": null,
-        "galleries": ["Musée Calvet, Avignon, France"],
-        "tags": ["clothing-and-textile", "musical-instruments"],
+        "galleries": [
+          "Musée Calvet, Avignon, France"
+        ],
+        "tags": [
+          "clothing-and-textile",
+          "musical-instruments"
+        ],
         "description": "",
         "width": 788,
         "image": "https://uploads3.wikiart.org/images/edouard-manet/guitar-and-hat-1862.jpg",
@@ -3224,6 +3837,831 @@
       },
       "width": 788,
       "height": 484,
+      "mime": null
+    },
+    {
+      "id": "wikiart:591600d5edc2c937202fd49d",
+      "title": "The First Plantation",
+      "artist": "SM Sultan",
+      "year": null,
+      "genres": [
+        "nude painting (nu)"
+      ],
+      "topic": "sm-sultan",
+      "blob_path": "better-twitter/artwork/images/wikiart/sm-sultan/The_First_Plantation.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sm-sultan/The_First_Plantation.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00131/images/sm-sultan/sm-sultan-3.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sm-sultan/sm-sultan-3the-first-plantation",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:20:32.935Z",
+      "fingerprint_sha256": "bf67170abbc55916f28560f6f9ceb0adcddff69b712472f3ef0514c11f8e67b0",
+      "raw_extmetadata": {
+        "id": "591600d5edc2c937202fd49d",
+        "title": "The First Plantation",
+        "url": "sm-sultan-3the-first-plantation",
+        "artistUrl": "sm-sultan",
+        "artistName": "SM Sultan",
+        "artistId": "5915fb55edc2c9372019d1b8",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7588",
+          "57726b4eedc2cb3880ad6eb8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "nude painting (nu)"
+        ],
+        "styles": [
+          "Expressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Fictional character"
+        ],
+        "description": "",
+        "width": 519,
+        "image": "https://uploads8.wikiart.org/00131/images/sm-sultan/sm-sultan-3.jpg",
+        "height": 720
+      },
+      "width": 519,
+      "height": 720,
+      "mime": null
+    },
+    {
+      "id": "wikiart:59160196edc2c9372032a9f4",
+      "title": "Devotee",
+      "artist": "SM Sultan",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "sm-sultan",
+      "blob_path": "better-twitter/artwork/images/wikiart/sm-sultan/Devotee.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sm-sultan/Devotee.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00131/images/sm-sultan/297926-148021615285213-1332716-n.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sm-sultan/title-devotee-saadhk",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:20:38.324Z",
+      "fingerprint_sha256": "c84cf64f45c131b9576bd4bd6b093515a668386936c90d89f8d0d02a5210fb0c",
+      "raw_extmetadata": {
+        "id": "59160196edc2c9372032a9f4",
+        "title": "Devotee",
+        "url": "title-devotee-saadhk",
+        "artistUrl": "sm-sultan",
+        "artistName": "SM Sultan",
+        "artistId": "5915fb55edc2c9372019d1b8",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae7436",
+          "57726b52edc2cb3880ad7870",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "Bangladesh",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Social Realism"
+        ],
+        "media": [
+          "watercolor"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads2.wikiart.org/00131/images/sm-sultan/297926-148021615285213-1332716-n.jpg",
+        "height": 497
+      },
+      "width": 700,
+      "height": 497,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5950edacedc2c9bc409e5abe",
+      "title": "Farmers in Confrontation",
+      "artist": "SM Sultan",
+      "year": 1986,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "sm-sultan",
+      "blob_path": "better-twitter/artwork/images/wikiart/sm-sultan/Farmers_in_Confrontation.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sm-sultan/Farmers_in_Confrontation.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00138/images/sm-sultan/farmers-in-confrontation-1986.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sm-sultan/farmers-in-confrontation-1986",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:20:43.637Z",
+      "fingerprint_sha256": "033f2c19131dfa1793da7cf8a671398dc4444a25f9ff0856d6989805b8f318bb",
+      "raw_extmetadata": {
+        "id": "5950edacedc2c9bc409e5abe",
+        "title": "Farmers in Confrontation",
+        "url": "farmers-in-confrontation-1986",
+        "artistUrl": "sm-sultan",
+        "artistName": "SM Sultan",
+        "artistId": "5915fb55edc2c9372019d1b8",
+        "completitionYear": 1986,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7870",
+          "57726b51edc2cb3880ad7588",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Social Realism",
+          "Expressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mythology"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads8.wikiart.org/00138/images/sm-sultan/farmers-in-confrontation-1986.jpg",
+        "height": 394
+      },
+      "width": 500,
+      "height": 394,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5950edacedc2c9bc409e5abc",
+      "title": "After the Flood",
+      "artist": "SM Sultan",
+      "year": 1986,
+      "genres": [
+        "religious painting"
+      ],
+      "topic": "sm-sultan",
+      "blob_path": "better-twitter/artwork/images/wikiart/sm-sultan/After_the_Flood.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sm-sultan/After_the_Flood.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00138/images/sm-sultan/after-the-flood-1986.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sm-sultan/after-the-flood-1986",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:20:49.037Z",
+      "fingerprint_sha256": "2fe4822dac89bc9c1a43dfbf11b14f99f954495949beb998552f6d93bd59ec07",
+      "raw_extmetadata": {
+        "id": "5950edacedc2c9bc409e5abc",
+        "title": "After the Flood",
+        "url": "after-the-flood-1986",
+        "artistUrl": "sm-sultan",
+        "artistName": "SM Sultan",
+        "artistId": "5915fb55edc2c9372019d1b8",
+        "completitionYear": 1986,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7588",
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [
+          "Expressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mythology",
+          "Organism"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads8.wikiart.org/00138/images/sm-sultan/after-the-flood-1986.jpg",
+        "height": 365
+      },
+      "width": 500,
+      "height": 365,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5915ff28edc2c937202979df",
+      "title": "Char Dakhal",
+      "artist": "SM Sultan",
+      "year": 1976,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "sm-sultan",
+      "blob_path": "better-twitter/artwork/images/wikiart/sm-sultan/Char_Dakhal.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sm-sultan/Char_Dakhal.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/00131/images/sm-sultan/sm-sultan-char-dakhal-1976.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sm-sultan/char-dakhal-1976",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:20:54.919Z",
+      "fingerprint_sha256": "a783b67db0d911ac27b1887e5b39311eee97408e15e0602f118f573000dbdfb0",
+      "raw_extmetadata": {
+        "id": "5915ff28edc2c937202979df",
+        "title": "Char Dakhal",
+        "url": "char-dakhal-1976",
+        "artistUrl": "sm-sultan",
+        "artistName": "SM Sultan",
+        "artistId": "5915fb55edc2c9372019d1b8",
+        "completitionYear": 1976,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7588",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "Bangladesh",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Expressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Textile"
+        ],
+        "description": "",
+        "width": 465,
+        "image": "https://uploads5.wikiart.org/00131/images/sm-sultan/sm-sultan-char-dakhal-1976.jpg",
+        "height": 497
+      },
+      "width": 465,
+      "height": 497,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5950edacedc2c9bc409e5ac0",
+      "title": "Untitled Landscape",
+      "artist": "SM Sultan",
+      "year": 1952,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "sm-sultan",
+      "blob_path": "better-twitter/artwork/images/wikiart/sm-sultan/Untitled_Landscape.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sm-sultan/Untitled_Landscape.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00138/images/sm-sultan/untitled-landscape-1952.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sm-sultan/untitled-landscape-1952",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:21:00.343Z",
+      "fingerprint_sha256": "d9b58747c2da8a4f4d5980f16e9d00d641a264c642d110950160713d7cf652ea",
+      "raw_extmetadata": {
+        "id": "5950edacedc2c9bc409e5ac0",
+        "title": "Untitled Landscape",
+        "url": "untitled-landscape-1952",
+        "artistUrl": "sm-sultan",
+        "artistName": "SM Sultan",
+        "artistId": "5915fb55edc2c9372019d1b8",
+        "completitionYear": 1952,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7870",
+          "57726b51edc2cb3880ad7588",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Social Realism",
+          "Expressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Mountain",
+          "Cloud",
+          "Bank"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads2.wikiart.org/00138/images/sm-sultan/untitled-landscape-1952.jpg",
+        "height": 719
+      },
+      "width": 1024,
+      "height": 719,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5950edacedc2c9bc409e5ac2",
+      "title": "Study for a Male Head",
+      "artist": "SM Sultan",
+      "year": 1956,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "sm-sultan",
+      "blob_path": "better-twitter/artwork/images/wikiart/sm-sultan/Study_for_a_Male_Head.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sm-sultan/Study_for_a_Male_Head.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/00138/images/sm-sultan/study-for-a-male-head-1956.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sm-sultan/study-for-a-male-head-1956",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:21:05.714Z",
+      "fingerprint_sha256": "9b1e0ac92e6250cc2bce36eb5090c782c77e50792bea7b8031588e9c25ab5107",
+      "raw_extmetadata": {
+        "id": "5950edacedc2c9bc409e5ac2",
+        "title": "Study for a Male Head",
+        "url": "study-for-a-male-head-1956",
+        "artistUrl": "sm-sultan",
+        "artistName": "SM Sultan",
+        "artistId": "5915fb55edc2c9372019d1b8",
+        "completitionYear": 1956,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7870",
+          "57726b51edc2cb3880ad7588",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Social Realism",
+          "Expressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Facial hair",
+          "Sketch",
+          "Face",
+          "Beard",
+          "Head",
+          "Chin"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads5.wikiart.org/00138/images/sm-sultan/study-for-a-male-head-1956.jpg",
+        "height": 803
+      },
+      "width": 500,
+      "height": 803,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5950edacedc2c9bc409e5ac4",
+      "title": "Peasants at Work",
+      "artist": "SM Sultan",
+      "year": 1975,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "sm-sultan",
+      "blob_path": "better-twitter/artwork/images/wikiart/sm-sultan/Peasants_at_Work.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sm-sultan/Peasants_at_Work.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/00138/images/sm-sultan/peasants-at-work-1975.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sm-sultan/peasants-at-work-1975",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:21:10.989Z",
+      "fingerprint_sha256": "0b3dd5eb24f1cbb90926cecdbd1ee0b64a0145b889f94e474f415478a246fe9b",
+      "raw_extmetadata": {
+        "id": "5950edacedc2c9bc409e5ac4",
+        "title": "Peasants at Work",
+        "url": "peasants-at-work-1975",
+        "artistUrl": "sm-sultan",
+        "artistName": "SM Sultan",
+        "artistId": "5915fb55edc2c9372019d1b8",
+        "completitionYear": 1975,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7870",
+          "57726b51edc2cb3880ad7588",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Social Realism",
+          "Expressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads0.wikiart.org/00138/images/sm-sultan/peasants-at-work-1975.jpg",
+        "height": 367
+      },
+      "width": 500,
+      "height": 367,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb388002620d",
+      "title": "The ascent of Muhammad to heaven (mi'rāj) (Khamseh)",
+      "artist": "Sultan Muhammad",
+      "year": 1543,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/The_ascent_of_Muhammad_to_heaven_(mirj)_(Khamseh).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/The_ascent_of_Muhammad_to_heaven_%28mirj%29_%28Khamseh%29.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/00217/images/sultan-muhammad/miraj-by-sultan-muhammad-1.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/the-ascent-of-muhammad-to-heaven-mi-r-j-khamseh-1543",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:21:37.639Z",
+      "fingerprint_sha256": "6ec3aa8899ab47933b6b9ce7aa13d1fdcaf6a9b2bf8c1a9b17785e08fee7ddf6",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb388002620d",
+        "title": "The ascent of Muhammad to heaven (mi'rāj) (Khamseh)",
+        "url": "the-ascent-of-muhammad-to-heaven-mi-r-j-khamseh-1543",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": 1543,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Majorelle blue",
+          "Textile"
+        ],
+        "description": "",
+        "width": 779,
+        "image": "https://uploads7.wikiart.org/00217/images/sultan-muhammad/miraj-by-sultan-muhammad-1.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 779,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb388002621d",
+      "title": "The court of Gayumars",
+      "artist": "Sultan Muhammad",
+      "year": 1537,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/The_court_of_Gayumars.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/The_court_of_Gayumars.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00149/images/sultan-muhammad/59b7fd7aedc2c993fcae3fce.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/the-court-of-gayumars-1537",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:21:43.471Z",
+      "fingerprint_sha256": "bdf6725fcb25337ce02931f174e37cf121aecf2c961099853905794e35fbdcde",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb388002621d",
+        "title": "The court of Gayumars",
+        "url": "the-court-of-gayumars-1537",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": 1537,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 837,
+        "image": "https://uploads8.wikiart.org/00149/images/sultan-muhammad/59b7fd7aedc2c993fcae3fce.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 837,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb38800261ed",
+      "title": "From the Khamsa of Nizami: The Old Woman complaining to Sultan Sanjar",
+      "artist": "Sultan Muhammad",
+      "year": 1543,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/From_the_Khamsa_of_Nizami_The_Old_Woman_complaining_to_Sultan_Sanjar.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/From_the_Khamsa_of_Nizami_The_Old_Woman_complaining_to_Sultan_Sanjar.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/sultan-muhammad/from-the-khamsa-of-nizami-the-old-woman-complaining-to-sultan-sanjar-1543.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/from-the-khamsa-of-nizami-the-old-woman-complaining-to-sultan-sanjar-1543",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:21:49.344Z",
+      "fingerprint_sha256": "008e107b05df242597a64b7a4efc8067de4f61f2e79b6d0125e365436e49927b",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb38800261ed",
+        "title": "From the Khamsa of Nizami: The Old Woman complaining to Sultan Sanjar",
+        "url": "from-the-khamsa-of-nizami-the-old-woman-complaining-to-sultan-sanjar-1543",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": 1543,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 848,
+        "image": "https://uploads3.wikiart.org/images/sultan-muhammad/from-the-khamsa-of-nizami-the-old-woman-complaining-to-sultan-sanjar-1543.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 848,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb388002625d",
+      "title": "Untitled",
+      "artist": "Sultan Muhammad",
+      "year": null,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/Untitled.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/Untitled.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/sultan-muhammad/unknown-title.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/unknown-title",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:21:55.287Z",
+      "fingerprint_sha256": "151bafab19cd5a51e68d411d1cd50a7424c10b08822da653fed764622e481281",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb388002625d",
+        "title": "Untitled",
+        "url": "unknown-title",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Botany",
+          "Tree",
+          "Textile"
+        ],
+        "description": "",
+        "width": 649,
+        "image": "https://uploads6.wikiart.org/images/sultan-muhammad/unknown-title.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 649,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:59b7fcb4edc2c993fcaa92b7",
+      "title": "Death of Zahhak",
+      "artist": "Sultan Muhammad",
+      "year": null,
+      "genres": [],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/Death_of_Zahhak.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/Death_of_Zahhak.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00149/images/sultan-muhammad/59b7fc50edc2c993fca87ce0.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/death-of-zahhak",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:22:01.413Z",
+      "fingerprint_sha256": "1e0ee0891897fffa91268f4d6acec190b0efc55a88854c397de88a20a5e2a97a",
+      "raw_extmetadata": {
+        "id": "59b7fcb4edc2c993fcaa92b7",
+        "title": "Death of Zahhak",
+        "url": "death-of-zahhak",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": null,
+        "dictionaries": [],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 866,
+        "image": "https://uploads8.wikiart.org/00149/images/sultan-muhammad/59b7fc50edc2c993fca87ce0.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 866,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb38800261fd",
+      "title": "Tahmuras Defeats the Divs. Miniature from Shahname",
+      "artist": "Sultan Muhammad",
+      "year": 1527,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/Tahmuras_Defeats_the_Divs._Miniature_from_Shahname.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/Tahmuras_Defeats_the_Divs._Miniature_from_Shahname.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/sultan-muhammad/tahmuras-defeats-the-divs-miniature-from-shahname-1527.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/tahmuras-defeats-the-divs-miniature-from-shahname-1527",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:22:07.096Z",
+      "fingerprint_sha256": "e625d1074708e61dd8aee461c8feddfb8a2fd41579ea90605f2cb320e428df01",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb38800261fd",
+        "title": "Tahmuras Defeats the Divs. Miniature from Shahname",
+        "url": "tahmuras-defeats-the-divs-miniature-from-shahname-1527",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": 1527,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 458,
+        "image": "https://uploads4.wikiart.org/images/sultan-muhammad/tahmuras-defeats-the-divs-miniature-from-shahname-1527.jpg",
+        "height": 704
+      },
+      "width": 458,
+      "height": 704,
+      "mime": null
+    },
+    {
+      "id": "wikiart:577285e3edc2cb388002623d",
+      "title": "The Mi'raj, or, The Night Flight of Muhammad on his Steed Buraq- Folio from a Bustan of Sa'di",
+      "artist": "Sultan Muhammad",
+      "year": 1535,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "sultan-muhammad",
+      "blob_path": "better-twitter/artwork/images/wikiart/sultan-muhammad/The_Miraj,_or,_The_Night_Flight_of_Muhammad_on_his_Steed_Buraq-_Folio_from_a_Bustan_of_Sadi.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/sultan-muhammad/The_Miraj%2C_or%2C_The_Night_Flight_of_Muhammad_on_his_Steed_Buraq-_Folio_from_a_Bustan_of_Sadi.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/sultan-muhammad/the-mi-raj-or-the-night-flight-of-muhammad-on-his-steed-buraq-folio-from-a-bustan-of-sa-di-1535.jpg",
+      "source_file_page": "https://www.wikiart.org/en/sultan-muhammad/the-mi-raj-or-the-night-flight-of-muhammad-on-his-steed-buraq-folio-from-a-bustan-of-sa-di-1535",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-29T01:22:12.807Z",
+      "fingerprint_sha256": "0781a6cde303e17979cc1e23d855c2e6f9ddb20f1b4728617a17e92a5ab5114b",
+      "raw_extmetadata": {
+        "id": "577285e3edc2cb388002623d",
+        "title": "The Mi'raj, or, The Night Flight of Muhammad on his Steed Buraq- Folio from a Bustan of Sa'di",
+        "url": "the-mi-raj-or-the-night-flight-of-muhammad-on-his-steed-buraq-folio-from-a-bustan-of-sa-di-1535",
+        "artistUrl": "sultan-muhammad",
+        "artistName": "Sultan Muhammad",
+        "artistId": "57726dd3edc2cb3880b513aa",
+        "completitionYear": 1535,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7858",
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [
+          "Safavid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 450,
+        "image": "https://uploads0.wikiart.org/images/sultan-muhammad/the-mi-raj-or-the-night-flight-of-muhammad-on-his-steed-buraq-folio-from-a-bustan-of-sa-di-1535.jpg",
+        "height": 699
+      },
+      "width": 450,
+      "height": 699,
       "mime": null
     }
   ]
