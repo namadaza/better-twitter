@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-29T19:08:41.895Z",
+  "generated_at": "2026-05-30T01:15:31.728Z",
   "source": "wikiart",
-  "count": 145,
+  "count": 160,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -8424,6 +8424,919 @@
       },
       "width": 445,
       "height": 751,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea625e",
+      "title": "Bisharin Warrior",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bisharin_Warrior.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bisharin_Warrior.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jean-leon-gerome/bisharin-warrior.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bisharin-warrior",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:02.598Z",
+      "fingerprint_sha256": "9a10a8066bb3086526af727bf288d41ff4c06627d782b3a34ce7fb43d7699cf0",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea625e",
+        "title": "Bisharin Warrior",
+        "url": "bisharin-warrior",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits",
+          "Lady"
+        ],
+        "description": "",
+        "width": 394,
+        "image": "https://uploads3.wikiart.org/images/jean-leon-gerome/bisharin-warrior.jpg",
+        "height": 570
+      },
+      "width": 394,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea636e",
+      "title": "Dying Eagle of Waterloo",
+      "artist": "Gerome Jean-Leon",
+      "year": 1902,
+      "genres": [
+        "sculpture"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Dying_Eagle_of_Waterloo.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Dying_Eagle_of_Waterloo.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/jean-leon-gerome/dying-eagle-of-waterloo.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/dying-eagle-of-waterloo",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:04.717Z",
+      "fingerprint_sha256": "95da7b062939cc1b951d55c2a04521aec0360aff668834e611828ca5bea2884c",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea636e",
+        "title": "Dying Eagle of Waterloo",
+        "url": "dying-eagle-of-waterloo",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1902,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6f00",
+          "57726bcdedc2cb3880ae746e"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "bronze"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "birds",
+          "eagles",
+          "Bronze sculpture",
+          "Museum",
+          "Statue"
+        ],
+        "description": "",
+        "width": 1279,
+        "image": "https://uploads8.wikiart.org/images/jean-leon-gerome/dying-eagle-of-waterloo.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1279,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea5ffe",
+      "title": "A Café in Cairo",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Caf_in_Cairo.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Caf_in_Cairo.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/jean-leon-gerome/a-caf-in-cairo.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-caf-in-cairo",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:07.032Z",
+      "fingerprint_sha256": "284935a5b8acc177ea16b1647fb58f1a69ecdee76a03001fd1c8b096c357ea60",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea5ffe",
+        "title": "A Café in Cairo",
+        "url": "a-caf-in-cairo",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Egypt",
+          "cafes-and-restaurants",
+          "Cairo"
+        ],
+        "description": "",
+        "width": 1479,
+        "image": "https://uploads8.wikiart.org/images/jean-leon-gerome/a-caf-in-cairo.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1479,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea615e",
+      "title": "Arab Encampment",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arab_Encampment.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arab_Encampment.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jean-leon-gerome/arab-encampment.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/arab-encampment",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:09.151Z",
+      "fingerprint_sha256": "f3701105bd791c6a863b891b9fdd3aecad203f04ca66d14b2543fb70632b8084",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea615e",
+        "title": "Arab Encampment",
+        "url": "arab-encampment",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "lakes-and-ponds",
+          "fields-and-plains",
+          "pyramids-and-ziggurats"
+        ],
+        "description": "",
+        "width": 750,
+        "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/arab-encampment.jpg",
+        "height": 453
+      },
+      "width": 750,
+      "height": 453,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea614e",
+      "title": "Anacreon, Love and Bacchus",
+      "artist": "Gerome Jean-Leon",
+      "year": 1881,
+      "genres": [
+        "sculpture"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Anacreon,_Love_and_Bacchus.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Anacreon%2C_Love_and_Bacchus.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jean-leon-gerome/anacreon-love-and-bacchus-1881.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/anacreon-love-and-bacchus-1881",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:11.072Z",
+      "fingerprint_sha256": "5becfef338f18d2327cda4dad390f342e6abd9f0e09bb3db775feeccc0313e15",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea614e",
+        "title": "Anacreon, Love and Bacchus",
+        "url": "anacreon-love-and-bacchus-1881",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6f00",
+          "57726bcdedc2cb3880ae746e"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "bronze"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "famous-people",
+          "Greek-and-Roman-Mythology",
+          "Anacreon",
+          "Bacchus/Dionysus",
+          "Bronze sculpture",
+          "Statue",
+          "Classical sculpture",
+          "Carving",
+          "Figurine"
+        ],
+        "description": "",
+        "width": 549,
+        "image": "https://uploads6.wikiart.org/images/jean-leon-gerome/anacreon-love-and-bacchus-1881.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 549,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea630e",
+      "title": "Dancer with Tambourine",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Dancer_with_Tambourine.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Dancer_with_Tambourine.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jean-leon-gerome/dancer-with-tambourine.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/dancer-with-tambourine",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:13.011Z",
+      "fingerprint_sha256": "8892a9f9e53477b186e524e7f5a2814778fe51a12ccc338d21dcf9d9c41afaa0",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea630e",
+        "title": "Dancer with Tambourine",
+        "url": "dancer-with-tambourine",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Lady"
+        ],
+        "description": "",
+        "width": 333,
+        "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/dancer-with-tambourine.jpg",
+        "height": 400
+      },
+      "width": 333,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea622e",
+      "title": "Bathers by the Edge of a River",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathers_by_the_Edge_of_a_River.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bathers_by_the_Edge_of_a_River.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/jean-leon-gerome/bathers-by-the-edge-of-a-river.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bathers-by-the-edge-of-a-river",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:15.185Z",
+      "fingerprint_sha256": "3f2bfca42d64095417b1131f7e2b8107c7bce83e090e55b2bc8cc37578e291e8",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea622e",
+        "title": "Bathers by the Edge of a River",
+        "url": "bathers-by-the-edge-of-a-river",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "bathing-and-swimming",
+          "Palm tree",
+          "Waterway",
+          "Tree",
+          "Arecales",
+          "Sky",
+          "River",
+          "Bank",
+          "Evening"
+        ],
+        "description": "",
+        "width": 1128,
+        "image": "https://uploads8.wikiart.org/images/jean-leon-gerome/bathers-by-the-edge-of-a-river.jpg",
+        "height": 743
+      },
+      "width": 1128,
+      "height": 743,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea60ce",
+      "title": "Aimé Morot",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "sculpture"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Aim_Morot.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Aim_Morot.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jean-leon-gerome/aim-morot.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/aim-morot",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:17.104Z",
+      "fingerprint_sha256": "2a5270a0522d5e197c03afae9a4d507b4f1f8d6c254bbd11ce08544079da69ae",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea60ce",
+        "title": "Aimé Morot",
+        "url": "aim-morot",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6f00",
+          "57726bcdedc2cb3880ae746e"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "bronze"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits",
+          "famous-people"
+        ],
+        "description": "",
+        "width": 900,
+        "image": "https://uploads3.wikiart.org/images/jean-leon-gerome/aim-morot.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 900,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea605e",
+      "title": "A Muezzin Calling from the Top of a Minaret the Faithful to Prayer",
+      "artist": "Gerome Jean-Leon",
+      "year": 1879,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Muezzin_Calling_from_the_Top_of_a_Minaret_the_Faithful_to_Prayer.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Muezzin_Calling_from_the_Top_of_a_Minaret_the_Faithful_to_Prayer.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jean-leon-gerome/a-muezzin-calling-from-the-top-of-a-minaret-the-faithful-to-prayer.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-muezzin-calling-from-the-top-of-a-minaret-the-faithful-to-prayer",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:19.179Z",
+      "fingerprint_sha256": "88829fa5c1e7675eae772337668203c20ead8baa02b95636373d8017f892449d",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea605e",
+        "title": "A Muezzin Calling from the Top of a Minaret the Faithful to Prayer",
+        "url": "a-muezzin-calling-from-the-top-of-a-minaret-the-faithful-to-prayer",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1879,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 66,
+        "sizeY": 91.4,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "priests-and-sacraments",
+          "Islam",
+          "Dome",
+          "Mosque"
+        ],
+        "description": "",
+        "width": 860,
+        "image": "https://uploads6.wikiart.org/images/jean-leon-gerome/a-muezzin-calling-from-the-top-of-a-minaret-the-faithful-to-prayer.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 860,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea60be",
+      "title": "After the Bath",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/After_the_Bath.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/After_the_Bath.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/jean-leon-gerome/after-the-bath.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/after-the-bath",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:21.213Z",
+      "fingerprint_sha256": "435300a651307b614610732324e928de7c2173f09b612ce70724ddf628711fb4",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea60be",
+        "title": "After the Bath",
+        "url": "after-the-bath",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Academicism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 66.7,
+        "sizeY": 82.6,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "bathing-and-swimming",
+          "Bathing",
+          "Thermae"
+        ],
+        "description": "",
+        "width": 671,
+        "image": "https://uploads1.wikiart.org/images/jean-leon-gerome/after-the-bath.jpg",
+        "height": 836
+      },
+      "width": 671,
+      "height": 836,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea610e",
+      "title": "An Arab and His Dog",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/An_Arab_and_His_Dog.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/An_Arab_and_His_Dog.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jean-leon-gerome/an-arab-and-his-dog.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/an-arab-and-his-dog",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:23.159Z",
+      "fingerprint_sha256": "63612019a6353cc4e1c34275d7e40b5563b919a271d06bedbeffb88c2eab20a8",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea610e",
+        "title": "An Arab and His Dog",
+        "url": "an-arab-and-his-dog",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits",
+          "Dog",
+          "Canidae"
+        ],
+        "description": "",
+        "width": 370,
+        "image": "https://uploads6.wikiart.org/images/jean-leon-gerome/an-arab-and-his-dog.jpg",
+        "height": 570
+      },
+      "width": 370,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea626e",
+      "title": "Black Bashi Bazouk",
+      "artist": "Gerome Jean-Leon",
+      "year": 1868,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Black_Bashi_Bazouk.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Black_Bashi_Bazouk.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00382/images/jean-leon-gerome/3-bashi-bazouk-jean-leon-gerome.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/black-bashi-bazouk",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:25.299Z",
+      "fingerprint_sha256": "fac6f5a0c0d339b15a453411bc8d904e1c40176371e3be3d5b277f6b61ad9393",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea626e",
+        "title": "Black Bashi Bazouk",
+        "url": "black-bashi-bazouk",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1868,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 66,
+        "sizeY": 81,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "male-portraits",
+          "Arm"
+        ],
+        "description": "",
+        "width": 722,
+        "image": "https://uploads4.wikiart.org/00382/images/jean-leon-gerome/3-bashi-bazouk-jean-leon-gerome.jpg",
+        "height": 900
+      },
+      "width": 722,
+      "height": 900,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea602e",
+      "title": "A Harem",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Harem.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Harem.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jean-leon-gerome/a-harem.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-harem",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:27.425Z",
+      "fingerprint_sha256": "d9c3c29c27fdd8b4f17d6a2f64e2a8b67be6262534bc991bf1a3bd0493e9b4b3",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea602e",
+        "title": "A Harem",
+        "url": "a-harem",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "military-and-soldiers",
+          "harems",
+          "Tourism",
+          "Gazebo",
+          "Travel"
+        ],
+        "description": "",
+        "width": 1136,
+        "image": "https://uploads3.wikiart.org/images/jean-leon-gerome/a-harem.jpg",
+        "height": 774
+      },
+      "width": 1136,
+      "height": 774,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea60ee",
+      "title": "Amédée Thierry",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Amde_Thierry.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Amde_Thierry.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/jean-leon-gerome/am-d-e-thierry.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/am-d-e-thierry",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:29.119Z",
+      "fingerprint_sha256": "22b8ebf7efc71af4404a0fec9730a68c7591891f4c99d4dc4e48d46cd5fe0de3",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea60ee",
+        "title": "Amédée Thierry",
+        "url": "am-d-e-thierry",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits",
+          "famous-people",
+          "Lady",
+          "Gentleman"
+        ],
+        "description": "",
+        "width": 313,
+        "image": "https://uploads1.wikiart.org/images/jean-leon-gerome/am-d-e-thierry.jpg",
+        "height": 400
+      },
+      "width": 313,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea612e",
+      "title": "An Arab Caravan outside a Fortified Town, Egypt",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/An_Arab_Caravan_outside_a_Fortified_Town,_Egypt.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/An_Arab_Caravan_outside_a_Fortified_Town%2C_Egypt.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jean-leon-gerome/an-arab-caravan-outside-a-fortified-town-egypt.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/an-arab-caravan-outside-a-fortified-town-egypt",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T01:15:31.328Z",
+      "fingerprint_sha256": "3c6b8d64e1dc191a4e77dd8026deb01e8145353aeb98a0040afcd92db3da51e1",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea612e",
+        "title": "An Arab Caravan outside a Fortified Town, Egypt",
+        "url": "an-arab-caravan-outside-a-fortified-town-egypt",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Egypt",
+          "Ruins",
+          "Tourism",
+          "Historic site",
+          "Fortification"
+        ],
+        "description": "",
+        "width": 1140,
+        "image": "https://uploads6.wikiart.org/images/jean-leon-gerome/an-arab-caravan-outside-a-fortified-town-egypt.jpg",
+        "height": 752
+      },
+      "width": 1140,
+      "height": 752,
       "mime": null
     }
   ]
