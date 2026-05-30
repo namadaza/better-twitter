@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-05-30T12:38:27.610Z",
+  "fetchedAt": "2026-05-30T18:32:58.115Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-b65db6146057",
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "publishedAt": "2026-05-30T18:02:51.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d582d4c857cc",
+      "title": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 187",
+      "publishedAt": "2026-05-30T16:43:36.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5301c5f39fe5",
+      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges. [...]",
+      "publishedAt": "2026-05-30T14:16:08.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-a0eb19847670",
@@ -710,16 +740,6 @@
       "author": "Kiyani",
       "excerpt": "Community Wisdom 186",
       "publishedAt": "2026-05-23T20:33:09.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-cfaca70a0a98",
-      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-      "url": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
-      "publishedAt": "2026-05-23T14:23:44.000Z"
     }
   ]
 }

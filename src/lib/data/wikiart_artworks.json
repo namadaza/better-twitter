@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-30T12:45:20.729Z",
+  "generated_at": "2026-05-30T18:39:31.192Z",
   "source": "wikiart",
-  "count": 179,
+  "count": 189,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -10510,6 +10510,633 @@
       },
       "width": 800,
       "height": 633,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2365edc2c9a6687a5955",
+      "title": "Study of Pigs",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "animal painting",
+        "sketch and study"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Study_of_Pigs.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Study_of_Pigs.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-study-of-pigs-1894-1047-art-institute-of-chicago.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/study-of-pigs",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:37:32.954Z",
+      "fingerprint_sha256": "22da6eae22ffdb638beca0aec1022dbeb8d9c0e6a31eafe330e38fc89bc31385",
+      "raw_extmetadata": {
+        "id": "5f0c2365edc2c9a6687a5955",
+        "title": "Study of Pigs",
+        "url": "study-of-pigs",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4dedc2cb3880ad6df0",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting",
+          "sketch and study"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Art Institute of Chicago, Chicago, IL, US"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1618,
+        "image": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-study-of-pigs-1894-1047-art-institute-of-chicago.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1618,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c239eedc2c9a6687bad5a",
+      "title": "Farmyard",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1850,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Farmyard.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Farmyard.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/cour-de-ferme-1850-alexandre-gabriel-decamps-mus-e-du-louvre.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/farmyard-1850",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:37:40.515Z",
+      "fingerprint_sha256": "7ad471cf00bd084b8a284b251f19e6ae372d95fd31dc6f8f527569f49b5a3468",
+      "raw_extmetadata": {
+        "id": "5f0c239eedc2c9a6687bad5a",
+        "title": "Farmyard",
+        "url": "farmyard-1850",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1850,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 712,
+        "image": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/cour-de-ferme-1850-alexandre-gabriel-decamps-mus-e-du-louvre.jpg",
+        "height": 1000
+      },
+      "width": 712,
+      "height": 1000,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c234aedc2c9a66879c5f3",
+      "title": "The Monkey-painter (Workshop Interior)",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1833,
+      "genres": [
+        "animal painting",
+        "caricature"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Monkey-painter_(Workshop_Interior).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Monkey-painter_%28Workshop_Interior%29.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/louvre-peinture-francaise-singe-peintre-p1020296.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-monkey-painter-workshop-interior-1833",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:37:50.555Z",
+      "fingerprint_sha256": "1d3a3ff7b99fc05d100250175de54097e6ada0cde1cf6a1a268e28792ae94a32",
+      "raw_extmetadata": {
+        "id": "5f0c234aedc2c9a66879c5f3",
+        "title": "The Monkey-painter (Workshop Interior)",
+        "url": "the-monkey-painter-workshop-interior-1833",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1833,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4dedc2cb3880ad6df0",
+          "57726b4eedc2cb3880ad6e28"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting",
+          "caricature"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1564,
+        "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/louvre-peinture-francaise-singe-peintre-p1020296.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1564,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23baedc2c9a6687c8095",
+      "title": "The ramparts of Aigues-Mortes",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1844,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_ramparts_of_Aigues-Mortes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_ramparts_of_Aigues-Mortes.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/les-remparts-d-aigues-mortes-alexandre-gabriel-decamps-vers-1843-1844-18048175472.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-ramparts-of-aigues-mortes-1844",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:38:10.318Z",
+      "fingerprint_sha256": "68a0c78f003f1345842d70147a8d733356c4c7fae00378ac00015ced0cea2cff",
+      "raw_extmetadata": {
+        "id": "5f0c23baedc2c9a6687c8095",
+        "title": "The ramparts of Aigues-Mortes",
+        "url": "the-ramparts-of-aigues-mortes-1844",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1844,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [
+          "Ruins",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1870,
+        "image": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/les-remparts-d-aigues-mortes-alexandre-gabriel-decamps-vers-1843-1844-18048175472.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1870,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0e9eb2edc2c9e8a4d6fe9b",
+      "title": "The Finding of Moses",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1837,
+      "genres": [
+        "religious painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Finding_of_Moses.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Finding_of_Moses.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/the-finding-of-moses-1837.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-finding-of-moses-1837",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:38:18.561Z",
+      "fingerprint_sha256": "dd0554ba1a786913708ea6722688df4000fa102280210a879b7639cc29a9d27a",
+      "raw_extmetadata": {
+        "id": "5f0e9eb2edc2c9e8a4d6fe9b",
+        "title": "The Finding of Moses",
+        "url": "the-finding-of-moses-1837",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1837,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Wallace Collection, London, UK"
+        ],
+        "tags": [
+          "Nature",
+          "Natural landscape",
+          "Sky",
+          "sunlight"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/the-finding-of-moses-1837.jpg",
+        "height": 500
+      },
+      "width": 800,
+      "height": 500,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23aaedc2c9a6687c27b6",
+      "title": "Elephants and a Panther in the Indian Desert",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Elephants_and_a_Panther_in_the_Indian_Desert.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Elephants_and_a_Panther_in_the_Indian_Desert.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/elephants-and-a-panther-in-the-indian-desert-wellcome-v0050694.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/elephants-and-a-panther-in-the-indian-desert",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:38:28.574Z",
+      "fingerprint_sha256": "f12040a4e4f573bcb9d680a3c1d8120919ad3e9fca81080b6dbb2bb6c4520838",
+      "raw_extmetadata": {
+        "id": "5f0c23aaedc2c9a6687c27b6",
+        "title": "Elephants and a Panther in the Indian Desert",
+        "url": "elephants-and-a-panther-in-the-indian-desert",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b52edc2cb3880ad7788",
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Natural landscape",
+          "Elephant",
+          "Tree",
+          "Elephants and Mammoths",
+          "African elephant"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/elephants-and-a-panther-in-the-indian-desert-wellcome-v0050694.jpg!HD.jpg",
+        "height": 1090
+      },
+      "width": 1920,
+      "height": 1090,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2398edc2c9a6687b8131",
+      "title": "Souvenir From Turkey From Asia - Children Playing With A Turtle",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Souvenir_From_Turkey_From_Asia_-_Children_Playing_With_A_Turtle.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Souvenir_From_Turkey_From_Asia_-_Children_Playing_With_A_Turtle.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/chantilly-60-mus-e-cond-alexandre-gabriel-decamps-souvenir-de-la-turquie-d-asie-enfants-jouant-avec.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/souvenir-from-turkey-from-asia-children-playing-with-a-turtle",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:38:36.165Z",
+      "fingerprint_sha256": "cfad0942eacca7959fa2d9475ae7de8d6ed38bd23cedeb95bc3ace4f800ac3db",
+      "raw_extmetadata": {
+        "id": "5f0c2398edc2c9a6687b8131",
+        "title": "Souvenir From Turkey From Asia - Children Playing With A Turtle",
+        "url": "souvenir-from-turkey-from-asia-children-playing-with-a-turtle",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 1621,
+        "image": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/chantilly-60-mus-e-cond-alexandre-gabriel-decamps-souvenir-de-la-turquie-d-asie-enfants-jouant-avec.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1621,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23a8edc2c9a6687c1add",
+      "title": "North African Dwelling",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1840,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/North_African_Dwelling.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/North_African_Dwelling.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-gabriel-north-african-dwelling-ca-1840.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/north-african-dwelling-1840",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:38:43.296Z",
+      "fingerprint_sha256": "be43946ab6b0fd031569fc7600757545f5e4e5aefd72ba37aafa5dfd980c3b6a",
+      "raw_extmetadata": {
+        "id": "5f0c23a8edc2c9a6687c1add",
+        "title": "North African Dwelling",
+        "url": "north-african-dwelling-1840",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1840,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 600,
+        "image": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-gabriel-north-african-dwelling-ca-1840.jpg",
+        "height": 419
+      },
+      "width": 600,
+      "height": 419,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c236cedc2c9a6687a998f",
+      "title": "Scene in the near East",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting",
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Scene_in_the_near_East.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Scene_in_the_near_East.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-1803-1860-scene-in-the-near-east-1004-fitzwilliam-museum.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/scene-in-the-near-east",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:38:51.535Z",
+      "fingerprint_sha256": "8d42d3015fd59fdac76041f0d4d95c662372903a36022704f8e860ad7eb10aa7",
+      "raw_extmetadata": {
+        "id": "5f0c236cedc2c9a6687a998f",
+        "title": "Scene in the near East",
+        "url": "scene-in-the-near-east",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting",
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Fitzwilliam Museum (University of Cambridge), Cambridge, UK"
+        ],
+        "tags": [
+          "Ruins",
+          "Sky",
+          "Castle"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-1803-1860-scene-in-the-near-east-1004-fitzwilliam-museum.jpg",
+        "height": 546
+      },
+      "width": 800,
+      "height": 546,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2352edc2c9a66879f646",
+      "title": "The Ringers",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1841,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Ringers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Ringers.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/louvre-peinture-francaise-les-sonneurs-p1020292.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-ringers-1841",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T18:39:00.588Z",
+      "fingerprint_sha256": "7fc4aa721e2e74bd94e4b4e78f2b6629b9e001c5293b877232cd73a4873f2148",
+      "raw_extmetadata": {
+        "id": "5f0c2352edc2c9a66879f646",
+        "title": "The Ringers",
+        "url": "the-ringers-1841",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1841,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1001,
+        "image": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/louvre-peinture-francaise-les-sonneurs-p1020292.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1001,
+      "height": 1200,
       "mime": null
     }
   ]
