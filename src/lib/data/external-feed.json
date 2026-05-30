@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-30T01:10:21.183Z",
+  "fetchedAt": "2026-05-30T07:14:02.854Z",
   "items": [
     {
       "type": "rss",
@@ -720,16 +720,6 @@
       "author": "Bill Toulas",
       "excerpt": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
       "publishedAt": "2026-05-23T14:23:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c2a9e8513835",
-      "title": "EXCLUSIVE: Iranian Official Outlines Latest Proposal to End the U.S. War as Trump Weighs New Strikes",
-      "url": "https://www.dropsitenews.com/p/exclusive-iranian-official-outlines-latest-proposal-end-war-trump-weighs-strikes",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "The framework would defer nuclear enrichment talks until there is a deal to end the war and open the Strait of Hormuz, a senior Iranian official told Drop Site.",
-      "publishedAt": "2026-05-23T03:37:59.000Z"
     }
   ]
 }

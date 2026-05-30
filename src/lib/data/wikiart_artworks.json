@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-30T01:15:31.728Z",
+  "generated_at": "2026-05-30T07:21:08.503Z",
   "source": "wikiart",
-  "count": 160,
+  "count": 175,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -9337,6 +9337,927 @@
       },
       "width": 1140,
       "height": 752,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c414da",
+      "title": "Antibes - View of the Salis Gardens",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Antibes_-_View_of_the_Salis_Gardens.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Antibes_-_View_of_the_Salis_Gardens.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/claude-monet/antibes-view-of-the-salis-gardens(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/antibes-view-of-the-salis-gardens",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:31.198Z",
+      "fingerprint_sha256": "30df2bb3b2a7c3ac2032050124a86256e5ad9b17a047cd81e6f7d1a815a6ddad",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c414da",
+        "title": "Antibes - View of the Salis Gardens",
+        "url": "antibes-view-of-the-salis-gardens",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Tree",
+          "spring",
+          "Mountain"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads1.wikiart.org/images/claude-monet/antibes-view-of-the-salis-gardens(1).jpg",
+        "height": 994
+      },
+      "width": 1280,
+      "height": 994,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c414ba",
+      "title": "Andre Lauvray",
+      "artist": "Monet Claude",
+      "year": 1880,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Andre_Lauvray.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Andre_Lauvray.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/andre-lauvray(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/andre-lauvray",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:33.904Z",
+      "fingerprint_sha256": "3e7728aa3c82d457fa13141d3e11547f606a8c6e77a533b31843374d18acd0ec",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c414ba",
+        "title": "Andre Lauvray",
+        "url": "andre-lauvray",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Face",
+          "Head",
+          "Lady",
+          "Cheek"
+        ],
+        "description": "",
+        "width": 983,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/andre-lauvray(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 983,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c415ea",
+      "title": "Argenteuil, Late Afternoon",
+      "artist": "Monet Claude",
+      "year": 1872,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Argenteuil,_Late_Afternoon.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Argenteuil%2C_Late_Afternoon.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/claude-monet/argenteuil-late-afternoon(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/argenteuil-late-afternoon",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:36.805Z",
+      "fingerprint_sha256": "03bee1e7ba7ef1fa692006b8e49b8e59111f3502dba833f1007083609f0243c2",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c415ea",
+        "title": "Argenteuil, Late Afternoon",
+        "url": "argenteuil-late-afternoon",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Waterway",
+          "River",
+          "Bank",
+          "Boat",
+          "Evening"
+        ],
+        "description": "",
+        "width": 1600,
+        "image": "https://uploads2.wikiart.org/images/claude-monet/argenteuil-late-afternoon(1).jpg",
+        "height": 1185
+      },
+      "width": 1600,
+      "height": 1185,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4167a",
+      "title": "At Cap d'Antibes, Mistral Wind",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/At_Cap_dAntibes,_Mistral_Wind.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/At_Cap_dAntibes%2C_Mistral_Wind.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/claude-monet/at-cap-d-antibes-mistral-wind.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/at-cap-d-antibes-mistral-wind",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:39.378Z",
+      "fingerprint_sha256": "b1d79f61957412978720933148266ed4710de2892109f349ebe79b8aca36e29e",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4167a",
+        "title": "At Cap d'Antibes, Mistral Wind",
+        "url": "at-cap-d-antibes-mistral-wind",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Tree",
+          "Shore",
+          "Sea",
+          "Coast"
+        ],
+        "description": "",
+        "width": 1277,
+        "image": "https://uploads3.wikiart.org/images/claude-monet/at-cap-d-antibes-mistral-wind.jpg",
+        "height": 1024
+      },
+      "width": 1277,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c416ea",
+      "title": "Banks of the Seine at Jenfosse - Clear Weather",
+      "artist": "Monet Claude",
+      "year": 1884,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Banks_of_the_Seine_at_Jenfosse_-_Clear_Weather.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Banks_of_the_Seine_at_Jenfosse_-_Clear_Weather.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/claude-monet/banks-of-the-seine-at-jenfosse-clear-weather.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/banks-of-the-seine-at-jenfosse-clear-weather",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:41.811Z",
+      "fingerprint_sha256": "846e1673e28752b3e75412ccfb32c912c042a85c0a3a5a9f6a60a9114730d526",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c416ea",
+        "title": "Banks of the Seine at Jenfosse - Clear Weather",
+        "url": "banks-of-the-seine-at-jenfosse-clear-weather",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1884,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Nature",
+          "Natural landscape",
+          "Tree",
+          "Bank",
+          "Sky",
+          "Leaf",
+          "Waterway",
+          "River"
+        ],
+        "description": "",
+        "width": 1600,
+        "image": "https://uploads0.wikiart.org/images/claude-monet/banks-of-the-seine-at-jenfosse-clear-weather.jpg",
+        "height": 1174
+      },
+      "width": 1600,
+      "height": 1174,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c415ca",
+      "title": "Argenteuil Seen from the Small Arm of the Seine",
+      "artist": "Monet Claude",
+      "year": 1872,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Argenteuil_Seen_from_the_Small_Arm_of_the_Seine.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Argenteuil_Seen_from_the_Small_Arm_of_the_Seine.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/argenteuil-seen-from-the-small-arm-of-the-seine(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/argenteuil-seen-from-the-small-arm-of-the-seine",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:44.556Z",
+      "fingerprint_sha256": "76a59e81b3f63c306b291d67bf847a0586af5dae177f441640f26ef396336aa7",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c415ca",
+        "title": "Argenteuil Seen from the Small Arm of the Seine",
+        "url": "argenteuil-seen-from-the-small-arm-of-the-seine",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Waterway",
+          "Boat",
+          "Bank",
+          "Sky",
+          "Vehicle",
+          "River",
+          "Canal",
+          "Watercraft"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/argenteuil-seen-from-the-small-arm-of-the-seine(1).jpg",
+        "height": 913
+      },
+      "width": 1280,
+      "height": 913,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4172a",
+      "title": "Bathers at La Grenouillere",
+      "artist": "Monet Claude",
+      "year": 1869,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Bathers_at_La_Grenouillere.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Bathers_at_La_Grenouillere.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/claude-monet/bathers-at-la-grenouillere-1869.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/bathers-at-la-grenouillere-1869",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:47.370Z",
+      "fingerprint_sha256": "18da946742d39123b4e39c5951e0189db1d74d04e50af1bff71ca98bf8f7bd56",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4172a",
+        "title": "Bathers at La Grenouillere",
+        "url": "bathers-at-la-grenouillere-1869",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1869,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 73,
+        "sizeY": 92,
+        "diameter": null,
+        "galleries": [
+          "National Gallery, London, UK"
+        ],
+        "tags": [
+          "Water transportation",
+          "Waterway",
+          "Boat",
+          "Vehicle"
+        ],
+        "description": "",
+        "width": 1500,
+        "image": "https://uploads3.wikiart.org/images/claude-monet/bathers-at-la-grenouillere-1869.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1500,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4169a",
+      "title": "At Val Saint-Nicolas near Dieppe, Morning",
+      "artist": "Monet Claude",
+      "year": 1897,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/At_Val_Saint-Nicolas_near_Dieppe,_Morning.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/At_Val_Saint-Nicolas_near_Dieppe%2C_Morning.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/claude-monet/at-val-saint-nicolas-near-dieppe-morning.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/at-val-saint-nicolas-near-dieppe-morning",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:50.576Z",
+      "fingerprint_sha256": "d92c8b5bbbbeba01c769c314ca55a97ceb4a0a6b45e62f83b6877a6f749d1b18",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4169a",
+        "title": "At Val Saint-Nicolas near Dieppe, Morning",
+        "url": "at-val-saint-nicolas-near-dieppe-morning",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1897,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Normandy",
+          "cliffs-and-rocks"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads5.wikiart.org/images/claude-monet/at-val-saint-nicolas-near-dieppe-morning.jpg",
+        "height": 840
+      },
+      "width": 1280,
+      "height": 840,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4141a",
+      "title": "A Farmyard in Normandy",
+      "artist": "Monet Claude",
+      "year": 1863,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/A_Farmyard_in_Normandy.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/A_Farmyard_in_Normandy.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/claude-monet/a-farmyard-in-normandy(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/a-farmyard-in-normandy",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:53.435Z",
+      "fingerprint_sha256": "5463fb09da4d7890bd597af442e2532e40a01e22983c7fa76e372627b8a7e114",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4141a",
+        "title": "A Farmyard in Normandy",
+        "url": "a-farmyard-in-normandy",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1863,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 65,
+        "sizeY": 81.5,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "cottages-and-farmhouses",
+          "Normandy",
+          "Natural landscape",
+          "Rural area",
+          "House",
+          "Village"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads8.wikiart.org/images/claude-monet/a-farmyard-in-normandy(1).jpg",
+        "height": 974
+      },
+      "width": 1280,
+      "height": 974,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4177a",
+      "title": "Belle-Ile, Rocks at Port-Goulphar",
+      "artist": "Monet Claude",
+      "year": 1886,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Belle-Ile,_Rocks_at_Port-Goulphar.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Belle-Ile%2C_Rocks_at_Port-Goulphar.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/belle-ile-rocks-at-port-goulphar.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/belle-ile-rocks-at-port-goulphar",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:55.430Z",
+      "fingerprint_sha256": "a547924f99ef3265aa730380e27dbc99b4c3850d84474b6a049497db0494e9c8",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4177a",
+        "title": "Belle-Ile, Rocks at Port-Goulphar",
+        "url": "belle-ile-rocks-at-port-goulphar",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1886,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "islands-and-bays",
+          "cliffs-and-rocks",
+          "Belle-Île",
+          "Water",
+          "Rock",
+          "Cliff",
+          "Natural landscape",
+          "Sky",
+          "Coast",
+          "Formation",
+          "Sea",
+          "Headland",
+          "Brittany"
+        ],
+        "description": "",
+        "width": 1273,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/belle-ile-rocks-at-port-goulphar.jpg",
+        "height": 1024
+      },
+      "width": 1273,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4147a",
+      "title": "Alice Hoschede in the Garden",
+      "artist": "Monet Claude",
+      "year": 1881,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Alice_Hoschede_in_the_Garden.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Alice_Hoschede_in_the_Garden.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/claude-monet/alice-hoschede-in-the-garden(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/alice-hoschede-in-the-garden",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:57.449Z",
+      "fingerprint_sha256": "6a1c1971916aee718355711f5b71f88b63e66b102f86475dae1a826dc13a541e",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4147a",
+        "title": "Alice Hoschede in the Garden",
+        "url": "alice-hoschede-in-the-garden",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Leaf",
+          "autumn"
+        ],
+        "description": "",
+        "width": 857,
+        "image": "https://uploads5.wikiart.org/images/claude-monet/alice-hoschede-in-the-garden(1).jpg",
+        "height": 1060
+      },
+      "width": 857,
+      "height": 1060,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c414fa",
+      "title": "Antibes Seen from the Cape, Mistral Wind",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Antibes_Seen_from_the_Cape,_Mistral_Wind.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Antibes_Seen_from_the_Cape%2C_Mistral_Wind.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/claude-monet/antibes-seen-from-the-cape-mistral-wind(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/antibes-seen-from-the-cape-mistral-wind",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:20:59.511Z",
+      "fingerprint_sha256": "d26ccf5d8e24d34c4ca59f1defa7c0872a11a4adc92f7e2d5f2d639ee700ca34",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c414fa",
+        "title": "Antibes Seen from the Cape, Mistral Wind",
+        "url": "antibes-seen-from-the-cape-mistral-wind",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": {
+          "id": "57726d83edc2cb3880b488f5",
+          "title": "Antibes"
+        },
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape",
+          "Mountain",
+          "Sky",
+          "Tree",
+          "Fell"
+        ],
+        "description": "",
+        "width": 1273,
+        "image": "https://uploads7.wikiart.org/images/claude-monet/antibes-seen-from-the-cape-mistral-wind(1).jpg",
+        "height": 1024
+      },
+      "width": 1273,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4144a",
+      "title": "Adolphe Monet Reading in the Garden",
+      "artist": "Monet Claude",
+      "year": 1866,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Adolphe_Monet_Reading_in_the_Garden.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Adolphe_Monet_Reading_in_the_Garden.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/claude-monet/adolphe-monet-reading-in-the-garden(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/adolphe-monet-reading-in-the-garden",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:21:02.251Z",
+      "fingerprint_sha256": "bd1ed0a2f72b5de5fcb2eff144ffdfff80c1d37ba7f66144e57eea60c0aedcb5",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4144a",
+        "title": "Adolphe Monet Reading in the Garden",
+        "url": "adolphe-monet-reading-in-the-garden",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1866,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Botany",
+          "Garden",
+          "Botanical garden",
+          "Tints and shades"
+        ],
+        "description": "",
+        "width": 1502,
+        "image": "https://uploads1.wikiart.org/images/claude-monet/adolphe-monet-reading-in-the-garden(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1502,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c413f8",
+      "title": "A Corner of the Garden at Montgeron",
+      "artist": "Monet Claude",
+      "year": 1877,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/A_Corner_of_the_Garden_at_Montgeron.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/A_Corner_of_the_Garden_at_Montgeron.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/a-corner-of-the-garden-at-montgeron-1877(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/a-corner-of-the-garden-at-montgeron-1877",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:21:05.151Z",
+      "fingerprint_sha256": "305f9745f3a90da96e6ee5eb57129233889c3cb9fccf37aa36de43164bce01de",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c413f8",
+        "title": "A Corner of the Garden at Montgeron",
+        "url": "a-corner-of-the-garden-at-montgeron-1877",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1877,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 173,
+        "sizeY": 193,
+        "diameter": null,
+        "galleries": [
+          "Hermitage Museum, Saint Petersburg, Russia"
+        ],
+        "tags": [
+          "Tree",
+          "Natural landscape",
+          "Bank",
+          "Leaf",
+          "autumn",
+          "Plant",
+          "Woody plant"
+        ],
+        "description": "",
+        "width": 1331,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/a-corner-of-the-garden-at-montgeron-1877(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1331,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4150a",
+      "title": "Antibes Seen from the Salis Gardens 01",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Antibes_Seen_from_the_Salis_Gardens_01.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Antibes_Seen_from_the_Salis_Gardens_01.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/claude-monet/antibes-seen-from-the-salis-gardens-01(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/antibes-seen-from-the-salis-gardens-01",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T07:21:08.102Z",
+      "fingerprint_sha256": "3e9944bb9a04bf43d146f4a3275268a5878ab4b8b6fdbcce7d0569c09aa33c63",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4150a",
+        "title": "Antibes Seen from the Salis Gardens 01",
+        "url": "antibes-seen-from-the-salis-gardens-01",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": {
+          "id": "57726d83edc2cb3880b488f5",
+          "title": "Antibes"
+        },
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Nature",
+          "Natural landscape",
+          "Sky",
+          "Bank",
+          "Woody plant"
+        ],
+        "description": "",
+        "width": 1531,
+        "image": "https://uploads4.wikiart.org/images/claude-monet/antibes-seen-from-the-salis-gardens-01(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1531,
+      "height": 1200,
       "mime": null
     }
   ]
