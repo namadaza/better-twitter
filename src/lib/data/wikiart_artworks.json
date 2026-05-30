@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-30T07:21:08.503Z",
+  "generated_at": "2026-05-30T12:45:20.729Z",
   "source": "wikiart",
-  "count": 175,
+  "count": 179,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -10258,6 +10258,258 @@
       },
       "width": 1531,
       "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc1edc2cb3880e25120",
+      "title": "Plage de la Vignassa",
+      "artist": "Cross Henri-Edmond",
+      "year": 1892,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Plage_de_la_Vignassa.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Plage_de_la_Vignassa.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/henri-edmond-cross/plage-de-la-vignassa-1892.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/plage-de-la-vignassa-1892",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T12:43:41.138Z",
+      "fingerprint_sha256": "9ff40732017f1d6959b440b6fe8d1cd05b83a0e5eb37cad2995fb40c402cc834",
+      "raw_extmetadata": {
+        "id": "57727bc1edc2cb3880e25120",
+        "title": "Plage de la Vignassa",
+        "url": "plage-de-la-vignassa-1892",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1892,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "seas-and-oceans",
+          "forests-and-trees",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads5.wikiart.org/images/henri-edmond-cross/plage-de-la-vignassa-1892.jpg",
+        "height": 892
+      },
+      "width": 1280,
+      "height": 892,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bbfedc2cb3880e24dc0",
+      "title": "A Venetian Canal",
+      "artist": "Cross Henri-Edmond",
+      "year": 1905,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/A_Venetian_Canal.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/A_Venetian_Canal.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/henri-edmond-cross/a-venetian-canal-1905.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/a-venetian-canal-1905",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T12:44:35.044Z",
+      "fingerprint_sha256": "07bca949cefc5769eb2ebc397c7f83831f8168a63dced6974baa25175608b83a",
+      "raw_extmetadata": {
+        "id": "57727bbfedc2cb3880e24dc0",
+        "title": "A Venetian Canal",
+        "url": "a-venetian-canal-1905",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1905,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e30",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "boats-and-ships"
+        ],
+        "description": "",
+        "width": 863,
+        "image": "https://uploads1.wikiart.org/images/henri-edmond-cross/a-venetian-canal-1905.jpg",
+        "height": 1039
+      },
+      "width": 863,
+      "height": 1039,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc1edc2cb3880e25090",
+      "title": "Landscape with Stars",
+      "artist": "Cross Henri-Edmond",
+      "year": 1908,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Landscape_with_Stars.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Landscape_with_Stars.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/henri-edmond-cross/landscape-with-stars-1908.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/landscape-with-stars-1908",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T12:44:41.599Z",
+      "fingerprint_sha256": "e87176e39f04d0bd58535df477bd56ec8e2c11d737896b60f1a21fb28e6a1af1",
+      "raw_extmetadata": {
+        "id": "57727bc1edc2cb3880e25090",
+        "title": "Landscape with Stars",
+        "url": "landscape-with-stars-1908",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1908,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism",
+          "Neo-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "forests-and-trees"
+        ],
+        "description": "",
+        "width": 575,
+        "image": "https://uploads5.wikiart.org/images/henri-edmond-cross/landscape-with-stars-1908.jpg",
+        "height": 431
+      },
+      "width": 575,
+      "height": 431,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24ec0",
+      "title": "Boats in the Port of St. Tropez",
+      "artist": "Cross Henri-Edmond",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Boats_in_the_Port_of_St._Tropez.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Boats_in_the_Port_of_St._Tropez.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/henri-edmond-cross/boats-in-the-port-of-st-tropez.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/boats-in-the-port-of-st-tropez",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-30T12:44:48.852Z",
+      "fingerprint_sha256": "94e6dee08de5dee87970ea6be06df834735aa928576b2ab16c82b2adad8a566f",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24ec0",
+        "title": "Boats in the Port of St. Tropez",
+        "url": "boats-in-the-port-of-st-tropez",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "boats-and-ships",
+          "Textile"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads1.wikiart.org/images/henri-edmond-cross/boats-in-the-port-of-st-tropez.jpg",
+        "height": 633
+      },
+      "width": 800,
+      "height": 633,
       "mime": null
     }
   ]
