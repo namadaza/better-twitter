@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-05-31T07:31:49.068Z",
+  "fetchedAt": "2026-05-31T12:42:28.938Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-0f16b9b6d9d1",
+      "title": "A rational conversation on where AI is actually going | Benedict Evans",
+      "url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Benedict Evans on why AI is a 1997 internet moment, what everyone gets wrong about job loss, and where the real value may accrue",
+      "publishedAt": "2026-05-31T12:31:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a93fb6463f69",
+      "title": "The Informal Economy is Pakistan’s Backstop",
+      "url": "https://kasurian.com/p/informal-economy-pakistan",
+      "publication": "Kasurian",
+      "author": "Kasurian",
+      "excerpt": "How Pakistan’s economy endures when its formal institutions fail.",
+      "publishedAt": "2026-05-31T08:36:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2e4c8ab9319c",
+      "title": "The honest guide to money, freedom, and a life you don't have to escape from.",
+      "url": "https://www.beautyofsaas.com/p/faq-how-to-escape-the-mediocrity-and-rise-above-the-average",
+      "publication": "BOSS Letter",
+      "author": "BOSS Letter",
+      "excerpt": "84: The foundation of your escape plan.",
+      "publishedAt": "2026-05-31T05:18:00.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-8c4e7df3c6f3",
@@ -720,16 +750,6 @@
       "author": "Bill Toulas",
       "excerpt": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
       "publishedAt": "2026-05-24T14:12:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0defa1f0c53d",
-      "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
-      "url": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Why most work will happen inside Codex or Claude Code, the CLI era is over, every agent needs a human, and why he’s wildly bullish on PMs and designers",
-      "publishedAt": "2026-05-24T12:31:49.000Z"
     }
   ]
 }
