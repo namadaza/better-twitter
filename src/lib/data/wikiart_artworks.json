@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-31T01:24:55.778Z",
+  "generated_at": "2026-05-31T07:37:55.517Z",
   "source": "wikiart",
-  "count": 204,
+  "count": 219,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -12010,6 +12010,910 @@
       },
       "width": 525,
       "height": 647,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea62ae",
+      "title": "Cairene Horse Dealer",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Cairene_Horse_Dealer.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Cairene_Horse_Dealer.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jean-leon-gerome/cairene-horse-dealer.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/cairene-horse-dealer",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:36:23.573Z",
+      "fingerprint_sha256": "1923983be03a77756fa45abbd8fdd988dc214353012b09b7582d9e401d277a50",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea62ae",
+        "title": "Cairene Horse Dealer",
+        "url": "cairene-horse-dealer",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "animals",
+          "markets-and-shops",
+          "horses",
+          "Egypt",
+          "Cairo",
+          "Snout"
+        ],
+        "description": "",
+        "width": 794,
+        "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/cairene-horse-dealer.jpg",
+        "height": 1011
+      },
+      "width": 794,
+      "height": 1011,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea62ce",
+      "title": "Cave Canem",
+      "artist": "Gerome Jean-Leon",
+      "year": 1881,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Cave_Canem.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Cave_Canem.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jean-leon-gerome/cave-canem.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/cave-canem",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:36:31.592Z",
+      "fingerprint_sha256": "06c8d447082a64de589fb6a4f6bbfb9c045aadc2dc60245528c538b19279d280",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea62ce",
+        "title": "Cave Canem",
+        "url": "cave-canem",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "1880s paintings from France"
+        ],
+        "description": "",
+        "width": 482,
+        "image": "https://uploads6.wikiart.org/images/jean-leon-gerome/cave-canem.jpg",
+        "height": 570
+      },
+      "width": 482,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea616e",
+      "title": "Arab Frightening Larks Away (unfinished)",
+      "artist": "Gerome Jean-Leon",
+      "year": 1900,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arab_Frightening_Larks_Away_(unfinished).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arab_Frightening_Larks_Away_%28unfinished%29.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jean-leon-gerome/arab-frightening-larks-away-unfinished.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/arab-frightening-larks-away-unfinished",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:36:37.904Z",
+      "fingerprint_sha256": "d8b6916cfc6bd0892053912d1d38b11db44d07f73cb7e3655e114a6c0637cc6c",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea616e",
+        "title": "Arab Frightening Larks Away (unfinished)",
+        "url": "arab-frightening-larks-away-unfinished",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1900,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Picture frame"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads5.wikiart.org/images/jean-leon-gerome/arab-frightening-larks-away-unfinished.jpg!HD.jpg",
+        "height": 1197
+      },
+      "width": 1920,
+      "height": 1197,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea628e",
+      "title": "Bust of Paul Reclus",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "sculpture"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bust_of_Paul_Reclus.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bust_of_Paul_Reclus.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/jean-leon-gerome/bust-of-paul-reclus.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bust-of-paul-reclus",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:36:43.771Z",
+      "fingerprint_sha256": "b214cb239e58e180e81e0a07dd3407c5129a01c37c738d80e3ebd4ac091d9765",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea628e",
+        "title": "Bust of Paul Reclus",
+        "url": "bust-of-paul-reclus",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6f00",
+          "57726bcdedc2cb3880ae746e"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [
+          "bronze"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits",
+          "Classical sculpture",
+          "Forehead",
+          "Statue",
+          "Chin",
+          "Bronze sculpture",
+          "Jaw",
+          "Nonbuilding structure"
+        ],
+        "description": "",
+        "width": 650,
+        "image": "https://uploads4.wikiart.org/images/jean-leon-gerome/bust-of-paul-reclus.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 650,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea60ae",
+      "title": "A Woman in a Veil",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "sculpture"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Woman_in_a_Veil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Woman_in_a_Veil.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/jean-leon-gerome/a-woman-in-a-veil.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-woman-in-a-veil",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:36:51.000Z",
+      "fingerprint_sha256": "14995ef47ec653649931917da00cb013eaff24b17cddc9effacb840e3b0341fa",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea60ae",
+        "title": "A Woman in a Veil",
+        "url": "a-woman-in-a-veil",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6f00"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits",
+          "Bronze sculpture",
+          "Statue",
+          "Figurine"
+        ],
+        "description": "",
+        "width": 927,
+        "image": "https://uploads4.wikiart.org/images/jean-leon-gerome/a-woman-in-a-veil.jpg",
+        "height": 1000
+      },
+      "width": 927,
+      "height": 1000,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea62ee",
+      "title": "Corinth",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "sculpture"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Corinth.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Corinth.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jean-leon-gerome/corinth.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/corinth",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:36:56.898Z",
+      "fingerprint_sha256": "c7168e47c2d23c10e082b2e03786b6600c04ef7d8caabb76a097740382ec5943",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea62ee",
+        "title": "Corinth",
+        "url": "corinth",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6f00"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits",
+          "Statue",
+          "Figurine",
+          "Bronze sculpture",
+          "Classical sculpture",
+          "Brass",
+          "Monument"
+        ],
+        "description": "",
+        "width": 425,
+        "image": "https://uploads3.wikiart.org/images/jean-leon-gerome/corinth.jpg",
+        "height": 570
+      },
+      "width": 425,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea608e",
+      "title": "A Street Scene in Cairo",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Street_Scene_in_Cairo.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Street_Scene_in_Cairo.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/jean-leon-gerome/a-street-scene-in-cairo.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-street-scene-in-cairo",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:37:02.959Z",
+      "fingerprint_sha256": "7628881d957412f6b70efdbe1e1cc93d001dbbbfc1132b7ec9f83ee5fc45c257",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea608e",
+        "title": "A Street Scene in Cairo",
+        "url": "a-street-scene-in-cairo",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "group-portraits",
+          "Egypt",
+          "Cairo"
+        ],
+        "description": "",
+        "width": 750,
+        "image": "https://uploads1.wikiart.org/images/jean-leon-gerome/a-street-scene-in-cairo.jpg",
+        "height": 473
+      },
+      "width": 750,
+      "height": 473,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea60fe",
+      "title": "Amehs Playing Chess in a Café",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Amehs_Playing_Chess_in_a_Caf.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Amehs_Playing_Chess_in_a_Caf.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jean-leon-gerome/amehs-playing-chess-in-a-caf.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/amehs-playing-chess-in-a-caf",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:37:09.229Z",
+      "fingerprint_sha256": "f520885740e547d59b648cd3cc14fc7859e7caf29a35de3572d95fe6c7e1ef46",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea60fe",
+        "title": "Amehs Playing Chess in a Café",
+        "url": "amehs-playing-chess-in-a-caf",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "games-and-sport",
+          "Holy places"
+        ],
+        "description": "",
+        "width": 1150,
+        "image": "https://uploads6.wikiart.org/images/jean-leon-gerome/amehs-playing-chess-in-a-caf.jpg",
+        "height": 1119
+      },
+      "width": 1150,
+      "height": 1119,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea627e",
+      "title": "Bonaparte Before the Sphinx",
+      "artist": "Gerome Jean-Leon",
+      "year": 1868,
+      "genres": [
+        "landscape",
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bonaparte_Before_the_Sphinx.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bonaparte_Before_the_Sphinx.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/jean-leon-gerome/bonaparte-before-the-sphinx-1868.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bonaparte-before-the-sphinx-1868",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:37:15.524Z",
+      "fingerprint_sha256": "bf45c6c3c1e7ccea1bf46a70b70b8f16281e1d155f5f2d32ef6fac3b5a0b94b0",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea627e",
+        "title": "Bonaparte Before the Sphinx",
+        "url": "bonaparte-before-the-sphinx-1868",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1868,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape",
+          "portrait"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 61.6,
+        "sizeY": 101.9,
+        "diameter": null,
+        "galleries": [
+          "Hearst Castle, San Simeon, CA, US"
+        ],
+        "tags": [
+          "famous-people",
+          "deserts-and-steppes",
+          "monuments-and-statues",
+          "Pyramid",
+          "Natural environment",
+          "Desert",
+          "Sahara",
+          "Ancient history",
+          "Napoleon Bonaparte"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads8.wikiart.org/images/jean-leon-gerome/bonaparte-before-the-sphinx-1868.jpg!HD.jpg",
+        "height": 1138
+      },
+      "width": 1920,
+      "height": 1138,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea604e",
+      "title": "A Japanese Imploring a Divinity",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Japanese_Imploring_a_Divinity.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Japanese_Imploring_a_Divinity.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jean-leon-gerome/a-japanese-imploring-a-divinity.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-japanese-imploring-a-divinity",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:37:21.676Z",
+      "fingerprint_sha256": "d8bb8a3c2d87b4b23e5012c49d6e2a37eff8a8473ac11caaa7cc8350181a6281",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea604e",
+        "title": "A Japanese Imploring a Divinity",
+        "url": "a-japanese-imploring-a-divinity",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b51edc2cb3880ad7628"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Japonism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "gods-and-goddesses",
+          "priests-and-sacraments",
+          "Sky",
+          "Temple",
+          "Cloud"
+        ],
+        "description": "",
+        "width": 471,
+        "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/a-japanese-imploring-a-divinity.jpg",
+        "height": 570
+      },
+      "width": 471,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea600e",
+      "title": "A Chat by the Fireside",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Chat_by_the_Fireside.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Chat_by_the_Fireside.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jean-leon-gerome/a-chat-by-the-fireside.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-chat-by-the-fireside",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:37:27.625Z",
+      "fingerprint_sha256": "93cd7353d39acbd776b47f6338308c26d913634ec3ef0522ce1970f60d1559ac",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea600e",
+        "title": "A Chat by the Fireside",
+        "url": "a-chat-by-the-fireside",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "conversations"
+        ],
+        "description": "",
+        "width": 458,
+        "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/a-chat-by-the-fireside.jpg",
+        "height": 570
+      },
+      "width": 458,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea631e",
+      "title": "Dante (He Hath Seen Well)",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "literary painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Dante_(He_Hath_Seen_Well).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Dante_%28He_Hath_Seen_Well%29.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/jean-leon-gerome/dante-he-hath-seen-well.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/dante-he-hath-seen-well",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:37:33.853Z",
+      "fingerprint_sha256": "12056f4165a3518bc4f10d7435abb8732a0321c8721e4ab8da65e3a0585e36b3",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea631e",
+        "title": "Dante (He Hath Seen Well)",
+        "url": "dante-he-hath-seen-well",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6e90"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "literary painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits",
+          "famous-people",
+          "Dante-Alighieri",
+          "morning"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads1.wikiart.org/images/jean-leon-gerome/dante-he-hath-seen-well.jpg",
+        "height": 680
+      },
+      "width": 1000,
+      "height": 680,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea62be",
+      "title": "Camels at the Fountain",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Camels_at_the_Fountain.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Camels_at_the_Fountain.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jean-leon-gerome/camels-at-the-fountain.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/camels-at-the-fountain",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:37:42.170Z",
+      "fingerprint_sha256": "d252246dc9724a04076b8219a8c7100fb50c7460c078f2e1b5f67df1eb32b91f",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea62be",
+        "title": "Camels at the Fountain",
+        "url": "camels-at-the-fountain",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "animals",
+          "camels",
+          "Camel",
+          "Arabian camel",
+          "Camelid",
+          "Mode of transport",
+          "Adaptation",
+          "Herd"
+        ],
+        "description": "",
+        "width": 1430,
+        "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/camels-at-the-fountain.jpg",
+        "height": 904
+      },
+      "width": 1430,
+      "height": 904,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea61ae",
+      "title": "Arnaut Blowing Smoke at the Nose of His Dog",
+      "artist": "Gerome Jean-Leon",
+      "year": 1882,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnaut_Blowing_Smoke_at_the_Nose_of_His_Dog.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Arnaut_Blowing_Smoke_at_the_Nose_of_His_Dog.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jean-leon-gerome/arnaut-blowing-smoke-at-the-nose-of-his-dog.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/arnaut-blowing-smoke-at-the-nose-of-his-dog",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:37:48.402Z",
+      "fingerprint_sha256": "fcb16cadbf5e786e915276de523fb7c1863eb1158cb4605ba994df02f3e0d2ea",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea61ae",
+        "title": "Arnaut Blowing Smoke at the Nose of His Dog",
+        "url": "arnaut-blowing-smoke-at-the-nose-of-his-dog",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "1880s paintings from France"
+        ],
+        "description": "",
+        "width": 693,
+        "image": "https://uploads3.wikiart.org/images/jean-leon-gerome/arnaut-blowing-smoke-at-the-nose-of-his-dog.jpg",
+        "height": 570
+      },
+      "width": 693,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea62de",
+      "title": "Cleopatra and Caesar",
+      "artist": "Gerome Jean-Leon",
+      "year": 1866,
+      "genres": [
+        "history painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Cleopatra_and_Caesar.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Cleopatra_and_Caesar.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jean-leon-gerome/cleopatra-and-caesar.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/cleopatra-and-caesar",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T07:37:55.116Z",
+      "fingerprint_sha256": "6e06d357413b89479ad195b226286165494a71bc87bf961575e9ceabf34e4918",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea62de",
+        "title": "Cleopatra and Caesar",
+        "url": "cleopatra-and-caesar",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1866,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6e68",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "history painting"
+        ],
+        "styles": [
+          "Academicism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 183,
+        "sizeY": 129.5,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "famous-people",
+          "Julius-Caesar",
+          "Cleopatra",
+          "Roman-Republic",
+          "1880s paintings from France"
+        ],
+        "description": "",
+        "width": 828,
+        "image": "https://uploads5.wikiart.org/images/jean-leon-gerome/cleopatra-and-caesar.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 828,
+      "height": 1200,
       "mime": null
     }
   ]
