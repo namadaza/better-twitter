@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-30T18:39:31.192Z",
+  "generated_at": "2026-05-31T01:24:55.778Z",
   "source": "wikiart",
-  "count": 189,
+  "count": 204,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -11137,6 +11137,879 @@
       },
       "width": 1001,
       "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea61fe",
+      "title": "Bashi-Bazouk and his Dog",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bashi-Bazouk_and_his_Dog.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bashi-Bazouk_and_his_Dog.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jean-leon-gerome/bashi-bazouk-and-his-dog.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bashi-bazouk-and-his-dog",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:23:42.368Z",
+      "fingerprint_sha256": "d37ce97d4f27ff03b6574f4686e2e056cca9bd5d5a1064e75ea739b8795d1d44",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea61fe",
+        "title": "Bashi-Bazouk and his Dog",
+        "url": "bashi-bazouk-and-his-dog",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits"
+        ],
+        "description": "",
+        "width": 382,
+        "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/bashi-bazouk-and-his-dog.jpg",
+        "height": 570
+      },
+      "width": 382,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea607e",
+      "title": "A Seated Female Nude",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "sculpture"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Seated_Female_Nude.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Seated_Female_Nude.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jean-leon-gerome/a-seated-female-nude.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-seated-female-nude",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:23:47.341Z",
+      "fingerprint_sha256": "485062204134224486b3e87f0d97e413bd2427189837dc777bea027055ed6b49",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea607e",
+        "title": "A Seated Female Nude",
+        "url": "a-seated-female-nude",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6f00"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sculpture"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-nude",
+          "Statue",
+          "Bronze sculpture",
+          "Classical sculpture",
+          "Figurine",
+          "Brass"
+        ],
+        "description": "",
+        "width": 882,
+        "image": "https://uploads5.wikiart.org/images/jean-leon-gerome/a-seated-female-nude.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 882,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea611e",
+      "title": "An Arab Caravan",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/An_Arab_Caravan.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/An_Arab_Caravan.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jean-leon-gerome/an-arab-caravan.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/an-arab-caravan",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:23:52.801Z",
+      "fingerprint_sha256": "8ec5e2000ee139cc63b9d2998f6ae53e7004ac9c16f8361d10e1ea1ac86a657e",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea611e",
+        "title": "An Arab Caravan",
+        "url": "an-arab-caravan",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Adaptation"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/an-arab-caravan.jpg",
+        "height": 534
+      },
+      "width": 800,
+      "height": 534,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea609e",
+      "title": "A View of Cairo",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_View_of_Cairo.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_View_of_Cairo.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jean-leon-gerome/a-view-of-cairo.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-view-of-cairo",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:23:57.891Z",
+      "fingerprint_sha256": "e924395f63fa8bb4c3df2b74bc8a6f33cf39223efab87256cddd07f6c97c207e",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea609e",
+        "title": "A View of Cairo",
+        "url": "a-view-of-cairo",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "houses-and-buildings",
+          "Egypt",
+          "Cairo",
+          "Holy places",
+          "Landmark",
+          "Sky"
+        ],
+        "description": "",
+        "width": 796,
+        "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/a-view-of-cairo.jpg",
+        "height": 1131
+      },
+      "width": 796,
+      "height": 1131,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea638e",
+      "title": "Egyptian Water Carrier",
+      "artist": "Gerome Jean-Leon",
+      "year": 1882,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Egyptian_Water_Carrier.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Egyptian_Water_Carrier.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jean-leon-gerome/egyptian-water-carrier.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/egyptian-water-carrier",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:03.170Z",
+      "fingerprint_sha256": "5b386c11d82ba2d312babc7e27d01f79bd38fdaec9c9b8d9ffbae7a4b41fa9b8",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea638e",
+        "title": "Egyptian Water Carrier",
+        "url": "egyptian-water-carrier",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Museum of John Paul II Collection, Warsaw, Poland"
+        ],
+        "tags": [
+          "female-portraits",
+          "Lady",
+          "1880s paintings from France"
+        ],
+        "description": "",
+        "width": 842,
+        "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/egyptian-water-carrier.jpg",
+        "height": 1029
+      },
+      "width": 842,
+      "height": 1029,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea61ee",
+      "title": "Bacchus and Anacreon love",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "mythological painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bacchus_and_Anacreon_love.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bacchus_and_Anacreon_love.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/jean-leon-gerome/bacchus-and-anacreon-love.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bacchus-and-anacreon-love",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:08.700Z",
+      "fingerprint_sha256": "6359282ffb01a8ceea4040c43d4fab511dfe2e601875d26250f8246fbd5ab806",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea61ee",
+        "title": "Bacchus and Anacreon love",
+        "url": "bacchus-and-anacreon-love",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6eb0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "mythological painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "famous-people",
+          "Greek-and-Roman-Mythology",
+          "Anacreon",
+          "Bacchus/Dionysus",
+          "Mythology",
+          "Human"
+        ],
+        "description": "",
+        "width": 1760,
+        "image": "https://uploads1.wikiart.org/images/jean-leon-gerome/bacchus-and-anacreon-love.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1760,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea601e",
+      "title": "A Collaboration",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Collaboration.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Collaboration.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jean-leon-gerome/a-collaboration.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-collaboration",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:13.458Z",
+      "fingerprint_sha256": "0b0acb8c243d2ada831186dcb8bbdcfe58ef66f0a69a1e8cb17a492e484778a8",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea601e",
+        "title": "A Collaboration",
+        "url": "a-collaboration",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "reading-and-writing"
+        ],
+        "description": "",
+        "width": 603,
+        "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/a-collaboration.jpg",
+        "height": 400
+      },
+      "width": 603,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea637e",
+      "title": "Egyptian Recruits Crossing the Desert",
+      "artist": "Gerome Jean-Leon",
+      "year": 1857,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Egyptian_Recruits_Crossing_the_Desert.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Egyptian_Recruits_Crossing_the_Desert.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/00382/images/jean-leon-gerome/jean-leon-gerome-egyptian-recruits-crossing-the-desert.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/egyptian-recruits-crossing-the-desert",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:18.491Z",
+      "fingerprint_sha256": "694939015b0b6a3d0c03ccc76c8b1b665fdcb05d1297bbda158267aaeff62ca9",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea637e",
+        "title": "Egyptian Recruits Crossing the Desert",
+        "url": "egyptian-recruits-crossing-the-desert",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1857,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "deserts-and-steppes",
+          "military-and-soldiers",
+          "Human",
+          "Fun"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads0.wikiart.org/00382/images/jean-leon-gerome/jean-leon-gerome-egyptian-recruits-crossing-the-desert.jpg",
+        "height": 466
+      },
+      "width": 800,
+      "height": 466,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea621e",
+      "title": "Bashi-Bazouk Singing",
+      "artist": "Gerome Jean-Leon",
+      "year": 1868,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Bashi-Bazouk_Singing.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Bashi-Bazouk_Singing.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jean-leon-gerome/bashi-bazouk-singing.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/bashi-bazouk-singing",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:23.857Z",
+      "fingerprint_sha256": "ef302e60ad1951b90c60784be40da1ac94ca81155aeaec04d91806715de776a9",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea621e",
+        "title": "Bashi-Bazouk Singing",
+        "url": "bashi-bazouk-singing",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1868,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Walters Art Museum, Baltimore, MD, US"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 676,
+        "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/bashi-bazouk-singing.jpg",
+        "height": 554
+      },
+      "width": 676,
+      "height": 554,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea635e",
+      "title": "Drunken Bacchus and Cupid",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "mythological painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Drunken_Bacchus_and_Cupid.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Drunken_Bacchus_and_Cupid.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jean-leon-gerome/drunken-bacchus-and-cupid.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/drunken-bacchus-and-cupid",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:28.980Z",
+      "fingerprint_sha256": "24adb663a65994034e1d62a0b9fdeccd9f98b01b964bf633e555619a15cceb31",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea635e",
+        "title": "Drunken Bacchus and Cupid",
+        "url": "drunken-bacchus-and-cupid",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6eb0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "mythological painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Greek-and-Roman-Mythology",
+          "Bacchus/Dionysus",
+          "Fictional character"
+        ],
+        "description": "",
+        "width": 422,
+        "image": "https://uploads3.wikiart.org/images/jean-leon-gerome/drunken-bacchus-and-cupid.jpg",
+        "height": 570
+      },
+      "width": 422,
+      "height": 570,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea60de",
+      "title": "Albanian Warrior",
+      "artist": "Gerome Jean-Leon",
+      "year": 1864,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Albanian_Warrior.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Albanian_Warrior.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jean-leon-gerome/albanian-warior.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/albanian-warior",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:34.493Z",
+      "fingerprint_sha256": "6e8d36b4456e2f39355fca4e28b921dc6ba1be2184d9b29b89bbb5d683fd9d24",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea60de",
+        "title": "Albanian Warrior",
+        "url": "albanian-warior",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1864,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "knights-and-warriors"
+        ],
+        "description": "",
+        "width": 1126,
+        "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/albanian-warior.jpg",
+        "height": 686
+      },
+      "width": 1126,
+      "height": 686,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4aedc2cb3880ea613e",
+      "title": "Anacreon",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "history painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Anacreon.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Anacreon.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jean-leon-gerome/anacreon.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/anacreon",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:40.029Z",
+      "fingerprint_sha256": "90214241fb5dfe8e36f69a968cfc2e638b00cf36df091185a07d0b652a0c7cc9",
+      "raw_extmetadata": {
+        "id": "57727e4aedc2cb3880ea613e",
+        "title": "Anacreon",
+        "url": "anacreon",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7470",
+          "57726b4eedc2cb3880ad6e68"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "history painting"
+        ],
+        "styles": [
+          "Academicism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "famous-people",
+          "Greek-and-Roman-Mythology",
+          "Anacreon",
+          "Room"
+        ],
+        "description": "",
+        "width": 1664,
+        "image": "https://uploads2.wikiart.org/images/jean-leon-gerome/anacreon.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1664,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea634e",
+      "title": "Dispute Arabs",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Dispute_Arabs.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Dispute_Arabs.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jean-leon-gerome/dispute-arabs.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/dispute-arabs",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:45.523Z",
+      "fingerprint_sha256": "add17cf1c0efd502131e25aa937a7ab5883a75b0fbaf34aeb8b687522a1ebfd9",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea634e",
+        "title": "Dispute Arabs",
+        "url": "dispute-arabs",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "conversations"
+        ],
+        "description": "",
+        "width": 917,
+        "image": "https://uploads7.wikiart.org/images/jean-leon-gerome/dispute-arabs.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 917,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e4bedc2cb3880ea632e",
+      "title": "Dante and Virgil in Hell",
+      "artist": "Gerome Jean-Leon",
+      "year": null,
+      "genres": [
+        "literary painting"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/Dante_and_Virgil_in_Hell.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/Dante_and_Virgil_in_Hell.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jean-leon-gerome/dante-and-virgil-in-hell.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/dante-and-virgil-in-hell",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:51.070Z",
+      "fingerprint_sha256": "0ad1653fdfcfda9a3b76b993cc162bd41eebc419bf2381f0f4a561155250b0d0",
+      "raw_extmetadata": {
+        "id": "57727e4bedc2cb3880ea632e",
+        "title": "Dante and Virgil in Hell",
+        "url": "dante-and-virgil-in-hell",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b4eedc2cb3880ad6e90",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "literary painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "famous-people",
+          "Virgil",
+          "Dante-Alighieri",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads0.wikiart.org/images/jean-leon-gerome/dante-and-virgil-in-hell.jpg!HD.jpg",
+        "height": 1082
+      },
+      "width": 1920,
+      "height": 1082,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727e49edc2cb3880ea5fdc",
+      "title": "A Bashi Bazouk",
+      "artist": "Gerome Jean-Leon",
+      "year": 1869,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "jean-leon-gerome",
+      "blob_path": "better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Bashi_Bazouk.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jean-leon-gerome/A_Bashi_Bazouk.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/jean-leon-gerome/a-bashi-bazouk.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jean-leon-gerome/a-bashi-bazouk",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T01:24:55.378Z",
+      "fingerprint_sha256": "15c1fbe61dc8ba36aee068c22247b52d43a88565cef22458e8414e3e9bd7d1ef",
+      "raw_extmetadata": {
+        "id": "57727e49edc2cb3880ea5fdc",
+        "title": "A Bashi Bazouk",
+        "url": "a-bashi-bazouk",
+        "artistUrl": "jean-leon-gerome",
+        "artistName": "Gerome Jean-Leon",
+        "artistId": "57726d9aedc2cb3880b4b738",
+        "completitionYear": 1869,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 21.4,
+        "sizeY": 26,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "male-portraits",
+          "Soldier"
+        ],
+        "description": "",
+        "width": 525,
+        "image": "https://uploads1.wikiart.org/images/jean-leon-gerome/a-bashi-bazouk.jpg",
+        "height": 647
+      },
+      "width": 525,
+      "height": 647,
       "mime": null
     }
   ]

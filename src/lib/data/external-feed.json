@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-05-30T18:32:58.115Z",
+  "fetchedAt": "2026-05-31T01:18:28.784Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-8c4e7df3c6f3",
+      "title": "Super PAC Network Backing Connie Chan Received Hundreds of Thousands from AIPAC",
+      "url": "https://www.dropsitenews.com/p/aipac-connie-chan-san-francisco-primary",
+      "publication": "Drop Site News",
+      "author": "Julian Andreone",
+      "excerpt": "AIPAC’s United Democracy Project, along with its offshoot DMFI, has funneled money to a network of Super PACs now backing the San Francisco supervisor.",
+      "publishedAt": "2026-05-31T00:09:29.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b65db6146057",
@@ -720,26 +730,6 @@
       "author": "Lenny Rachitsky",
       "excerpt": "Why most work will happen inside Codex or Claude Code, the CLI era is over, every agent needs a human, and why he’s wildly bullish on PMs and designers",
       "publishedAt": "2026-05-24T12:31:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-060cacb15205",
-      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
-      "url": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
-      "publishedAt": "2026-05-23T20:48:23.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b474596b96f7",
-      "title": "🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 186",
-      "publishedAt": "2026-05-23T20:33:09.000Z"
     }
   ]
 }
