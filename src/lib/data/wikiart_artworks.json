@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-31T07:37:55.517Z",
+  "generated_at": "2026-05-31T18:42:45.041Z",
   "source": "wikiart",
-  "count": 219,
+  "count": 234,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -12914,6 +12914,843 @@
       },
       "width": 828,
       "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc059",
+      "title": "Landmark",
+      "artist": "Rusinol Santiago",
+      "year": 1892,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Landmark.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Landmark.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/santiago-rusinol/landmark-1892.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/landmark-1892",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:41:43.558Z",
+      "fingerprint_sha256": "06b45a2042acb834504e65099bfc75def21d4e1edeadbae3f44f9f5069f6ea2f",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc059",
+        "title": "Landmark",
+        "url": "landmark-1892",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1892,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Water"
+        ],
+        "description": "",
+        "width": 480,
+        "image": "https://uploads0.wikiart.org/images/santiago-rusinol/landmark-1892.jpg",
+        "height": 385
+      },
+      "width": 480,
+      "height": 385,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbf79",
+      "title": "Golden cypress trees",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Golden_cypress_trees.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Golden_cypress_trees.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/santiago-rusinol/cipreses-dorados.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/cipreses-dorados",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:41:47.787Z",
+      "fingerprint_sha256": "a024ee34a72305aeaa7b09077971f1a8f505cc9928715d649b2553ea31603a33",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbf79",
+        "title": "Golden cypress trees",
+        "url": "cipreses-dorados",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Bayou"
+        ],
+        "description": "",
+        "width": 362,
+        "image": "https://uploads3.wikiart.org/images/santiago-rusinol/cipreses-dorados.jpg",
+        "height": 500
+      },
+      "width": 362,
+      "height": 500,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc089",
+      "title": "Portrait of Eric Satie",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Portrait_of_Eric_Satie.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Portrait_of_Eric_Satie.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/santiago-rusinol/portrait-of-eric-satie.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/portrait-of-eric-satie",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:41:51.623Z",
+      "fingerprint_sha256": "19fb0cee4cca5b132ba1a095e730fbf50aae503fc54059c23bbee9814cc311a9",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc089",
+        "title": "Portrait of Eric Satie",
+        "url": "portrait-of-eric-satie",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Classical music"
+        ],
+        "description": "",
+        "width": 553,
+        "image": "https://uploads0.wikiart.org/images/santiago-rusinol/portrait-of-eric-satie.jpg",
+        "height": 700
+      },
+      "width": 553,
+      "height": 700,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728460edc2cb3880fdc109",
+      "title": "The kitchens, Moulin de la Galette",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "interior"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/The_kitchens,_Moulin_de_la_Galette.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/The_kitchens%2C_Moulin_de_la_Galette.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/santiago-rusinol/the-kitchens-moulin-de-la-galette.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/the-kitchens-moulin-de-la-galette",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:41:56.738Z",
+      "fingerprint_sha256": "f6d1b17fa335dd3b9fd8902b6f9e174c06cfa14b421b588b32e03f170773585b",
+      "raw_extmetadata": {
+        "id": "57728460edc2cb3880fdc109",
+        "title": "The kitchens, Moulin de la Galette",
+        "url": "the-kitchens-moulin-de-la-galette",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e80"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "interior"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Building",
+          "Room"
+        ],
+        "description": "",
+        "width": 978,
+        "image": "https://uploads2.wikiart.org/images/santiago-rusinol/the-kitchens-moulin-de-la-galette.jpg",
+        "height": 730
+      },
+      "width": 978,
+      "height": 730,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc0d9",
+      "title": "Summer shower",
+      "artist": "Rusinol Santiago",
+      "year": 1891,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Summer_shower.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Summer_shower.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/santiago-rusinol/summer-shower-1891.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/summer-shower-1891",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:00.965Z",
+      "fingerprint_sha256": "8302ecb030d9dad8eff0ee500c69a20ab5318f0d6d60ce2331534d11400fa32e",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc0d9",
+        "title": "Summer shower",
+        "url": "summer-shower-1891",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1891,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae7436"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "watercolor"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 700,
+        "image": "https://uploads5.wikiart.org/images/santiago-rusinol/summer-shower-1891.jpg",
+        "height": 578
+      },
+      "width": 700,
+      "height": 578,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbf99",
+      "title": "Entrance to the Vineyard",
+      "artist": "Rusinol Santiago",
+      "year": 1892,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Entrance_to_the_Vineyard.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Entrance_to_the_Vineyard.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/santiago-rusinol/entrada-al-vinyet-1892.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/entrada-al-vinyet-1892",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:05.034Z",
+      "fingerprint_sha256": "2adc679de9cbf6a0635974f99c260bec51465e6696c695828756749f8d8836f2",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbf99",
+        "title": "Entrance to the Vineyard",
+        "url": "entrada-al-vinyet-1892",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1892,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Holy places",
+          "Arch"
+        ],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads0.wikiart.org/images/santiago-rusinol/entrada-al-vinyet-1892.jpg",
+        "height": 449
+      },
+      "width": 640,
+      "height": 449,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc0c9",
+      "title": "Sóller on the north coast of Mallorca",
+      "artist": "Rusinol Santiago",
+      "year": 1905,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Sller_on_the_north_coast_of_Mallorca.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Sller_on_the_north_coast_of_Mallorca.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/santiago-rusinol/s-ller-on-the-north-coast-of-mallorca-1905.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/s-ller-on-the-north-coast-of-mallorca-1905",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:09.195Z",
+      "fingerprint_sha256": "bee3bc7f36fc65b03027f7f58ff556f1488a99d465b142e96014a34857dfae10",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc0c9",
+        "title": "Sóller on the north coast of Mallorca",
+        "url": "s-ller-on-the-north-coast-of-mallorca-1905",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1905,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Building",
+          "Village"
+        ],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads2.wikiart.org/images/santiago-rusinol/s-ller-on-the-north-coast-of-mallorca-1905.jpg",
+        "height": 434
+      },
+      "width": 640,
+      "height": 434,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc029",
+      "title": "Pirate's Gardens (Mallorca)",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Pirates_Gardens_(Mallorca).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Pirates_Gardens_%28Mallorca%29.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/santiago-rusinol/jardines-del-pirata-mallorca.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/jardines-del-pirata-mallorca",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:13.246Z",
+      "fingerprint_sha256": "8807c425aab0e604654c6ae5fd3badd61b2a9b89ec74b0e6a1031572f370c7e5",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc029",
+        "title": "Pirate's Gardens (Mallorca)",
+        "url": "jardines-del-pirata-mallorca",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads6.wikiart.org/images/santiago-rusinol/jardines-del-pirata-mallorca.jpg",
+        "height": 398
+      },
+      "width": 500,
+      "height": 398,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728460edc2cb3880fdc129",
+      "title": "The painter Miguel Utrillo in the gardens of the Moulin de la Galette",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/The_painter_Miguel_Utrillo_in_the_gardens_of_the_Moulin_de_la_Galette.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/The_painter_Miguel_Utrillo_in_the_gardens_of_the_Moulin_de_la_Galette.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/santiago-rusinol/the-painter-miguel-utrillo-in-the-gardens-of-the-moulin-de-la-galette.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/the-painter-miguel-utrillo-in-the-gardens-of-the-moulin-de-la-galette",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:17.229Z",
+      "fingerprint_sha256": "1fb86ae98ecf8ac961c2793fa7fbd4387d28820051a59f1f761faec07b8fec09",
+      "raw_extmetadata": {
+        "id": "57728460edc2cb3880fdc129",
+        "title": "The painter Miguel Utrillo in the gardens of the Moulin de la Galette",
+        "url": "the-painter-miguel-utrillo-in-the-gardens-of-the-moulin-de-la-galette",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Museu Nacional d'Art de Catalunya (MNAC), Barcelona, Spain"
+        ],
+        "tags": [
+          "Painter"
+        ],
+        "description": "",
+        "width": 486,
+        "image": "https://uploads2.wikiart.org/images/santiago-rusinol/the-painter-miguel-utrillo-in-the-gardens-of-the-moulin-de-la-galette.jpg",
+        "height": 730
+      },
+      "width": 486,
+      "height": 730,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728460edc2cb3880fdc0f9",
+      "title": "The Cemetery, Montmartre",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/The_Cemetery,_Montmartre.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/The_Cemetery%2C_Montmartre.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/santiago-rusinol/the-cemetery-montmartre.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/the-cemetery-montmartre",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:21.208Z",
+      "fingerprint_sha256": "72d944ac3d6267ce0ea4b61f4bd25ba8eb3279d9a68cbd9b75f6c4b5b8b6543a",
+      "raw_extmetadata": {
+        "id": "57728460edc2cb3880fdc0f9",
+        "title": "The Cemetery, Montmartre",
+        "url": "the-cemetery-montmartre",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 601,
+        "image": "https://uploads1.wikiart.org/images/santiago-rusinol/the-cemetery-montmartre.jpg",
+        "height": 820
+      },
+      "width": 601,
+      "height": 820,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc039",
+      "title": "La Butte",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/La_Butte.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/La_Butte.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/santiago-rusinol/la-butte.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/la-butte",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:25.235Z",
+      "fingerprint_sha256": "9372db3c5cd651692a4a2a721a1cbb4696181ab1acc8fdb2074e5c3eada8d729",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc039",
+        "title": "La Butte",
+        "url": "la-butte",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Museu Nacional d'Art de Catalunya (MNAC), Barcelona, Spain"
+        ],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 1006,
+        "image": "https://uploads4.wikiart.org/images/santiago-rusinol/la-butte.jpg",
+        "height": 730
+      },
+      "width": 1006,
+      "height": 730,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728460edc2cb3880fdc169",
+      "title": "Waiting for customers",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Waiting_for_customers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Waiting_for_customers.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/santiago-rusinol/waiting-for-customers.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/waiting-for-customers",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:29.250Z",
+      "fingerprint_sha256": "68734a91134a3913626875f329ed077d7d1e30442698aa2d7b78298010f5bc48",
+      "raw_extmetadata": {
+        "id": "57728460edc2cb3880fdc169",
+        "title": "Waiting for customers",
+        "url": "waiting-for-customers",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 545,
+        "image": "https://uploads8.wikiart.org/images/santiago-rusinol/waiting-for-customers.jpg",
+        "height": 780
+      },
+      "width": 545,
+      "height": 780,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845eedc2cb3880fdbf17",
+      "title": "A Romance",
+      "artist": "Rusinol Santiago",
+      "year": 1894,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/A_Romance.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/A_Romance.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/santiago-rusinol/a-romance-1894.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/a-romance-1894",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:33.756Z",
+      "fingerprint_sha256": "5ec439cbd3ee486f33ac25ff9c552bbedb6a530353d9cd3d8db87331939ffda8",
+      "raw_extmetadata": {
+        "id": "5772845eedc2cb3880fdbf17",
+        "title": "A Romance",
+        "url": "a-romance-1894",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1894,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Museu Nacional d'Art de Catalunya (MNAC), Barcelona, Spain"
+        ],
+        "tags": [
+          "Fortepiano",
+          "Spinet",
+          "Pianist",
+          "Musician",
+          "Classical music"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads1.wikiart.org/images/santiago-rusinol/a-romance-1894.jpg",
+        "height": 1016
+      },
+      "width": 1280,
+      "height": 1016,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728460edc2cb3880fdc179",
+      "title": "White Farmhouse (Bunyola, Majorca)",
+      "artist": "Rusinol Santiago",
+      "year": 1902,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/White_Farmhouse_(Bunyola,_Majorca).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/White_Farmhouse_%28Bunyola%2C_Majorca%29.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/santiago-rusinol/white-farmhouse-bunyola-majorca-1902.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/white-farmhouse-bunyola-majorca-1902",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:40.131Z",
+      "fingerprint_sha256": "0c917cbb28a1625ce25a5be07bf37295353b751af53a897ca0aee9a86cc90051",
+      "raw_extmetadata": {
+        "id": "57728460edc2cb3880fdc179",
+        "title": "White Farmhouse (Bunyola, Majorca)",
+        "url": "white-farmhouse-bunyola-majorca-1902",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1902,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "spring"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads5.wikiart.org/images/santiago-rusinol/white-farmhouse-bunyola-majorca-1902.jpg",
+        "height": 933
+      },
+      "width": 1280,
+      "height": 933,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbfd9",
+      "title": "Abandoned garden",
+      "artist": "Rusinol Santiago",
+      "year": 1898,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Abandoned_garden.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Abandoned_garden.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/santiago-rusinol/jard-n-abandonado-1898.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/jard-n-abandonado-1898",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-05-31T18:42:44.640Z",
+      "fingerprint_sha256": "4860d60f513bee2970ee0b9cfa331bcea3f75ef840a27a7197c78e6e065a28b3",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbfd9",
+        "title": "Abandoned garden",
+        "url": "jard-n-abandonado-1898",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1898,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Water",
+          "Tree",
+          "Building"
+        ],
+        "description": "",
+        "width": 994,
+        "image": "https://uploads0.wikiart.org/images/santiago-rusinol/jard-n-abandonado-1898.jpg",
+        "height": 782
+      },
+      "width": 994,
+      "height": 782,
       "mime": null
     }
   ]

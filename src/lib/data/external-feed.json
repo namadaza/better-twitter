@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-05-31T12:42:28.938Z",
+  "fetchedAt": "2026-05-31T18:34:54.199Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-99c8db3cdd69",
+      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]",
+      "publishedAt": "2026-05-31T14:06:42.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-0f16b9b6d9d1",
@@ -730,26 +740,6 @@
       "author": "Claire Vo",
       "excerpt": "Watch now | 🎙️ Felix Rieseberg (Anthropic) shows how he uses Claude to build 3D house walkthroughs from floor plans, track promises automatically, and create a $20 hardware “buddy”",
       "publishedAt": "2026-05-25T12:03:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9c4fdb041881",
-      "title": "Oil Barons, Jadid Reformers, and the First Azerbaijan Republic",
-      "url": "https://kasurian.com/p/jadid-azerbaijan-republic",
-      "publication": "Kasurian",
-      "author": "Kasurian",
-      "excerpt": "How the Jadid movement helped build the Azerbaijan Democratic Republic.",
-      "publishedAt": "2026-05-24T14:56:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-fd84ae4913a0",
-      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
-      "publishedAt": "2026-05-24T14:12:32.000Z"
     }
   ]
 }
