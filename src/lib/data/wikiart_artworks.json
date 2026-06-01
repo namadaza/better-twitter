@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-31T18:42:45.041Z",
+  "generated_at": "2026-06-01T01:26:10.228Z",
   "source": "wikiart",
-  "count": 234,
+  "count": 249,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -13751,6 +13751,956 @@
       },
       "width": 994,
       "height": 782,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2383edc2c9a6687b16ac",
+      "title": "Turkish Merchant Smoking in His Shop",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1844,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Turkish_Merchant_Smoking_in_His_Shop.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Turkish_Merchant_Smoking_in_His_Shop.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-turkish-merchant-smoking-in-his-shop-wga06142.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/turkish-merchant-smoking-in-his-shop-1844",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:38.842Z",
+      "fingerprint_sha256": "012a8feeb31f0964da5d4a2bc9cad5a034a08a7e3713bc1aab8f87840a4f6f11",
+      "raw_extmetadata": {
+        "id": "5f0c2383edc2c9a6687b16ac",
+        "title": "Turkish Merchant Smoking in His Shop",
+        "url": "turkish-merchant-smoking-in-his-shop-1844",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1844,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 900,
+        "image": "https://uploads0.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-turkish-merchant-smoking-in-his-shop-wga06142.jpg",
+        "height": 1118
+      },
+      "width": 900,
+      "height": 1118,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c238bedc2c9a6687b3a70",
+      "title": "The Grinder",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1840,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Grinder.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Grinder.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-003.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-grinder-1840",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:41.398Z",
+      "fingerprint_sha256": "568a6f9ba399854f4664939272640807d2c81aadceeeca1386e7d4967f05d4ea",
+      "raw_extmetadata": {
+        "id": "5f0c238bedc2c9a6687b3a70",
+        "title": "The Grinder",
+        "url": "the-grinder-1840",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1840,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1576,
+        "image": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-003.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1576,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23afedc2c9a6687c4c9e",
+      "title": "Monkey looking in a mirror",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "animal painting",
+        "caricature"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Monkey_looking_in_a_mirror.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Monkey_looking_in_a_mirror.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/00297/images/alexandre-gabriel-decamps/grobet-012.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/monkey-looking-in-a-mirror",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:43.608Z",
+      "fingerprint_sha256": "89f068fed36d913bb988bc05c9dcf39bf8aa7bcce05bdc7da68e29919e06159a",
+      "raw_extmetadata": {
+        "id": "5f0c23afedc2c9a6687c4c9e",
+        "title": "Monkey looking in a mirror",
+        "url": "monkey-looking-in-a-mirror",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6ff8",
+          "57726b4dedc2cb3880ad6df0",
+          "57726b4eedc2cb3880ad6e28"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting",
+          "caricature"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "panel"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée Grobet-Labadié, Marseille, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1753,
+        "image": "https://uploads0.wikiart.org/00297/images/alexandre-gabriel-decamps/grobet-012.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1753,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c235cedc2c9a6687a2fea",
+      "title": "The Hunter",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Hunter.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Hunter.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-de-jager-le-chasseur-0401-rijksmuseum-twenthe.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-hunter",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:45.846Z",
+      "fingerprint_sha256": "df6fe1e6b435477d913f389736c90adacd9dcdb8c5c939666e7cd0f347a80d9f",
+      "raw_extmetadata": {
+        "id": "5f0c235cedc2c9a6687a2fea",
+        "title": "The Hunter",
+        "url": "the-hunter",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Rijksmuseum, Amsterdam, Netherlands"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1574,
+        "image": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-de-jager-le-chasseur-0401-rijksmuseum-twenthe.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1574,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0e9eb2edc2c9e8a4d6fe99",
+      "title": "Joseph Sold by His Brethren",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1838,
+      "genres": [
+        "religious painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Joseph_Sold_by_His_Brethren.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Joseph_Sold_by_His_Brethren.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/00297/images/alexandre-gabriel-decamps/joseph-sold-by-his-brethren-1838.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/joseph-sold-by-his-brethren-1838",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:47.750Z",
+      "fingerprint_sha256": "9ff1ae03a78e5ae68e3f7bb532bc0724a131a461db6b100787fae14c3e885ae4",
+      "raw_extmetadata": {
+        "id": "5f0e9eb2edc2c9e8a4d6fe99",
+        "title": "Joseph Sold by His Brethren",
+        "url": "joseph-sold-by-his-brethren-1838",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1838,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Wallace Collection, London, UK"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads6.wikiart.org/00297/images/alexandre-gabriel-decamps/joseph-sold-by-his-brethren-1838.jpg",
+        "height": 596
+      },
+      "width": 800,
+      "height": 596,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23c9edc2c9a6687cf184",
+      "title": "Tobias and the Angel",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1857,
+      "genres": [
+        "landscape",
+        "religious painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Tobias_and_the_Angel.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Tobias_and_the_Angel.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/tobias-e-o-anjo-alexandre-gabriel-decamps.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/tobias-and-the-angel-1857",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:50.057Z",
+      "fingerprint_sha256": "b230e0ca7dbe15ee4fa37ae6e883ca09ece491b6c6044fa1e835b7e441838ca9",
+      "raw_extmetadata": {
+        "id": "5f0c23c9edc2c9a6687cf184",
+        "title": "Tobias and the Angel",
+        "url": "tobias-and-the-angel-1857",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1857,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e88",
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape",
+          "religious painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Calouste Gulbenkian Museum, Lisbon, Portugal"
+        ],
+        "tags": [
+          "Sky",
+          "Picture frame"
+        ],
+        "description": "",
+        "width": 1576,
+        "image": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/tobias-e-o-anjo-alexandre-gabriel-decamps.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1576,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2387edc2c9a6687b2170",
+      "title": "Bauernhof in Fontainebleau",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1850,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Bauernhof_in_Fontainebleau.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Bauernhof_in_Fontainebleau.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-001.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/bauernhof-in-fontainebleau-1850",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:52.144Z",
+      "fingerprint_sha256": "1f13d7a588dc3ebb9eebe12f50d3b28d3f9713c1998e20d447e04574bd1994f9",
+      "raw_extmetadata": {
+        "id": "5f0c2387edc2c9a6687b2170",
+        "title": "Bauernhof in Fontainebleau",
+        "url": "bauernhof-in-fontainebleau-1850",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1850,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 835,
+        "image": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-001.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 835,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c237eedc2c9a6687afccc",
+      "title": "The Caravan",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1854,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Caravan.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Caravan.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-the-caravan-wga06140.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-caravan-1854",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:54.109Z",
+      "fingerprint_sha256": "bcd9bacbf138d307de5e727484a20b116c2a4dc58db6f1157bd00ddbfd9b5997",
+      "raw_extmetadata": {
+        "id": "5f0c237eedc2c9a6687afccc",
+        "title": "The Caravan",
+        "url": "the-caravan-1854",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1854,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [
+          "Camel",
+          "Herd",
+          "Camelid"
+        ],
+        "description": "",
+        "width": 1031,
+        "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-the-caravan-wga06140.jpg",
+        "height": 600
+      },
+      "width": 1031,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23b7edc2c9a6687c759a",
+      "title": "Landscape",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1840,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Landscape.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Landscape.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/landscape-met-dp818891.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/landscape-1840",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:56.466Z",
+      "fingerprint_sha256": "dc8dffb092e78cf390c8de1cecdffd0f4c173ae9ed679dbc65374ac10a6f8466",
+      "raw_extmetadata": {
+        "id": "5f0c23b7edc2c9a6687c759a",
+        "title": "Landscape",
+        "url": "landscape-1840",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1840,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae7436",
+          "57726b4eedc2cb3880ad7000",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "watercolor",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Metropolitan Museum of Art (Met), New York City, NY, US"
+        ],
+        "tags": [
+          "Badlands",
+          "Rock"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/landscape-met-dp818891.jpg!HD.jpg",
+        "height": 1136
+      },
+      "width": 1920,
+      "height": 1136,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2364edc2c9a6687a55aa",
+      "title": "Passing by on the Other Side",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1839,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Passing_by_on_the_Other_Side.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Passing_by_on_the_Other_Side.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-passing-by-on-the-other-side-547-1957-saint-louis-art-museum.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/passing-by-on-the-other-side",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:25:58.706Z",
+      "fingerprint_sha256": "cd1b368255f2f3f36aad4412a80ee7148a91149a277c8d6290adb56e4227e4fc",
+      "raw_extmetadata": {
+        "id": "5f0c2364edc2c9a6687a55aa",
+        "title": "Passing by on the Other Side",
+        "url": "passing-by-on-the-other-side",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1839,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Saint Louis Art Museum, St. Louis, MO, US"
+        ],
+        "tags": [
+          "Rock"
+        ],
+        "description": "",
+        "width": 1535,
+        "image": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-passing-by-on-the-other-side-547-1957-saint-louis-art-museum.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1535,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2389edc2c9a6687b2d82",
+      "title": "Hunting dogs",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1839,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Hunting_dogs.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Hunting_dogs.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-002.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/hunting-dogs-1839",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:26:01.008Z",
+      "fingerprint_sha256": "ab6ce4accf40afd16f4d0c17a3c0332b6dfbc101e8d12cff664d3f447a5be78a",
+      "raw_extmetadata": {
+        "id": "5f0c2389edc2c9a6687b2d82",
+        "title": "Hunting dogs",
+        "url": "hunting-dogs-1839",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1839,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [
+          "Vertebrate",
+          "Dog",
+          "Canidae",
+          "Dog breed",
+          "Carnivore",
+          "Hunting dog"
+        ],
+        "description": "",
+        "width": 1701,
+        "image": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-002.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1701,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2370edc2c9a6687aae61",
+      "title": "Before a Mosque in Cairo",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting",
+        "cityscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Before_a_Mosque_in_Cairo.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Before_a_Mosque_in_Cairo.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-before-a-mosque-wga06137.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/before-a-mosque",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:26:03.138Z",
+      "fingerprint_sha256": "02ac631e6c229758092aa2ef0dacf0f29702b035e64c0af98e40067477959cd7",
+      "raw_extmetadata": {
+        "id": "5f0c2370edc2c9a6687aae61",
+        "title": "Before a Mosque in Cairo",
+        "url": "before-a-mosque",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6ff8",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting",
+          "cityscape"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "panel"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Hermitage Museum, Saint Petersburg, Russia"
+        ],
+        "tags": [
+          "Holy places",
+          "Arch",
+          "Mosque"
+        ],
+        "description": "",
+        "width": 892,
+        "image": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-before-a-mosque-wga06137.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 892,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2232edc2c9a66871b947",
+      "title": "Interior of a Turkish Cafe",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1833,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Interior_of_a_Turkish_Cafe.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Interior_of_a_Turkish_Cafe.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-interior-of-a-turkish-cafe-google-art-project.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/interior-of-a-turkish-cafe-1833",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:26:05.531Z",
+      "fingerprint_sha256": "54446f37ff48e2969c0f3baaf13f184f8771aa7ffa552c4a52e2029585ee6bff",
+      "raw_extmetadata": {
+        "id": "5f0c2232edc2c9a66871b947",
+        "title": "Interior of a Turkish Cafe",
+        "url": "interior-of-a-turkish-cafe-1833",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1833,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Phillips Collection, Washington, DC, US"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1501,
+        "image": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-interior-of-a-turkish-cafe-google-art-project.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1501,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2396edc2c9a6687b6c82",
+      "title": "Turkish Children By A Fountain",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Turkish_Children_By_A_Fountain.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Turkish_Children_By_A_Fountain.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/00297/images/alexandre-gabriel-decamps/chantilly-60-mus-e-cond-alexandre-gabriel-decamps-enfants-turcs-aupr-s-d-une-fontaine-2.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/turkish-children-by-a-fountain",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:26:07.601Z",
+      "fingerprint_sha256": "17b64057d08e93c6e2f469ca0c807e7f9074263fe4a3b2b6e995e5282046c3a4",
+      "raw_extmetadata": {
+        "id": "5f0c2396edc2c9a6687b6c82",
+        "title": "Turkish Children By A Fountain",
+        "url": "turkish-children-by-a-fountain",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 950,
+        "image": "https://uploads5.wikiart.org/00297/images/alexandre-gabriel-decamps/chantilly-60-mus-e-cond-alexandre-gabriel-decamps-enfants-turcs-aupr-s-d-une-fontaine-2.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 950,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23c8edc2c9a6687cea3b",
+      "title": "The Anchorage of Smyrna",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1847,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Anchorage_of_Smyrna.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Anchorage_of_Smyrna.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/00297/images/alexandre-gabriel-decamps/the-wallace-collection-40052987752.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-anchorage-of-smyrna-1847",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T01:26:09.827Z",
+      "fingerprint_sha256": "38a63844497e9f773bb66a32dbea5c0973402f5035b171a1e5c2abc2dad73498",
+      "raw_extmetadata": {
+        "id": "5f0c23c8edc2c9a6687cea3b",
+        "title": "The Anchorage of Smyrna",
+        "url": "the-anchorage-of-smyrna-1847",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1847,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b52edc2cb3880ad7788",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Wallace Collection, London, UK"
+        ],
+        "tags": [
+          "Sky",
+          "Water",
+          "Reflection",
+          "Calm",
+          "morning",
+          "Sea",
+          "Boat",
+          "Evening",
+          "Cloud",
+          "Vehicle"
+        ],
+        "description": "",
+        "width": 1796,
+        "image": "https://uploads6.wikiart.org/00297/images/alexandre-gabriel-decamps/the-wallace-collection-40052987752.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1796,
+      "height": 1200,
       "mime": null
     }
   ]
