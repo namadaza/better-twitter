@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-01T01:21:01.417Z",
+  "fetchedAt": "2026-06-01T08:08:09.919Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-a209c97616e5",
+      "title": "Western Civilisation: What Does Jerusalem Have To Do With Rome?",
+      "url": "https://www.arktosjournal.com/p/western-civilisation-what-does-jerusalem",
+      "publication": "Arktos Journal",
+      "author": "Richard Storey",
+      "excerpt": "by Richard Storey",
+      "publishedAt": "2026-06-01T06:35:01.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-99c8db3cdd69",

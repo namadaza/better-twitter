@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-01T01:26:10.228Z",
+  "generated_at": "2026-06-01T08:13:15.752Z",
   "source": "wikiart",
-  "count": 249,
+  "count": 264,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -14701,6 +14701,900 @@
       },
       "width": 1796,
       "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c416da",
+      "title": "Autumn on the Seine at Argenteuil",
+      "artist": "Monet Claude",
+      "year": 1873,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Autumn_on_the_Seine_at_Argenteuil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Autumn_on_the_Seine_at_Argenteuil.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/claude-monet/autumn-on-the-seine-at-argenteuil.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/autumn-on-the-seine-at-argenteuil",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:12:43.147Z",
+      "fingerprint_sha256": "94924a0c7e692e80fa28e6e6915f039c91f7dde7ea1f9def86a897368d78bdba",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c416da",
+        "title": "Autumn on the Seine at Argenteuil",
+        "url": "autumn-on-the-seine-at-argenteuil",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1873,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape",
+          "Waterway",
+          "Bayou",
+          "Bank",
+          "Tree"
+        ],
+        "description": "",
+        "width": 1668,
+        "image": "https://uploads5.wikiart.org/images/claude-monet/autumn-on-the-seine-at-argenteuil.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1668,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4178a",
+      "title": "Bend in the River Epte",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Bend_in_the_River_Epte.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Bend_in_the_River_Epte.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/claude-monet/bend-in-the-river-epte.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/bend-in-the-river-epte",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:12:45.849Z",
+      "fingerprint_sha256": "9cc08aade5cc478247940329f5360dac2490626ffa8fd056b3924f7fbf0e87d4",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4178a",
+        "title": "Bend in the River Epte",
+        "url": "bend-in-the-river-epte",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Natural landscape",
+          "Bank",
+          "Vegetation",
+          "Plant",
+          "Woody plant",
+          "River",
+          "Water",
+          "spring"
+        ],
+        "description": "",
+        "width": 1487,
+        "image": "https://uploads3.wikiart.org/images/claude-monet/bend-in-the-river-epte.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1487,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4155a",
+      "title": "Apple Trees in Blossom by the Water",
+      "artist": "Monet Claude",
+      "year": 1880,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_in_Blossom_by_the_Water.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_in_Blossom_by_the_Water.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/claude-monet/apple-trees-in-blossom-by-the-water(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/apple-trees-in-blossom-by-the-water",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:12:48.189Z",
+      "fingerprint_sha256": "0b431cbf01d662ff901a2e3c25941cccd0621eef43807796d8dfeb5e6da0617c",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4155a",
+        "title": "Apple Trees in Blossom by the Water",
+        "url": "apple-trees-in-blossom-by-the-water",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Brown",
+          "Tree",
+          "Grass",
+          "Leaf",
+          "Plant"
+        ],
+        "description": "",
+        "width": 816,
+        "image": "https://uploads3.wikiart.org/images/claude-monet/apple-trees-in-blossom-by-the-water(1).jpg",
+        "height": 1123
+      },
+      "width": 816,
+      "height": 1123,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c415fa",
+      "title": "Argenteuil, Seen from the Small Arm of the Seine",
+      "artist": "Monet Claude",
+      "year": 1872,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Argenteuil,_Seen_from_the_Small_Arm_of_the_Seine.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Argenteuil%2C_Seen_from_the_Small_Arm_of_the_Seine.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/claude-monet/argenteuil-seen-from-the-small-arm-of-the-seine-1(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/argenteuil-seen-from-the-small-arm-of-the-seine-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:12:50.509Z",
+      "fingerprint_sha256": "dd865857de787f2d566586296791686f24146ae259bf3d5ef5fa66f2cd503e61",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c415fa",
+        "title": "Argenteuil, Seen from the Small Arm of the Seine",
+        "url": "argenteuil-seen-from-the-small-arm-of-the-seine-1",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Bank",
+          "Natural landscape",
+          "Sky",
+          "Bayou",
+          "Tree",
+          "Waterway",
+          "Water",
+          "Reflection"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads8.wikiart.org/images/claude-monet/argenteuil-seen-from-the-small-arm-of-the-seine-1(1).jpg",
+        "height": 964
+      },
+      "width": 1280,
+      "height": 964,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4175a",
+      "title": "Bed of Chrysanthemums",
+      "artist": "Monet Claude",
+      "year": 1897,
+      "genres": [
+        "flower painting"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Bed_of_Chrysanthemums.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Bed_of_Chrysanthemums.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/claude-monet/bed-of-chrysanthemums.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/bed-of-chrysanthemums",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:12:52.844Z",
+      "fingerprint_sha256": "ef325514a6afa50892482ce3b1b36b31da4696a3b66e035ae64c119fca375e9c",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4175a",
+        "title": "Bed of Chrysanthemums",
+        "url": "bed-of-chrysanthemums",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1897,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e50"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "flower painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Flower",
+          "Plant",
+          "Flowering plant",
+          "Chrysanths"
+        ],
+        "description": "",
+        "width": 725,
+        "image": "https://uploads4.wikiart.org/images/claude-monet/bed-of-chrysanthemums.jpg",
+        "height": 1067
+      },
+      "width": 725,
+      "height": 1067,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4171a",
+      "title": "Basket of Graphes, Quinces and Pears",
+      "artist": "Monet Claude",
+      "year": 1885,
+      "genres": [
+        "still life"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Basket_of_Graphes,_Quinces_and_Pears.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Basket_of_Graphes%2C_Quinces_and_Pears.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/claude-monet/basket-of-graphes-quinces-and-pears-1885.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/basket-of-graphes-quinces-and-pears-1885",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:12:55.018Z",
+      "fingerprint_sha256": "151510b93ee313fe7c67f3868ba4428e799a0c5d7c16234d3455f2ea51bddae2",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4171a",
+        "title": "Basket of Graphes, Quinces and Pears",
+        "url": "basket-of-graphes-quinces-and-pears-1885",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1885,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6f20"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Food",
+          "Fruit",
+          "Grape",
+          "Produce"
+        ],
+        "description": "",
+        "width": 780,
+        "image": "https://uploads5.wikiart.org/images/claude-monet/basket-of-graphes-quinces-and-pears-1885.jpg",
+        "height": 1074
+      },
+      "width": 780,
+      "height": 1074,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c416aa",
+      "title": "At Val Saint-Nicolas, near Dieppe",
+      "artist": "Monet Claude",
+      "year": 1897,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/At_Val_Saint-Nicolas,_near_Dieppe.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/At_Val_Saint-Nicolas%2C_near_Dieppe.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/at-val-saint-nicolas-near-dieppe.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/at-val-saint-nicolas-near-dieppe",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:12:57.158Z",
+      "fingerprint_sha256": "630becfc089c505f542c1d4fe275999d9a23efe04fc550f60225cc13ef9b249b",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c416aa",
+        "title": "At Val Saint-Nicolas, near Dieppe",
+        "url": "at-val-saint-nicolas-near-dieppe",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1897,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Normandy",
+          "cliffs-and-rocks",
+          "Cliff",
+          "Rock",
+          "Terrain",
+          "Sea",
+          "Coast"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/at-val-saint-nicolas-near-dieppe.jpg",
+        "height": 844
+      },
+      "width": 1280,
+      "height": 844,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4174a",
+      "title": "Beach in Juan-les-Pins",
+      "artist": "Monet Claude",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Beach_in_Juan-les-Pins.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Beach_in_Juan-les-Pins.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/claude-monet/beach-in-juan-les-pins.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/beach-in-juan-les-pins",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:12:59.411Z",
+      "fingerprint_sha256": "00596d247c640bf37b405b9877cd0d480388b10317079c320e1594fbc739bad1",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4174a",
+        "title": "Beach in Juan-les-Pins",
+        "url": "beach-in-juan-les-pins",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Nature",
+          "Natural landscape",
+          "Sky",
+          "Woody plant",
+          "Plant",
+          "Bank",
+          "River"
+        ],
+        "description": "",
+        "width": 1277,
+        "image": "https://uploads5.wikiart.org/images/claude-monet/beach-in-juan-les-pins.jpg",
+        "height": 1024
+      },
+      "width": 1277,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c415da",
+      "title": "Argenteuil, Flowers by the Riverbank",
+      "artist": "Monet Claude",
+      "year": 1877,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Argenteuil,_Flowers_by_the_Riverbank.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Argenteuil%2C_Flowers_by_the_Riverbank.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/claude-monet/argenteuil-flowers-by-the-riverbank(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/argenteuil-flowers-by-the-riverbank",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:13:01.991Z",
+      "fingerprint_sha256": "6f379ca8a62a695cac5ec53c6fe0776b4b8e370dd41eba4833a45b201efaf910",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c415da",
+        "title": "Argenteuil, Flowers by the Riverbank",
+        "url": "argenteuil-flowers-by-the-riverbank",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1877,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "morning",
+          "Flower",
+          "Plant",
+          "Sky",
+          "Evening"
+        ],
+        "description": "",
+        "width": 1435,
+        "image": "https://uploads1.wikiart.org/images/claude-monet/argenteuil-flowers-by-the-riverbank(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1435,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4160a",
+      "title": "Argenteuil, the Hospice",
+      "artist": "Monet Claude",
+      "year": 1872,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Argenteuil,_the_Hospice.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Argenteuil%2C_the_Hospice.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/claude-monet/argenteuil-the-hospice(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/argenteuil-the-hospice",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:13:04.250Z",
+      "fingerprint_sha256": "9cf1bf1f67eaf873db5caeb253ee2b54ae80ccbfec87245d30f08113d641c7d8",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4160a",
+        "title": "Argenteuil, the Hospice",
+        "url": "argenteuil-the-hospice",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Natural landscape",
+          "Tree",
+          "Rural area",
+          "House"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads8.wikiart.org/images/claude-monet/argenteuil-the-hospice(1).jpg",
+        "height": 979
+      },
+      "width": 1280,
+      "height": 979,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4143a",
+      "title": "A Woman Reading",
+      "artist": "Monet Claude",
+      "year": 1872,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/A_Woman_Reading.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/A_Woman_Reading.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/claude-monet/a-woman-reading(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/a-woman-reading",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:13:05.619Z",
+      "fingerprint_sha256": "fdc6155a37b57c2a6b04b5eef1e62281de9acc9e803604fbbe9dc050d7debb18",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4143a",
+        "title": "A Woman Reading",
+        "url": "a-woman-reading",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Lady",
+          "Sitting"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads1.wikiart.org/images/claude-monet/a-woman-reading(1).jpg",
+        "height": 791
+      },
+      "width": 1000,
+      "height": 791,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c414aa",
+      "title": "An Orchard in Spring",
+      "artist": "Monet Claude",
+      "year": 1886,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/An_Orchard_in_Spring.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/An_Orchard_in_Spring.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/an-orchard-in-spring(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/an-orchard-in-spring",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:13:07.992Z",
+      "fingerprint_sha256": "6d5b9641185522af18d666c86cb0e07db9b60d42a355c0a331cafac4161f2a54",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c414aa",
+        "title": "An Orchard in Spring",
+        "url": "an-orchard-in-spring",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1886,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Natural landscape",
+          "Plant",
+          "Woody plant",
+          "spring",
+          "Woodland",
+          "Meadow"
+        ],
+        "description": "",
+        "width": 1278,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/an-orchard-in-spring(1).jpg",
+        "height": 1006
+      },
+      "width": 1278,
+      "height": 1006,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4162a",
+      "title": "Yachts At Argenteuil",
+      "artist": "Monet Claude",
+      "year": 1875,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Yachts_At_Argenteuil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Yachts_At_Argenteuil.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/claude-monet/argenteuil-yachts-02(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/argenteuil-yachts-02",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:13:10.355Z",
+      "fingerprint_sha256": "c54436385c48133de407a01580324b8199816dbc0edaf70344b7e1c089dbeb3d",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4162a",
+        "title": "Yachts At Argenteuil",
+        "url": "argenteuil-yachts-02",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1875,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Boat",
+          "Sky",
+          "Vehicle",
+          "Waterway",
+          "Sailboat",
+          "Watercraft"
+        ],
+        "description": "",
+        "width": 1436,
+        "image": "https://uploads4.wikiart.org/images/claude-monet/argenteuil-yachts-02(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1436,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4145a",
+      "title": "Agapanthus",
+      "artist": "Monet Claude",
+      "year": 1917,
+      "genres": [
+        "flower painting"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Agapanthus.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Agapanthus.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/claude-monet/agapanthus-1917(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/agapanthus-1917",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:13:13.086Z",
+      "fingerprint_sha256": "74bdbf9cd84b50fb8982617936d13f787bb0d95b7e9fc4cfba5b60bf6d14894f",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4145a",
+        "title": "Agapanthus",
+        "url": "agapanthus-1917",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1917,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e50"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "flower painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Botany",
+          "Plant",
+          "Flower"
+        ],
+        "description": "",
+        "width": 803,
+        "image": "https://uploads1.wikiart.org/images/claude-monet/agapanthus-1917(1).jpg",
+        "height": 1096
+      },
+      "width": 803,
+      "height": 1096,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4165a",
+      "title": "Asters",
+      "artist": "Monet Claude",
+      "year": 1880,
+      "genres": [
+        "flower painting"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Asters.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Asters.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/claude-monet/asters(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/asters",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T08:13:15.351Z",
+      "fingerprint_sha256": "b54df50291bfbb56a04c9d9a0d9fe4b1ff4a921654a57c1e6a037311eba48d17",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4165a",
+        "title": "Asters",
+        "url": "asters",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e50"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "flower painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Still life photography",
+          "Plant",
+          "Flowerpot",
+          "Flower",
+          "Woody plant"
+        ],
+        "description": "",
+        "width": 925,
+        "image": "https://uploads1.wikiart.org/images/claude-monet/asters(1).jpg",
+        "height": 1128
+      },
+      "width": 925,
+      "height": 1128,
       "mime": null
     }
   ]
