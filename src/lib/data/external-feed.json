@@ -1,6 +1,66 @@
 {
-  "fetchedAt": "2026-06-01T14:17:51.038Z",
+  "fetchedAt": "2026-06-01T19:46:28.246Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-2f25782b5c9d",
+      "title": "Dashlane password manager users locked out by brute force attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
+      "publishedAt": "2026-06-01T18:17:13.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c62b6789e42a",
+      "title": "WordPress malware campaign hides payloads in Steam profiles",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
+      "publishedAt": "2026-06-01T17:04:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c0750720ebdc",
+      "title": "Coming to Conservatism",
+      "url": "https://www.aporiamagazine.com/p/coming-to-conservatism",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "My unique but predictable journey from radicalism to conservatism",
+      "publishedAt": "2026-06-01T17:01:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-398d47caa64f",
+      "title": "Iran threatens to suspend ceasefire talks after Israel escalates in Lebanon; Pro-Israel groups play big in key Tuesday primaries",
+      "url": "https://www.dropsitenews.com/p/iran-ceasefire-israel-lebanon-primaries-aipac",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 1, 2026",
+      "publishedAt": "2026-06-01T15:55:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-005cd2c085c3",
+      "title": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "publishedAt": "2026-06-01T15:01:46.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-28af9978b45e",
+      "title": "Microsoft investigates Office Apps, Teams file access issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
+      "publishedAt": "2026-06-01T14:36:46.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-a159c7b76e39",
@@ -720,66 +780,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
       "publishedAt": "2026-05-26T07:01:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e925edaffd1b",
-      "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-      "publication": "BleepingComputer",
-      "author": "Mayank Parmar",
-      "excerpt": "Anthropic appears to be preparing for the public rollout of the Mythos model, which was announced in April as a restricted model that poses major security risks to private and public software. [...]",
-      "publishedAt": "2026-05-25T17:07:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f9a2e2a84234",
-      "title": "Israel Has Physically Divided Gaza With Over 25 Kilometers of Earthen Barriers",
-      "url": "https://www.dropsitenews.com/p/gaza-israel-earth-berms-military-bases-ceasefire",
-      "publication": "Drop Site News",
-      "author": "Forensic Architecture",
-      "excerpt": "Newly constructed Israeli military bases along the “yellow line” appear like elevated military forts in Gaza’s devastated landscape.",
-      "publishedAt": "2026-05-25T16:13:04.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a12ad68bc5f7",
-      "title": "War in the Name of Peace: A Critique of the Ideological Foundations of Contemporary Europe",
-      "url": "https://www.arktosjournal.com/p/war-in-the-name-of-peace-a-critique",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Bostian Marco Turk",
-      "publishedAt": "2026-05-25T16:10:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6f4ff62f9e64",
-      "title": "Communism and Cold Winters Theory",
-      "url": "https://www.aporiamagazine.com/p/communism-and-cold-winters-theory",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "Tracing the history of some important ideas",
-      "publishedAt": "2026-05-25T15:26:13.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2daa962cafa8",
-      "title": "🎙️ How I AI: How the engineer behind Claude Cowork actually uses Claude Cowork & What launched at Google I/O 2026",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "publishedAt": "2026-05-25T15:02:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-531dcf4c710c",
-      "title": "The Example Is Not the Problem",
-      "url": "https://www.khawatir.blog/p/the-example-is-not-the-problem",
-      "publication": "Khawatir",
-      "author": "Abdul-Malik Merchant",
-      "excerpt": "The gap between us and the Awliyāʾ is not what we have been telling ourselves it is.",
-      "publishedAt": "2026-05-25T14:22:06.000Z"
     }
   ]
 }
