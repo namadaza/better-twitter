@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-01T08:13:15.752Z",
+  "generated_at": "2026-06-01T14:24:05.031Z",
   "source": "wikiart",
-  "count": 264,
+  "count": 279,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -15595,6 +15595,935 @@
       },
       "width": 925,
       "height": 1128,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89bf85edc2c9f440339aaf",
+      "title": "La Ciotat",
+      "artist": "Jongkind Johan",
+      "year": 1880,
+      "genres": [
+        "landscape",
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/La_Ciotat.png",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/La_Ciotat.png",
+      "full_image_url": "https://uploads6.wikiart.org/00283/images/johan-jongkind/ads-zjjj.png",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/la-ciotat-1880",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:22:41.460Z",
+      "fingerprint_sha256": "42ec562fad6f907cb7d5a0fd1ebccdcf5a1565b3c98e189119a68317f15a7072",
+      "raw_extmetadata": {
+        "id": "5e89bf85edc2c9f440339aaf",
+        "title": "La Ciotat",
+        "url": "la-ciotat-1880",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae7436",
+          "57726bcdedc2cb3880ae72c6",
+          "57726bcdedc2cb3880ae7356",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape",
+          "marina"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "watercolor",
+          "gouache",
+          "pencil"
+        ],
+        "sizeX": 47.5,
+        "sizeY": 24,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Sky",
+          "Sea",
+          "Coast",
+          "Shore",
+          "Ocean",
+          "Headland"
+        ],
+        "description": "",
+        "width": 689,
+        "image": "https://uploads6.wikiart.org/00283/images/johan-jongkind/ads-zjjj.png",
+        "height": 349
+      },
+      "width": 689,
+      "height": 349,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e386aedc2c96bec13742e",
+      "title": "Coast Scene with Windmills",
+      "artist": "Jongkind Johan",
+      "year": 1873,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Coast_Scene_with_Windmills.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Coast_Scene_with_Windmills.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/00283/images/johan-jongkind/syo-cg-cp-tr-143-001.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/coast-scene-with-windmills-1873",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:22:46.740Z",
+      "fingerprint_sha256": "870352eaee8f4b075da9f4a0b098429f8bc1cf6fac505d1000bb6819c3d5dc64",
+      "raw_extmetadata": {
+        "id": "5e8e386aedc2c96bec13742e",
+        "title": "Coast Scene with Windmills",
+        "url": "coast-scene-with-windmills-1873",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1873,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 30.5,
+        "sizeY": 23,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads0.wikiart.org/00283/images/johan-jongkind/syo-cg-cp-tr-143-001.jpg",
+        "height": 606
+      },
+      "width": 800,
+      "height": 606,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e2f2aedc2c96becb53ab9",
+      "title": "Road Near La Côte-Saint-André",
+      "artist": "Jongkind Johan",
+      "year": 1885,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Road_Near_La_Cte-Saint-Andr.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Road_Near_La_Cte-Saint-Andr.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-4.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/road-near-la-cote-saint-andre-1885",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:22:52.117Z",
+      "fingerprint_sha256": "56ac7185add04d64526982689a6dcb8eda4efe61cc8c6156b32cb9211249e012",
+      "raw_extmetadata": {
+        "id": "5e8e2f2aedc2c96becb53ab9",
+        "title": "Road Near La Côte-Saint-André",
+        "url": "road-near-la-cote-saint-andre-1885",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1885,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae7436",
+          "57726bccedc2cb3880ae725e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "watercolor",
+          "chalk"
+        ],
+        "sizeX": 32.5,
+        "sizeY": 17.9,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 1200,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-4.jpg",
+        "height": 668
+      },
+      "width": 1200,
+      "height": 668,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89afe0edc2c9f440aa6594",
+      "title": "The Harbour in Harfleur",
+      "artist": "Jongkind Johan",
+      "year": 1850,
+      "genres": [
+        "landscape",
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/The_Harbour_in_Harfleur.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/The_Harbour_in_Harfleur.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/bdm-jongkind-honfleur.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/the-harbour-in-harfleur-1850",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:22:57.584Z",
+      "fingerprint_sha256": "33801d659b04e846b9be25ff6c60bf0077ba0f287a5d10b239fc3189fae366bc",
+      "raw_extmetadata": {
+        "id": "5e89afe0edc2c9f440aa6594",
+        "title": "The Harbour in Harfleur",
+        "url": "the-harbour-in-harfleur-1850",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1850,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape",
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 159,
+        "sizeY": 105,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 600,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/bdm-jongkind-honfleur.jpg",
+        "height": 428
+      },
+      "width": 600,
+      "height": 428,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89bd30edc2c9f4401ddd88",
+      "title": "Ruins of the Castle in Rosemont",
+      "artist": "Jongkind Johan",
+      "year": 1861,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Ruins_of_the_Castle_in_Rosemont.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Ruins_of_the_Castle_in_Rosemont.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00283/images/johan-jongkind/johan-barthold-jongkind-ruins-of-the-rosemont-castle-google-art-project.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/ruins-of-the-castle-in-rosemont-1861",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:03.382Z",
+      "fingerprint_sha256": "eb6becbd2ef5cafedeb1b72a95dceaaa36d8540f903da7fd9e9f6dc6c8284c26",
+      "raw_extmetadata": {
+        "id": "5e89bd30edc2c9f4401ddd88",
+        "title": "Ruins of the Castle in Rosemont",
+        "url": "ruins-of-the-castle-in-rosemont-1861",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1861,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 56.5,
+        "sizeY": 34,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Ruins"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads4.wikiart.org/00283/images/johan-jongkind/johan-barthold-jongkind-ruins-of-the-rosemont-castle-google-art-project.jpg!HD.jpg",
+        "height": 1143
+      },
+      "width": 1920,
+      "height": 1143,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e3012edc2c96becbe4853",
+      "title": "Landscape",
+      "artist": "Jongkind Johan",
+      "year": 1877,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Landscape.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Landscape.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-5.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/landscape-1877",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:08.680Z",
+      "fingerprint_sha256": "ff3139cf8e64bb2dceaff6cc7daf38e0234fb6c45f9c51d875b4cf76c6272502",
+      "raw_extmetadata": {
+        "id": "5e8e3012edc2c96becbe4853",
+        "title": "Landscape",
+        "url": "landscape-1877",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1877,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae7436",
+          "57726bccedc2cb3880ae725e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "watercolor",
+          "chalk"
+        ],
+        "sizeX": 48.8,
+        "sizeY": 20.3,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 1200,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-5.jpg",
+        "height": 502
+      },
+      "width": 1200,
+      "height": 502,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e3176edc2c96beccc2285",
+      "title": "The Pont Neuf",
+      "artist": "Jongkind Johan",
+      "year": 1850,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/The_Pont_Neuf.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/The_Pont_Neuf.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-6.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/the-pont-neuf-1850",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:14.128Z",
+      "fingerprint_sha256": "1f32f5282a323de3131a310fd3a11aff8d8491452ae0e9694193c7a93e894c6e",
+      "raw_extmetadata": {
+        "id": "5e8e3176edc2c96beccc2285",
+        "title": "The Pont Neuf",
+        "url": "the-pont-neuf-1850",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1850,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 81.6,
+        "sizeY": 54.6,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 1200,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-6.jpg",
+        "height": 827
+      },
+      "width": 1200,
+      "height": 827,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e39a4edc2c96bec20e9e7",
+      "title": "River Scene with Barges and Figures",
+      "artist": "Jongkind Johan",
+      "year": 1870,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/River_Scene_with_Barges_and_Figures.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/River_Scene_with_Barges_and_Figures.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/shef-msh-vis-1533-001.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/river-scene-with-barges-and-figures-1870",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:19.602Z",
+      "fingerprint_sha256": "439c3a955557e35d028b3aace874b2d77955bbcbdd3a16d6202e55f3b4e2be27",
+      "raw_extmetadata": {
+        "id": "5e8e39a4edc2c96bec20e9e7",
+        "title": "River Scene with Barges and Figures",
+        "url": "river-scene-with-barges-and-figures-1870",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1870,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 39.5,
+        "sizeY": 26.1,
+        "diameter": null,
+        "galleries": [
+          "Sheffield Galleries and Museums, Sheffield, UK"
+        ],
+        "tags": [
+          "Vehicle",
+          "Boat",
+          "Waterway",
+          "Bank"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/shef-msh-vis-1533-001.jpg",
+        "height": 662
+      },
+      "width": 1000,
+      "height": 662,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89b349edc2c9f440ca8d88",
+      "title": "Towpath near The Hague",
+      "artist": "Jongkind Johan",
+      "year": 1859,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Towpath_near_The_Hague.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Towpath_near_The_Hague.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/00283/images/johan-jongkind/johan-barthold-jongkind-treidelpfad-bei-den-haag-meisterdrucke-691052-1.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/towpath-near-the-hague-1859",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:25.322Z",
+      "fingerprint_sha256": "469b1a42604b2c5a609c26529737c0b9b97287c2ff8047081e607cc533692df0",
+      "raw_extmetadata": {
+        "id": "5e89b349edc2c9f440ca8d88",
+        "title": "Towpath near The Hague",
+        "url": "towpath-near-the-hague-1859",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1859,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 57,
+        "sizeY": 42.5,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Windmill",
+          "Picture frame",
+          "Rural area"
+        ],
+        "description": "",
+        "width": 932,
+        "image": "https://uploads6.wikiart.org/00283/images/johan-jongkind/johan-barthold-jongkind-treidelpfad-bei-den-haag-meisterdrucke-691052-1.jpg",
+        "height": 700
+      },
+      "width": 932,
+      "height": 700,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e2e60edc2c96becad3f37",
+      "title": "Honfleur",
+      "artist": "Jongkind Johan",
+      "year": 1865,
+      "genres": [
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Honfleur.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Honfleur.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-3.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/honfleur-1865",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:30.857Z",
+      "fingerprint_sha256": "42339022a06a021f1c1c0d0d3596ff3f5b57aa6cf06ca8ee2c879dc4dc3c8ab4",
+      "raw_extmetadata": {
+        "id": "5e8e2e60edc2c96becad3f37",
+        "title": "Honfleur",
+        "url": "honfleur-1865",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1865,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism",
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 81.6,
+        "sizeY": 52.1,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Flagship",
+          "Vehicle",
+          "East indiaman",
+          "Sailing ship",
+          "Boat",
+          "Ship of the line",
+          "First-rate",
+          "Watercraft",
+          "Clipper",
+          "Fluyt"
+        ],
+        "description": "",
+        "width": 1200,
+        "image": "https://uploads1.wikiart.org/00283/images/johan-jongkind/main-image-3.jpg",
+        "height": 772
+      },
+      "width": 1200,
+      "height": 772,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89c825edc2c9f440861a14",
+      "title": "Towpath near Overschie",
+      "artist": "Jongkind Johan",
+      "year": 1865,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Towpath_near_Overschie.png",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Towpath_near_Overschie.png",
+      "full_image_url": "https://uploads8.wikiart.org/00283/images/johan-jongkind/ads-z111111111111-2.png",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/towpath-near-overschie-1865",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:42.316Z",
+      "fingerprint_sha256": "07c63cd4e0b596fa309d539930095a8dde84597d3f8e5c519bbbccccf6662a61",
+      "raw_extmetadata": {
+        "id": "5e89c825edc2c9f440861a14",
+        "title": "Towpath near Overschie",
+        "url": "towpath-near-overschie-1865",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1865,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88",
+          "57726b52edc2cb3880ad7828"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism",
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 43.5,
+        "sizeY": 33.6,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Natural landscape",
+          "morning",
+          "Tree"
+        ],
+        "description": "",
+        "width": 750,
+        "image": "https://uploads8.wikiart.org/00283/images/johan-jongkind/ads-z111111111111-2.png",
+        "height": 571
+      },
+      "width": 750,
+      "height": 571,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89ac20edc2c9f440881982",
+      "title": "The Pont de l'Estacade",
+      "artist": "Jongkind Johan",
+      "year": 1853,
+      "genres": [
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/The_Pont_de_lEstacade.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/The_Pont_de_lEstacade.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00283/images/johan-jongkind/pont-estacade.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/the-pont-de-lestacade-1853",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:47.776Z",
+      "fingerprint_sha256": "97aa430f37d0d88b6965ad9efd032a085bd921aba8d02ab2b3912d0cf6af3ae3",
+      "raw_extmetadata": {
+        "id": "5e89ac20edc2c9f440881982",
+        "title": "The Pont de l'Estacade",
+        "url": "the-pont-de-lestacade-1853",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1853,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 170,
+        "sizeY": 105,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1316,
+        "image": "https://uploads2.wikiart.org/00283/images/johan-jongkind/pont-estacade.jpg",
+        "height": 798
+      },
+      "width": 1316,
+      "height": 798,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89bb48edc2c9f4400d383d",
+      "title": "Entrée de port, Honfleur",
+      "artist": "Jongkind Johan",
+      "year": 1866,
+      "genres": [
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/Entre_de_port,_Honfleur.png",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/Entre_de_port%2C_Honfleur.png",
+      "full_image_url": "https://uploads7.wikiart.org/00283/images/johan-jongkind/ads-z0000.png",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/entree-de-port-honfleur-1866-1866",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:53.452Z",
+      "fingerprint_sha256": "c17df9a9b4ff5d6200d6d3ed7aa173095c960beb31c03a6c18230a64c6aec37b",
+      "raw_extmetadata": {
+        "id": "5e89bb48edc2c9f4400d383d",
+        "title": "Entrée de port, Honfleur",
+        "url": "entree-de-port-honfleur-1866-1866",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1866,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 56,
+        "sizeY": 42.5,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Vehicle",
+          "Boat",
+          "East indiaman",
+          "Sailing ship",
+          "First-rate",
+          "Clipper",
+          "Watercraft",
+          "Frigate",
+          "Steam frigate"
+        ],
+        "description": "",
+        "width": 515,
+        "image": "https://uploads7.wikiart.org/00283/images/johan-jongkind/ads-z0000.png",
+        "height": 392
+      },
+      "width": 515,
+      "height": 392,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89be6bedc2c9f440299810",
+      "title": "View of the Ruined Castle in Rosemont",
+      "artist": "Jongkind Johan",
+      "year": 1861,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/View_of_the_Ruined_Castle_in_Rosemont.png",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/View_of_the_Ruined_Castle_in_Rosemont.png",
+      "full_image_url": "https://uploads2.wikiart.org/00283/images/johan-jongkind/jwiy.png",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/view-of-the-ruined-castle-in-rosemont-1861",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:23:59.081Z",
+      "fingerprint_sha256": "6d537fca0bca3275afdcd8b2837712a0cc7a7db560c3a1343949d6910a306b68",
+      "raw_extmetadata": {
+        "id": "5e89be6bedc2c9f440299810",
+        "title": "View of the Ruined Castle in Rosemont",
+        "url": "view-of-the-ruined-castle-in-rosemont-1861",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1861,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae72ce",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "graphite"
+        ],
+        "sizeX": 35,
+        "sizeY": 21,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Sketch"
+        ],
+        "description": "",
+        "width": 515,
+        "image": "https://uploads2.wikiart.org/00283/images/johan-jongkind/jwiy.png",
+        "height": 308
+      },
+      "width": 515,
+      "height": 308,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e3605edc2c96becfa9b94",
+      "title": "The Sea at Etretat",
+      "artist": "Jongkind Johan",
+      "year": 1853,
+      "genres": [
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/The_Sea_at_Etretat.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/The_Sea_at_Etretat.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00283/images/johan-jongkind/brm-bmag-1951-p127-001.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/the-sea-at-etretat-1853",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-01T14:24:04.630Z",
+      "fingerprint_sha256": "ec0682e65bbc9122448f83f9fa120885923529bbd35cac187d1b8ba0d50cb86c",
+      "raw_extmetadata": {
+        "id": "5e8e3605edc2c96becfa9b94",
+        "title": "The Sea at Etretat",
+        "url": "the-sea-at-etretat-1853",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1853,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 63.5,
+        "sizeY": 53.3,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Sea",
+          "Ocean",
+          "Coast",
+          "Calm",
+          "Shore"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads2.wikiart.org/00283/images/johan-jongkind/brm-bmag-1951-p127-001.jpg",
+        "height": 666
+      },
+      "width": 800,
+      "height": 666,
       "mime": null
     }
   ]
