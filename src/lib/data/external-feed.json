@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-06-02T07:55:28.802Z",
+  "fetchedAt": "2026-06-02T13:35:19.484Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-194c88260629",
+      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
+      "publishedAt": "2026-06-02T12:40:33.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e1e8bca349ae",
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
+      "publishedAt": "2026-06-02T11:10:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-964c0331e19b",
+      "title": "Why You Should Be a Techno-Skeptic",
+      "url": "https://www.afterbabel.com/p/ted-haidt-you-should-be-a-techno-skeptic",
+      "publication": "After Babel",
+      "author": "Jon Haidt",
+      "excerpt": "In his most urgent TED Talk yet, Jon Haidt reminds us that human connection is not optional.",
+      "publishedAt": "2026-06-02T11:03:26.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-a75d98270170",
@@ -760,46 +790,6 @@
       "author": "Sponsored by Varonis",
       "excerpt": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. [...]",
       "publishedAt": "2026-05-26T14:01:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-770059b94a13",
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
-      "publishedAt": "2026-05-26T12:19:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-95baa49240e0",
-      "title": "Webinar: Too many tools are slowing network incident response",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce manual coordination and improve incident response times. [...]",
-      "publishedAt": "2026-05-26T12:16:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-49eca5fbf02c",
-      "title": "Feast of the Sacrifice",
-      "url": "https://kasurian.com/p/feast-of-the-sacrifice",
-      "publication": "Kasurian",
-      "author": "Kasurian",
-      "excerpt": "An annual reminder of our moral origins.",
-      "publishedAt": "2026-05-26T10:28:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2dafdd1f28ba",
-      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
-      "publishedAt": "2026-05-26T08:46:45.000Z"
     }
   ]
 }
