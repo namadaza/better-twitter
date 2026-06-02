@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-01T14:24:05.031Z",
+  "generated_at": "2026-06-02T01:28:02.095Z",
   "source": "wikiart",
-  "count": 279,
+  "count": 294,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -16524,6 +16524,900 @@
       },
       "width": 800,
       "height": 666,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e89c6ecedc2c9f4407a7739",
+      "title": "A Windmill near Delft",
+      "artist": "Jongkind Johan",
+      "year": 1857,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/A_Windmill_near_Delft.png",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/A_Windmill_near_Delft.png",
+      "full_image_url": "https://uploads8.wikiart.org/00283/images/johan-jongkind/ads-z111111111111-1.png",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/a-windmill-near-delft-1857",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:24:59.675Z",
+      "fingerprint_sha256": "f73d509f35ece0ca245db4089c9b9adbdf49828693dbbdb606c98b96d9e5e651",
+      "raw_extmetadata": {
+        "id": "5e89c6ecedc2c9f4407a7739",
+        "title": "A Windmill near Delft",
+        "url": "a-windmill-near-delft-1857",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1857,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 41.9,
+        "sizeY": 55.9,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Windmill",
+          "Mill"
+        ],
+        "description": "",
+        "width": 553,
+        "image": "https://uploads8.wikiart.org/00283/images/johan-jongkind/ads-z111111111111-1.png",
+        "height": 625
+      },
+      "width": 553,
+      "height": 625,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5e8e351aedc2c96becf12164",
+      "title": "View of Notre-Dame, Paris",
+      "artist": "Jongkind Johan",
+      "year": 1864,
+      "genres": [
+        "marina"
+      ],
+      "topic": "johan-jongkind",
+      "blob_path": "better-twitter/artwork/images/wikiart/johan-jongkind/View_of_Notre-Dame,_Paris.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/johan-jongkind/View_of_Notre-Dame%2C_Paris.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00283/images/johan-jongkind/ash-ashm-wa1937-70-001.jpg",
+      "source_file_page": "https://www.wikiart.org/en/johan-jongkind/view-of-notre-dame-paris-1864",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:25:05.191Z",
+      "fingerprint_sha256": "9ca96ce66e2e42d6df4233add2d36a2ee4f085787b1dd057b0f7abba9f3277d9",
+      "raw_extmetadata": {
+        "id": "5e8e351aedc2c96becf12164",
+        "title": "View of Notre-Dame, Paris",
+        "url": "view-of-notre-dame-paris-1864",
+        "artistUrl": "johan-jongkind",
+        "artistName": "Jongkind Johan",
+        "artistId": "5e879eb6edc2c918447f6fd1",
+        "completitionYear": 1864,
+        "dictionaries": [
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7828",
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism",
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 56.5,
+        "sizeY": 42.5,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads2.wikiart.org/00283/images/johan-jongkind/ash-ashm-wa1937-70-001.jpg",
+        "height": 590
+      },
+      "width": 800,
+      "height": 590,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728475edc2cb3880fde459",
+      "title": "Untitled",
+      "artist": "Tabrizi Mir Ali",
+      "year": null,
+      "genres": [
+        "calligraphy"
+      ],
+      "topic": "mir-ali-tabrizi",
+      "blob_path": "better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Untitled.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Untitled.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/mir-ali-tabrizi/unknown-title-6.jpg",
+      "source_file_page": "https://www.wikiart.org/en/mir-ali-tabrizi/unknown-title-6",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:26:03.872Z",
+      "fingerprint_sha256": "8a0fe7e199fc55ef54ff4fb049af13067b33bc10757e6fecaa3972aef1c94f4b",
+      "raw_extmetadata": {
+        "id": "57728475edc2cb3880fde459",
+        "title": "Untitled",
+        "url": "unknown-title-6",
+        "artistUrl": "mir-ali-tabrizi",
+        "artistName": "Tabrizi Mir Ali",
+        "artistId": "57726dc5edc2cb3880b4fdf4",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad76e0",
+          "57726b53edc2cb3880ad78e8",
+          "57726b4eedc2cb3880ad6e18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "calligraphy"
+        ],
+        "styles": [
+          "Nas-Taliq",
+          "Timurid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Stone carving"
+        ],
+        "description": "",
+        "width": 318,
+        "image": "https://uploads1.wikiart.org/images/mir-ali-tabrizi/unknown-title-6.jpg",
+        "height": 518
+      },
+      "width": 318,
+      "height": 518,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728475edc2cb3880fde3c9",
+      "title": "An album of Nasta'liq Calligraphy",
+      "artist": "Tabrizi Mir Ali",
+      "year": null,
+      "genres": [
+        "calligraphy"
+      ],
+      "topic": "mir-ali-tabrizi",
+      "blob_path": "better-twitter/artwork/images/wikiart/mir-ali-tabrizi/An_album_of_Nastaliq_Calligraphy.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/mir-ali-tabrizi/An_album_of_Nastaliq_Calligraphy.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/mir-ali-tabrizi/an-album-of-nasta-liq-calligraphy.jpg",
+      "source_file_page": "https://www.wikiart.org/en/mir-ali-tabrizi/an-album-of-nasta-liq-calligraphy",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:26:14.969Z",
+      "fingerprint_sha256": "64b1b979d19e7082de5f3e4f1f553b3cd55e7c84d602e811ecf6c7828563ac93",
+      "raw_extmetadata": {
+        "id": "57728475edc2cb3880fde3c9",
+        "title": "An album of Nasta'liq Calligraphy",
+        "url": "an-album-of-nasta-liq-calligraphy",
+        "artistUrl": "mir-ali-tabrizi",
+        "artistName": "Tabrizi Mir Ali",
+        "artistId": "57726dc5edc2cb3880b4fdf4",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad76e0",
+          "57726b53edc2cb3880ad78e8",
+          "57726b4eedc2cb3880ad6e18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "calligraphy"
+        ],
+        "styles": [
+          "Nas-Taliq",
+          "Timurid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Text",
+          "Font"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads1.wikiart.org/images/mir-ali-tabrizi/an-album-of-nasta-liq-calligraphy.jpg",
+        "height": 275
+      },
+      "width": 500,
+      "height": 275,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728475edc2cb3880fde3b9",
+      "title": "Khamseh",
+      "artist": "Tabrizi Mir Ali",
+      "year": null,
+      "genres": [
+        "calligraphy"
+      ],
+      "topic": "mir-ali-tabrizi",
+      "blob_path": "better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Khamseh.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Khamseh.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/mir-ali-tabrizi/khamseh.jpg",
+      "source_file_page": "https://www.wikiart.org/en/mir-ali-tabrizi/khamseh",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:26:26.788Z",
+      "fingerprint_sha256": "e15cec06821d04e8e7578219f1493338571b8de5aefa25486eae4d0eda35426f",
+      "raw_extmetadata": {
+        "id": "57728475edc2cb3880fde3b9",
+        "title": "Khamseh",
+        "url": "khamseh",
+        "artistUrl": "mir-ali-tabrizi",
+        "artistName": "Tabrizi Mir Ali",
+        "artistId": "57726dc5edc2cb3880b4fdf4",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad76e0",
+          "57726b53edc2cb3880ad78e8",
+          "57726b4eedc2cb3880ad6e18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "calligraphy"
+        ],
+        "styles": [
+          "Nas-Taliq",
+          "Timurid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 343,
+        "image": "https://uploads2.wikiart.org/images/mir-ali-tabrizi/khamseh.jpg",
+        "height": 511
+      },
+      "width": 343,
+      "height": 511,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728475edc2cb3880fde429",
+      "title": "Prayers for Safety and Success",
+      "artist": "Tabrizi Mir Ali",
+      "year": null,
+      "genres": [
+        "calligraphy"
+      ],
+      "topic": "mir-ali-tabrizi",
+      "blob_path": "better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Prayers_for_Safety_and_Success.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Prayers_for_Safety_and_Success.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/mir-ali-tabrizi/prayers-for-safety-and-success.jpg",
+      "source_file_page": "https://www.wikiart.org/en/mir-ali-tabrizi/prayers-for-safety-and-success",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:26:49.908Z",
+      "fingerprint_sha256": "d390ae2d976f0e5cdc6eb9e8684fc1f9587f0e1c68b35c2a24cb5a85e61e3f1e",
+      "raw_extmetadata": {
+        "id": "57728475edc2cb3880fde429",
+        "title": "Prayers for Safety and Success",
+        "url": "prayers-for-safety-and-success",
+        "artistUrl": "mir-ali-tabrizi",
+        "artistName": "Tabrizi Mir Ali",
+        "artistId": "57726dc5edc2cb3880b4fdf4",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad76e0",
+          "57726b53edc2cb3880ad78e8",
+          "57726b4eedc2cb3880ad6e18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "calligraphy"
+        ],
+        "styles": [
+          "Nas-Taliq",
+          "Timurid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Picture frame"
+        ],
+        "description": "",
+        "width": 473,
+        "image": "https://uploads7.wikiart.org/images/mir-ali-tabrizi/prayers-for-safety-and-success.jpg",
+        "height": 700
+      },
+      "width": 473,
+      "height": 700,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728475edc2cb3880fde449",
+      "title": "A Calligraphic Leaf",
+      "artist": "Tabrizi Mir Ali",
+      "year": null,
+      "genres": [
+        "calligraphy"
+      ],
+      "topic": "mir-ali-tabrizi",
+      "blob_path": "better-twitter/artwork/images/wikiart/mir-ali-tabrizi/A_Calligraphic_Leaf.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/mir-ali-tabrizi/A_Calligraphic_Leaf.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/mir-ali-tabrizi/a-calligraphic-leaf.jpg",
+      "source_file_page": "https://www.wikiart.org/en/mir-ali-tabrizi/a-calligraphic-leaf",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:26:55.379Z",
+      "fingerprint_sha256": "9a37f72b29fe342f583df6c704393ae257331d7716550b490f5a921481006261",
+      "raw_extmetadata": {
+        "id": "57728475edc2cb3880fde449",
+        "title": "A Calligraphic Leaf",
+        "url": "a-calligraphic-leaf",
+        "artistUrl": "mir-ali-tabrizi",
+        "artistName": "Tabrizi Mir Ali",
+        "artistId": "57726dc5edc2cb3880b4fdf4",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad76e0",
+          "57726b53edc2cb3880ad78e8",
+          "57726b4eedc2cb3880ad6e18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "calligraphy"
+        ],
+        "styles": [
+          "Nas-Taliq",
+          "Timurid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 272,
+        "image": "https://uploads5.wikiart.org/images/mir-ali-tabrizi/a-calligraphic-leaf.jpg",
+        "height": 512
+      },
+      "width": 272,
+      "height": 512,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728475edc2cb3880fde3d9",
+      "title": "Poetric Prayers for Ali",
+      "artist": "Tabrizi Mir Ali",
+      "year": null,
+      "genres": [
+        "calligraphy"
+      ],
+      "topic": "mir-ali-tabrizi",
+      "blob_path": "better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Poetric_Prayers_for_Ali.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Poetric_Prayers_for_Ali.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/mir-ali-tabrizi/poetric-prayers-for-ali.jpg",
+      "source_file_page": "https://www.wikiart.org/en/mir-ali-tabrizi/poetric-prayers-for-ali",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:27:01.645Z",
+      "fingerprint_sha256": "93574e612ce378bbdf49afbb26a2a578707d52357a99b8d0537674423ec090aa",
+      "raw_extmetadata": {
+        "id": "57728475edc2cb3880fde3d9",
+        "title": "Poetric Prayers for Ali",
+        "url": "poetric-prayers-for-ali",
+        "artistUrl": "mir-ali-tabrizi",
+        "artistName": "Tabrizi Mir Ali",
+        "artistId": "57726dc5edc2cb3880b4fdf4",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad76e0",
+          "57726b53edc2cb3880ad78e8",
+          "57726b4eedc2cb3880ad6e18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "calligraphy"
+        ],
+        "styles": [
+          "Nas-Taliq",
+          "Timurid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 549,
+        "image": "https://uploads0.wikiart.org/images/mir-ali-tabrizi/poetric-prayers-for-ali.jpg",
+        "height": 866
+      },
+      "width": 549,
+      "height": 866,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728475edc2cb3880fde439",
+      "title": "Panel",
+      "artist": "Tabrizi Mir Ali",
+      "year": null,
+      "genres": [
+        "calligraphy"
+      ],
+      "topic": "mir-ali-tabrizi",
+      "blob_path": "better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Panel.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Panel.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/mir-ali-tabrizi/panel.jpg",
+      "source_file_page": "https://www.wikiart.org/en/mir-ali-tabrizi/panel",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:27:07.713Z",
+      "fingerprint_sha256": "58e022aecf99d60ca3a0add35d03825cffdfda993a64b7f11edc9d7e50d56995",
+      "raw_extmetadata": {
+        "id": "57728475edc2cb3880fde439",
+        "title": "Panel",
+        "url": "panel",
+        "artistUrl": "mir-ali-tabrizi",
+        "artistName": "Tabrizi Mir Ali",
+        "artistId": "57726dc5edc2cb3880b4fdf4",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad76e0",
+          "57726b53edc2cb3880ad78e8",
+          "57726b4eedc2cb3880ad6e18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "calligraphy"
+        ],
+        "styles": [
+          "Nas-Taliq",
+          "Timurid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Text",
+          "Handwriting"
+        ],
+        "description": "",
+        "width": 417,
+        "image": "https://uploads0.wikiart.org/images/mir-ali-tabrizi/panel.jpg",
+        "height": 640
+      },
+      "width": 417,
+      "height": 640,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728474edc2cb3880fde387",
+      "title": "Persian calligraphy",
+      "artist": "Tabrizi Mir Ali",
+      "year": null,
+      "genres": [
+        "calligraphy"
+      ],
+      "topic": "mir-ali-tabrizi",
+      "blob_path": "better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Persian_calligraphy.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/mir-ali-tabrizi/Persian_calligraphy.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/mir-ali-tabrizi/persian-calligraphy.jpg",
+      "source_file_page": "https://www.wikiart.org/en/mir-ali-tabrizi/persian-calligraphy",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:27:19.193Z",
+      "fingerprint_sha256": "b8cc1ecc8725c6e1b86565ca8da890318a8488b673184a4782052f19ae85a51f",
+      "raw_extmetadata": {
+        "id": "57728474edc2cb3880fde387",
+        "title": "Persian calligraphy",
+        "url": "persian-calligraphy",
+        "artistUrl": "mir-ali-tabrizi",
+        "artistName": "Tabrizi Mir Ali",
+        "artistId": "57726dc5edc2cb3880b4fdf4",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad76e0",
+          "57726b53edc2cb3880ad78e8",
+          "57726b4eedc2cb3880ad6e18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "calligraphy"
+        ],
+        "styles": [
+          "Nas-Taliq",
+          "Timurid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 413,
+        "image": "https://uploads5.wikiart.org/images/mir-ali-tabrizi/persian-calligraphy.jpg",
+        "height": 600
+      },
+      "width": 413,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2348edc2c9a66879b9fc",
+      "title": "Self-portrait",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1832,
+      "genres": [
+        "self-portrait"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Self-portrait.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Self-portrait.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-self-portrait-wga06138.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/self-portrait-1832",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:27:35.316Z",
+      "fingerprint_sha256": "d1cc66cd49a023386cb2c4491e66ffa4fc0108b532080748c14ef9e86c5eac8c",
+      "raw_extmetadata": {
+        "id": "5f0c2348edc2c9a66879b9fc",
+        "title": "Self-portrait",
+        "url": "self-portrait-1832",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1832,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6f08"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "self-portrait"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Hermitage Museum, Saint Petersburg, Russia"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 707,
+        "image": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-self-portrait-wga06138.jpg",
+        "height": 948
+      },
+      "width": 707,
+      "height": 948,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23a5edc2c9a6687c097d",
+      "title": "Landscape With Animals",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1845,
+      "genres": [
+        "landscape",
+        "animal painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Landscape_With_Animals.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Landscape_With_Animals.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-paysage-avec-animaux.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/landscape-with-animals-1845",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:27:42.128Z",
+      "fingerprint_sha256": "00e06ac2832dcc5a80861ccc8ee0182a46943e168c2afd612358378b1d8fb985",
+      "raw_extmetadata": {
+        "id": "5f0c23a5edc2c9a6687c097d",
+        "title": "Landscape With Animals",
+        "url": "landscape-with-animals-1845",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1845,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e88",
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape",
+          "animal painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée des Beaux-Arts de Bordeaux, Bordeaux, France"
+        ],
+        "tags": [
+          "Natural landscape",
+          "Sky",
+          "Tree",
+          "Bank"
+        ],
+        "description": "",
+        "width": 719,
+        "image": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-paysage-avec-animaux.jpg",
+        "height": 600
+      },
+      "width": 719,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23cbedc2c9a6687cff4c",
+      "title": "Two Studies of a Seated Arab with a Pipe",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Two_Studies_of_a_Seated_Arab_with_a_Pipe.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Two_Studies_of_a_Seated_Arab_with_a_Pipe.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/two-studies-of-a-seated-arab-with-a-pipe-met-dp810337.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/two-studies-of-a-seated-arab-with-a-pipe",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:27:48.646Z",
+      "fingerprint_sha256": "94962556ce31c526569553527deae52fbecb1ab5dff2857d956c4fe4361a6433",
+      "raw_extmetadata": {
+        "id": "5f0c23cbedc2c9a6687cff4c",
+        "title": "Two Studies of a Seated Arab with a Pipe",
+        "url": "two-studies-of-a-seated-arab-with-a-pipe",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b52edc2cb3880ad7788",
+          "57726bccedc2cb3880ae7266",
+          "57726bccedc2cb3880ae725e",
+          "57726bcdedc2cb3880ae72ce",
+          "57726b4eedc2cb3880ad7000",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "charcoal",
+          "chalk",
+          "graphite",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Metropolitan Museum of Art (Met), New York City, NY, US"
+        ],
+        "tags": [
+          "Sketch"
+        ],
+        "description": "",
+        "width": 1905,
+        "image": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/two-studies-of-a-seated-arab-with-a-pipe-met-dp810337.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1905,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23c4edc2c9a6687cd4f1",
+      "title": "The Night Patrol at Smyrna",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Night_Patrol_at_Smyrna.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Night_Patrol_at_Smyrna.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/the-night-patrol-at-smyrna-met-dt202029.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-night-patrol-at-smyrna",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:27:55.160Z",
+      "fingerprint_sha256": "1d83cd07724cf92772cee354997feee4ae13daf8ca8a906c55e6635ea4760559",
+      "raw_extmetadata": {
+        "id": "5f0c23c4edc2c9a6687cd4f1",
+        "title": "The Night Patrol at Smyrna",
+        "url": "the-night-patrol-at-smyrna",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b52edc2cb3880ad7788",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Metropolitan Museum of Art (Met), New York City, NY, US"
+        ],
+        "tags": [
+          "Mythology"
+        ],
+        "description": "",
+        "width": 1487,
+        "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/the-night-patrol-at-smyrna-met-dt202029.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1487,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23a4edc2c9a6687bde6b",
+      "title": "The Livestock Market",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1845,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Livestock_Market.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Livestock_Market.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-le-march-aux-bestiaux.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-livestock-market-1845",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T01:28:01.694Z",
+      "fingerprint_sha256": "a8ef3caadee8f0a608cb3379ae66b5e33530d48c014bae62859306df27bbc603",
+      "raw_extmetadata": {
+        "id": "5f0c23a4edc2c9a6687bde6b",
+        "title": "The Livestock Market",
+        "url": "the-livestock-market-1845",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1845,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée des Beaux-Arts de Bordeaux, Bordeaux, France"
+        ],
+        "tags": [
+          "Town",
+          "Human settlement",
+          "Street",
+          "Neighbourhood"
+        ],
+        "description": "",
+        "width": 462,
+        "image": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-le-march-aux-bestiaux.jpg",
+        "height": 560
+      },
+      "width": 462,
+      "height": 560,
       "mime": null
     }
   ]

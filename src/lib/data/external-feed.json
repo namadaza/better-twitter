@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-06-01T19:46:28.246Z",
+  "fetchedAt": "2026-06-02T01:20:22.677Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-d3b17800d31b",
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
+      "publishedAt": "2026-06-01T22:14:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b07056ae653b",
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
+      "publishedAt": "2026-06-01T21:38:29.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bdd710801186",
+      "title": "Spain arrests doxer leaking sensitive data of govt employees",
+      "url": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
+      "publishedAt": "2026-06-01T21:28:41.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-2f25782b5c9d",
