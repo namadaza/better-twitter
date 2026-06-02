@@ -1,6 +1,76 @@
 {
-  "fetchedAt": "2026-06-02T13:35:19.484Z",
+  "fetchedAt": "2026-06-02T19:28:04.327Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-ae2a715c7c7d",
+      "title": "“You Either Leave Right Now or You Die”—Israel’s Ethnic Cleansing of a Village in Lebanon",
+      "url": "https://www.dropsitenews.com/p/lebanon-ain-arab-israeli-military-hezbollah-displacement-trump-",
+      "publication": "Drop Site News",
+      "author": "Lylla Younes",
+      "excerpt": "Israeli soldiers went door to door in the border village of Ain Arab, forcing residents from their homes at gunpoint as part of a systematic campaign to empty large swathes of southern Lebanon.",
+      "publishedAt": "2026-06-02T17:52:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2e1c70a6f262",
+      "title": "Microsoft Exchange Online outage causes email delays, failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Germany. [...]",
+      "publishedAt": "2026-06-02T17:02:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-15208a8c2dc8",
+      "title": "Instagram users locked out after Meta AI abused to steal accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Multiple Instagram users had their accounts hijacked after attackers convinced Meta's AI-powered support tools that they were the legitimate owners. [...]",
+      "publishedAt": "2026-06-02T15:47:33.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0b0bcbff56b1",
+      "title": "Trump claims Israel and Hezbollah will de-escalate; White House narrows Medicaid work exemption; Kenya protests U.S. Ebola quarantine facility",
+      "url": "https://www.dropsitenews.com/p/trump-israel-hezbollah-lebanon-medicaid-kenya-ebola",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 2, 2026",
+      "publishedAt": "2026-06-02T15:41:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3d88fec986e5",
+      "title": "Why the browser is now the front line for AI security",
+      "url": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Push Security",
+      "excerpt": "AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becoming critical for both threat detection and AI governance. [...]",
+      "publishedAt": "2026-06-02T14:30:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e9e8f03518c2",
+      "title": "Remigration: Returning to Ourselves",
+      "url": "https://www.arktosjournal.com/p/remigration-returning-to-ourselves",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Romain Petitjean",
+      "publishedAt": "2026-06-02T14:11:48.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3b5703b66206",
+      "title": "Blue Dog PAC Treasurer Gets $1.2 Million Backing From Affiliated Super PAC",
+      "url": "https://www.dropsitenews.com/p/california-election-mike-thompson-blue-dog-pac",
+      "publication": "Drop Site News",
+      "author": "Julian Andreone",
+      "excerpt": "Formed by conservative Democrats ahead of the 2026 midterms, Blue Dog Action Fund is supporting the campaign of incumbent Mike Thompson, one of its most powerful members.",
+      "publishedAt": "2026-06-02T13:36:41.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-194c88260629",
@@ -740,56 +810,6 @@
       "author": "Lawrence Abrams",
       "excerpt": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
       "publishedAt": "2026-05-26T19:46:01.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1cdd08d0c2f1",
-      "title": "U.S.-Iran Negotiations in the Balance, Israel Escalates Attacks Against Gaza and Lebanon",
-      "url": "https://www.dropsitenews.com/p/us-iran-negotiations-ceasefire-gaza-lebanon",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site's Jeremy Scahill and Sharif Abdel Kouddous go live to Tehran and Gaza to get the latest on U.S.-Iran negotiations, Israel's escalating attacks on Gaza, and more.",
-      "publishedAt": "2026-05-26T16:31:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-dcfc6cbbc1b5",
-      "title": "Your show rate is a meeting quality problem",
-      "url": "https://newsletter.outbound.kitchen/p/your-show-rate-is-a-meeting-quality",
-      "publication": "Outbound Kitchen",
-      "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "Run these 6 checks on the booked meeting before you blame Calendly.",
-      "publishedAt": "2026-05-26T16:05:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-275e74f41c93",
-      "title": "Essential books for product builders—part 1",
-      "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "36 timeless books that’ll make you a better builder, leader, and person",
-      "publishedAt": "2026-05-26T15:25:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3df5baac31e9",
-      "title": "Peace talks continue as U.S. and Iran trade strikes; Netanyahu escalates in Lebanon; China ships 15,000 tons of rice to Cuba",
-      "url": "https://www.dropsitenews.com/p/us-iran-negotiations-netanyahu-lebanon-china-cuba",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 26, 2026",
-      "publishedAt": "2026-05-26T15:07:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bf4d14c9a4ec",
-      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
-      "url": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Varonis",
-      "excerpt": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. [...]",
-      "publishedAt": "2026-05-26T14:01:11.000Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-02T08:01:57.220Z",
+  "generated_at": "2026-06-02T19:34:37.231Z",
   "source": "wikiart",
-  "count": 309,
+  "count": 324,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -18368,6 +18368,922 @@
       },
       "width": 934,
       "height": 568,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4168a",
+      "title": "At Les Petit-Dalles",
+      "artist": "Monet Claude",
+      "year": 1884,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/At_Les_Petit-Dalles.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/At_Les_Petit-Dalles.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/claude-monet/at-les-petit-dalles.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/at-les-petit-dalles",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:32:41.257Z",
+      "fingerprint_sha256": "570a4bd68ff0161f7c63d149d121b74bd9c05122a7491a70cafa283be6093ef1",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4168a",
+        "title": "At Les Petit-Dalles",
+        "url": "at-les-petit-dalles",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1884,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape",
+          "Sky",
+          "Tree",
+          "Mountain",
+          "Hill",
+          "Road"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads2.wikiart.org/images/claude-monet/at-les-petit-dalles.jpg",
+        "height": 1016
+      },
+      "width": 1280,
+      "height": 1016,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c416fa",
+      "title": "Banks of the Seine at Jeufosse, Autumn",
+      "artist": "Monet Claude",
+      "year": 1884,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Banks_of_the_Seine_at_Jeufosse,_Autumn.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Banks_of_the_Seine_at_Jeufosse%2C_Autumn.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/claude-monet/banks-of-the-seine-at-jeufosse-autumn.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/banks-of-the-seine-at-jeufosse-autumn",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:32:47.528Z",
+      "fingerprint_sha256": "659aa091fb3a565959e694197e7a78d60ef1d9e99b4274f0f97832888a383fa7",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c416fa",
+        "title": "Banks of the Seine at Jeufosse, Autumn",
+        "url": "banks-of-the-seine-at-jeufosse-autumn",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1884,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Nature",
+          "Natural landscape",
+          "Tree",
+          "Leaf",
+          "Bank"
+        ],
+        "description": "",
+        "width": 1472,
+        "image": "https://uploads0.wikiart.org/images/claude-monet/banks-of-the-seine-at-jeufosse-autumn.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1472,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4148a",
+      "title": "Alley near Pourville",
+      "artist": "Monet Claude",
+      "year": 1882,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Alley_near_Pourville.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Alley_near_Pourville.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/alley-near-pourville(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/alley-near-pourville",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:32:49.844Z",
+      "fingerprint_sha256": "0d5e14cc5755ad615d98eb11a1d44ef16cc280a144842e1e2f6275aca3cba4ac",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4148a",
+        "title": "Alley near Pourville",
+        "url": "alley-near-pourville",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Natural landscape",
+          "Coast",
+          "Sea"
+        ],
+        "description": "",
+        "width": 1600,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/alley-near-pourville(1).jpg",
+        "height": 1169
+      },
+      "width": 1600,
+      "height": 1169,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4140a",
+      "title": "A Corner of the Studio",
+      "artist": "Monet Claude",
+      "year": 1861,
+      "genres": [
+        "self-portrait"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/A_Corner_of_the_Studio.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/A_Corner_of_the_Studio.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/a-corner-of-the-studio(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/a-corner-of-the-studio",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:32:53.059Z",
+      "fingerprint_sha256": "7f4888c477ef97f4d468e34c2ad8f4d3e5cd1c0dd798e08a7aca05d4a3d215a4",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4140a",
+        "title": "A Corner of the Studio",
+        "url": "a-corner-of-the-studio",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1861,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f08",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "self-portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 830,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/a-corner-of-the-studio(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 830,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c416ca",
+      "title": "Autumn Effect at Argenteuil",
+      "artist": "Monet Claude",
+      "year": 1873,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Autumn_Effect_at_Argenteuil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Autumn_Effect_at_Argenteuil.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/claude-monet/autumn-effect-at-argenteuil-1873.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/autumn-effect-at-argenteuil-1873",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:32:56.620Z",
+      "fingerprint_sha256": "9508cb6c042fa32c763b22235f5eb4444e3e2ced30a56adb3ca2fa23271215ec",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c416ca",
+        "title": "Autumn Effect at Argenteuil",
+        "url": "autumn-effect-at-argenteuil-1873",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1873,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 55,
+        "sizeY": 74.5,
+        "diameter": null,
+        "galleries": [
+          "Courtauld Gallery, London, UK"
+        ],
+        "tags": [
+          "Natural landscape",
+          "Water",
+          "Tree",
+          "Reflection",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1804,
+        "image": "https://uploads4.wikiart.org/images/claude-monet/autumn-effect-at-argenteuil-1873.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1804,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4164a",
+      "title": "Arriving at Montegeron",
+      "artist": "Monet Claude",
+      "year": 1876,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Arriving_at_Montegeron.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Arriving_at_Montegeron.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/arriving-at-montegeron(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/arriving-at-montegeron",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:32:59.767Z",
+      "fingerprint_sha256": "bf71c580c35b31eee96bf489fe6402962c071b00a06ae7de34c745a949a7ac5f",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4164a",
+        "title": "Arriving at Montegeron",
+        "url": "arriving-at-montegeron",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1876,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 852,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/arriving-at-montegeron(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 852,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4161a",
+      "title": "Argenteuil, The Seine",
+      "artist": "Monet Claude",
+      "year": 1872,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Argenteuil,_The_Seine.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Argenteuil%2C_The_Seine.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/claude-monet/argenteuil-the-seine(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/argenteuil-the-seine",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:33:02.719Z",
+      "fingerprint_sha256": "0052cde5a987f7bf814b167fada374de87da52efd2d51f2fb0a72417965ffda8",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4161a",
+        "title": "Argenteuil, The Seine",
+        "url": "argenteuil-the-seine",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Waterway",
+          "Natural landscape",
+          "Canal",
+          "Bank",
+          "Sky",
+          "River"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads6.wikiart.org/images/claude-monet/argenteuil-the-seine(1).jpg",
+        "height": 810
+      },
+      "width": 1000,
+      "height": 810,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4163a",
+      "title": "Arm of the Seine near Vetheuil",
+      "artist": "Monet Claude",
+      "year": 1878,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Arm_of_the_Seine_near_Vetheuil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Arm_of_the_Seine_near_Vetheuil.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/claude-monet/arm-of-the-seine-near-vetheuil(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/arm-of-the-seine-near-vetheuil",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:33:08.525Z",
+      "fingerprint_sha256": "2f95cc680ce007e194b91e2895ef29baf83f394fc70894583a4e4032c490a749",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4163a",
+        "title": "Arm of the Seine near Vetheuil",
+        "url": "arm-of-the-seine-near-vetheuil",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1878,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape",
+          "Nature",
+          "Bank",
+          "Reflection",
+          "Tree",
+          "Natural environment",
+          "Wilderness"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads7.wikiart.org/images/claude-monet/arm-of-the-seine-near-vetheuil(1).jpg",
+        "height": 939
+      },
+      "width": 1280,
+      "height": 939,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727220edc2cb3880c4170a",
+      "title": "Banks of the Seine at Lavacourt",
+      "artist": "Monet Claude",
+      "year": 1878,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Banks_of_the_Seine_at_Lavacourt.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Banks_of_the_Seine_at_Lavacourt.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/claude-monet/banks-of-the-seine-at-lavacourt.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/banks-of-the-seine-at-lavacourt",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:33:14.346Z",
+      "fingerprint_sha256": "0f84358b1b6fb1f70455a5611116c1641a40859eea19fdad391dfedb48654c07",
+      "raw_extmetadata": {
+        "id": "57727220edc2cb3880c4170a",
+        "title": "Banks of the Seine at Lavacourt",
+        "url": "banks-of-the-seine-at-lavacourt",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1878,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Natural landscape",
+          "Plant",
+          "spring",
+          "Woody plant"
+        ],
+        "description": "",
+        "width": 1272,
+        "image": "https://uploads5.wikiart.org/images/claude-monet/banks-of-the-seine-at-lavacourt.jpg",
+        "height": 1020
+      },
+      "width": 1272,
+      "height": 1020,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4153a",
+      "title": "Apple Trees in Bloom",
+      "artist": "Monet Claude",
+      "year": 1873,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_in_Bloom.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_in_Bloom.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/claude-monet/apple-trees-in-bloom(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/apple-trees-in-bloom",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:33:17.652Z",
+      "fingerprint_sha256": "d72400ed4e058b3f0ba509f63981df7c921736097dee1dae3007edc73ca2f4d1",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4153a",
+        "title": "Apple Trees in Bloom",
+        "url": "apple-trees-in-bloom",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1873,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Plant",
+          "Woody plant",
+          "spring",
+          "Flower",
+          "Meadow"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads4.wikiart.org/images/claude-monet/apple-trees-in-bloom(1).jpg!HD.jpg",
+        "height": 1155
+      },
+      "width": 1920,
+      "height": 1155,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721eedc2cb3880c4154a",
+      "title": "Apple Trees in Bloom at Giverny",
+      "artist": "Monet Claude",
+      "year": 1901,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_in_Bloom_at_Giverny.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/claude-monet/Apple_Trees_in_Bloom_at_Giverny.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/claude-monet/apple-trees-in-bloom-at-giverny-1901(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/apple-trees-in-bloom-at-giverny-1901",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:33:20.889Z",
+      "fingerprint_sha256": "8eee0445ab3056db9723cd3c0a046a088adcff26b1fb0cdef5aeb9cc81d4a386",
+      "raw_extmetadata": {
+        "id": "5772721eedc2cb3880c4154a",
+        "title": "Apple Trees in Bloom at Giverny",
+        "url": "apple-trees-in-bloom-at-giverny-1901",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1901,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Plant",
+          "Woody plant",
+          "spring"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads4.wikiart.org/images/claude-monet/apple-trees-in-bloom-at-giverny-1901(1).jpg",
+        "height": 1020
+      },
+      "width": 1280,
+      "height": 1020,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c04fb0",
+      "title": "A Bare Treetop in the Garden of the Asylum",
+      "artist": "van Gogh Vincent ",
+      "year": 1889,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Bare_Treetop_in_the_Garden_of_the_Asylum.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Bare_Treetop_in_the_Garden_of_the_Asylum.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-bare-treetop-in-the-garden-of-the-asylum-1889(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-bare-treetop-in-the-garden-of-the-asylum-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:34:22.870Z",
+      "fingerprint_sha256": "e42b9f200d75dd860858a684985037e156510a36fb0a8194accc3fd5c9366daa",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c04fb0",
+        "title": "A Bare Treetop in the Garden of the Asylum",
+        "url": "a-bare-treetop-in-the-garden-of-the-asylum-1889",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "forests-and-trees",
+          "Botany",
+          "Sketch",
+          "Tree",
+          "Plant"
+        ],
+        "description": "",
+        "width": 621,
+        "image": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-bare-treetop-in-the-garden-of-the-asylum-1889(1).jpg",
+        "height": 1024
+      },
+      "width": 621,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c05222",
+      "title": "A Pair of Shoes",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "still life"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Pair_of_Shoes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Pair_of_Shoes.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-pair-of-shoes-1888(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-pair-of-shoes-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:34:26.452Z",
+      "fingerprint_sha256": "6feed7f475ecd18ec981977d18c4b0af189db0031d23eee71986db59c2a1686d",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c05222",
+        "title": "A Pair of Shoes",
+        "url": "a-pair-of-shoes-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 44,
+        "sizeY": 53,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "clothing-and-textile",
+          "Footwear",
+          "Shoe"
+        ],
+        "description": "",
+        "width": 1444,
+        "image": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-pair-of-shoes-1888(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1444,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c0515e",
+      "title": "A Man with a Broom",
+      "artist": "van Gogh Vincent ",
+      "year": 1881,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Man_with_a_Broom.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Man_with_a_Broom.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-man-with-a-broom-1881(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-man-with-a-broom-1881",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:34:33.276Z",
+      "fingerprint_sha256": "392730310a7b10bddb53ffc9426427090321db896ab9976a4521fc6e196a77ab",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c0515e",
+        "title": "A Man with a Broom",
+        "url": "a-man-with-a-broom-1881",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bccedc2cb3880ae725e",
+          "57726bcdedc2cb3880ae7436",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Netherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "chalk",
+          "watercolor",
+          "paper"
+        ],
+        "sizeX": 55,
+        "sizeY": 27.5,
+        "diameter": null,
+        "galleries": [
+          "Kröller-Müller Museum, Otterlo, Netherlands"
+        ],
+        "tags": [
+          "streets-and-squares",
+          "handwork"
+        ],
+        "description": "",
+        "width": 600,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-man-with-a-broom-1881(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 600,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c05010",
+      "title": "A Fishing Boat at Sea",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "marina"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Fishing_Boat_at_Sea.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Fishing_Boat_at_Sea.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-fishing-boat-at-sea-1888(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-fishing-boat-at-sea-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T19:34:36.831Z",
+      "fingerprint_sha256": "3c2a7032373ecd95c9892be3270c0b401cc01a3ab0b61de176b98f1082db271a",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c05010",
+        "title": "A Fishing Boat at Sea",
+        "url": "a-fishing-boat-at-sea-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e98",
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "ink",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Saint Louis Art Museum, St. Louis, MO, US"
+        ],
+        "tags": [
+          "boats-and-ships",
+          "seas-and-oceans",
+          "fishing",
+          "Water"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-fishing-boat-at-sea-1888(1).jpg",
+        "height": 771
+      },
+      "width": 1024,
+      "height": 771,
       "mime": null
     }
   ]
