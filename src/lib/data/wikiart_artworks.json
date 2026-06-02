@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-02T01:28:02.095Z",
+  "generated_at": "2026-06-02T08:01:57.220Z",
   "source": "wikiart",
-  "count": 294,
+  "count": 309,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -17418,6 +17418,956 @@
       },
       "width": 462,
       "height": 560,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc1edc2cb3880e250d0",
+      "title": "Les Petits, Montagnes Mauresques",
+      "artist": "Cross Henri-Edmond",
+      "year": 1909,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Les_Petits,_Montagnes_Mauresques.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Les_Petits%2C_Montagnes_Mauresques.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/henri-edmond-cross/les-petits-montagnes-mauresques.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/les-petits-montagnes-mauresques",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:21.953Z",
+      "fingerprint_sha256": "da9ab85eb1183bb540af17385d9fe21e547ffe565d97e133654d8c5ca84b1d5f",
+      "raw_extmetadata": {
+        "id": "57727bc1edc2cb3880e250d0",
+        "title": "Les Petits, Montagnes Mauresques",
+        "url": "les-petits-montagnes-mauresques",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1909,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "forests-and-trees",
+          "Leaf"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads2.wikiart.org/images/henri-edmond-cross/les-petits-montagnes-mauresques.jpg",
+        "height": 956
+      },
+      "width": 1280,
+      "height": 956,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc1edc2cb3880e25140",
+      "title": "Portrait of Madame Cross",
+      "artist": "Cross Henri-Edmond",
+      "year": 1901,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Portrait_of_Madame_Cross.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Portrait_of_Madame_Cross.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/henri-edmond-cross/portrait-of-madame-cross.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/portrait-of-madame-cross",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:24.278Z",
+      "fingerprint_sha256": "ce3e16776ffb6db56bfa82fd653c499a83f24b44cc7fdf9ec7fdda4928dd128e",
+      "raw_extmetadata": {
+        "id": "57727bc1edc2cb3880e25140",
+        "title": "Portrait of Madame Cross",
+        "url": "portrait-of-madame-cross",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1901,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits",
+          "Lady"
+        ],
+        "description": "",
+        "width": 817,
+        "image": "https://uploads4.wikiart.org/images/henri-edmond-cross/portrait-of-madame-cross.jpg",
+        "height": 1050
+      },
+      "width": 817,
+      "height": 1050,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24f20",
+      "title": "Coast Near Antibes",
+      "artist": "Cross Henri-Edmond",
+      "year": 1891,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Coast_Near_Antibes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Coast_Near_Antibes.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/henri-edmond-cross/coast-near-antibes.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/coast-near-antibes",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:26.928Z",
+      "fingerprint_sha256": "642d6a8af81804809445c8d2ab7e6787423cb818483d4929cacd4d72ed1c4e81",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24f20",
+        "title": "Coast Near Antibes",
+        "url": "coast-near-antibes",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1891,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "seas-and-oceans"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads7.wikiart.org/images/henri-edmond-cross/coast-near-antibes.jpg",
+        "height": 903
+      },
+      "width": 1280,
+      "height": 903,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24f30",
+      "title": "Coastal Landscape",
+      "artist": "Cross Henri-Edmond",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Coastal_Landscape.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Coastal_Landscape.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/henri-edmond-cross/coastal-landscape.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/coastal-landscape",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:28.964Z",
+      "fingerprint_sha256": "2b8b7486a8f926822ceaf1c5095b72364d0a6fdcae74bcd6010800bec01af961",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24f30",
+        "title": "Coastal Landscape",
+        "url": "coastal-landscape",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 54,
+        "sizeY": 73,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "houses-and-buildings",
+          "seas-and-oceans",
+          "Sky"
+        ],
+        "description": "",
+        "width": 600,
+        "image": "https://uploads6.wikiart.org/images/henri-edmond-cross/coastal-landscape.jpg",
+        "height": 443
+      },
+      "width": 600,
+      "height": 443,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24f70",
+      "title": "Cypresses",
+      "artist": "Cross Henri-Edmond",
+      "year": 1904,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Cypresses.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Cypresses.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/henri-edmond-cross/cypresses.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/cypresses",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:31.402Z",
+      "fingerprint_sha256": "c3a45411a1a391b591ad3bf671e498a9abec4303bbff64a381497c1435c34876",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24f70",
+        "title": "Cypresses",
+        "url": "cypresses",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1904,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 91.8,
+        "sizeY": 72.9,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "gardens-and-parks",
+          "forests-and-trees",
+          "Tree",
+          "Plant"
+        ],
+        "description": "",
+        "width": 556,
+        "image": "https://uploads7.wikiart.org/images/henri-edmond-cross/cypresses.jpg",
+        "height": 749
+      },
+      "width": 556,
+      "height": 749,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bbfedc2cb3880e24e20",
+      "title": "Antibes, Morning",
+      "artist": "Cross Henri-Edmond",
+      "year": 1895,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Antibes,_Morning.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Antibes%2C_Morning.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/henri-edmond-cross/antibes-morning.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/antibes-morning",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:33.743Z",
+      "fingerprint_sha256": "a7c5f585a4d3ab6c32585fe23448edc94552e716fc88a296a48bafe7963ae519",
+      "raw_extmetadata": {
+        "id": "57727bbfedc2cb3880e24e20",
+        "title": "Antibes, Morning",
+        "url": "antibes-morning",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1895,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "houses-and-buildings",
+          "mountains",
+          "Leaf",
+          "Tree"
+        ],
+        "description": "",
+        "width": 900,
+        "image": "https://uploads4.wikiart.org/images/henri-edmond-cross/antibes-morning.jpg",
+        "height": 1125
+      },
+      "width": 900,
+      "height": 1125,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bbfedc2cb3880e24e60",
+      "title": "Bathers",
+      "artist": "Cross Henri-Edmond",
+      "year": 1902,
+      "genres": [
+        "nude painting (nu)"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Bathers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Bathers.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/henri-edmond-cross/bathers-1902.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/bathers-1902",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:36.021Z",
+      "fingerprint_sha256": "0c0c2384068a9226c028aaae24eca7094d64e72e2eca7411509141a5005f3da7",
+      "raw_extmetadata": {
+        "id": "57727bbfedc2cb3880e24e60",
+        "title": "Bathers",
+        "url": "bathers-1902",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1902,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6eb8",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "nude painting (nu)"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "female-nude",
+          "Mythology"
+        ],
+        "description": "",
+        "width": 983,
+        "image": "https://uploads1.wikiart.org/images/henri-edmond-cross/bathers-1902.jpg",
+        "height": 970
+      },
+      "width": 983,
+      "height": 970,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24f00",
+      "title": "Cape Layet, Provence",
+      "artist": "Cross Henri-Edmond",
+      "year": 1904,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Cape_Layet,_Provence.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Cape_Layet%2C_Provence.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/henri-edmond-cross/cape-layet-provence.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/cape-layet-provence",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:38.542Z",
+      "fingerprint_sha256": "913652a44943ae4f27a49bc85bf529e5af7b64153ccccbe387d95bdbb68a3a53",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24f00",
+        "title": "Cape Layet, Provence",
+        "url": "cape-layet-provence",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1904,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "forests-and-trees"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads8.wikiart.org/images/henri-edmond-cross/cape-layet-provence.jpg",
+        "height": 976
+      },
+      "width": 1280,
+      "height": 976,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24ea0",
+      "title": "Beach on the Mediterranian",
+      "artist": "Cross Henri-Edmond",
+      "year": 1891,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Beach_on_the_Mediterranian.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Beach_on_the_Mediterranian.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/henri-edmond-cross/beach-on-the-mediterranian.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/beach-on-the-mediterranian",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:41.051Z",
+      "fingerprint_sha256": "0268c88acdd926d5ab3e77353a2f6a29f5ea7f2fdf0eefec731703078d70bb78",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24ea0",
+        "title": "Beach on the Mediterranian",
+        "url": "beach-on-the-mediterranian",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1891,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726bcdedc2cb3880ae745e",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "cardboard"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "Lavender",
+          "Flower",
+          "Plant"
+        ],
+        "description": "",
+        "width": 774,
+        "image": "https://uploads6.wikiart.org/images/henri-edmond-cross/beach-on-the-mediterranian.jpg",
+        "height": 475
+      },
+      "width": 774,
+      "height": 475,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e25000",
+      "title": "La Donana, Venice",
+      "artist": "Cross Henri-Edmond",
+      "year": 1903,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/La_Donana,_Venice.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/La_Donana%2C_Venice.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/henri-edmond-cross/la-donana-venice.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/la-donana-venice",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:43.184Z",
+      "fingerprint_sha256": "b0c2ef417c30cb6c73c6de3f508a2ffb2a39494cec907bba55a8e05d5feb5c42",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e25000",
+        "title": "La Donana, Venice",
+        "url": "la-donana-venice",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1903,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae7436"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "watercolor"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "boats-and-ships",
+          "Water"
+        ],
+        "description": "",
+        "width": 1080,
+        "image": "https://uploads5.wikiart.org/images/henri-edmond-cross/la-donana-venice.jpg",
+        "height": 835
+      },
+      "width": 1080,
+      "height": 835,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24f80",
+      "title": "Excursion",
+      "artist": "Cross Henri-Edmond",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Excursion.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Excursion.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/henri-edmond-cross/excursion.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/excursion",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:45.528Z",
+      "fingerprint_sha256": "cc336c46560b8b32101b487e2054a57dc52dadae0c1b4e9d62ee446449e67437",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24f80",
+        "title": "Excursion",
+        "url": "excursion",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e58",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "leisure-and-sleep",
+          "Mythology"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads7.wikiart.org/images/henri-edmond-cross/excursion.jpg",
+        "height": 569
+      },
+      "width": 800,
+      "height": 569,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e25020",
+      "title": "Land by the Sea",
+      "artist": "Cross Henri-Edmond",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Land_by_the_Sea.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Land_by_the_Sea.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/henri-edmond-cross/land-by-the-sea.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/land-by-the-sea",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:47.640Z",
+      "fingerprint_sha256": "f2f57e156cab98109e6fc60420c7e56eef7aefcdd106d18b1de1c6f2e6bce6f9",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e25020",
+        "title": "Land by the Sea",
+        "url": "land-by-the-sea",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae7436"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "watercolor"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "seas-and-oceans",
+          "Sky",
+          "Cloud"
+        ],
+        "description": "",
+        "width": 1133,
+        "image": "https://uploads4.wikiart.org/images/henri-edmond-cross/land-by-the-sea.jpg",
+        "height": 788
+      },
+      "width": 1133,
+      "height": 788,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bbfedc2cb3880e24da0",
+      "title": "A Pine Tree",
+      "artist": "Cross Henri-Edmond",
+      "year": 1905,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/A_Pine_Tree.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/A_Pine_Tree.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/henri-edmond-cross/a-pine-tree.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/a-pine-tree",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:52.199Z",
+      "fingerprint_sha256": "90bc87c5277ce090a8a4afc7a672d34e55120bd743e950a582e0de6d85121d0b",
+      "raw_extmetadata": {
+        "id": "57727bbfedc2cb3880e24da0",
+        "title": "A Pine Tree",
+        "url": "a-pine-tree",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1905,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 49.85,
+        "sizeY": 65.09,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "gardens-and-parks",
+          "forests-and-trees",
+          "Tree",
+          "Plant",
+          "Woody plant"
+        ],
+        "description": "",
+        "width": 838,
+        "image": "https://uploads0.wikiart.org/images/henri-edmond-cross/a-pine-tree.jpg",
+        "height": 1091
+      },
+      "width": 838,
+      "height": 1091,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24fa0",
+      "title": "Fisherman",
+      "artist": "Cross Henri-Edmond",
+      "year": 1895,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Fisherman.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Fisherman.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/henri-edmond-cross/fisherman.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/fisherman",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:54.540Z",
+      "fingerprint_sha256": "907bef6050768ea77d9d9634b2abebe5c0de0b38ac6b82c46c53d797583129c3",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24fa0",
+        "title": "Fisherman",
+        "url": "fisherman",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1895,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Kröller-Müller Museum, Otterlo, Netherlands"
+        ],
+        "tags": [
+          "boats-and-ships",
+          "hunting-and-racing"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads7.wikiart.org/images/henri-edmond-cross/fisherman.jpg",
+        "height": 1011
+      },
+      "width": 1280,
+      "height": 1011,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc1edc2cb3880e250c0",
+      "title": "Lavender",
+      "artist": "Cross Henri-Edmond",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Lavender.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Lavender.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/henri-edmond-cross/lavender.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/lavender",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-02T08:01:56.820Z",
+      "fingerprint_sha256": "f4c1977993477ec25856ce1b17319f628ec882665e7746a12b04051bb87a25bd",
+      "raw_extmetadata": {
+        "id": "57727bc1edc2cb3880e250c0",
+        "title": "Lavender",
+        "url": "lavender",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e88",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Neo-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "forests-and-trees"
+        ],
+        "description": "",
+        "width": 934,
+        "image": "https://uploads6.wikiart.org/images/henri-edmond-cross/lavender.jpg",
+        "height": 568
+      },
+      "width": 934,
+      "height": 568,
       "mime": null
     }
   ]

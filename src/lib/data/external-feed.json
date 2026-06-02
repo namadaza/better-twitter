@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-02T01:20:22.677Z",
+  "fetchedAt": "2026-06-02T07:55:28.802Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-a75d98270170",
+      "title": "Arktos Summer Sale",
+      "url": "https://www.arktosjournal.com/p/arktos-summer-sale",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "20%-50% off classic and new works",
+      "publishedAt": "2026-06-02T06:19:57.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-d3b17800d31b",
@@ -790,26 +800,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
       "publishedAt": "2026-05-26T08:46:45.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9a93392b6705",
-      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
-      "publishedAt": "2026-05-26T07:41:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-47fe377fedc2",
-      "title": "7-Eleven data breach exposes personal information of 185,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
-      "publishedAt": "2026-05-26T07:01:12.000Z"
     }
   ]
 }
