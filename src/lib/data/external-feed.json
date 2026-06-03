@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-06-03T07:58:46.989Z",
+  "fetchedAt": "2026-06-03T13:56:54.316Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-7b248d78c948",
+      "title": "Gemini Omni: Clone yourself with AI in under 15 minutes",
+      "url": "https://www.lennysnewsletter.com/p/gemini-omni-clone-yourself-with-ai",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️ Testing Google’s Gemini Omni avatar feature live—I scan a QR code, clone my face, and ship a hype reel",
+      "publishedAt": "2026-06-03T12:04:09.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-43e25f01792e",
+      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
+      "url": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Acer is working to address two maximum-severity zero-day vulnerabilities affecting its Wave 7 mesh routers. [...]",
+      "publishedAt": "2026-06-03T11:35:47.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a548bf9cda22",
+      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "European and international law enforcement agencies have dismantled nine organized crime groups and arrested 29 suspects in a major crackdown on illegal streaming operations. [...]",
+      "publishedAt": "2026-06-03T10:12:24.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8febcb2b8c25",
+      "title": "Google adds Android protection against AI deepfake scam calls",
+      "url": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Google is introducing a new Android security feature that will detect and flag phone calls in which scammers use artificial intelligence to impersonate a user's personal contacts. [...]",
+      "publishedAt": "2026-06-03T09:02:11.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-47a1c4f82acf",
@@ -790,66 +830,6 @@
       "author": "Sponsored by Specops Software",
       "excerpt": "Strong Active Directory passwords don't have to come at the expense of usability. Specops Software explains how passphrases, breached password protection, and self-service resets can improve security without frustrating users. [...]",
       "publishedAt": "2026-05-27T14:00:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8ced61be6f69",
-      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
-      "url": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-      "publication": "BleepingComputer",
-      "author": "Ionut Ilascu",
-      "excerpt": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network. [...]",
-      "publishedAt": "2026-05-27T13:28:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-179a196144fc",
-      "title": "The Codex feature that works while you sleep",
-      "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️I break down the /goal feature in Codex, including a live demo, three real use cases, and the 6-part framework for writing goals that actually run",
-      "publishedAt": "2026-05-27T12:03:47.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9cce447317ff",
-      "title": "FBI warns of in-person data theft attacks from extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
-      "publishedAt": "2026-05-27T11:51:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d2385855bca2",
-      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks. [...]",
-      "publishedAt": "2026-05-27T10:06:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9c428652a107",
-      "title": "Dutch police arrests suspect linked to Ajax football club hack",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
-      "publishedAt": "2026-05-27T09:09:03.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-df9e12cd2465",
-      "title": "Windows 11 KB5089573 update released with performance improvements",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
-      "publishedAt": "2026-05-27T08:33:46.000Z"
     }
   ]
 }

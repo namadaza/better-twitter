@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-03T08:04:54.338Z",
+  "generated_at": "2026-06-03T14:04:05.297Z",
   "source": "wikiart",
-  "count": 339,
+  "count": 354,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -20241,6 +20241,984 @@
       },
       "width": 1080,
       "height": 755,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92c86",
+      "title": "A veiled young woman",
+      "artist": "Manet Edouard",
+      "year": 1872,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_veiled_young_woman.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_veiled_young_woman.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/edouard-manet/a-veiled-young-woman-1872.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-veiled-young-woman-1872",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:35.701Z",
+      "fingerprint_sha256": "fef8dc5ce3273ba91594b38081aeb9207fcd0b28a940f741d368877249f6f66d",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92c86",
+        "title": "A veiled young woman",
+        "url": "a-veiled-young-woman-1872",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits"
+        ],
+        "description": "",
+        "width": 864,
+        "image": "https://uploads0.wikiart.org/images/edouard-manet/a-veiled-young-woman-1872.jpg",
+        "height": 1124
+      },
+      "width": 864,
+      "height": 1124,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92db0",
+      "title": "Basket of Fruits",
+      "artist": "Manet Edouard",
+      "year": 1864,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Basket_of_Fruits.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Basket_of_Fruits.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/basket-of-fruits.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/basket-of-fruits",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:38.142Z",
+      "fingerprint_sha256": "d99bd4ee7a999b40e675926136507935d35dbe106a7866c0b5e200627da4b9bb",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92db0",
+        "title": "Basket of Fruits",
+        "url": "basket-of-fruits",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1864,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 44.4,
+        "sizeY": 37.8,
+        "diameter": null,
+        "galleries": [
+          "Museum of Fine Arts (MFA), Boston, MA, US"
+        ],
+        "tags": [
+          "fruits-and-vegetables",
+          "Still life photography"
+        ],
+        "description": "",
+        "width": 1381,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/basket-of-fruits.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1381,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92c4c",
+      "title": "A Good Glass of Beer",
+      "artist": "Manet Edouard",
+      "year": 1873,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_Good_Glass_of_Beer.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_Good_Glass_of_Beer.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/a-good-glass-of-beer-1873.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-good-glass-of-beer-1873",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:40.129Z",
+      "fingerprint_sha256": "953bb70533a3b8b44f1ff66d2db24f4f4c5171a05d49b43c3b8bd243bf06d0e3",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92c4c",
+        "title": "A Good Glass of Beer",
+        "url": "a-good-glass-of-beer-1873",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1873,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 73,
+        "sizeY": 94,
+        "diameter": null,
+        "galleries": [
+          "Philadelphia Museum of Art, Philadelphia, PA, US"
+        ],
+        "tags": [
+          "Gentleman"
+        ],
+        "description": "",
+        "width": 1038,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/a-good-glass-of-beer-1873.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1038,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92ec4",
+      "title": "Bull-fighting scene",
+      "artist": "Manet Edouard",
+      "year": 1866,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Bull-fighting_scene.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Bull-fighting_scene.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/edouard-manet/bull-fighting-scene-1866.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/bull-fighting-scene-1866",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:42.032Z",
+      "fingerprint_sha256": "c51d1a4b53fb4475c2b76a9982047678e554a9a12cd3e19d31fa3940c50ace1d",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92ec4",
+        "title": "Bull-fighting scene",
+        "url": "bull-fighting-scene-1866",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1866,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "animals",
+          "horses",
+          "celebrations-and-festivals",
+          "hunting-and-racing",
+          "bulls",
+          "Sport venue",
+          "Animal sports",
+          "Horse racing",
+          "Tradition",
+          "Public event",
+          "Chilean rodeo"
+        ],
+        "description": "",
+        "width": 689,
+        "image": "https://uploads8.wikiart.org/images/edouard-manet/bull-fighting-scene-1866.jpg",
+        "height": 566
+      },
+      "width": 689,
+      "height": 566,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92eec",
+      "title": "Corner of a Cafe-Concert",
+      "artist": "Manet Edouard",
+      "year": 1880,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Corner_of_a_Cafe-Concert.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Corner_of_a_Cafe-Concert.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/edouard-manet/corner-of-a-cafe-concert-1880.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/corner-of-a-cafe-concert-1880",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:44.463Z",
+      "fingerprint_sha256": "cdf45861b818dec85020f8cd186816b3a6d0d20d602a1498b651bbc696429dc1",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92eec",
+        "title": "Corner of a Cafe-Concert",
+        "url": "corner-of-a-cafe-concert-1880",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 77.5,
+        "sizeY": 97.1,
+        "diameter": null,
+        "galleries": [
+          "National Gallery, London, UK"
+        ],
+        "tags": [
+          "taverns-and-inns"
+        ],
+        "description": "",
+        "width": 936,
+        "image": "https://uploads2.wikiart.org/images/edouard-manet/corner-of-a-cafe-concert-1880.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 936,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92e88",
+      "title": "Boy with a sword",
+      "artist": "Manet Edouard",
+      "year": 1861,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Boy_with_a_sword.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Boy_with_a_sword.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/edouard-manet/boy-with-a-sword-1861.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/boy-with-a-sword-1861",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:46.769Z",
+      "fingerprint_sha256": "2ce786b5565c89d6a1326f65521b334bd1021bd0980c29895b5dd7f2a2ac8121",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92e88",
+        "title": "Boy with a sword",
+        "url": "boy-with-a-sword-1861",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1861,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 93.4,
+        "sizeY": 131.1,
+        "diameter": null,
+        "galleries": [
+          "Metropolitan Museum of Art (Met), New York City, NY, US"
+        ],
+        "tags": [
+          "children portraits",
+          "Lady"
+        ],
+        "description": "",
+        "width": 841,
+        "image": "https://uploads3.wikiart.org/images/edouard-manet/boy-with-a-sword-1861.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 841,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92f72",
+      "title": "Fishing boat coming in before the wind (The Kearsarge in Boulogne)",
+      "artist": "Manet Edouard",
+      "year": 1864,
+      "genres": [
+        "marina"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Fishing_boat_coming_in_before_the_wind_(The_Kearsarge_in_Boulogne).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Fishing_boat_coming_in_before_the_wind_%28The_Kearsarge_in_Boulogne%29.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/edouard-manet/fishing-boat-coming-in-before-the-wind-the-kearsarge-in-boulogne-1864.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/fishing-boat-coming-in-before-the-wind-the-kearsarge-in-boulogne-1864",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:48.849Z",
+      "fingerprint_sha256": "e83140a97c0ba9b3ee83a74622b1e438ef43bd395c7441f9754cff6a369dea4e",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92f72",
+        "title": "Fishing boat coming in before the wind (The Kearsarge in Boulogne)",
+        "url": "fishing-boat-coming-in-before-the-wind-the-kearsarge-in-boulogne-1864",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1864,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 99.7,
+        "sizeY": 81.3,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "boats-and-ships",
+          "seas-and-oceans",
+          "Boat",
+          "Vehicle",
+          "Watercraft",
+          "Schooner",
+          "Caravel",
+          "Sailing",
+          "Sail",
+          "Sailboat",
+          "Sailing ship"
+        ],
+        "description": "",
+        "width": 1080,
+        "image": "https://uploads8.wikiart.org/images/edouard-manet/fishing-boat-coming-in-before-the-wind-the-kearsarge-in-boulogne-1864.jpg",
+        "height": 871
+      },
+      "width": 1080,
+      "height": 871,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92f00",
+      "title": "Croquet",
+      "artist": "Manet Edouard",
+      "year": 1873,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Croquet.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Croquet.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/edouard-manet/croquet-1873.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/croquet-1873",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:51.258Z",
+      "fingerprint_sha256": "218a898643d1a274a24874913e4545d14e7621671ed1772c8e5afa8e0beb4d33",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92f00",
+        "title": "Croquet",
+        "url": "croquet-1873",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1873,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 106,
+        "sizeY": 72.5,
+        "diameter": null,
+        "galleries": [
+          "Städel, Frankfurt am Main, Germany"
+        ],
+        "tags": [
+          "games-and-sport"
+        ],
+        "description": "",
+        "width": 1724,
+        "image": "https://uploads3.wikiart.org/images/edouard-manet/croquet-1873.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1724,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92dd8",
+      "title": "Battle of Kearsage and Alabama",
+      "artist": "Manet Edouard",
+      "year": 1864,
+      "genres": [
+        "battle painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Battle_of_Kearsage_and_Alabama.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Battle_of_Kearsage_and_Alabama.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/edouard-manet/battle-of-kearsage-and-alabama-1864.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/battle-of-kearsage-and-alabama-1864",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:53.366Z",
+      "fingerprint_sha256": "4e9b4f10dac1268c97c3ac4535dfddc2e5cb7e10a8adb291b5f424082c58873a",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92dd8",
+        "title": "Battle of Kearsage and Alabama",
+        "url": "battle-of-kearsage-and-alabama-1864",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1864,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4dedc2cb3880ad6e00",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "battle painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 130,
+        "sizeY": 145,
+        "diameter": null,
+        "galleries": [
+          "Philadelphia Museum of Art, Philadelphia, PA, US"
+        ],
+        "tags": [
+          "boats-and-ships",
+          "battles-and-wars",
+          "naval-battles",
+          "American-Civil-War",
+          "Battle-of-Cherbourg",
+          "1864",
+          "Boat",
+          "Vehicle",
+          "Sailing ship",
+          "Watercraft",
+          "Sail",
+          "Galiot",
+          "Schooner",
+          "Sailboat",
+          "Galeas"
+        ],
+        "description": "",
+        "width": 715,
+        "image": "https://uploads1.wikiart.org/images/edouard-manet/battle-of-kearsage-and-alabama-1864.jpg",
+        "height": 781
+      },
+      "width": 715,
+      "height": 781,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92c5e",
+      "title": "A King Charles Spaniel",
+      "artist": "Manet Edouard",
+      "year": 1866,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_King_Charles_Spaniel.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_King_Charles_Spaniel.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/edouard-manet/a-king-charles-spanie.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-king-charles-spanie",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:54.823Z",
+      "fingerprint_sha256": "843ee07b6eebe4c662154f76df64982cb724a4e842d61aa808269578beba2f99",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92c5e",
+        "title": "A King Charles Spaniel",
+        "url": "a-king-charles-spanie",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1866,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4dedc2cb3880ad6df0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "animals",
+          "dogs",
+          "Dog",
+          "Canidae",
+          "Dog breed",
+          "King charles spaniel",
+          "Spaniel",
+          "Cavalier king charles spaniel",
+          "Cocker spaniel",
+          "Carnivore"
+        ],
+        "description": "",
+        "width": 492,
+        "image": "https://uploads5.wikiart.org/images/edouard-manet/a-king-charles-spanie.jpg",
+        "height": 595
+      },
+      "width": 492,
+      "height": 595,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92cc0",
+      "title": "A young man peeling a pear (Portrait Of Leon Leenhoff)",
+      "artist": "Manet Edouard",
+      "year": 1868,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_young_man_peeling_a_pear_(Portrait_Of_Leon_Leenhoff).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_young_man_peeling_a_pear_%28Portrait_Of_Leon_Leenhoff%29.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/edouard-manet/a-young-man-peeling-a-pear-portrait-of-leon-leenhoff-1868.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-young-man-peeling-a-pear-portrait-of-leon-leenhoff-1868",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:56.721Z",
+      "fingerprint_sha256": "189c8dfb42f9f4fc109a8b3f457f47fe406f5f06015599bec9067315462d5675",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92cc0",
+        "title": "A young man peeling a pear (Portrait Of Leon Leenhoff)",
+        "url": "a-young-man-peeling-a-pear-portrait-of-leon-leenhoff-1868",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1868,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 71,
+        "sizeY": 85,
+        "diameter": null,
+        "galleries": [
+          "Nationalmuseum, Stockholm, Sweden"
+        ],
+        "tags": [
+          "male-portraits",
+          "mealtimes",
+          "Lady"
+        ],
+        "description": "",
+        "width": 765,
+        "image": "https://uploads5.wikiart.org/images/edouard-manet/a-young-man-peeling-a-pear-portrait-of-leon-leenhoff-1868.jpg",
+        "height": 934
+      },
+      "width": 765,
+      "height": 934,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92c9a",
+      "title": "A woman pouring water (Study of Suzanne Leenhoff)",
+      "artist": "Manet Edouard",
+      "year": 1858,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_woman_pouring_water_(Study_of_Suzanne_Leenhoff).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_woman_pouring_water_%28Study_of_Suzanne_Leenhoff%29.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/a-woman-pouring-water-study-of-suzanne-leenhoff-1858.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-woman-pouring-water-study-of-suzanne-leenhoff-1858",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:03:58.883Z",
+      "fingerprint_sha256": "ec6510232c5eabe17947e17a15fb1d8b661f2749686ac6b9b9e11cf25209c85a",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92c9a",
+        "title": "A woman pouring water (Study of Suzanne Leenhoff)",
+        "url": "a-woman-pouring-water-study-of-suzanne-leenhoff-1858",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1858,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b52edc2cb3880ad7828"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 47,
+        "sizeY": 56,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits",
+          "domestic-settings",
+          "Lady"
+        ],
+        "description": "",
+        "width": 984,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/a-woman-pouring-water-study-of-suzanne-leenhoff-1858.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 984,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726effedc2cb3880b9300e",
+      "title": "In the Garden",
+      "artist": "Manet Edouard",
+      "year": 1870,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/In_the_Garden.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/In_the_Garden.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/edouard-manet/in-the-garden-1870.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/in-the-garden-1870",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:04:01.144Z",
+      "fingerprint_sha256": "387714f0c32e8bd0fae2d95820e174224def73ce9a58d0ff75e75df5410752f8",
+      "raw_extmetadata": {
+        "id": "57726effedc2cb3880b9300e",
+        "title": "In the Garden",
+        "url": "in-the-garden-1870",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1870,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 54,
+        "sizeY": 44,
+        "diameter": null,
+        "galleries": [
+          "Shelburne Museum, Shelburne, VT, US"
+        ],
+        "tags": [
+          "family-portraits",
+          "leisure-and-sleep",
+          "Lady",
+          "Sitting",
+          "Baby"
+        ],
+        "description": "",
+        "width": 1480,
+        "image": "https://uploads0.wikiart.org/images/edouard-manet/in-the-garden-1870.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1480,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92d4c",
+      "title": "At the Café",
+      "artist": "Manet Edouard",
+      "year": 1878,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/At_the_Caf.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/At_the_Caf.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/edouard-manet/at-the-café-1878.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/at-the-café-1878",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:04:02.878Z",
+      "fingerprint_sha256": "c23b33cf3f94366048ebb6e8da299897d7d7d56469bea0f95aa0ecbfd73ccd04",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92d4c",
+        "title": "At the Café",
+        "url": "at-the-café-1878",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1878,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Oskar Reinhart Foundation, Winterthur, Switzerland"
+        ],
+        "tags": [
+          "taverns-and-inns"
+        ],
+        "description": "",
+        "width": 592,
+        "image": "https://uploads0.wikiart.org/images/edouard-manet/at-the-café-1878.jpg",
+        "height": 545
+      },
+      "width": 592,
+      "height": 545,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92cd4",
+      "title": "Almonds, currants and peaches",
+      "artist": "Manet Edouard",
+      "year": 1869,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Almonds,_currants_and_peaches.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Almonds%2C_currants_and_peaches.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/edouard-manet/almonds-currants-and-peaches-1869.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/almonds-currants-and-peaches-1869",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T14:04:04.896Z",
+      "fingerprint_sha256": "3b659022aeb8cc39a9fc1adef6d410930dbe5cb3a4336ac92e42d237d5199e1d",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92cd4",
+        "title": "Almonds, currants and peaches",
+        "url": "almonds-currants-and-peaches-1869",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1869,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "fruits-and-vegetables",
+          "Still life photography"
+        ],
+        "description": "",
+        "width": 956,
+        "image": "https://uploads8.wikiart.org/images/edouard-manet/almonds-currants-and-peaches-1869.jpg",
+        "height": 718
+      },
+      "width": 956,
+      "height": 718,
       "mime": null
     }
   ]
