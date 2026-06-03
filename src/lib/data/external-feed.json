@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-03T16:46:25.969Z",
+  "fetchedAt": "2026-06-03T19:32:29.339Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-491cc6fbb841",
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+      "url": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
+      "publishedAt": "2026-06-03T19:08:19.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-1f9d6f0150a8",
@@ -739,16 +749,6 @@
       "author": "Jose Olivares",
       "excerpt": "Estados Unidos afirma que el expresidente venezolano Nicolás Maduro respaldó a grupos “narcoterroristas”. Uno de ellos fue creación de Washington.",
       "publishedAt": "2026-05-28T13:00:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-194a6ddcb20f",
-      "title": "Video: Factors reducing crime",
-      "url": "https://www.aporiamagazine.com/p/video-factors-reducing-crime",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "With Noah Carl",
-      "publishedAt": "2026-05-27T18:45:00.000Z"
     }
   ]
 }

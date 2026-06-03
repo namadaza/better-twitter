@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-03T14:04:05.297Z",
+  "generated_at": "2026-06-03T19:39:32.509Z",
   "source": "wikiart",
-  "count": 354,
+  "count": 369,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -21219,6 +21219,971 @@
       },
       "width": 956,
       "height": 718,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c05272",
+      "title": "A Pork-Butcher's Shop Seen from a Window",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Pork-Butchers_Shop_Seen_from_a_Window.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Pork-Butchers_Shop_Seen_from_a_Window.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-pork-butcher-s-shop-seen-from-a-window-1888(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-pork-butcher-s-shop-seen-from-a-window-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:38:00.853Z",
+      "fingerprint_sha256": "d348d90b391bc22b33784dc1160de5430f830f550fc19788cc188dab642ec425",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c05272",
+        "title": "A Pork-Butcher's Shop Seen from a Window",
+        "url": "a-pork-butcher-s-shop-seen-from-a-window-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "streets-and-squares",
+          "markets-and-shops"
+        ],
+        "description": "",
+        "width": 975,
+        "image": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-pork-butcher-s-shop-seen-from-a-window-1888(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 975,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c05196",
+      "title": "La mousme",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/La_mousme.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/La_mousme.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-mousme-1888(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-mousme-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:38:06.733Z",
+      "fingerprint_sha256": "03934c2bb8cdfe484e13323bfde16e60ed2e635391d52e84161bee4de06f7945",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c05196",
+        "title": "La mousme",
+        "url": "a-mousme-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7628",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Japonism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 60.5,
+        "sizeY": 23,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits"
+        ],
+        "description": "",
+        "width": 969,
+        "image": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-mousme-1888(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 969,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c0537e",
+      "title": "A woman walking in garden",
+      "artist": "van Gogh Vincent ",
+      "year": 1887,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_woman_walking_in_garden.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_woman_walking_in_garden.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-woman-walking-in-garden-1887(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-woman-walking-in-garden-1887",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:38:12.298Z",
+      "fingerprint_sha256": "e32e46151d16f6c08c5e2e5c4bee7777718301be43fa19d75bb1a0bee3a8c3ca",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c0537e",
+        "title": "A woman walking in garden",
+        "url": "a-woman-walking-in-garden-1887",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1887,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "gardens-and-parks",
+          "walking",
+          "People in nature",
+          "Grass family"
+        ],
+        "description": "",
+        "width": 595,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-woman-walking-in-garden-1887(1).jpg",
+        "height": 484
+      },
+      "width": 595,
+      "height": 484,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c04f9a",
+      "title": "“Au Charbonnage” Café",
+      "artist": "van Gogh Vincent ",
+      "year": 1878,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/Au_Charbonnage_Caf.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/Au_Charbonnage_Caf.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/vincent-van-gogh/au-charbonnage-café-1878(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/au-charbonnage-café-1878",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:38:18.290Z",
+      "fingerprint_sha256": "523fbd3eb1415df1276930d27bec91082a08675502a148a2a33680c87817d57a",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c04f9a",
+        "title": "“Au Charbonnage” Café",
+        "url": "au-charbonnage-café-1878",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1878,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "BrusselsBelgium",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "streets-and-squares",
+          "cafes-and-restaurants",
+          "House",
+          "Cottage",
+          "Building",
+          "Home"
+        ],
+        "description": "",
+        "width": 1219,
+        "image": "https://uploads3.wikiart.org/images/vincent-van-gogh/au-charbonnage-café-1878(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1219,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c0509a",
+      "title": "A Group of Cottages",
+      "artist": "van Gogh Vincent ",
+      "year": 1890,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Group_of_Cottages.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Group_of_Cottages.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-group-of-cottages-1890(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-group-of-cottages-1890",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:38:24.505Z",
+      "fingerprint_sha256": "96926af18868f613f8c9d16a143f03ad94366339993bc72a6ddc62f3e38c7423",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c0509a",
+        "title": "A Group of Cottages",
+        "url": "a-group-of-cottages-1890",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 73,
+        "sizeY": 60,
+        "diameter": null,
+        "galleries": [
+          "Hermitage Museum, Saint Petersburg, Russia"
+        ],
+        "tags": [
+          "folk-architecture",
+          "cliffs-and-rocks",
+          "Mountain",
+          "Mountainous landforms",
+          "Natural landscape",
+          "Cliff",
+          "Terrain",
+          "Hill"
+        ],
+        "description": "",
+        "width": 1522,
+        "image": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-group-of-cottages-1890(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1522,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c052ea",
+      "title": "A Square in Paris",
+      "artist": "van Gogh Vincent ",
+      "year": 1886,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Square_in_Paris.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Square_in_Paris.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-square-in-paris-1886(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-square-in-paris-1886",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:38:30.517Z",
+      "fingerprint_sha256": "b8f2b0c8ba01df9827ac73453dbb61f4bf33c4833aa8d40168a18bd50635effa",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c052ea",
+        "title": "A Square in Paris",
+        "url": "a-square-in-paris-1886",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1886,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e30",
+          "57726bccedc2cb3880ae725e",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "chalk",
+          "pencil",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "streets-and-squares",
+          "Paris",
+          "Tree"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-square-in-paris-1886(1).jpg",
+        "height": 556
+      },
+      "width": 1024,
+      "height": 556,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c04ffe",
+      "title": "A Field of Yellow Flowers",
+      "artist": "van Gogh Vincent ",
+      "year": 1889,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Field_of_Yellow_Flowers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Field_of_Yellow_Flowers.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-field-of-yellow-flowers-1889(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-field-of-yellow-flowers-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:38:36.698Z",
+      "fingerprint_sha256": "84d65a2de497505481edc90a8935e2619dd02e934ad2883419358bca8b58a420",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c04ffe",
+        "title": "A Field of Yellow Flowers",
+        "url": "a-field-of-yellow-flowers-1889",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 34.5,
+        "sizeY": 53,
+        "diameter": null,
+        "galleries": [
+          "Kunstmuseum Winterthur, Winterthur, Switzerland"
+        ],
+        "tags": [
+          "flowers-and-plants",
+          "Flower",
+          "Plant",
+          "Tree"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-field-of-yellow-flowers-1889(1).jpg",
+        "height": 788
+      },
+      "width": 1280,
+      "height": 788,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c0540a",
+      "title": "An Almshouse Man in a Top Hat",
+      "artist": "van Gogh Vincent ",
+      "year": 1882,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/An_Almshouse_Man_in_a_Top_Hat.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/An_Almshouse_Man_in_a_Top_Hat.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/vincent-van-gogh/an-almshouse-man-in-a-top-hat-1882(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/an-almshouse-man-in-a-top-hat-1882",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:38:42.691Z",
+      "fingerprint_sha256": "c73423c3a47ce70db2f8288957d8263304dafbe9e7e3f38b7fb81673e92ee3db",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c0540a",
+        "title": "An Almshouse Man in a Top Hat",
+        "url": "an-almshouse-man-in-a-top-hat-1882",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Haag / Den Haag / La Haye / The HagueNetherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "unknown"
+        ],
+        "tags": [
+          "male-portraits",
+          "Gentleman",
+          "Male"
+        ],
+        "description": "",
+        "width": 589,
+        "image": "https://uploads6.wikiart.org/images/vincent-van-gogh/an-almshouse-man-in-a-top-hat-1882(1).jpg",
+        "height": 1024
+      },
+      "width": 589,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c0541e",
+      "title": "An Old Man Putting Dry Rice on the Hearth",
+      "artist": "van Gogh Vincent ",
+      "year": 1881,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/An_Old_Man_Putting_Dry_Rice_on_the_Hearth.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/An_Old_Man_Putting_Dry_Rice_on_the_Hearth.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/vincent-van-gogh/an-old-man-putting-dry-rice-on-the-hearth-1881(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/an-old-man-putting-dry-rice-on-the-hearth-1881",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:38:54.506Z",
+      "fingerprint_sha256": "10bfaf8fb13c059a9b966f4b8c0fb7350d6db5f1bb2565e40ffc9166d9525ec9",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c0541e",
+        "title": "An Old Man Putting Dry Rice on the Hearth",
+        "url": "an-old-man-putting-dry-rice-on-the-hearth-1881",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Netherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": 56,
+        "sizeY": 45,
+        "diameter": null,
+        "galleries": [
+          "Kröller-Müller Museum, Otterlo, Netherlands"
+        ],
+        "tags": [
+          "domestic-settings",
+          "handwork",
+          "fireplaces"
+        ],
+        "description": "",
+        "width": 975,
+        "image": "https://uploads7.wikiart.org/images/vincent-van-gogh/an-old-man-putting-dry-rice-on-the-hearth-1881(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 975,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c05122",
+      "title": "A Lane near Arles",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Lane_near_Arles.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Lane_near_Arles.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-lane-near-arles-1888(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-lane-near-arles-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:39:00.469Z",
+      "fingerprint_sha256": "5b2211466c0b8359befe842bf1d91f2fc4929058cb31a0dae5e8716b896f7c81",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c05122",
+        "title": "A Lane near Arles",
+        "url": "a-lane-near-arles-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "fields-and-plains",
+          "Tree",
+          "Field",
+          "Rural area",
+          "Sky",
+          "Meadow",
+          "Plant"
+        ],
+        "description": "",
+        "width": 987,
+        "image": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-lane-near-arles-1888(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 987,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c05346",
+      "title": "A Weather-Beaten Pine Tree",
+      "artist": "van Gogh Vincent ",
+      "year": 1889,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Weather-Beaten_Pine_Tree.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Weather-Beaten_Pine_Tree.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-weather-beaten-pine-tree-1889(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-weather-beaten-pine-tree-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:39:06.609Z",
+      "fingerprint_sha256": "535a6d176943629e39d0fc7e76ab1585ae1bb60a606881bc5e60f10da9b3e419",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c05346",
+        "title": "A Weather-Beaten Pine Tree",
+        "url": "a-weather-beaten-pine-tree-1889",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "forests-and-trees",
+          "Tree",
+          "Botany",
+          "Branch",
+          "Plant",
+          "Trunk",
+          "Organism"
+        ],
+        "description": "",
+        "width": 783,
+        "image": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-weather-beaten-pine-tree-1889(1).jpg",
+        "height": 1024
+      },
+      "width": 783,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c05320",
+      "title": "A Vase of Roses",
+      "artist": "van Gogh Vincent ",
+      "year": 1890,
+      "genres": [
+        "flower painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Vase_of_Roses.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Vase_of_Roses.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-vase-of-roses-1890(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-vase-of-roses-1890",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:39:13.293Z",
+      "fingerprint_sha256": "42cccf023ccbad37b99cf41f2bc988ddf3284bb4f885b265d89ce87b618aa6ab",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c05320",
+        "title": "A Vase of Roses",
+        "url": "a-vase-of-roses-1890",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e50",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "flower painting"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 73.7,
+        "sizeY": 92.6,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "flowers-and-plants",
+          "Flower",
+          "Bouquet",
+          "Plant",
+          "Cut flowers",
+          "Garden roses",
+          "Still life photography",
+          "Rose",
+          "Flower Arranging"
+        ],
+        "description": "",
+        "width": 852,
+        "image": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-vase-of-roses-1890(1).jpg",
+        "height": 1070
+      },
+      "width": 852,
+      "height": 1070,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c0530e",
+      "title": "A Sunday in Eindhoven",
+      "artist": "van Gogh Vincent ",
+      "year": 1885,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Sunday_in_Eindhoven.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Sunday_in_Eindhoven.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/vincent-van-gogh/a-sunday-in-eindhoven(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-sunday-in-eindhoven",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:39:19.483Z",
+      "fingerprint_sha256": "d614c2afe78d937c8ab31585c36bf4f8db1fea1f008a71fd02e05820e4f4bd4e",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c0530e",
+        "title": "A Sunday in Eindhoven",
+        "url": "a-sunday-in-eindhoven",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1885,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e30",
+          "57726bcdedc2cb3880ae7436",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Netherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "watercolor",
+          "paper"
+        ],
+        "sizeX": 32,
+        "sizeY": 22,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "streets-and-squares",
+          "walking",
+          "Water"
+        ],
+        "description": "",
+        "width": 1699,
+        "image": "https://uploads0.wikiart.org/images/vincent-van-gogh/a-sunday-in-eindhoven(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1699,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c051e6",
+      "title": "A Pair of Leather Clogs",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "still life"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Pair_of_Leather_Clogs.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Pair_of_Leather_Clogs.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-pair-of-leather-clogs-1888(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-pair-of-leather-clogs-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:39:25.703Z",
+      "fingerprint_sha256": "79ca1bb789857dff68f62477a6e5e5f0f1c8097eb1ae6cf16a477d1e1c043676",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c051e6",
+        "title": "A Pair of Leather Clogs",
+        "url": "a-pair-of-leather-clogs-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "clothing-and-textile",
+          "Footwear",
+          "Shoe"
+        ],
+        "description": "",
+        "width": 1496,
+        "image": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-pair-of-leather-clogs-1888(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1496,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c0514a",
+      "title": "A Man and a Woman Seen from the Back",
+      "artist": "van Gogh Vincent ",
+      "year": 1886,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Man_and_a_Woman_Seen_from_the_Back.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Man_and_a_Woman_Seen_from_the_Back.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/vincent-van-gogh/a-man-and-a-woman-seen-from-the-back-1886(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-man-and-a-woman-seen-from-the-back-1886",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-03T19:39:32.108Z",
+      "fingerprint_sha256": "9ddf6149d4c3990b6bb95c34611883af69b4dd1e4a8e7253677ad0e4bacba498",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c0514a",
+        "title": "A Man and a Woman Seen from the Back",
+        "url": "a-man-and-a-woman-seen-from-the-back-1886",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1886,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bccedc2cb3880ae725e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "chalk",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "couples",
+          "Sketch"
+        ],
+        "description": "",
+        "width": 710,
+        "image": "https://uploads4.wikiart.org/images/vincent-van-gogh/a-man-and-a-woman-seen-from-the-back-1886(1).jpg",
+        "height": 1121
+      },
+      "width": 710,
+      "height": 1121,
       "mime": null
     }
   ]
