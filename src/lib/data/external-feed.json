@@ -1,6 +1,76 @@
 {
-  "fetchedAt": "2026-06-02T19:28:04.327Z",
+  "fetchedAt": "2026-06-03T07:58:46.989Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-47a1c4f82acf",
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
+      "publishedAt": "2026-06-03T06:50:30.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f4de1dd77f24",
+      "title": "Why the Iran Talks Now Hang on Lebanon",
+      "url": "https://www.dropsitenews.com/p/iran-ceasefire-lebanon-adam-hamawy-trita-parsi",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Tehran suspended ceasefire negotiations over Israel’s escalating attacks in Lebanon and U.S.",
+      "publishedAt": "2026-06-02T23:10:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d237bb8c0176",
+      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
+      "publishedAt": "2026-06-02T22:52:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c1a75207071b",
+      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
+      "publishedAt": "2026-06-02T22:44:50.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1e19bd999269",
+      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
+      "publishedAt": "2026-06-02T22:12:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d31b55e6e9d3",
+      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
+      "publishedAt": "2026-06-02T21:54:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-dba9f821fe33",
+      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
+      "publishedAt": "2026-06-02T20:01:20.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-ae2a715c7c7d",
@@ -780,36 +850,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
       "publishedAt": "2026-05-27T08:33:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f610a7c6cd86",
-      "title": "Awakening Europe with Friedrich Nietzsche",
-      "url": "https://www.arktosjournal.com/p/awakening-europe-with-friedrich-nietzsche",
-      "publication": "Arktos Journal",
-      "author": "Jafe Arnold",
-      "excerpt": "Inspiration from the Institut Iliade",
-      "publishedAt": "2026-05-27T05:37:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e135034280c4",
-      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
-      "url": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
-      "publication": "BleepingComputer",
-      "author": "Ionut Ilascu",
-      "excerpt": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
-      "publishedAt": "2026-05-26T20:07:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6e9f72dd0bdb",
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "publishedAt": "2026-05-26T19:46:01.000Z"
     }
   ]
 }
