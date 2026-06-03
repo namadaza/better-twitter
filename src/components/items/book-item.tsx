@@ -1,6 +1,7 @@
 import type { FeedItem } from "@/lib/types";
 import { ExternalLink } from "lucide-react";
 import { Expandable } from "./expandable";
+import { GoogleSearchLink } from "./google-search";
 import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
 
 type Props = { item: Extract<FeedItem, { type: "book" }> };
@@ -18,6 +19,9 @@ function proseHeader(item: Extract<FeedItem, { type: "book" }>): string {
 export function BookItem({ item }: Props) {
   const header = item.format === "poem" ? poemHeader(item) : proseHeader(item);
   const collapsedMaxHeight = item.format === "poem" ? 420 : 360;
+  const searchText = [header, item.body, item.secondaryText, item.title]
+    .filter(Boolean)
+    .join(" · ");
 
   const headerNode = item.url ? (
     <a
@@ -58,7 +62,14 @@ export function BookItem({ item }: Props) {
       )}
       {item.format === "poem" && item.title && (
         <div className="mt-5 font-serif text-sm text-muted-foreground">
-          {item.title}
+          <span>{item.title}</span>
+          <span className="mx-2">·</span>
+          <GoogleSearchLink text={searchText} />
+        </div>
+      )}
+      {item.format !== "poem" && (
+        <div className="mt-5 font-serif text-sm text-muted-foreground">
+          <GoogleSearchLink text={searchText} />
         </div>
       )}
     </article>

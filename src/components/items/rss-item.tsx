@@ -1,5 +1,6 @@
 import type { FeedItem } from "@/lib/types";
 import { ExternalLink } from "lucide-react";
+import { GoogleSearchLink } from "./google-search";
 import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
 
 type Props = { item: Extract<FeedItem, { type: "rss" }> };
@@ -24,6 +25,9 @@ export function RssItem({ item }: Props) {
   const rel = relativeDate(item.publishedAt);
   const publicationLabel = `RSS · ${item.publication}`;
   const meta = [item.author, rel].filter(Boolean).join(" · ");
+  const searchText = [publicationLabel, item.title, item.excerpt, meta]
+    .filter(Boolean)
+    .join(" · ");
 
   return (
     <article className="px-4 py-8">
@@ -46,8 +50,12 @@ export function RssItem({ item }: Props) {
           {item.excerpt}
         </p>
       )}
-      {meta && (
-        <div className="font-serif text-sm text-muted-foreground">{meta}</div>
+      {(meta || searchText) && (
+        <div className="font-serif text-sm text-muted-foreground">
+          {meta && <span>{meta}</span>}
+          {meta && <span className="mx-2">·</span>}
+          <GoogleSearchLink text={searchText} />
+        </div>
       )}
     </article>
   );

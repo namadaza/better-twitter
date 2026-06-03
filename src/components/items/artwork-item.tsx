@@ -1,4 +1,5 @@
 import { ExternalLink } from "lucide-react";
+import { GoogleSearchLink } from "./google-search";
 import { FEED_ITEM_BODY_TEXT_CLASSNAME } from "./styles";
 import { formatArtist } from "./artwork-item.helpers";
 
@@ -39,6 +40,10 @@ export function ArtworkItem({ art }: { art: Artwork }) {
   const subtitle = [formattedArtist, completionYear]
     .filter(Boolean)
     .join(" · ");
+  const category = art.genres?.[0] ?? null;
+  const searchText = [title, subtitle, art.genres?.join(", "), art.license_name]
+    .filter(Boolean)
+    .join(" · ");
 
   return (
     <article className="px-4 py-8">
@@ -62,14 +67,9 @@ export function ArtworkItem({ art }: { art: Artwork }) {
         </div>
       )}
 
-      {art.genres && art.genres.length > 0 && (
-        <div className="mb-3 text-sm text-muted-foreground capitalize">
-          {art.genres.join(", ")}
-        </div>
-      )}
-
       <div className="mb-3 text-sm text-muted-foreground">
         {art.license_name}
+        {art.license_name && <span className="mx-2">·</span>}
         {art.license_url ? (
           <a
             href={art.license_url}
@@ -80,6 +80,12 @@ export function ArtworkItem({ art }: { art: Artwork }) {
             License <ExternalLink className="h-3.5 w-3.5" strokeWidth={1.75} />
           </a>
         ) : null}
+      </div>
+
+      <div className="font-serif text-sm text-muted-foreground capitalize">
+        {category && <span>{category}</span>}
+        {category && <span className="mx-2">·</span>}
+        <GoogleSearchLink text={searchText} />
       </div>
     </article>
   );
