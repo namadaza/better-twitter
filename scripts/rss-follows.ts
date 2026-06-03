@@ -1,6 +1,6 @@
 /**
  * Each entry is either a publication URL, where the ingest script appends
- * `/feed`, or a direct RSS feed URL ending in `/feed`.
+ * `/feed`, or a direct RSS feed URL ending in `/feed` or `/rss`.
  */
 export const RSS_FOLLOWS: string[] = [
   "https://www.afterbabel.com",
@@ -39,4 +39,5 @@ export const RSS_FOLLOWS: string[] = [
   "https://subscribe.martyrmade.com",
   "https://thewaxingcrescent.substack.com",
   "https://www.bleepingcomputer.com/feed/",
+  "https://www.wheresyoured.at/rss/",
 ];

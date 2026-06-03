@@ -79,7 +79,9 @@ function idFor(url: string): string {
 
 function feedUrlFor(source: string): string {
   const normalized = source.replace(/\/$/, "");
-  return normalized.endsWith("/feed") ? normalized : `${normalized}/feed`;
+  return normalized.endsWith("/feed") || normalized.endsWith("/rss")
+    ? normalized
+    : `${normalized}/feed`;
 }
 
 async function fetchPublication(source: string): Promise<RssItem[]> {
