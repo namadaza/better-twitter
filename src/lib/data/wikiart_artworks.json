@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-04T07:58:52.273Z",
+  "generated_at": "2026-06-04T19:29:12.265Z",
   "source": "wikiart",
-  "count": 384,
+  "count": 399,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -23117,6 +23117,977 @@
         "height": 1200
       },
       "width": 878,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92cfc",
+      "title": "Argenteuil",
+      "artist": "Manet Edouard",
+      "year": 1874,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Argenteuil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Argenteuil.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/edouard-manet/argenteuil-1874.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/argenteuil-1874",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:36.339Z",
+      "fingerprint_sha256": "5d5dd74a597da9a34732db20b2798047a40642001d446cfc803b097e154fae67",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92cfc",
+        "title": "Argenteuil",
+        "url": "argenteuil-1874",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1874,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Argenteuil / Argenteuil-sur-armançonFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 115,
+        "sizeY": 149,
+        "diameter": null,
+        "galleries": [
+          "Musée des Beaux-Arts Tournai, Tournai, Belgium"
+        ],
+        "tags": [
+          "couples",
+          "boats-and-ships",
+          "Seine",
+          "Soldier"
+        ],
+        "description": "",
+        "width": 747,
+        "image": "https://uploads8.wikiart.org/images/edouard-manet/argenteuil-1874.jpg",
+        "height": 1000
+      },
+      "width": 747,
+      "height": 1000,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92e10",
+      "title": "Berthe Morisot with a bouquet of violets",
+      "artist": "Manet Edouard",
+      "year": 1872,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Berthe_Morisot_with_a_bouquet_of_violets.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Berthe_Morisot_with_a_bouquet_of_violets.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/edouard-manet/berthe-morisot-with-a-bouquet-of-violets-1872.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/berthe-morisot-with-a-bouquet-of-violets-1872",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:39.047Z",
+      "fingerprint_sha256": "975dde21decdb3481091fbe6a82c2c1528774f52dffc73e1971cd23cf3ea04cc",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92e10",
+        "title": "Berthe Morisot with a bouquet of violets",
+        "url": "berthe-morisot-with-a-bouquet-of-violets-1872",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 39,
+        "sizeY": 55,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Berthe-Morisot",
+          "famous-people",
+          "female-portraits",
+          "Lady",
+          "Headgear"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads2.wikiart.org/images/edouard-manet/berthe-morisot-with-a-bouquet-of-violets-1872.jpg",
+        "height": 1121
+      },
+      "width": 800,
+      "height": 1121,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92fd4",
+      "title": "Head of a Man (Claude Monet)",
+      "artist": "Manet Edouard",
+      "year": 1874,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Head_of_a_Man_(Claude_Monet).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Head_of_a_Man_%28Claude_Monet%29.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/edouard-manet/head-of-a-man-claude-monet-1874.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/head-of-a-man-claude-monet-1874",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:41.590Z",
+      "fingerprint_sha256": "296d62823d7e25eed7714d772556817686bd3bccaa544cd35685d45fb1ab0962",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92fd4",
+        "title": "Head of a Man (Claude Monet)",
+        "url": "head-of-a-man-claude-monet-1874",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1874,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae734e",
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "pen",
+          "ink",
+          "paper"
+        ],
+        "sizeX": 14,
+        "sizeY": 17,
+        "diameter": null,
+        "galleries": [
+          "Musée Marmottan Monet, Paris, France"
+        ],
+        "tags": [
+          "male-portraits",
+          "famous-people",
+          "Claude-Monet",
+          "Sketch"
+        ],
+        "description": "",
+        "width": 850,
+        "image": "https://uploads4.wikiart.org/images/edouard-manet/head-of-a-man-claude-monet-1874.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 850,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92dc4",
+      "title": "Bathers on the Seine",
+      "artist": "Manet Edouard",
+      "year": 1875,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Bathers_on_the_Seine.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Bathers_on_the_Seine.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/bathers-on-seine.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/bathers-on-seine",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:43.901Z",
+      "fingerprint_sha256": "3909869f51374bc16990bc0f8e6efe20e31a60c950f15e9a0622ac9ba5153d08",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92dc4",
+        "title": "Bathers on the Seine",
+        "url": "bathers-on-seine",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1875,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Museo de Arte de Sao Paulo (MASP), Sao Paulo, Brazil"
+        ],
+        "tags": [
+          "female-nude",
+          "twilight-and-night",
+          "bathing-and-swimming",
+          "Lady",
+          "Mythology"
+        ],
+        "description": "",
+        "width": 862,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/bathers-on-seine.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 862,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726effedc2cb3880b9304a",
+      "title": "Isabelle Lemonnier with a muff",
+      "artist": "Manet Edouard",
+      "year": 1880,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Isabelle_Lemonnier_with_a_muff.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Isabelle_Lemonnier_with_a_muff.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/edouard-manet/isabelle-lemonnier-with-a-muff.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/isabelle-lemonnier-with-a-muff",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:46.665Z",
+      "fingerprint_sha256": "de8670fd72ca1d96de7be4b6ab898d24d18258a2d509435da3fe141ffb420e90",
+      "raw_extmetadata": {
+        "id": "57726effedc2cb3880b9304a",
+        "title": "Isabelle Lemonnier with a muff",
+        "url": "isabelle-lemonnier-with-a-muff",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 73,
+        "sizeY": 82,
+        "diameter": null,
+        "galleries": [
+          "Dallas Museum of Art, Dallas, TX, US"
+        ],
+        "tags": [
+          "female-portraits",
+          "Lady",
+          "Black hair"
+        ],
+        "description": "",
+        "width": 812,
+        "image": "https://uploads5.wikiart.org/images/edouard-manet/isabelle-lemonnier-with-a-muff.jpg",
+        "height": 1035
+      },
+      "width": 812,
+      "height": 1035,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92ed8",
+      "title": "Bundle of Asparagus",
+      "artist": "Manet Edouard",
+      "year": 1880,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Bundle_of_Asparagus.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Bundle_of_Asparagus.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/bundle-of-aspargus-1880.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/bundle-of-aspargus-1880",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:48.638Z",
+      "fingerprint_sha256": "b3b884c2b370fb31ce0ddac2a66d69c0a924397bf6e471d3536ed5a5c112f05f",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92ed8",
+        "title": "Bundle of Asparagus",
+        "url": "bundle-of-aspargus-1880",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Wallraf-Richartz Museum, Cologne, Germany"
+        ],
+        "tags": [
+          "fruits-and-vegetables"
+        ],
+        "description": "",
+        "width": 669,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/bundle-of-aspargus-1880.jpg",
+        "height": 555
+      },
+      "width": 669,
+      "height": 555,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92c38",
+      "title": "A Corner of the Garden in Rueil",
+      "artist": "Manet Edouard",
+      "year": 1882,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_Corner_of_the_Garden_in_Rueil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_Corner_of_the_Garden_in_Rueil.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/edouard-manet/a-corner-of-the-garden-in-rueil-1882.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-corner-of-the-garden-in-rueil-1882",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:51.227Z",
+      "fingerprint_sha256": "6b477d45b03ae3219f6c73dde8730b5059026cdcd8d99b78d42d7c3683db7a8a",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92c38",
+        "title": "A Corner of the Garden in Rueil",
+        "url": "a-corner-of-the-garden-in-rueil-1882",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e30",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée des Beaux-Arts de Dijon, Dijon, France"
+        ],
+        "tags": [
+          "gardens-and-parks",
+          "Tree",
+          "Woody plant",
+          "Plant"
+        ],
+        "description": "",
+        "width": 842,
+        "image": "https://uploads2.wikiart.org/images/edouard-manet/a-corner-of-the-garden-in-rueil-1882.jpg",
+        "height": 1065
+      },
+      "width": 842,
+      "height": 1065,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726effedc2cb3880b93022",
+      "title": "Interior at Arcachon",
+      "artist": "Manet Edouard",
+      "year": 1871,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Interior_at_Arcachon.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Interior_at_Arcachon.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/edouard-manet/interior-at-arcachon-1871.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/interior-at-arcachon-1871",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:53.993Z",
+      "fingerprint_sha256": "34603806461f3144c0ed0ade184cd744abcd20b066bbb7bd64932803c3853a27",
+      "raw_extmetadata": {
+        "id": "57726effedc2cb3880b93022",
+        "title": "Interior at Arcachon",
+        "url": "interior-at-arcachon-1871",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1871,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 53.7,
+        "sizeY": 39.4,
+        "diameter": null,
+        "galleries": [
+          "Clark Art Institute, Williamstown, MA, US"
+        ],
+        "tags": [
+          "reading-and-writing",
+          "furniture-and-decoration",
+          "Sitting",
+          "Gentleman"
+        ],
+        "description": "",
+        "width": 1130,
+        "image": "https://uploads0.wikiart.org/images/edouard-manet/interior-at-arcachon-1871.jpg",
+        "height": 840
+      },
+      "width": 1130,
+      "height": 840,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726effedc2cb3880b93036",
+      "title": "Interior of a Café",
+      "artist": "Manet Edouard",
+      "year": 1880,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Interior_of_a_Caf.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Interior_of_a_Caf.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/edouard-manet/interior-of-a-café.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/interior-of-a-café",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:56.479Z",
+      "fingerprint_sha256": "be0d853dea32f1759591a68ad60a12280545c4769db243f5e5e321e8645ff7c8",
+      "raw_extmetadata": {
+        "id": "57726effedc2cb3880b93036",
+        "title": "Interior of a Café",
+        "url": "interior-of-a-café",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Kelvingrove Art Gallery and Museum, Glasgow, UK"
+        ],
+        "tags": [
+          "furniture-and-decoration",
+          "mealtimes",
+          "cafes-and-restaurants",
+          "Room"
+        ],
+        "description": "",
+        "width": 771,
+        "image": "https://uploads2.wikiart.org/images/edouard-manet/interior-of-a-café.jpg",
+        "height": 543
+      },
+      "width": 771,
+      "height": 543,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92c10",
+      "title": "A brioche",
+      "artist": "Manet Edouard",
+      "year": 1870,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_brioche.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_brioche.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/a-brioche-1870.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-brioche-1870",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:28:58.640Z",
+      "fingerprint_sha256": "d55f45ff4359e07f48cc0a07c2985433b85c34276eabec5483e2c5cc7928ea96",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92c10",
+        "title": "A brioche",
+        "url": "a-brioche-1870",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1870,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "flowers-and-plants",
+          "dishware-and-cutlery",
+          "food-and-beverages",
+          "Still life photography"
+        ],
+        "description": "",
+        "width": 708,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/a-brioche-1870.jpg",
+        "height": 557
+      },
+      "width": 708,
+      "height": 557,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92e24",
+      "title": "Berthe Morisot with a Fan",
+      "artist": "Manet Edouard",
+      "year": 1872,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Berthe_Morisot_with_a_Fan.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Berthe_Morisot_with_a_Fan.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/edouard-manet/berthe-morisot-with-a-fan-1872.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/berthe-morisot-with-a-fan-1872",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:29:01.142Z",
+      "fingerprint_sha256": "0988521e7b98c79825c48accd797fb4ab57b8a4bef65181a6969299d0aaed0ce",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92e24",
+        "title": "Berthe Morisot with a Fan",
+        "url": "berthe-morisot-with-a-fan-1872",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 45,
+        "sizeY": 60,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "Berthe-Morisot",
+          "famous-people",
+          "female-portraits"
+        ],
+        "description": "",
+        "width": 838,
+        "image": "https://uploads5.wikiart.org/images/edouard-manet/berthe-morisot-with-a-fan-1872.jpg",
+        "height": 1121
+      },
+      "width": 838,
+      "height": 1121,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92ffc",
+      "title": "In the bar \"Le Bouchon\"",
+      "artist": "Manet Edouard",
+      "year": 1879,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/In_the_bar_Le_Bouchon.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/In_the_bar_Le_Bouchon.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/edouard-manet/in-the-bar-le-bouchon.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/in-the-bar-le-bouchon",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:29:03.875Z",
+      "fingerprint_sha256": "a494924a0a9006784fae7b5345cbf669f63145770547992a9ba52bc8305551fb",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92ffc",
+        "title": "In the bar \"Le Bouchon\"",
+        "url": "in-the-bar-le-bouchon",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1879,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Pushkin Museum, Moscow, Russia"
+        ],
+        "tags": [
+          "taverns-and-inns",
+          "Lady"
+        ],
+        "description": "",
+        "width": 1549,
+        "image": "https://uploads3.wikiart.org/images/edouard-manet/in-the-bar-le-bouchon.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1549,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92e4c",
+      "title": "Bouquet of flowers",
+      "artist": "Manet Edouard",
+      "year": 1882,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Bouquet_of_flowers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Bouquet_of_flowers.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/bouquet-of-flowers-1882.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/bouquet-of-flowers-1882",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:29:06.465Z",
+      "fingerprint_sha256": "daca80d814462b8a0960a2b28e434c55829d4a19e6bff41b8cc672aa651c7d60",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92e4c",
+        "title": "Bouquet of flowers",
+        "url": "bouquet-of-flowers-1882",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 44.5,
+        "sizeY": 56.5,
+        "diameter": null,
+        "galleries": [
+          "Murauchi Art Museum, Tokyo, Japan"
+        ],
+        "tags": [
+          "flowers-and-plants",
+          "Still life photography",
+          "Vase",
+          "Flower",
+          "Garden roses",
+          "Cut flowers",
+          "Plant",
+          "Rose"
+        ],
+        "description": "",
+        "width": 849,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/bouquet-of-flowers-1882.jpg",
+        "height": 1119
+      },
+      "width": 849,
+      "height": 1119,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726effedc2cb3880b93072",
+      "title": "Jesus mocked by the Soldiers",
+      "artist": "Manet Edouard",
+      "year": 1865,
+      "genres": [
+        "religious painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Jesus_mocked_by_the_Soldiers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Jesus_mocked_by_the_Soldiers.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00227/images/edouard-manet/douard-manet-jesus-mocked-by-the-soldiers-google-art-project.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/jesus-mocked-by-the-soldiers-1865",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:29:08.995Z",
+      "fingerprint_sha256": "a5b7e4ba930d2960f1f6b51f9af652328918ebef3f6590a6f098583ce1b22d9e",
+      "raw_extmetadata": {
+        "id": "57726effedc2cb3880b93072",
+        "title": "Jesus mocked by the Soldiers",
+        "url": "jesus-mocked-by-the-soldiers-1865",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1865,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ef8",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 147,
+        "sizeY": 191,
+        "diameter": null,
+        "galleries": [
+          "Art Institute of Chicago, Chicago, IL, US"
+        ],
+        "tags": [
+          "Jesus-Christ",
+          "punishments-and-tortures"
+        ],
+        "description": "",
+        "width": 921,
+        "image": "https://uploads4.wikiart.org/00227/images/edouard-manet/douard-manet-jesus-mocked-by-the-soldiers-google-art-project.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 921,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92d9c",
+      "title": "A Bar at the Folies-Bergere",
+      "artist": "Manet Edouard",
+      "year": 1882,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_Bar_at_the_Folies-Bergere.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_Bar_at_the_Folies-Bergere.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/00129/images/edouard-manet/a-bar-at-the-folies-bergere.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-bar-at-the-folies-bergere-1882-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T19:29:11.863Z",
+      "fingerprint_sha256": "32eb27e7c55f7912c3b7399f5da257da111ab8e105b6cfb45b9b6d2f0d1e4a83",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92d9c",
+        "title": "A Bar at the Folies-Bergere",
+        "url": "a-bar-at-the-folies-bergere-1882-1",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 130,
+        "sizeY": 96,
+        "diameter": null,
+        "galleries": [
+          "Courtauld Institute of Art, London, UK",
+          "Courtauld Gallery, London, UK"
+        ],
+        "tags": [
+          "female-portraits",
+          "taverns-and-inns"
+        ],
+        "description": "This painting, depicting a scene at the Folies-Bergere nightclub in Paris, is considered Manet’s last major work. It can also be seen as early twentieth century product placement, with the beers in the foreground on the bar, which are clearly Bass Pale Ale. As England’s first registered trademark, this indicated an English clientele at the bar that night. There has also been much commentary on the composition of the painting, which at first seems to be a mirror image of the girl in the background. Upon closer inspection, however, it is obvious that the placement is incorrect, that it cannot be a mirror image. Other conjectures include that the woman in the foreground is the illustration of what the man in the background is seeing upon approaching the bar. \r\n",
+        "width": 1608,
+        "image": "https://uploads7.wikiart.org/00129/images/edouard-manet/a-bar-at-the-folies-bergere.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1608,
       "height": 1200,
       "mime": null
     }

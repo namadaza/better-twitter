@@ -1,6 +1,96 @@
 {
-  "fetchedAt": "2026-06-04T07:52:13.236Z",
+  "fetchedAt": "2026-06-04T19:23:32.521Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-981e2a357cc4",
+      "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts.  [...]",
+      "publishedAt": "2026-06-04T18:36:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-87b4a03b0754",
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+      "url": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
+      "publishedAt": "2026-06-04T16:38:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5c4b23372b95",
+      "title": "Israel kills 11 in strikes on Gaza; Hezbollah rejects “illusory” ceasefire as Israeli assault continues; House passes war powers resolution",
+      "url": "https://www.dropsitenews.com/p/israel-gaza-hezbollah-lebanon-ceasefire-war-powers",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 4, 2026",
+      "publishedAt": "2026-06-04T15:37:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-64cd0280db48",
+      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
+      "publishedAt": "2026-06-04T15:25:37.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-037b20bc593e",
+      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Flare",
+      "excerpt": "Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker workflows. [...]",
+      "publishedAt": "2026-06-04T14:01:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-803b715fa386",
+      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "On Wednesday, Microsoft fixed an issue that caused some Windows devices to install driver updates without notice despite policies configured to prevent auto-updates. [...]",
+      "publishedAt": "2026-06-04T13:41:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a0cd997864db",
+      "title": "Police dismantles fake ID marketplace used by migrant smugglers",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "French and Spanish authorities took down an online marketplace selling fake identity documents to migrant smuggling rings operating within the European Union. [...]",
+      "publishedAt": "2026-06-04T12:29:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-027ae5489561",
+      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Cisco has released security updates to patch a critical-severity Unified Communications Manager (Unified CM) flaw that allows attackers to gain root privileges. [...]",
+      "publishedAt": "2026-06-04T11:09:50.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-be386a42fe40",
+      "title": "From Conspiracy to Curse: An Interview with Laurent Guyénot",
+      "url": "https://www.arktosjournal.com/p/from-conspiracy-to-curse-an-interview",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Alexander Markovics",
+      "publishedAt": "2026-06-04T08:02:07.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-5044069f721e",
@@ -719,76 +809,6 @@
       "author": "Michael Burry",
       "excerpt": "Part 2 of a 6-Part Series Covering 50 Software & Payments Stocks",
       "publishedAt": "2026-05-28T20:13:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b7b1202d71e3",
-      "title": "Is AI Going to Destroy Our Lives or Not?",
-      "url": "https://kyla.substack.com/p/is-ai-going-to-destroy-our-lives",
-      "publication": "Kyla’s Newsletter",
-      "author": "kyla scanlon",
-      "excerpt": "dimensionality, freeze-dried food, the SpaceX IPO, and what to do about all of it",
-      "publishedAt": "2026-05-28T17:58:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a46dbcc271c4",
-      "title": "Hungry Palestinians in Gaza Protest World Central Kitchen Scaling Back Amid Rising Food Costs and Israeli Blockade",
-      "url": "https://www.dropsitenews.com/p/gaza-world-central-kitchen-food-hunger-israel-blockade",
-      "publication": "Drop Site News",
-      "author": "Abdel Qader Sabbah",
-      "excerpt": "“If the World Central Kitchen stops, there will be no breakfast, no lunch, and no dinner.”",
-      "publishedAt": "2026-05-28T17:02:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-16e319f19a87",
-      "title": "Open Tab: Kevin Kelly",
-      "url": "https://on.substack.com/p/open-tab-kevin-kelly",
-      "publication": "On Substack",
-      "author": "Kevin Kelly",
-      "excerpt": "The radical optimist on starting Wired, stories from the early internet, originating 1,000 True Fans, and why the only way to steer technology is to use it",
-      "publishedAt": "2026-05-28T16:02:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2cf70df9f9eb",
-      "title": "Israeli strikes kill 16 in Gaza on Eid Al-Adha; Trump threatens to “blow up” Oman; DOJ opens perjury investigation into E. Jean Carroll",
-      "url": "https://www.dropsitenews.com/p/israeli-gaza-eid-trump-oman-doj-jean-carrol",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 28, 2026",
-      "publishedAt": "2026-05-28T15:17:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3026faf67350",
-      "title": "Live Briefing — Sunday, May 31, 4pm CT 5pm ET",
-      "url": "https://escalationtrap.substack.com/p/live-briefing-sunday-may-31-4pm-ct",
-      "publication": "Escalation Trap",
-      "author": "Prof Robert Pape",
-      "excerpt": "The Iran War and the New Age of Instability",
-      "publishedAt": "2026-05-28T14:50:40.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-38aaa82f0198",
-      "title": "How a DEA Sting Sparked a Colombian Insurgency",
-      "url": "https://www.dropsitenews.com/p/dea-colombia-segunda-marquetalia-venezuela-maduro-santrich-petro",
-      "publication": "Drop Site News",
-      "author": "Jose Olivares",
-      "excerpt": "The U.S. claims former Venezuelan President Nicolás Maduro backed “narco-terrorist” groups. One of them was Washington’s creation.",
-      "publishedAt": "2026-05-28T13:00:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c5f7f7befbb0",
-      "title": "Cómo una operación encubierta de la DEA dio origen a una insurgencia colombiana",
-      "url": "https://www.dropsitenews.com/p/maduro-santrich-petro-segunda-marquetalia-dea-colombia-venezuela",
-      "publication": "Drop Site News",
-      "author": "Jose Olivares",
-      "excerpt": "Estados Unidos afirma que el expresidente venezolano Nicolás Maduro respaldó a grupos “narcoterroristas”. Uno de ellos fue creación de Washington.",
-      "publishedAt": "2026-05-28T13:00:06.000Z"
     }
   ]
 }
