@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-06-03T19:32:29.339Z",
+  "fetchedAt": "2026-06-04T07:52:13.236Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-5044069f721e",
+      "title": "Midweek Scroll: Some very unfortunate AI news",
+      "url": "https://www.infinitescroll.us/p/midweek-scroll-some-very-unfortunate",
+      "publication": "Infinite Scroll",
+      "author": "Jeremiah Johnson",
+      "excerpt": "Plus! YouTubers in the box office, BookTok drama, and a very good Odyssey post",
+      "publishedAt": "2026-06-03T23:24:54.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bc0bcf779860",
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
+      "publishedAt": "2026-06-03T21:45:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0fb989d3deac",
+      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
+      "url": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
+      "publishedAt": "2026-06-03T20:31:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-059dd9037ab4",
+      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tanks across various critical infrastructure sectors. [...]",
+      "publishedAt": "2026-06-03T20:21:56.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-491cc6fbb841",

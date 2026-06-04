@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-03T19:39:32.509Z",
+  "generated_at": "2026-06-04T07:58:52.273Z",
   "source": "wikiart",
-  "count": 369,
+  "count": 384,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -22184,6 +22184,940 @@
       },
       "width": 710,
       "height": 1121,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbfc9",
+      "title": "Vegetable garden of the Vineyard",
+      "artist": "Rusinol Santiago",
+      "year": 1892,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Vegetable_garden_of_the_Vineyard.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Vegetable_garden_of_the_Vineyard.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/santiago-rusinol/huerto-del-vinyet-1892.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/huerto-del-vinyet-1892",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:13.844Z",
+      "fingerprint_sha256": "65c1db26047133e24a44d3d5b6033b8dec9d5b53d6898718cf3eda641bfc7bed",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbfc9",
+        "title": "Vegetable garden of the Vineyard",
+        "url": "huerto-del-vinyet-1892",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1892,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads0.wikiart.org/images/santiago-rusinol/huerto-del-vinyet-1892.jpg",
+        "height": 597
+      },
+      "width": 640,
+      "height": 597,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728460edc2cb3880fdc139",
+      "title": "The Shooting Gallery, Moulin de la Galette",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/The_Shooting_Gallery,_Moulin_de_la_Galette.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/The_Shooting_Gallery%2C_Moulin_de_la_Galette.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/santiago-rusinol/the-shooting-gallery-moulin-de-la-galette.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/the-shooting-gallery-moulin-de-la-galette",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:18.383Z",
+      "fingerprint_sha256": "b603beb989381b127626eb5ac5dfe4e42ee9241b367b85bf2812d0374bdc4f88",
+      "raw_extmetadata": {
+        "id": "57728460edc2cb3880fdc139",
+        "title": "The Shooting Gallery, Moulin de la Galette",
+        "url": "the-shooting-gallery-moulin-de-la-galette",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Room"
+        ],
+        "description": "",
+        "width": 625,
+        "image": "https://uploads1.wikiart.org/images/santiago-rusinol/the-shooting-gallery-moulin-de-la-galette.jpg",
+        "height": 750
+      },
+      "width": 625,
+      "height": 750,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc0b9",
+      "title": "Mr.Quer in the Garden",
+      "artist": "Rusinol Santiago",
+      "year": 1889,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Mr.Quer_in_the_Garden.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Mr.Quer_in_the_Garden.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/santiago-rusinol/senyor-quer-in-the-garden-1889.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/senyor-quer-in-the-garden-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:22.736Z",
+      "fingerprint_sha256": "bfd2b5128532ad0879cb766f640ae5159ee5b675bd6da14e4de1aefb03262884",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc0b9",
+        "title": "Mr.Quer in the Garden",
+        "url": "senyor-quer-in-the-garden-1889",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Barcelona, CataloniaSpain",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 113.5,
+        "sizeY": 171,
+        "diameter": null,
+        "galleries": [
+          "Museu Nacional d'Art de Catalunya (MNAC), Barcelona, Spain"
+        ],
+        "tags": [
+          "Photograph",
+          "Standing",
+          "Male",
+          "Tree",
+          "Gentleman",
+          "Tints and shades",
+          "male-portraits"
+        ],
+        "description": "",
+        "width": 658,
+        "image": "https://uploads8.wikiart.org/images/santiago-rusinol/senyor-quer-in-the-garden-1889.jpg",
+        "height": 1024
+      },
+      "width": 658,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc009",
+      "title": "Gardens of Aranjuez (2)",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Gardens_of_Aranjuez_(2).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Gardens_of_Aranjuez_%282%29.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/santiago-rusinol/jardines-de-aranjuez-2.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/jardines-de-aranjuez-2",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:26.980Z",
+      "fingerprint_sha256": "f96d2f258b80269d346e1a1bc662a6bd139fa4c4818d78395891278334de4661",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc009",
+        "title": "Gardens of Aranjuez (2)",
+        "url": "jardines-de-aranjuez-2",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Nature",
+          "Reflection",
+          "Natural landscape",
+          "Tree",
+          "Water",
+          "Botany",
+          "Leaf",
+          "Waterway",
+          "Pond"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads0.wikiart.org/images/santiago-rusinol/jardines-de-aranjuez-2.jpg",
+        "height": 627
+      },
+      "width": 800,
+      "height": 627,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbfe9",
+      "title": "The Garden of Elegies at Son Moragues",
+      "artist": "Rusinol Santiago",
+      "year": 1903,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/The_Garden_of_Elegies_at_Son_Moragues.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/The_Garden_of_Elegies_at_Son_Moragues.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/santiago-rusinol/jard-n-de-las-eleg-as-son-moragues-1903.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/jard-n-de-las-eleg-as-son-moragues-1903",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:32.093Z",
+      "fingerprint_sha256": "4662682d483d02a4d53f810e12dca8a50642f465669baad5d9313bc74b008ce9",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbfe9",
+        "title": "The Garden of Elegies at Son Moragues",
+        "url": "jard-n-de-las-eleg-as-son-moragues-1903",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1903,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Water",
+          "Tree",
+          "Botany",
+          "Pond",
+          "Garden"
+        ],
+        "description": "",
+        "width": 1205,
+        "image": "https://uploads8.wikiart.org/images/santiago-rusinol/jard-n-de-las-eleg-as-son-moragues-1903.jpg",
+        "height": 952
+      },
+      "width": 1205,
+      "height": 952,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc019",
+      "title": "Gardens of Aranjuez (3)",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Gardens_of_Aranjuez_(3).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Gardens_of_Aranjuez_%283%29.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/santiago-rusinol/jardines-de-aranjuez.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/jardines-de-aranjuez",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:36.540Z",
+      "fingerprint_sha256": "8e7fa94dd297357b355f6aac752df36d42edf3ffb13f06522e53da4cbb1cf8a4",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc019",
+        "title": "Gardens of Aranjuez (3)",
+        "url": "jardines-de-aranjuez",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Nature",
+          "Natural landscape",
+          "Tree",
+          "Leaf",
+          "autumn",
+          "Biome",
+          "Botany",
+          "Plant",
+          "Garden"
+        ],
+        "description": "",
+        "width": 500,
+        "image": "https://uploads7.wikiart.org/images/santiago-rusinol/jardines-de-aranjuez.jpg",
+        "height": 399
+      },
+      "width": 500,
+      "height": 399,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbf59",
+      "title": "Bridge over a river",
+      "artist": "Rusinol Santiago",
+      "year": 1884,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Bridge_over_a_river.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Bridge_over_a_river.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/santiago-rusinol/bridge-over-a-river-1884.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/bridge-over-a-river-1884",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:40.921Z",
+      "fingerprint_sha256": "5aa5817af6b19366ce2ca9b2bd893d4c7dc6b6bb6ad8bd5c4148212079f7f56e",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbf59",
+        "title": "Bridge over a river",
+        "url": "bridge-over-a-river-1884",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1884,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 65,
+        "sizeY": 45,
+        "diameter": null,
+        "galleries": [
+          "Generalitat de Catalunya, Barcelona, Spain"
+        ],
+        "tags": [
+          "Nature",
+          "Bank",
+          "Water",
+          "River",
+          "Waterway",
+          "Tree",
+          "Sky",
+          "Watercourse",
+          "Reflection",
+          "Bridge"
+        ],
+        "description": "",
+        "width": 709,
+        "image": "https://uploads2.wikiart.org/images/santiago-rusinol/bridge-over-a-river-1884.jpg",
+        "height": 1024
+      },
+      "width": 709,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdbf89",
+      "title": "The valley of Los Naranjos",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/The_valley_of_Los_Naranjos.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/The_valley_of_Los_Naranjos.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/santiago-rusinol/el-valle-de-los-naranjos.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/el-valle-de-los-naranjos",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:45.087Z",
+      "fingerprint_sha256": "e939bdca45f35f8f9b3f2643627fde8ccc0497a6e5b289175c370532fd202735",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdbf89",
+        "title": "The valley of Los Naranjos",
+        "url": "el-valle-de-los-naranjos",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Nature",
+          "Natural landscape",
+          "Wilderness",
+          "Leaf",
+          "Tree"
+        ],
+        "description": "",
+        "width": 751,
+        "image": "https://uploads2.wikiart.org/images/santiago-rusinol/el-valle-de-los-naranjos.jpg",
+        "height": 600
+      },
+      "width": 751,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772845fedc2cb3880fdc069",
+      "title": "Moulin de la Galette",
+      "artist": "Rusinol Santiago",
+      "year": 1891,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/Moulin_de_la_Galette.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/Moulin_de_la_Galette.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/santiago-rusinol/moulin-de-la-galette-1891.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/moulin-de-la-galette-1891",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:49.187Z",
+      "fingerprint_sha256": "9b6ad95dfa9fc172ffb8d161260f8b4744b448b9e40e0f3c6225f26be0958e85",
+      "raw_extmetadata": {
+        "id": "5772845fedc2cb3880fdc069",
+        "title": "Moulin de la Galette",
+        "url": "moulin-de-la-galette-1891",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": 1891,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Museu Nacional d'Art de Catalunya (MNAC), Barcelona, Spain"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 740,
+        "image": "https://uploads3.wikiart.org/images/santiago-rusinol/moulin-de-la-galette-1891.jpg",
+        "height": 593
+      },
+      "width": 740,
+      "height": 593,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728460edc2cb3880fdc159",
+      "title": "View of Granada",
+      "artist": "Rusinol Santiago",
+      "year": null,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "santiago-rusinol",
+      "blob_path": "better-twitter/artwork/images/wikiart/santiago-rusinol/View_of_Granada.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/santiago-rusinol/View_of_Granada.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/santiago-rusinol/view-of-granada.jpg",
+      "source_file_page": "https://www.wikiart.org/en/santiago-rusinol/view-of-granada",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:57:53.444Z",
+      "fingerprint_sha256": "76b0f34c94cc797074c1e5cc387970b728cb7c5450af726c4bb42a9c1af7c163",
+      "raw_extmetadata": {
+        "id": "57728460edc2cb3880fdc159",
+        "title": "View of Granada",
+        "url": "view-of-granada",
+        "artistUrl": "santiago-rusinol",
+        "artistName": "Rusinol Santiago",
+        "artistId": "57726dc4edc2cb3880b4fc22",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Bridge",
+          "Viaduct"
+        ],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads2.wikiart.org/images/santiago-rusinol/view-of-granada.jpg",
+        "height": 534
+      },
+      "width": 640,
+      "height": 534,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c053a6",
+      "title": "Absinthe",
+      "artist": "van Gogh Vincent ",
+      "year": 1887,
+      "genres": [
+        "still life"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/Absinthe.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/Absinthe.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/vincent-van-gogh/absinthe-1887(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/absinthe-1887",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:58:28.994Z",
+      "fingerprint_sha256": "9e425bd4ada3d85b98f7173be462fbc846c7576731617894c1539b4111329202",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c053a6",
+        "title": "Absinthe",
+        "url": "absinthe-1887",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1887,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "taverns-and-inns",
+          "food-and-beverages"
+        ],
+        "description": "",
+        "width": 846,
+        "image": "https://uploads1.wikiart.org/images/vincent-van-gogh/absinthe-1887(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 846,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c052c2",
+      "title": "A Sheet with Sketches",
+      "artist": "van Gogh Vincent ",
+      "year": 1883,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Sheet_with_Sketches.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Sheet_with_Sketches.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-sheet-with-sketches-1883(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-sheet-with-sketches-1883",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:58:38.152Z",
+      "fingerprint_sha256": "4c7e2b35a86ac4e46a17b19f50955775ab4e4926c97c2ab34831c0317248e0b3",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c052c2",
+        "title": "A Sheet with Sketches",
+        "url": "a-sheet-with-sketches-1883",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1883,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Nunen / NuenenNetherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "ink",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "female-portraits",
+          "countryside",
+          "handwork"
+        ],
+        "description": "",
+        "width": 662,
+        "image": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-sheet-with-sketches-1883(1).jpg",
+        "height": 1024
+      },
+      "width": 662,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c053e2",
+      "title": "Alychamps",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/Alychamps.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/Alychamps.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/alychamps-1888(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/alychamps-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:58:43.227Z",
+      "fingerprint_sha256": "adf0f92fb3dbf921ecf5e052cc80410976caaaee860a32f8243d2feb8943a6ef",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c053e2",
+        "title": "Alychamps",
+        "url": "alychamps-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 73.5,
+        "sizeY": 92,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "autumn",
+          "gardens-and-parks",
+          "walking",
+          "Tree",
+          "Northern hardwood forest"
+        ],
+        "description": "",
+        "width": 947,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/alychamps-1888(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 947,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c05286",
+      "title": "A Public Garden with People Walking in the Rain",
+      "artist": "van Gogh Vincent ",
+      "year": 1886,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Public_Garden_with_People_Walking_in_the_Rain.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Public_Garden_with_People_Walking_in_the_Rain.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-public-garden-with-people-walking-in-the-rain-1886(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-public-garden-with-people-walking-in-the-rain-1886",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:58:47.168Z",
+      "fingerprint_sha256": "77dcc9b11a73c00e1bf7a641c46c5c8dbba6f03ffd8dbba06d0260077bc43160",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c05286",
+        "title": "A Public Garden with People Walking in the Rain",
+        "url": "a-public-garden-with-people-walking-in-the-rain-1886",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1886,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bccedc2cb3880ae725e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "chalk",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "rain-and-fog",
+          "walking",
+          "Water",
+          "Tree"
+        ],
+        "description": "",
+        "width": 1078,
+        "image": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-public-garden-with-people-walking-in-the-rain-1886(1).jpg",
+        "height": 813
+      },
+      "width": 1078,
+      "height": 813,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c053ce",
+      "title": "Almond Tree in Blossom",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/Almond_Tree_in_Blossom.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/Almond_Tree_in_Blossom.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/vincent-van-gogh/almond-tree-in-blossom-1888(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/almond-tree-in-blossom-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-04T07:58:51.872Z",
+      "fingerprint_sha256": "a53e6b213ec4e3931034adbb309656cef71ab1bd74927c3a6c7191214c0dfd31",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c053ce",
+        "title": "Almond Tree in Blossom",
+        "url": "almond-tree-in-blossom-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 35.5,
+        "sizeY": 48.3,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "spring",
+          "flowers-and-plants",
+          "gardens-and-parks",
+          "Tree",
+          "Branch",
+          "Plant",
+          "Flower",
+          "Leaf",
+          "Woody plant",
+          "Twig",
+          "Blossom"
+        ],
+        "description": "",
+        "width": 878,
+        "image": "https://uploads6.wikiart.org/images/vincent-van-gogh/almond-tree-in-blossom-1888(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 878,
+      "height": 1200,
       "mime": null
     }
   ]
