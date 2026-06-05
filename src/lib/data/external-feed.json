@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-06-04T19:23:32.521Z",
+  "fetchedAt": "2026-06-05T01:16:27.541Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-1d9e97e194fe",
+      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
+      "url": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]",
+      "publishedAt": "2026-06-04T21:37:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f847ed6c330d",
+      "title": "Hola Browser for Windows compromised to deliver cryptominer",
+      "url": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
+      "publishedAt": "2026-06-04T21:27:25.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f10fecad5eed",
+      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
+      "url": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
+      "publishedAt": "2026-06-04T20:47:16.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-981e2a357cc4",
@@ -750,65 +780,6 @@
       "author": "Michael Burry",
       "excerpt": "Part 2 of a 6-Part Series Covering 50 Software & Payments Stocks",
       "publishedAt": "2026-05-29T05:43:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-797ec969ea1e",
-      "title": "Noble Update May 28 subscriber call recording",
-      "url": "https://georgenoble.substack.com/p/noble-update-may-28-subscriber-call",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "publishedAt": "2026-05-29T01:12:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-aeb3382b76d8",
-      "title": "20k subscribers celebration post + AMA + giveaway",
-      "url": "https://www.beautyofsaas.com/p/20k-subscribers-celebration-post",
-      "publication": "BOSS Letter",
-      "author": "BOSS Letter",
-      "excerpt": "143: The best is yet to come...",
-      "publishedAt": "2026-05-28T21:38:45.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a54a4ea2d757",
-      "title": "Claude Opus 4.8 is here. Is it as good as they say?",
-      "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️My first impressions of Opus 4.8—where it excels and where it falls short",
-      "publishedAt": "2026-05-28T21:35:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0edb3d824735",
-      "title": "The Health Ranger Interview: Why the Iran War Is Becoming a Global Instability Crisis",
-      "url": "https://escalationtrap.substack.com/p/the-health-ranger-interview-why-the",
-      "publication": "Escalation Trap",
-      "author": "Prof Robert Pape",
-      "excerpt": "Yesterday I joined the Health Ranger for an extended discussion on the Iran war, energy shocks, escalation dynamics, and the larger geopolitical transformation unfolding beneath the conflict.",
-      "publishedAt": "2026-05-28T20:36:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-778480ebe982",
-      "title": "Tyre is Now the Epicenter of Israel’s Assault on Lebanon",
-      "url": "https://www.dropsitenews.com/p/tyre-sour-lebanon-israeli-assault-displacement",
-      "publication": "Drop Site News",
-      "author": "Lylla Younes",
-      "excerpt": "“It was the worst night since the start of the war, and this has been the worst war we have seen.”",
-      "publishedAt": "2026-05-28T20:20:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a808121a8681",
-      "title": "Software & Payments Stocks Part II: Productivity Tools and Cybersecurity",
-      "url": "https://michaeljburry.substack.com/p/50-software-and-payments-stocks-part",
-      "publication": "Cassandra Unchained",
-      "author": "Michael Burry",
-      "excerpt": "Part 2 of a 6-Part Series Covering 50 Software & Payments Stocks",
-      "publishedAt": "2026-05-28T20:13:32.000Z"
     }
   ]
 }

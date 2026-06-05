@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-04T19:29:12.265Z",
+  "generated_at": "2026-06-05T01:22:12.514Z",
   "source": "wikiart",
-  "count": 399,
+  "count": 414,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -24089,6 +24089,971 @@
       },
       "width": 1608,
       "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92e74",
+      "title": "Boy Blowing Bubbles",
+      "artist": "Manet Edouard",
+      "year": 1869,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Boy_Blowing_Bubbles.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Boy_Blowing_Bubbles.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/edouard-manet/boy-blowing-bubbles-1869.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/boy-blowing-bubbles-1869",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:14.575Z",
+      "fingerprint_sha256": "ea6aa0d8b5d330ddb355bd2bbe302a29d22fccbca77ac2b76c286f4c1f4203c9",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92e74",
+        "title": "Boy Blowing Bubbles",
+        "url": "boy-blowing-bubbles-1869",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1869,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 81.4,
+        "sizeY": 100.5,
+        "diameter": null,
+        "galleries": [
+          "Calouste Gulbenkian Museum, Lisbon, Portugal"
+        ],
+        "tags": [
+          "children",
+          "toys-and-dolls"
+        ],
+        "description": "",
+        "width": 967,
+        "image": "https://uploads8.wikiart.org/images/edouard-manet/boy-blowing-bubbles-1869.jpg",
+        "height": 1199
+      },
+      "width": 967,
+      "height": 1199,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92d60",
+      "title": "At the Cafe-Concert",
+      "artist": "Manet Edouard",
+      "year": 1879,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/At_the_Cafe-Concert.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/At_the_Cafe-Concert.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/edouard-manet/at-the-cafe-concert.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/at-the-cafe-concert",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:18.532Z",
+      "fingerprint_sha256": "5cc0f5117652f873ad71727f4af326d86e5e03ae7498e89a1b425c6377159a32",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92d60",
+        "title": "At the Cafe-Concert",
+        "url": "at-the-cafe-concert",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1879,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 39.1,
+        "sizeY": 47.3,
+        "diameter": null,
+        "galleries": [
+          "Walters Art Museum, Baltimore, MD, US"
+        ],
+        "tags": [
+          "taverns-and-inns",
+          "Gentleman"
+        ],
+        "description": "",
+        "width": 920,
+        "image": "https://uploads3.wikiart.org/images/edouard-manet/at-the-cafe-concert.jpg",
+        "height": 1119
+      },
+      "width": 920,
+      "height": 1119,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92d10",
+      "title": "Artist's atelier",
+      "artist": "Manet Edouard",
+      "year": 1880,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Artists_atelier.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Artists_atelier.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/edouard-manet/artist-s-atelier.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/artist-s-atelier",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:22.852Z",
+      "fingerprint_sha256": "116d8b4fc3ab9c46d5d75d2c2c0aae24899213653e1e7abb52524508ad7f7683",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92d10",
+        "title": "Artist's atelier",
+        "url": "artist-s-atelier",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 61,
+        "sizeY": 51,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "arts-and-crafts",
+          "dishware-and-cutlery",
+          "Still life photography",
+          "Picture frame"
+        ],
+        "description": "",
+        "width": 579,
+        "image": "https://uploads0.wikiart.org/images/edouard-manet/artist-s-atelier.jpg",
+        "height": 470
+      },
+      "width": 579,
+      "height": 470,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92d24",
+      "title": "Asparagus",
+      "artist": "Manet Edouard",
+      "year": 1880,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Asparagus.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Asparagus.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/asparagus-1880.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/asparagus-1880",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:26.380Z",
+      "fingerprint_sha256": "4f8655e60d17b0cc3d2382a6fba37ab3dbfd8d59b13fb9df7d58d70005c1e57d",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92d24",
+        "title": "Asparagus",
+        "url": "asparagus-1880",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1880,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [
+          "fruits-and-vegetables"
+        ],
+        "description": "",
+        "width": 728,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/asparagus-1880.jpg",
+        "height": 547
+      },
+      "width": 728,
+      "height": 547,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92f28",
+      "title": "Effect of Snow at Petit-Montrouge",
+      "artist": "Manet Edouard",
+      "year": 1870,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Effect_of_Snow_at_Petit-Montrouge.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Effect_of_Snow_at_Petit-Montrouge.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/edouard-manet/effect-of-snow-at-petit-montrouge-1870.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/effect-of-snow-at-petit-montrouge-1870",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:30.751Z",
+      "fingerprint_sha256": "616458b4064d2694b8dd80d6176294898f2e4015c6653b71ab0031602c616bfd",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92f28",
+        "title": "Effect of Snow at Petit-Montrouge",
+        "url": "effect-of-snow-at-petit-montrouge-1870",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1870,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 50.4,
+        "sizeY": 61.6,
+        "diameter": null,
+        "galleries": [
+          "National Museum Cardiff, Cardiff, UK"
+        ],
+        "tags": [
+          "houses-and-buildings",
+          "Boat"
+        ],
+        "description": "",
+        "width": 916,
+        "image": "https://uploads4.wikiart.org/images/edouard-manet/effect-of-snow-at-petit-montrouge-1870.jpg",
+        "height": 1126
+      },
+      "width": 916,
+      "height": 1126,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92e60",
+      "title": "Bouquet of violets",
+      "artist": "Manet Edouard",
+      "year": 1872,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Bouquet_of_violets.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Bouquet_of_violets.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/edouard-manet/bouquet-of-violets-1872.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/bouquet-of-violets-1872",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:35.041Z",
+      "fingerprint_sha256": "f85dd43535dc930dd437caf8142627e85ff5763980fbc3c711727970a1442498",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92e60",
+        "title": "Bouquet of violets",
+        "url": "bouquet-of-violets-1872",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 22,
+        "sizeY": 27,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "books-and-letters",
+          "flowers-and-plants",
+          "masks-and-fans"
+        ],
+        "description": "",
+        "width": 1465,
+        "image": "https://uploads5.wikiart.org/images/edouard-manet/bouquet-of-violets-1872.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1465,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92bea",
+      "title": "A boy with a dog",
+      "artist": "Manet Edouard",
+      "year": 1861,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_boy_with_a_dog.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_boy_with_a_dog.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/edouard-manet/a-boy-with-a-dog-1861.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-boy-with-a-dog-1861",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:39.403Z",
+      "fingerprint_sha256": "3e816a3041a4a70ce371d4e5a22e785df0199369da5a950e3350469bcc76fc46",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92bea",
+        "title": "A boy with a dog",
+        "url": "a-boy-with-a-dog-1861",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1861,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 72,
+        "sizeY": 92,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "animals",
+          "children",
+          "dogs"
+        ],
+        "description": "",
+        "width": 946,
+        "image": "https://uploads3.wikiart.org/images/edouard-manet/a-boy-with-a-dog-1861.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 946,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92f4c",
+      "title": "Eva Gonzales",
+      "artist": "Manet Edouard",
+      "year": 1878,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Eva_Gonzales.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Eva_Gonzales.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/edouard-manet/eva-gonzales-1878.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/eva-gonzales-1878",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:43.229Z",
+      "fingerprint_sha256": "b6de56a94abce290aba9a730f176edb6539c2074cd015cc29137b157529f57ea",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92f4c",
+        "title": "Eva Gonzales",
+        "url": "eva-gonzales-1878",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1878,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae7346",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "pastel",
+          "paper"
+        ],
+        "sizeX": 33,
+        "sizeY": 42,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "female-portraits",
+          "Face",
+          "Hair",
+          "Eyebrow",
+          "Forehead",
+          "Chin",
+          "Head",
+          "Cheek",
+          "Hairstyle",
+          "Lady"
+        ],
+        "description": "",
+        "width": 881,
+        "image": "https://uploads8.wikiart.org/images/edouard-manet/eva-gonzales-1878.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 881,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92d74",
+      "title": "At the races",
+      "artist": "Manet Edouard",
+      "year": 1875,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/At_the_races.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/At_the_races.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/edouard-manet/at-the-races-1875.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/at-the-races-1875",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:47.213Z",
+      "fingerprint_sha256": "560495ed5e0e311b19e7e2d1d39fd1ad932ff62e4d0d1107638a7de12b7c8da4",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92d74",
+        "title": "At the races",
+        "url": "at-the-races-1875",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1875,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726bcdedc2cb3880ae7496"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "wood"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "animals",
+          "horses",
+          "horsemen",
+          "Pasture",
+          "Grassland"
+        ],
+        "description": "",
+        "width": 792,
+        "image": "https://uploads1.wikiart.org/images/edouard-manet/at-the-races-1875.jpg",
+        "height": 453
+      },
+      "width": 792,
+      "height": 453,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726effedc2cb3880b9305e",
+      "title": "Jeanne Martin in Pink Dress",
+      "artist": "Manet Edouard",
+      "year": 1881,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Jeanne_Martin_in_Pink_Dress.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Jeanne_Martin_in_Pink_Dress.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/edouard-manet/jeanne-martin-in-pink-dress-1881.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/jeanne-martin-in-pink-dress-1881",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:51.652Z",
+      "fingerprint_sha256": "7816c1044094ef42fa2178f6e864e95232d00f415ac983c436332837d3a78d34",
+      "raw_extmetadata": {
+        "id": "57726effedc2cb3880b9305e",
+        "title": "Jeanne Martin in Pink Dress",
+        "url": "jeanne-martin-in-pink-dress-1881",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Gemäldegalerie Alte Meister, Dresden, Germany"
+        ],
+        "tags": [
+          "female-portraits",
+          "Lady"
+        ],
+        "description": "",
+        "width": 962,
+        "image": "https://uploads5.wikiart.org/images/edouard-manet/jeanne-martin-in-pink-dress-1881.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 962,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92bfe",
+      "title": "A boy with a pitcher",
+      "artist": "Manet Edouard",
+      "year": 1862,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_boy_with_a_pitcher.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_boy_with_a_pitcher.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/edouard-manet/a-boy-with-a-pitcher-1862.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-boy-with-a-pitcher-1862",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:55.292Z",
+      "fingerprint_sha256": "f2e8399f0b9a56d8e954615d76215ea8d9e425bd8fbc153fd12a9513d1a5dccb",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92bfe",
+        "title": "A boy with a pitcher",
+        "url": "a-boy-with-a-pitcher-1862",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1862,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Art Institute of Chicago, Chicago, IL, US"
+        ],
+        "tags": [
+          "children",
+          "mealtimes",
+          "Human body"
+        ],
+        "description": "",
+        "width": 515,
+        "image": "https://uploads0.wikiart.org/images/edouard-manet/a-boy-with-a-pitcher-1862.jpg",
+        "height": 600
+      },
+      "width": 515,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92d88",
+      "title": "Autumn (Study of Mery Laurent)",
+      "artist": "Manet Edouard",
+      "year": 1882,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Autumn_(Study_of_Mery_Laurent).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Autumn_%28Study_of_Mery_Laurent%29.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/edouard-manet/autumn-study-of-mery-laurent-1882.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/autumn-study-of-mery-laurent-1882",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:21:59.489Z",
+      "fingerprint_sha256": "502e89d42e419d7109a15dbc552f2b44ecc64b6d5fc1ad52031b019631950486",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92d88",
+        "title": "Autumn (Study of Mery Laurent)",
+        "url": "autumn-study-of-mery-laurent-1882",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 51,
+        "sizeY": 73,
+        "diameter": null,
+        "galleries": [
+          "Musée des Beaux-Arts de Nancy, Nancy, France"
+        ],
+        "tags": [
+          "female-portraits",
+          "Lady",
+          "Gentleman"
+        ],
+        "description": "",
+        "width": 838,
+        "image": "https://uploads6.wikiart.org/images/edouard-manet/autumn-study-of-mery-laurent-1882.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 838,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92f84",
+      "title": "Flowers in a Crystal Vase",
+      "artist": "Manet Edouard",
+      "year": 1882,
+      "genres": [
+        "still life"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Flowers_in_a_Crystal_Vase.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Flowers_in_a_Crystal_Vase.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/edouard-manet/flowers-in-a-crystal-vase.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/flowers-in-a-crystal-vase",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:22:03.573Z",
+      "fingerprint_sha256": "2aaa719a6de2eb5755c79ffb6bebaffa729fc5c8c58bf61229ab7084a86b5f70",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92f84",
+        "title": "Flowers in a Crystal Vase",
+        "url": "flowers-in-a-crystal-vase",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "flowers-and-plants",
+          "Still life photography",
+          "Garden roses",
+          "Flower",
+          "Bouquet",
+          "Plant",
+          "Vase",
+          "Cut flowers"
+        ],
+        "description": "",
+        "width": 688,
+        "image": "https://uploads0.wikiart.org/images/edouard-manet/flowers-in-a-crystal-vase.jpg",
+        "height": 1087
+      },
+      "width": 688,
+      "height": 1087,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92c72",
+      "title": "A matador",
+      "artist": "Manet Edouard",
+      "year": 1867,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_matador.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_matador.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/a-matador-1867.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-matador-1867",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:22:07.804Z",
+      "fingerprint_sha256": "c27a0147b99e03e6c9f0ec22524e197b86cddca1d3fa26bfd2c3067953743753",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92c72",
+        "title": "A matador",
+        "url": "a-matador-1867",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1867,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6ff8"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "panel"
+        ],
+        "sizeX": 113,
+        "sizeY": 171.1,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits"
+        ],
+        "description": "",
+        "width": 789,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/a-matador-1867.jpg",
+        "height": 1195
+      },
+      "width": 789,
+      "height": 1195,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92fc0",
+      "title": "Head of a Dog",
+      "artist": "Manet Edouard",
+      "year": 1876,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Head_of_a_Dog.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Head_of_a_Dog.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/edouard-manet/head-of-a-dog-1876.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/head-of-a-dog-1876",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-05T01:22:12.113Z",
+      "fingerprint_sha256": "d55ac594c92166c0389c1e52d99162ea9c1de366f6e705906bea92649173f7f5",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92fc0",
+        "title": "Head of a Dog",
+        "url": "head-of-a-dog-1876",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1876,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4dedc2cb3880ad6df0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 21,
+        "sizeY": 27,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "animals",
+          "dogs",
+          "Dog",
+          "Canidae",
+          "Dog breed",
+          "Morkie",
+          "Terrier"
+        ],
+        "description": "",
+        "width": 901,
+        "image": "https://uploads2.wikiart.org/images/edouard-manet/head-of-a-dog-1876.jpg",
+        "height": 1112
+      },
+      "width": 901,
+      "height": 1112,
       "mime": null
     }
   ]
