@@ -40,4 +40,5 @@ export const RSS_FOLLOWS: string[] = [
   "https://thewaxingcrescent.substack.com",
   "https://www.bleepingcomputer.com/feed/",
   "https://www.wheresyoured.at/rss/",
+  "https://www.404media.co",
 ];
