@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-06-06T07:46:25.067Z",
+  "fetchedAt": "2026-06-06T18:41:50.947Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-b5b507502aac",
+      "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 188",
+      "publishedAt": "2026-06-06T17:14:54.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1cfdd2b8070a",
+      "title": "Why does the US have so many murders?",
+      "url": "https://www.aporiamagazine.com/p/why-does-the-us-have-so-many-murders",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "It's not racial composition.",
+      "publishedAt": "2026-06-06T16:25:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3eb7ad18dc17",
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
+      "publishedAt": "2026-06-06T14:09:26.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ad0aa295fc7b",
+      "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
+      "url": "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
+      "publication": "404 Media",
+      "author": "Becky Ferreira",
+      "excerpt": "The north-south albedo symmetry may be fading as both hemispheres get darker.",
+      "publishedAt": "2026-06-06T13:36:56.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b808b8c7e020",
@@ -910,46 +950,6 @@
       "author": "Julian Andreone",
       "excerpt": "AIPAC’s United Democracy Project, along with its offshoot DMFI, has funneled money to a network of Super PACs now backing the San Francisco supervisor.",
       "publishedAt": "2026-05-31T00:09:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d582d4c857cc",
-      "title": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 187",
-      "publishedAt": "2026-05-30T16:43:36.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c73bf4006d6b",
-      "title": "The Coming Age of Instability in the Gulf",
-      "url": "https://escalationtrap.substack.com/p/the-coming-age-of-instability-in",
-      "publication": "Escalation Trap",
-      "author": "Prof Robert Pape",
-      "excerpt": "The Topic for Sunday’s Live Briefing, 4pm CT 5pm ET",
-      "publishedAt": "2026-05-30T15:33:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-24d34d8fe83b",
-      "title": "Why I left academia: love letters to Liota",
-      "url": "https://meaningness.substack.com/p/why-i-left-academia-love-letters",
-      "publication": "Meaningness",
-      "author": "David Chapman",
-      "excerpt": "Dominance and submission games are tiresome and ugly (unless they're sexual play)",
-      "publishedAt": "2026-05-30T13:05:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2293d0731e81",
-      "title": "Peter Thiel's Republic",
-      "url": "https://predictivehistory.substack.com/p/peter-thiels-republic",
-      "publication": "Predictive History Substack",
-      "author": "Predictive History",
-      "excerpt": "We are living in Peter Thiel's world. We just don't know it, and we never will.",
-      "publishedAt": "2026-05-30T12:42:26.000Z"
     }
   ]
 }
