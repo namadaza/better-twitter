@@ -1,6 +1,166 @@
 {
-  "fetchedAt": "2026-06-05T01:16:27.541Z",
+  "fetchedAt": "2026-06-06T07:46:25.067Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-b808b8c7e020",
+      "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
+      "url": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Tech giant Toshiba and mega-retailer Muji warned visitors that suspicious sign-in screens popping up on their websites could collect credentials. [...]",
+      "publishedAt": "2026-06-05T21:54:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-735dfc65b8c7",
+      "title": "How Secret Pro-Israel Money Flooded the Labour Party and Ended with a Ban of Hasan Piker and Cenk Uygur",
+      "url": "https://www.dropsitenews.com/p/hasan-piker-cenk-uygur-uk-ban-keir-starmer-labour-together",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Piker commented that he \"would never have imagined that a [Labour] government would ban me from entering the UK.\" Indeed, millions of UK voters would likely agree.",
+      "publishedAt": "2026-06-05T19:59:29.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ebc2d0efe1cd",
+      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+      "publishedAt": "2026-06-05T19:15:30.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8ae33b815b85",
+      "title": "Chinese APT deploys new malware to keep access to hacked networks",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
+      "publishedAt": "2026-06-05T18:09:47.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-17f62548d182",
+      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
+      "url": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
+      "publishedAt": "2026-06-05T17:50:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1bb333c0c65e",
+      "title": "ICE’s Plan to Let Cops Around the Country Scan Faces to Verify Immigration Status",
+      "url": "https://www.404media.co/ices-plan-to-let-cops-around-the-country-scan-faces-to-verify-immigration-status/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "ICE plans to give potentially more than a thousand agencies access to a facial recognition app that verifies a person's immigration status.",
+      "publishedAt": "2026-06-05T16:51:47.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e8fa750cd5a0",
+      "title": "Israel angles for permanent occupation in Lebanon; Dr. Hussam Abu Safiyah transferred to solitary confinement; Trump sanctions Cuban president",
+      "url": "https://www.dropsitenews.com/p/israel-lebanon-hussam-abu-safiyah-gaza-trump-cuba",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 5, 2026",
+      "publishedAt": "2026-06-05T16:08:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-91c087c8d7fc",
+      "title": "Premium: The Hater's Guide To The AI Bubble 3.0",
+      "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/",
+      "publication": "Ed Zitron's Where's Your Ed At",
+      "author": "Ed Zitron",
+      "excerpt": "Last year I wrote one of my favourite pieces ever — The Hater’s Guide To The AI Bubble — and followed it up with The Hater’s Guide To The AI Bubble Volume 2 several months later. Sadly, I’ve realized “volume” is a",
+      "publishedAt": "2026-06-05T15:57:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b0d2249d6cc4",
+      "title": "Behind the Blog: Dangerous Memes",
+      "url": "https://www.404media.co/behind-the-blog-dangerous-memes/",
+      "publication": "404 Media",
+      "author": "Samantha Cole",
+      "excerpt": "This week, we discuss controversial memes, good times at Meta, and more.",
+      "publishedAt": "2026-06-05T15:51:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7cadfcb9ce82",
+      "title": "The U.S. Military Quietly Turned GPS Into a Global ‘Numbers Station,’ Evidence Suggests",
+      "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
+      "publication": "404 Media",
+      "author": "Becky Ferreira",
+      "excerpt": "A random sequence in an innocuous GPS message field is likely encrypted traffic from the U.S. military's system for remotely updating cryptographic keys around the world.",
+      "publishedAt": "2026-06-05T15:28:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-677816615495",
+      "title": "K-pop Fans Are Calling Out Creepy Deepfakes of Idols",
+      "url": "https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/",
+      "publication": "404 Media",
+      "author": "Janus Rose",
+      "excerpt": "With some fans making sexualized AI-generated images and videos of idols, the rest of the fandom is standing up against the behavior.",
+      "publishedAt": "2026-06-05T14:52:30.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5dbc2974159b",
+      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to ongoing attacks. [...]",
+      "publishedAt": "2026-06-05T14:50:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0af0ec0d596e",
+      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+      "url": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Keep Aware",
+      "excerpt": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
+      "publishedAt": "2026-06-05T14:00:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1c2a52625e1d",
+      "title": "Decadent Chronicles 11: Towards a Gothic Fighting Style",
+      "url": "https://www.arktosjournal.com/p/decadent-chronicles-11-towards-a",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Christian Chensvold",
+      "publishedAt": "2026-06-05T07:57:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2c9f40bc5727",
+      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
+      "publishedAt": "2026-06-05T06:24:20.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5ab42edb73a3",
+      "title": "Satya Nadella ‘Not Sure’ Who Said Microsoft Wanted to Make Addictive AI, Is Looking for Guy Who Did This",
+      "url": "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "Microsoft's CEO seems unaware of what's going on at his own company.",
+      "publishedAt": "2026-06-04T22:03:02.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-1d9e97e194fe",
@@ -33,6 +193,16 @@
     },
     {
       "type": "rss",
+      "id": "rss-e890680c439a",
+      "title": "I Must Attempt to Explain the LEGO Scandal Rocking YouTube, Entire State of Utah",
+      "url": "https://www.404media.co/the-lego-bricks-and-minifigs-reckless-benyoutube-scandal-has-broken-containment-can-no-longer-be-ignored/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "The Bricks & Minifigs / Reckless Ben beef is breaking containment and can no longer be ignored.",
+      "publishedAt": "2026-06-04T19:02:38.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-981e2a357cc4",
       "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
       "url": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
@@ -40,6 +210,16 @@
       "author": "Bill Toulas",
       "excerpt": "A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts.  [...]",
       "publishedAt": "2026-06-04T18:36:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a856acf0ce42",
+      "title": "Immigrant Rights Lawyers File Lawsuit Over Palantir’s ELITE",
+      "url": "https://www.404media.co/immigrant-rights-lawyers-file-lawsuit-over-palantirs-elite/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "Just Futures Law is seeking a wealth of documents related to the tech Palantir provides to ICE.",
+      "publishedAt": "2026-06-04T18:34:16.000Z"
     },
     {
       "type": "rss",
@@ -73,6 +253,16 @@
     },
     {
       "type": "rss",
+      "id": "rss-b27dfde1d805",
+      "title": "Watch These Judges Rip Into Lawyers For Citing Cases That Don't Exist",
+      "url": "https://www.404media.co/new-york-court-ai-citations-landberg-case/",
+      "publication": "404 Media",
+      "author": "Samantha Cole",
+      "excerpt": "“It's striking, concerning, disappointing, and saddening to think that members of the bar would forward cases to a court that don't exist, and to think that the lawyers on the other side of that didn’t read it for whatever reason, didn’t check it.”",
+      "publishedAt": "2026-06-04T14:33:57.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-037b20bc593e",
       "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
@@ -90,6 +280,16 @@
       "author": "Sergiu Gatlan",
       "excerpt": "On Wednesday, Microsoft fixed an issue that caused some Windows devices to install driver updates without notice despite policies configured to prevent auto-updates. [...]",
       "publishedAt": "2026-06-04T13:41:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d6606e74828f",
+      "title": "Google Employees Internally Share Memes About How Its AI Sucks",
+      "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+      "publication": "404 Media",
+      "author": "Emanuel Maiberg",
+      "excerpt": "Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the AI they’re using is overhyped.",
+      "publishedAt": "2026-06-04T13:30:13.000Z"
     },
     {
       "type": "rss",
@@ -173,6 +373,26 @@
     },
     {
       "type": "rss",
+      "id": "rss-e90ccec2d03b",
+      "title": "Demand Is Booming for New No Tech, Repairable Tractor",
+      "url": "https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "\"There is consumer pressure to back away from technology that is unnecessary to perform everyday tasks.\"",
+      "publishedAt": "2026-06-03T18:07:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3717440bb4f6",
+      "title": "Podcast: Hackers Asked Meta AI To Let Them In. It Worked",
+      "url": "https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "The insane Meta AI hack; Amazon's internal AI leaderboard; and our lawsuit against ICE.",
+      "publishedAt": "2026-06-03T16:22:11.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-1f9d6f0150a8",
       "title": "The Myth of Assimilation",
       "url": "https://www.aporiamagazine.com/p/the-myth-of-assimilation",
@@ -210,6 +430,16 @@
       "author": "Elric Legloire - Outbound Chef",
       "excerpt": "I tested 10 providers on 1,400 US contacts. Full results inside.",
       "publishedAt": "2026-06-03T15:11:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-584e2e9981f7",
+      "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search",
+      "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "Peptide companies have been doing AI-engine optimization by spamming the biohackers subreddit to manipulate ChatGPT and Google.",
+      "publishedAt": "2026-06-03T14:29:28.000Z"
     },
     {
       "type": "rss",
@@ -293,6 +523,16 @@
     },
     {
       "type": "rss",
+      "id": "rss-a79be1232d3e",
+      "title": "Google Is Quietly Buying Code From Play Store Developers to Train AI",
+      "url": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "Google is trying to buy code from some Android developers as part of a \"confidential\" program.",
+      "publishedAt": "2026-06-03T00:16:47.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-acdc36da0216",
       "title": "MEGA Trading Post/Short Thoughts Mash-Up June 2, 2026",
       "url": "https://michaeljburry.substack.com/p/mega-trading-postshort-thoughts-mash",
@@ -363,6 +603,16 @@
     },
     {
       "type": "rss",
+      "id": "rss-e4c5df062f32",
+      "title": "Microsoft Wants to 'Make People Addicted' to its New AI Assistant, Internal Documents Reveal",
+      "url": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "Planning documents for \"Scout\" say the plan is to \"make people addicted\" to the tool before adding new features.",
+      "publishedAt": "2026-06-02T18:46:10.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-ae2a715c7c7d",
       "title": "“You Either Leave Right Now or You Die”—Israel’s Ethnic Cleansing of a Village in Lebanon",
       "url": "https://www.dropsitenews.com/p/lebanon-ain-arab-israeli-military-hezbollah-displacement-trump-",
@@ -410,6 +660,16 @@
       "author": "Drop Site News",
       "excerpt": "Drop Site Daily: June 2, 2026",
       "publishedAt": "2026-06-02T15:41:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-074951da0f7f",
+      "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability",
+      "url": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
+      "publication": "404 Media",
+      "author": "Matthew Gault",
+      "excerpt": "The researchers compared AI to the near-sighted cartoon character Mr. Magoo, who can’t see he’s stumbling through dangerous situations.",
+      "publishedAt": "2026-06-02T15:03:17.000Z"
     },
     {
       "type": "rss",
@@ -690,96 +950,6 @@
       "author": "Predictive History",
       "excerpt": "We are living in Peter Thiel's world. We just don't know it, and we never will.",
       "publishedAt": "2026-05-30T12:42:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a0eb19847670",
-      "title": "Surging Inflation and Soaring Unemployment Batter Iranian Economy",
-      "url": "https://www.dropsitenews.com/p/inflation-unemployment-iran-trump-war",
-      "publication": "Drop Site News",
-      "author": "Reza Sayah",
-      "excerpt": "As Trump weighs peace deal, Iranians face inflation and unemployment from sanctions and a U.S. blockade.",
-      "publishedAt": "2026-05-29T21:15:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-479771cda443",
-      "title": "Iranians Return to South Pars Gas Complex to Repair and Rebuild",
-      "url": "https://www.dropsitenews.com/p/iran-south-pars-gas-complex-engineers-rebuild",
-      "publication": "Drop Site News",
-      "author": "Peiman Salehi",
-      "excerpt": "Engineers at the facility estimate 12% of the crucial gas facility's capacity was affected by U.S.-Israeli strikes in March.",
-      "publishedAt": "2026-05-29T17:54:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f29c2056fcee",
-      "title": "Short Thoughts May 29, 2026",
-      "url": "https://michaeljburry.substack.com/p/short-thoughts-may-29-2026",
-      "publication": "Cassandra Unchained",
-      "author": "Michael Burry",
-      "excerpt": "Sneak Peek into Heretic’s Guide to AI’s Stars Part IV",
-      "publishedAt": "2026-05-29T17:41:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-26a5fce43c02",
-      "title": "Round-up: Meta-analysis of the black–white IQ gap",
-      "url": "https://www.aporiamagazine.com/p/round-up-meta-analysis-of-the-blackwhite",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "The most interesting articles that came to our attention this week",
-      "publishedAt": "2026-05-29T17:05:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-aaed60e66d79",
-      "title": "Premium: What If...We're In An AI Bubble? (Part 3)",
-      "url": "https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/",
-      "publication": "Ed Zitron's Where's Your Ed At",
-      "author": "Ed Zitron",
-      "excerpt": "Last week I ran the second part of my three-part “What If…We’re In An AI Bubble?” series where I have been covering the scenarios that I believe could lead to the bubble popping.\nHere’s what I’ve discussed so far:\n\nWhat",
-      "publishedAt": "2026-05-29T16:58:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c43e6a3f9b54",
-      "title": "U.S. and Iran draft deal, pending Trump approval; Netanyahu orders IDF to take 70% of Gaza; Kenya refuses to be “dumping ground” for Ebola",
-      "url": "https://www.dropsitenews.com/p/us-iran-draft-trump-netanyahu-gaza-kenya-ebola",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: May 29, 2026",
-      "publishedAt": "2026-05-29T15:46:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4bea549d1aaa",
-      "title": "A Little Bit of Everything, All of the Time",
-      "url": "https://www.infinitescroll.us/p/a-little-bit-of-everything-all-of",
-      "publication": "Infinite Scroll",
-      "author": "Jeremiah Johnson",
-      "excerpt": "The most 2020s art ever made",
-      "publishedAt": "2026-05-29T12:11:35.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a896cc0ca4c3",
-      "title": "OUT NOW: Metaphysics of War (Expanded Edition)",
-      "url": "https://www.arktosjournal.com/p/out-now-metaphysics-of-war-expanded",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Julius Evola",
-      "publishedAt": "2026-05-29T09:01:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3704fe7cb26d",
-      "title": "[Abridged] Software & Payments Stocks Part II: Productivity Tools and Cybersecurity",
-      "url": "https://michaeljburry.substack.com/p/abridged-software-and-payments-stocks",
-      "publication": "Cassandra Unchained",
-      "author": "Michael Burry",
-      "excerpt": "Part 2 of a 6-Part Series Covering 50 Software & Payments Stocks",
-      "publishedAt": "2026-05-29T05:43:57.000Z"
     }
   ]
 }
