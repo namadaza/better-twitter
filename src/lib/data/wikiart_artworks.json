@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-06T07:52:30.109Z",
+  "generated_at": "2026-06-07T01:27:16.917Z",
   "source": "wikiart",
-  "count": 429,
+  "count": 444,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -26024,6 +26024,958 @@
       },
       "width": 800,
       "height": 560,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc1edc2cb3880e25080",
+      "title": "Landscape with Goats",
+      "artist": "Cross Henri-Edmond",
+      "year": 1895,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Landscape_with_Goats.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Landscape_with_Goats.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/henri-edmond-cross/landscape-with-goats-1895.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/landscape-with-goats-1895",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:24:17.869Z",
+      "fingerprint_sha256": "fccb3e0cde2fe080356b2f0b1ecae3b8ffc235e7de25365082fdb2a3c19300e7",
+      "raw_extmetadata": {
+        "id": "57727bc1edc2cb3880e25080",
+        "title": "Landscape with Goats",
+        "url": "landscape-with-goats-1895",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1895,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 92,
+        "sizeY": 65,
+        "diameter": null,
+        "galleries": [
+          "Petit Palais, Geneva, Switzerland"
+        ],
+        "tags": [
+          "forests-and-trees"
+        ],
+        "description": "",
+        "width": 719,
+        "image": "https://uploads5.wikiart.org/images/henri-edmond-cross/landscape-with-goats-1895.jpg",
+        "height": 1027
+      },
+      "width": 719,
+      "height": 1027,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24f40",
+      "title": "Coastal View with Cypress Trees",
+      "artist": "Cross Henri-Edmond",
+      "year": 1896,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/Coastal_View_with_Cypress_Trees.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/Coastal_View_with_Cypress_Trees.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/henri-edmond-cross/coastal-view-with-cypress-trees-1896.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/coastal-view-with-cypress-trees-1896",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:24:24.035Z",
+      "fingerprint_sha256": "9890dcdbd6ae0d017da93d16c7f2bc55e89ce0d247534d76bece44569a350be3",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24f40",
+        "title": "Coastal View with Cypress Trees",
+        "url": "coastal-view-with-cypress-trees-1896",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1896,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 65,
+        "sizeY": 92,
+        "diameter": null,
+        "galleries": [
+          "Petit Palais, Geneva, Switzerland"
+        ],
+        "tags": [
+          "forests-and-trees",
+          "Tree",
+          "Grass family"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads7.wikiart.org/images/henri-edmond-cross/coastal-view-with-cypress-trees-1896.jpg",
+        "height": 564
+      },
+      "width": 800,
+      "height": 564,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc0edc2cb3880e24ff0",
+      "title": "La Dogana",
+      "artist": "Cross Henri-Edmond",
+      "year": 1903,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/henri-edmond-cross/La_Dogana.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/henri-edmond-cross/La_Dogana.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/henri-edmond-cross/la-dogana.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/la-dogana",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:24:35.518Z",
+      "fingerprint_sha256": "7b3fbd29cca283fa4f031aa9702838ede0ca9bbd8a1243ff754562eec1c01e1d",
+      "raw_extmetadata": {
+        "id": "57727bc0edc2cb3880e24ff0",
+        "title": "La Dogana",
+        "url": "la-dogana",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1903,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae7436"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "watercolor"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "boats-and-ships",
+          "Boat",
+          "Vehicle",
+          "Sail",
+          "Watercraft"
+        ],
+        "description": "",
+        "width": 1080,
+        "image": "https://uploads7.wikiart.org/images/henri-edmond-cross/la-dogana.jpg",
+        "height": 838
+      },
+      "width": 1080,
+      "height": 838,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2370edc2c9a6687aab70",
+      "title": "Bazaar in Cairo",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting",
+        "cityscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Bazaar_in_Cairo.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Bazaar_in_Cairo.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-bazaar-in-cairo-68-014-rhode-island-school-of-design-museum.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/bazaar-in-cairo",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:26:06.300Z",
+      "fingerprint_sha256": "e66f50cebffe3fb2b71b4369d32e6677f634d8e644d4f5bf48e5990c623576fa",
+      "raw_extmetadata": {
+        "id": "5f0c2370edc2c9a6687aab70",
+        "title": "Bazaar in Cairo",
+        "url": "bazaar-in-cairo",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting",
+          "cityscape"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Rhode Island School of Design Museum (RISD Museum), Providence, RI, US"
+        ],
+        "tags": [
+          "Holy places"
+        ],
+        "description": "",
+        "width": 374,
+        "image": "https://uploads5.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-bazaar-in-cairo-68-014-rhode-island-school-of-design-museum.jpg",
+        "height": 479
+      },
+      "width": 374,
+      "height": 479,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23b4edc2c9a6687c67a4",
+      "title": "Landscape at Sunset",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Landscape_at_Sunset.PNG",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Landscape_at_Sunset.PNG",
+      "full_image_url": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/landscape-at-sunset.PNG",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/landscape-at-sunset",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:26:13.200Z",
+      "fingerprint_sha256": "f7eaf5981a2ad603f566715ee3efcf1af6512370b6a79aabdfcb4de77144880e",
+      "raw_extmetadata": {
+        "id": "5f0c23b4edc2c9a6687c67a4",
+        "title": "Landscape at Sunset",
+        "url": "landscape-at-sunset",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky"
+        ],
+        "description": "",
+        "width": 669,
+        "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/landscape-at-sunset.PNG",
+        "height": 529
+      },
+      "width": 669,
+      "height": 529,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2350edc2c9a66879e967",
+      "title": "Experts in the Painter's Atelier (Ape-men Examining a Painting)",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1837,
+      "genres": [
+        "animal painting",
+        "caricature"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Experts_in_the_Painters_Atelier_(Ape-men_Examining_a_Painting).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Experts_in_the_Painters_Atelier_%28Ape-men_Examining_a_Painting%29.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-experts.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/experts-in-the-painters-atelier-ape-men-examining-a-painting-1837",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:26:19.383Z",
+      "fingerprint_sha256": "511d76fd59428845ca3346e70c3122aea68d78096e545669f6834cc7a8004658",
+      "raw_extmetadata": {
+        "id": "5f0c2350edc2c9a66879e967",
+        "title": "Experts in the Painter's Atelier (Ape-men Examining a Painting)",
+        "url": "experts-in-the-painters-atelier-ape-men-examining-a-painting-1837",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1837,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b51edc2cb3880ad7610",
+          "57726b4dedc2cb3880ad6df0",
+          "57726b4eedc2cb3880ad6e28",
+          "57726bcdedc2cb3880ae740e",
+          "57726bcdedc2cb3880ae73ae",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting",
+          "caricature"
+        ],
+        "styles": [
+          "Romanticism",
+          "Ink and wash painting"
+        ],
+        "media": [
+          "ink",
+          "wash",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "National Museum, Warsaw, Poland"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 706,
+        "image": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-experts.jpg",
+        "height": 510
+      },
+      "width": 706,
+      "height": 510,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c235aedc2c9a6687a216e",
+      "title": "Albanian Duel Somewhere in South of Albania During Ottoman Reign",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1828,
+      "genres": [
+        "battle painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Albanian_Duel_Somewhere_in_South_of_Albania_During_Ottoman_Reign.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Albanian_Duel_Somewhere_in_South_of_Albania_During_Ottoman_Reign.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/albanian-duel-by-alexandre-gabriel-decamps-1828.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/albanian-duel-somewhere-in-south-of-albania-during-ottoman-reign-1828",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:26:25.597Z",
+      "fingerprint_sha256": "2d7843ed02dbcb28b48d0fcc1d5dbdd4e667507b82ab1856247342505ab2e2d8",
+      "raw_extmetadata": {
+        "id": "5f0c235aedc2c9a6687a216e",
+        "title": "Albanian Duel Somewhere in South of Albania During Ottoman Reign",
+        "url": "albanian-duel-somewhere-in-south-of-albania-during-ottoman-reign-1828",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1828,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4dedc2cb3880ad6e00",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "battle painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Stock photography"
+        ],
+        "description": "",
+        "width": 768,
+        "image": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/albanian-duel-by-alexandre-gabriel-decamps-1828.jpg",
+        "height": 584
+      },
+      "width": 768,
+      "height": 584,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c239dedc2c9a6687baa0c",
+      "title": "Guard Corps in Orient",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Guard_Corps_in_Orient.JPG",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Guard_Corps_in_Orient.JPG",
+      "full_image_url": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/ch-teau-de-chantilly-alexandre-gabriel-decamps-guard-corps-in-orient.JPG!HD.JPG",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/guard-corps-in-orient",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:26:32.317Z",
+      "fingerprint_sha256": "699eedd0ef2e7403ca0ca637aef7fea19e28cd2541c29077f3c358cebec61692",
+      "raw_extmetadata": {
+        "id": "5f0c239dedc2c9a6687baa0c",
+        "title": "Guard Corps in Orient",
+        "url": "guard-corps-in-orient",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 1794,
+        "image": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/ch-teau-de-chantilly-alexandre-gabriel-decamps-guard-corps-in-orient.JPG!HD.JPG",
+        "height": 1200
+      },
+      "width": 1794,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23c2edc2c9a6687cc73c",
+      "title": "The Good Samaritan",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1853,
+      "genres": [
+        "cityscape",
+        "religious painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Good_Samaritan.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Good_Samaritan.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/the-good-samaritan-met-dp346117.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-good-samaritan-1853",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:26:38.632Z",
+      "fingerprint_sha256": "ba17978b434436edc33b7b298f04294519b939e528c647fa6e9957e83b05e642",
+      "raw_extmetadata": {
+        "id": "5f0c23c2edc2c9a6687cc73c",
+        "title": "The Good Samaritan",
+        "url": "the-good-samaritan-1853",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1853,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b52edc2cb3880ad7788",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e30",
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape",
+          "religious painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Metropolitan Museum of Art (Met), New York City, NY, US"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 956,
+        "image": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/the-good-samaritan-met-dp346117.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 956,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23b9edc2c9a6687c7aea",
+      "title": "Albanian Dancers",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1835,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Albanian_Dancers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Albanian_Dancers.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/les-danseurs-albanais-by-alexandre-gabriel-decamps-c-1835.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/albanian-dancers-1835",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:26:45.096Z",
+      "fingerprint_sha256": "275fec3f0413fbafaac8bd03e39eae12209394541bfbfcc990f453c5eceeef0e",
+      "raw_extmetadata": {
+        "id": "5f0c23b9edc2c9a6687c7aea",
+        "title": "Albanian Dancers",
+        "url": "albanian-dancers-1835",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1835,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788",
+          "57726bcdedc2cb3880ae745e"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "cardboard"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mythology",
+          "Sky"
+        ],
+        "description": "",
+        "width": 771,
+        "image": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/les-danseurs-albanais-by-alexandre-gabriel-decamps-c-1835.jpg",
+        "height": 481
+      },
+      "width": 771,
+      "height": 481,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2372edc2c9a6687aba5c",
+      "title": "The Scissors Sharpener",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Scissors_Sharpener.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Scissors_Sharpener.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-de-scharenslijper-sa-374-amsterdam-museum.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-scissors-sharpener",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:26:51.419Z",
+      "fingerprint_sha256": "8e57287dfc2f28e046c18f54ec69ea81d95a41e219cf3af338b0784c730004de",
+      "raw_extmetadata": {
+        "id": "5f0c2372edc2c9a6687aba5c",
+        "title": "The Scissors Sharpener",
+        "url": "the-scissors-sharpener",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 919,
+        "image": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-de-scharenslijper-sa-374-amsterdam-museum.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 919,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2357edc2c9a6687a0b95",
+      "title": "A House in Turkey",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/A_House_in_Turkey.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/A_House_in_Turkey.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/a-house-in-turkey-met-dp801546.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/a-house-in-turkey",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:26:57.762Z",
+      "fingerprint_sha256": "f26a55258d2e4f6a2066d7a8d6a0e5a35453ce2e3fd2ec91697a10fc55e7879e",
+      "raw_extmetadata": {
+        "id": "5f0c2357edc2c9a6687a0b95",
+        "title": "A House in Turkey",
+        "url": "a-house-in-turkey",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b52edc2cb3880ad7788",
+          "57726bcdedc2cb3880ae740e",
+          "57726bccedc2cb3880ae725e",
+          "57726bcdedc2cb3880ae7436",
+          "57726b4eedc2cb3880ad7000",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "ink",
+          "chalk",
+          "watercolor",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Metropolitan Museum of Art (Met), New York City, NY, US"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1767,
+        "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/a-house-in-turkey-met-dp801546.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1767,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2233edc2c9a66871c34d",
+      "title": "Souvenir from Asian Turkey (Turkish children by a fountain)",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1846,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Souvenir_from_Asian_Turkey_(Turkish_children_by_a_fountain).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Souvenir_from_Asian_Turkey_%28Turkish_children_by_a_fountain%29.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-souvenir-de-la-turquie-d-asie-dit-aussi-enfants-turcs-aupr-s-d-une.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/souvenir-from-asian-turkey-turkish-children-by-a-fountain-1846",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:27:04.150Z",
+      "fingerprint_sha256": "f3f5f97e41ab12a503e6f2a0e6655187bb8ad39e3a034b4c65d24838fc43534a",
+      "raw_extmetadata": {
+        "id": "5f0c2233edc2c9a66871c34d",
+        "title": "Souvenir from Asian Turkey (Turkish children by a fountain)",
+        "url": "souvenir-from-asian-turkey-turkish-children-by-a-fountain-1846",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1846,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée Condé, Chantilly, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 954,
+        "image": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-souvenir-de-la-turquie-d-asie-dit-aussi-enfants-turcs-aupr-s-d-une.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 954,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2381edc2c9a6687b0905",
+      "title": "Turkish Boys Let out of School",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1841,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Turkish_Boys_Let_out_of_School.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Turkish_Boys_Let_out_of_School.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-turkish-boys-let-out-of-school-wga06141.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/turkish-boys-let-out-of-school-1841",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:27:10.121Z",
+      "fingerprint_sha256": "2f6f5fe14755c05ccebe583d45a0ec60a445bd8a61502c1af2e380122b819adb",
+      "raw_extmetadata": {
+        "id": "5f0c2381edc2c9a6687b0905",
+        "title": "Turkish Boys Let out of School",
+        "url": "turkish-boys-let-out-of-school-1841",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1841,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 901,
+        "image": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-turkish-boys-let-out-of-school-wga06141.jpg",
+        "height": 650
+      },
+      "width": 901,
+      "height": 650,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23b2edc2c9a6687c5e88",
+      "title": "The Turkish Patrol",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1831,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Turkish_Patrol.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Turkish_Patrol.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/la-pattuglia-turca.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-turkish-patrol-1831",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T01:27:16.515Z",
+      "fingerprint_sha256": "2bd1d5da0214312c8b93d238b7889950c503c84d6a4444a1f86d38706512ceee",
+      "raw_extmetadata": {
+        "id": "5f0c23b2edc2c9a6687c5e88",
+        "title": "The Turkish Patrol",
+        "url": "the-turkish-patrol-1831",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1831,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Wallace Collection, London, UK"
+        ],
+        "tags": [
+          "Turkish"
+        ],
+        "description": "",
+        "width": 1196,
+        "image": "https://uploads1.wikiart.org/00297/images/alexandre-gabriel-decamps/la-pattuglia-turca.jpg",
+        "height": 750
+      },
+      "width": 1196,
+      "height": 750,
       "mime": null
     }
   ]

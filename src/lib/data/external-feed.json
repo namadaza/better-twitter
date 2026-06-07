@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-06T18:41:50.947Z",
+  "fetchedAt": "2026-06-07T01:19:20.466Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-3e4441cb3d1d",
+      "title": "Boxing, Industry, Immigration, America (Audio Version)",
+      "url": "https://subscribe.martyrmade.com/p/boxing-industry-immigration-america-d62",
+      "publication": "The Martyr Made Substack",
+      "author": "Darryl Cooper",
+      "excerpt": "Hello everyone.",
+      "publishedAt": "2026-06-06T20:45:02.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b5b507502aac",
@@ -940,16 +950,6 @@
       "author": "BOSS Letter",
       "excerpt": "84: The foundation of your escape plan.",
       "publishedAt": "2026-05-31T05:18:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8c4e7df3c6f3",
-      "title": "Super PAC Network Backing Connie Chan Received Hundreds of Thousands from AIPAC",
-      "url": "https://www.dropsitenews.com/p/aipac-connie-chan-san-francisco-primary",
-      "publication": "Drop Site News",
-      "author": "Julian Andreone",
-      "excerpt": "AIPAC’s United Democracy Project, along with its offshoot DMFI, has funneled money to a network of Super PACs now backing the San Francisco supervisor.",
-      "publishedAt": "2026-05-31T00:09:29.000Z"
     }
   ]
 }
