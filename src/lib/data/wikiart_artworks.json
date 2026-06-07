@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-07T01:27:16.917Z",
+  "generated_at": "2026-06-07T13:45:32.363Z",
   "source": "wikiart",
-  "count": 444,
+  "count": 459,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -26976,6 +26976,942 @@
       },
       "width": 1196,
       "height": 750,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2380edc2c9a6687b060e",
+      "title": "The Suicide",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1836,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Suicide.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Suicide.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-the-suicide-walters-3742.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-suicide-1836",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:42:51.139Z",
+      "fingerprint_sha256": "8f8585af88994939d74276cb63be15944a1b0ed46cdc5648c2ba988845e7a027",
+      "raw_extmetadata": {
+        "id": "5f0c2380edc2c9a6687b060e",
+        "title": "The Suicide",
+        "url": "the-suicide-1836",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1836,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Walters Art Museum, Baltimore, MD, US"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1731,
+        "image": "https://uploads4.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-the-suicide-walters-3742.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1731,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2390edc2c9a6687b48f1",
+      "title": "An Oriental Farm",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/An_Oriental_Farm.PNG",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/An_Oriental_Farm.PNG",
+      "full_image_url": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/an-oriental-farm.PNG",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/an-oriental-farm",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:42:57.668Z",
+      "fingerprint_sha256": "9978a05364d4ae4a421ba691524cd8dd3b9cc738ba2a10e3b407cc452be6d5b9",
+      "raw_extmetadata": {
+        "id": "5f0c2390edc2c9a6687b48f1",
+        "title": "An Oriental Farm",
+        "url": "an-oriental-farm",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b52edc2cb3880ad7788",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Rural area"
+        ],
+        "description": "",
+        "width": 671,
+        "image": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/an-oriental-farm.PNG",
+        "height": 436
+      },
+      "width": 671,
+      "height": 436,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2393edc2c9a6687b5a89",
+      "title": "The Flight into Egypt",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1860,
+      "genres": [
+        "religious painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Flight_into_Egypt.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Flight_into_Egypt.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/00297/images/alexandre-gabriel-decamps/brooklyn-museum-the-flight-into-egypt-fuite-en-gypte-alexandre-gabriel-decamps-overall.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-flight-into-egypt-1860",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:43:03.901Z",
+      "fingerprint_sha256": "84a5297c0beb220d6983afbc983f6d4b4b76296bd99e765de73d2e5a398991f1",
+      "raw_extmetadata": {
+        "id": "5f0c2393edc2c9a6687b5a89",
+        "title": "The Flight into Egypt",
+        "url": "the-flight-into-egypt-1860",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1860,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b52edc2cb3880ad7788",
+          "57726bcdedc2cb3880ae7436",
+          "57726b4eedc2cb3880ad7000",
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "watercolor",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Brooklyn Museum, New York City, NY, US"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 768,
+        "image": "https://uploads6.wikiart.org/00297/images/alexandre-gabriel-decamps/brooklyn-museum-the-flight-into-egypt-fuite-en-gypte-alexandre-gabriel-decamps-overall.jpg",
+        "height": 530
+      },
+      "width": 768,
+      "height": 530,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c238eedc2c9a6687b414f",
+      "title": "The Defeat of the Cimbri",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1833,
+      "genres": [
+        "battle painting",
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Defeat_of_the_Cimbri.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Defeat_of_the_Cimbri.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-mario-sconfigge-i-cimbri-1833-01.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-defeat-of-the-cimbri-1833",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:43:10.591Z",
+      "fingerprint_sha256": "d40ba458e326d4399263f26c18a55febf9b462cb7ee8ef17daf39c307b71ad2d",
+      "raw_extmetadata": {
+        "id": "5f0c238eedc2c9a6687b414f",
+        "title": "The Defeat of the Cimbri",
+        "url": "the-defeat-of-the-cimbri-1833",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1833,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4dedc2cb3880ad6e00",
+          "57726b4eedc2cb3880ad6e88",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "battle painting",
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Louvre, Paris, France"
+        ],
+        "tags": [
+          "Picture frame",
+          "Stock photography",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1639,
+        "image": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-mario-sconfigge-i-cimbri-1833-01.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1639,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23a6edc2c9a6687c0d95",
+      "title": "Monkey head smoking a pipe",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1845,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Monkey_head_smoking_a_pipe.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Monkey_head_smoking_a_pipe.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-t-te-de-singe-fumant-la-pipe.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/monkey-head-smoking-a-pipe-1845",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:43:18.045Z",
+      "fingerprint_sha256": "69ec19540d3ef131d36d419555abc43b587256e124f3c0021ad9692eef23e9ff",
+      "raw_extmetadata": {
+        "id": "5f0c23a6edc2c9a6687c0d95",
+        "title": "Monkey head smoking a pipe",
+        "url": "monkey-head-smoking-a-pipe-1845",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1845,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée des Beaux-Arts de Bordeaux, Bordeaux, France"
+        ],
+        "tags": [
+          "Head"
+        ],
+        "description": "",
+        "width": 1383,
+        "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-t-te-de-singe-fumant-la-pipe.jpg",
+        "height": 1024
+      },
+      "width": 1383,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23a3edc2c9a6687bd6b9",
+      "title": "La Taverne",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1845,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/La_Taverne.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/La_Taverne.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-la-taverne.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/la-taverne-1845",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:43:24.857Z",
+      "fingerprint_sha256": "fbf20c9688f05e82ea403d23e31ff770e518dfb9a6ceed60c3fa932cc577d10e",
+      "raw_extmetadata": {
+        "id": "5f0c23a3edc2c9a6687bd6b9",
+        "title": "La Taverne",
+        "url": "la-taverne-1845",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1845,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée des Beaux-Arts de Bordeaux, Bordeaux, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1241,
+        "image": "https://uploads2.wikiart.org/00297/images/alexandre-gabriel-decamps/decamps-alexandre-la-taverne.jpg",
+        "height": 1024
+      },
+      "width": 1241,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c236eedc2c9a6687aa030",
+      "title": "The Beggars",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Beggars.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Beggars.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-1803-1860-the-beggars-ng-1045-national-galleries-of-scotland.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-beggars",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:43:30.967Z",
+      "fingerprint_sha256": "0cc973cca0a802ce8389eccf24cded7f214e3ca6c13656648b733bbf625a72d0",
+      "raw_extmetadata": {
+        "id": "5f0c236eedc2c9a6687aa030",
+        "title": "The Beggars",
+        "url": "the-beggars",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Scottish National Gallery, Edinburgh, UK"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads6.wikiart.org/00297/images/alexandre-gabriel-decamps/alexandre-gabriel-decamps-1803-1860-the-beggars-ng-1045-national-galleries-of-scotland.jpg",
+        "height": 490
+      },
+      "width": 800,
+      "height": 490,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c2355edc2c9a6687a054e",
+      "title": "The Masons",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Masons.JPG",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/The_Masons.JPG",
+      "full_image_url": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/muma-decamps-les-tailleurs-de-pierre.JPG!HD.JPG",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/the-masons",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:43:37.263Z",
+      "fingerprint_sha256": "b3fb1a9a16b785f6b89353e203d2152f68fb5351ed3090b2bf34cc278168b2d4",
+      "raw_extmetadata": {
+        "id": "5f0c2355edc2c9a6687a054e",
+        "title": "The Masons",
+        "url": "the-masons",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée Malraux (MuMa), Le Havre, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 1508,
+        "image": "https://uploads8.wikiart.org/00297/images/alexandre-gabriel-decamps/muma-decamps-les-tailleurs-de-pierre.JPG!HD.JPG",
+        "height": 1200
+      },
+      "width": 1508,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23b1edc2c9a6687c5b32",
+      "title": "In the Shade of the Courtyard",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/In_the_Shade_of_the_Courtyard.PNG",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/In_the_Shade_of_the_Courtyard.PNG",
+      "full_image_url": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/in-the-shade-of-the-courtyard.PNG",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/in-the-shade-of-the-courtyard",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:43:44.370Z",
+      "fingerprint_sha256": "4ec07436cbf2f88beb7044a31d83c59723c22d44be9fd3d0bebc214039e67a7c",
+      "raw_extmetadata": {
+        "id": "5f0c23b1edc2c9a6687c5b32",
+        "title": "In the Shade of the Courtyard",
+        "url": "in-the-shade-of-the-courtyard",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Historic site",
+          "Landmark",
+          "Ruins",
+          "History",
+          "Stock photography"
+        ],
+        "description": "",
+        "width": 895,
+        "image": "https://uploads3.wikiart.org/00297/images/alexandre-gabriel-decamps/in-the-shade-of-the-courtyard.PNG",
+        "height": 715
+      },
+      "width": 895,
+      "height": 715,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c239aedc2c9a6687b93f2",
+      "title": "Christ in the Praetorium",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": 1847,
+      "genres": [
+        "religious painting"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Christ_in_the_Praetorium.JPG",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Christ_in_the_Praetorium.JPG",
+      "full_image_url": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/christ-au-pretoire-alexandre-gabriel-decamps-img-8311.JPG!HD.JPG",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/christ-in-the-praetorium-1847",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:43:50.779Z",
+      "fingerprint_sha256": "3d9b2598521018671537774c8d4192cbc6dea823090c9071f37e8493c0f80162",
+      "raw_extmetadata": {
+        "id": "5f0c239aedc2c9a6687b93f2",
+        "title": "Christ in the Praetorium",
+        "url": "christ-in-the-praetorium-1847",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": 1847,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Musée d'Orsay, Paris, France"
+        ],
+        "tags": [],
+        "description": "",
+        "width": 872,
+        "image": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/christ-au-pretoire-alexandre-gabriel-decamps-img-8311.JPG!HD.JPG",
+        "height": 1200
+      },
+      "width": 872,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5f0c23a8edc2c9a6687c1d4d",
+      "title": "Cypriot Woman Smoking a Chibouk",
+      "artist": "Decamps Alexandre-Gabriel",
+      "year": null,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "alexandre-gabriel-decamps",
+      "blob_path": "better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Cypriot_Woman_Smoking_a_Chibouk.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/alexandre-gabriel-decamps/Cypriot_Woman_Smoking_a_Chibouk.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/cypriot-woman-smoking-a-chibouk-by-alexandre-gabriel-decamps.jpg",
+      "source_file_page": "https://www.wikiart.org/en/alexandre-gabriel-decamps/cypriot-woman-smoking-a-chibouk",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:43:56.979Z",
+      "fingerprint_sha256": "8278d4d0e59e01d2bd78f2b3e834cca94c1364f79ddbb94939a79e977f87e1a4",
+      "raw_extmetadata": {
+        "id": "5f0c23a8edc2c9a6687c1d4d",
+        "title": "Cypriot Woman Smoking a Chibouk",
+        "url": "cypriot-woman-smoking-a-chibouk",
+        "artistUrl": "alexandre-gabriel-decamps",
+        "artistName": "Decamps Alexandre-Gabriel",
+        "artistId": "5f0c21f5edc2c9a66870344b",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726bcdedc2cb3880ae72c6",
+          "57726bcdedc2cb3880ae734e",
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726b52edc2cb3880ad7788"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Romanticism",
+          "Orientalism"
+        ],
+        "media": [
+          "gouache",
+          "pen",
+          "ink"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Clark Art Institute, Williamstown, MA, US"
+        ],
+        "tags": [
+          "Sitting"
+        ],
+        "description": "",
+        "width": 441,
+        "image": "https://uploads7.wikiart.org/00297/images/alexandre-gabriel-decamps/cypriot-woman-smoking-a-chibouk-by-alexandre-gabriel-decamps.jpg",
+        "height": 618
+      },
+      "width": 441,
+      "height": 618,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c05332",
+      "title": "A View of Paris with the Op",
+      "artist": "van Gogh Vincent ",
+      "year": 1886,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_View_of_Paris_with_the_Op.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_View_of_Paris_with_the_Op.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-view-of-paris-with-the-op-1886(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-view-of-paris-with-the-op-1886",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:45:12.944Z",
+      "fingerprint_sha256": "332dd574e6d3aab3b95efdbcffd8b97a9b589636141171349d3e16ea9d1cabfd",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c05332",
+        "title": "A View of Paris with the Op",
+        "url": "a-view-of-paris-with-the-op-1886",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1886,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e30",
+          "57726bccedc2cb3880ae725e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "chalk",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "houses-and-buildings",
+          "Paris"
+        ],
+        "description": "",
+        "width": 1555,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-view-of-paris-with-the-op-1886(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1555,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c050ae",
+      "title": "A Group of Figures on the Beach",
+      "artist": "van Gogh Vincent ",
+      "year": 1890,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Group_of_Figures_on_the_Beach.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Group_of_Figures_on_the_Beach.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-group-of-figures-on-the-beach(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-group-of-figures-on-the-beach",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:45:19.073Z",
+      "fingerprint_sha256": "ea56d65d3d35bfc58496350aa2d1182c9d8091667509c97c9152c6b091df309c",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c050ae",
+        "title": "A Group of Figures on the Beach",
+        "url": "a-group-of-figures-on-the-beach",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "walking",
+          "Sketch",
+          "Organism"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-group-of-figures-on-the-beach(1).jpg",
+        "height": 630
+      },
+      "width": 1024,
+      "height": 630,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c04fc4",
+      "title": "A Carpenter with Apron",
+      "artist": "van Gogh Vincent ",
+      "year": 1882,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Carpenter_with_Apron.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Carpenter_with_Apron.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-carpenter-with-apron-1882(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-carpenter-with-apron-1882",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:45:24.999Z",
+      "fingerprint_sha256": "86dbbbdb8393e279471070fd6a3ba5ea6927ab68875b539d45ba091ac660f3f8",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c04fc4",
+        "title": "A Carpenter with Apron",
+        "url": "a-carpenter-with-apron-1882",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Haag / Den Haag / La Haye / The HagueNetherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "male-portraits"
+        ],
+        "description": "",
+        "width": 597,
+        "image": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-carpenter-with-apron-1882(1).jpg",
+        "height": 1024
+      },
+      "width": 597,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c050fa",
+      "title": "A house Magros",
+      "artist": "van Gogh Vincent ",
+      "year": 1879,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_house_Magros.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_house_Magros.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-house-magros-1879(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-house-magros-1879",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-07T13:45:31.962Z",
+      "fingerprint_sha256": "5047ee5f2c95c6c25cceabe3c6152eab85efe9805bc41d768152646c40cf47d9",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c050fa",
+        "title": "A house Magros",
+        "url": "a-house-magros-1879",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1879,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e30",
+          "57726bccedc2cb3880ae7266",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "CuesmesBelgium",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "charcoal",
+          "paper"
+        ],
+        "sizeX": 29.4,
+        "sizeY": 23,
+        "diameter": null,
+        "galleries": [
+          "National Gallery of Art, Washington, DC, US"
+        ],
+        "tags": [
+          "cottages-and-farmhouses",
+          "folk-architecture",
+          "House",
+          "Sketch",
+          "Cottage"
+        ],
+        "description": "",
+        "width": 1686,
+        "image": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-house-magros-1879(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1686,
+      "height": 1200,
       "mime": null
     }
   ]

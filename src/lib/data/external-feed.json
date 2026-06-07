@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-07T01:19:20.466Z",
+  "fetchedAt": "2026-06-07T13:37:45.180Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-fd72e175df4e",
+      "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+      "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens",
+      "publishedAt": "2026-06-07T12:31:29.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-3e4441cb3d1d",
@@ -920,36 +930,6 @@
       "author": "Prof Robert Pape",
       "excerpt": "4pm CT 5pm ET",
       "publishedAt": "2026-05-31T19:01:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0f16b9b6d9d1",
-      "title": "A rational conversation on where AI is actually going | Benedict Evans",
-      "url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Benedict Evans on why AI is a 1997 internet moment, what everyone gets wrong about job loss, and where the real value may accrue",
-      "publishedAt": "2026-05-31T12:31:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a93fb6463f69",
-      "title": "The Informal Economy is Pakistan’s Backstop",
-      "url": "https://kasurian.com/p/informal-economy-pakistan",
-      "publication": "Kasurian",
-      "author": "Kasurian",
-      "excerpt": "How Pakistan’s economy endures when its formal institutions fail.",
-      "publishedAt": "2026-05-31T08:36:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2e4c8ab9319c",
-      "title": "The honest guide to money, freedom, and a life you don't have to escape from.",
-      "url": "https://www.beautyofsaas.com/p/faq-how-to-escape-the-mediocrity-and-rise-above-the-average",
-      "publication": "BOSS Letter",
-      "author": "BOSS Letter",
-      "excerpt": "84: The foundation of your escape plan.",
-      "publishedAt": "2026-05-31T05:18:00.000Z"
     }
   ]
 }
