@@ -11,25 +11,95 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
+import type { FeedItem } from "@/lib/types";
 import type { KoreaderBook } from "@/lib/sources/koreader-generated";
+
+type BookOption = {
+  slug: string;
+  title: string;
+  author?: string;
+  items: Array<{ text: string; reference?: string }>;
+};
 
 type Props = {
   books: KoreaderBook[];
+  highlights: Extract<FeedItem, { type: "highlight" }>[];
 };
 
-export function BookHighlightsDialog({ books }: Props) {
+function buildHighlightBooks(
+  highlights: Extract<FeedItem, { type: "highlight" }>[],
+): BookOption[] {
+  function normalizeBookTitle(title: string) {
+    return title
+      .trim()
+      .replace(/(?:,)?\s+by\s+[^:]+$/i, "")
+      .replace(/\s*:\s*.*$/, "")
+      .replace(/\s+-\s+.*$/, "")
+      .replace(/[,;]\s*$/, "")
+      .trim();
+  }
+
+  const grouped = new Map<string, BookOption>();
+
+  function parseHighlightTitle(rawTitle: string) {
+    const trimmed = rawTitle.trim();
+    const separators = [" - ", " > ", " Page "];
+
+    for (const separator of separators) {
+      const index = trimmed.indexOf(separator);
+      if (index > 0) {
+        const title = trimmed.slice(0, index).trim();
+        const reference = trimmed.slice(index + separator.length).trim();
+        return { title, reference: reference || undefined };
+      }
+    }
+
+    return { title: trimmed, reference: undefined };
+  }
+
+  for (const item of highlights) {
+    const { title, reference } = parseHighlightTitle(item.title);
+    const canonicalTitle = normalizeBookTitle(title);
+    const existing = grouped.get(canonicalTitle);
+
+    if (existing) {
+      existing.items.push({ text: item.text, reference });
+      continue;
+    }
+
+    grouped.set(canonicalTitle, {
+      slug: `highlight-${canonicalTitle.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "")}`,
+      title: canonicalTitle,
+      items: [{ text: item.text, reference }],
+    });
+  }
+
+  return Array.from(grouped.values()).sort((a, b) => a.title.localeCompare(b.title));
+}
+
+export function BookHighlightsDialog({ books, highlights }: Props) {
+  const highlightBooks = useMemo<BookOption[]>(
+    () => buildHighlightBooks(highlights),
+    [highlights],
+  );
+
+  const allBooks = useMemo<BookOption[]>(
+    () => [...books, ...highlightBooks].sort((a, b) => a.title.localeCompare(b.title)),
+    [books, highlightBooks],
+  );
+
   const [open, setOpen] = useState(false);
-  const [selectedSlug, setSelectedSlug] = useState(books[0]?.slug ?? "");
+  const [selectedSlug, setSelectedSlug] = useState(allBooks[0]?.slug ?? "");
 
   useEffect(() => {
-    if (!selectedSlug && books[0]?.slug) {
-      setSelectedSlug(books[0].slug);
+    if (!allBooks.some((book) => book.slug === selectedSlug) && allBooks[0]?.slug) {
+      setSelectedSlug(allBooks[0].slug);
     }
-  }, [books, selectedSlug]);
+  }, [allBooks, selectedSlug]);
 
   const selectedBook = useMemo(
-    () => books.find((book) => book.slug === selectedSlug) ?? books[0],
-    [books, selectedSlug],
+    () => allBooks.find((book) => book.slug === selectedSlug) ?? allBooks[0],
+    [allBooks, selectedSlug],
   );
 
   return (
@@ -52,7 +122,7 @@ export function BookHighlightsDialog({ books }: Props) {
           </DialogDescription>
         </DialogHeader>
 
-        {books.length > 0 ? (
+        {allBooks.length > 0 ? (
           <div className="min-w-0 space-y-4">
             <label className="grid min-w-0 gap-2 text-base">
               <span className="font-medium">Book</span>
@@ -61,7 +131,7 @@ export function BookHighlightsDialog({ books }: Props) {
                 value={selectedBook?.slug ?? ""}
                 onChange={(event) => setSelectedSlug(event.target.value)}
               >
-                {books.map((book) => (
+                {allBooks.map((book) => (
                   <option key={book.slug} value={book.slug}>
                     {book.title}
                     {book.author ? ` · ${book.author}` : ""}
@@ -99,9 +169,7 @@ export function BookHighlightsDialog({ books }: Props) {
             )}
           </div>
         ) : (
-          <p className="text-sm text-muted-foreground">
-            No generated books found.
-          </p>
+          <p className="text-sm text-muted-foreground">No highlights found.</p>
         )}
       </DialogContent>
     </Dialog>

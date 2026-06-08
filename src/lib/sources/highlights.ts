@@ -3,6 +3,8 @@ import { join } from "path";
 import { createHash } from "crypto";
 import type { FeedItem } from "@/lib/types";
 
+type HighlightItem = Extract<FeedItem, { type: "highlight" }>;
+
 const HIGHLIGHTS_PATH = join(
   process.cwd(),
   "src",
@@ -11,11 +13,11 @@ const HIGHLIGHTS_PATH = join(
   "highlights.md",
 );
 
-let cache: { mtime: number; items: FeedItem[] } | null = null;
+let cache: { mtime: number; items: HighlightItem[] } | null = null;
 
-function parseHighlights(markdown: string): FeedItem[] {
+function parseHighlights(markdown: string): HighlightItem[] {
   const parts = markdown.split(/###\s+/).filter(Boolean);
-  const items: FeedItem[] = [];
+  const items: HighlightItem[] = [];
 
   for (const block of parts) {
     const [titleLine, ...bodyLines] = block.trim().split("\n");
@@ -42,7 +44,7 @@ function parseHighlights(markdown: string): FeedItem[] {
   return items;
 }
 
-export async function loadHighlights(): Promise<FeedItem[]> {
+export async function loadHighlights(): Promise<HighlightItem[]> {
   try {
     const stats = await stat(HIGHLIGHTS_PATH);
     const mtime = stats.mtime.getTime();

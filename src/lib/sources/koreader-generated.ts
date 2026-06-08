@@ -27,6 +27,23 @@ type ParsedKoreaderBook = {
   }>;
 };
 
+function normalizeBookTitle(title: string) {
+  return title
+    .trim()
+    .replace(/(?:,)?\s+by\s+[^:]+$/i, "")
+    .replace(/\s*:\s*.*$/, "")
+    .replace(/\s+-\s+.*$/, "")
+    .replace(/[,;]\s*$/, "")
+    .trim();
+}
+
+function slugify(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
 const GENERATED_DIR = join(
   process.cwd(),
   "src",
@@ -95,7 +112,27 @@ export async function loadKoreaderBooks(): Promise<KoreaderBook[]> {
     }),
   );
 
-  return books.filter((book): book is KoreaderBook => Boolean(book)).sort((a, b) =>
-    a.title.localeCompare(b.title),
-  );
+  const grouped = new Map<string, KoreaderBook>();
+
+  for (const book of books.filter((book): book is KoreaderBook => Boolean(book))) {
+    const normalizedTitle = normalizeBookTitle(book.title);
+    const slug = `koreader-${slugify(normalizedTitle)}`;
+    const existing = grouped.get(slug);
+
+    if (existing) {
+      existing.items.push(...book.items);
+      if (!existing.author && book.author) {
+        existing.author = book.author;
+      }
+      continue;
+    }
+
+    grouped.set(slug, {
+      ...book,
+      slug,
+      title: normalizedTitle,
+    });
+  }
+
+  return Array.from(grouped.values()).sort((a, b) => a.title.localeCompare(b.title));
 }
