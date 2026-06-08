@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-07T13:45:32.363Z",
+  "generated_at": "2026-06-08T01:25:56.091Z",
   "source": "wikiart",
-  "count": 459,
+  "count": 474,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -27912,6 +27912,955 @@
       },
       "width": 1686,
       "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92fe8",
+      "title": "Head of Jean-Baptiste Faure",
+      "artist": "Manet Edouard",
+      "year": 1883,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Head_of_Jean-Baptiste_Faure.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Head_of_Jean-Baptiste_Faure.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/edouard-manet/head-of-jean-baptiste-faure.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/head-of-jean-baptiste-faure",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:24:52.895Z",
+      "fingerprint_sha256": "0c173da6eba23d66af74fd4830da00e3fbb0313f5542c2fe483a0549f093d397",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92fe8",
+        "title": "Head of Jean-Baptiste Faure",
+        "url": "head-of-jean-baptiste-faure",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1883,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6ee0",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 37.8,
+        "sizeY": 46,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "male-portraits",
+          "famous-people",
+          "Jean-Baptiste-Faure",
+          "Facial hair",
+          "Chin",
+          "Beard",
+          "Gentleman"
+        ],
+        "description": "",
+        "width": 450,
+        "image": "https://uploads2.wikiart.org/images/edouard-manet/head-of-jean-baptiste-faure.jpg",
+        "height": 544
+      },
+      "width": 450,
+      "height": 544,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92f5e",
+      "title": "Fishing",
+      "artist": "Manet Edouard",
+      "year": 1863,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Fishing.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Fishing.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/edouard-manet/fishing.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/fishing",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:24:55.641Z",
+      "fingerprint_sha256": "6168924ac0ae4f3ae157460bad903ce4a687426fb6297aebbed8c34c669920f4",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92f5e",
+        "title": "Fishing",
+        "url": "fishing",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1863,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 123.2,
+        "sizeY": 76.8,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "children",
+          "fishing",
+          "walking",
+          "Mythology"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads7.wikiart.org/images/edouard-manet/fishing.jpg!HD.jpg",
+        "height": 1192
+      },
+      "width": 1920,
+      "height": 1192,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92dec",
+      "title": "Beach at Boulogne",
+      "artist": "Manet Edouard",
+      "year": 1869,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Beach_at_Boulogne.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Beach_at_Boulogne.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/edouard-manet/beach-at-boulogne-1869.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/beach-at-boulogne-1869",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:24:57.606Z",
+      "fingerprint_sha256": "d08dc37b62b705566f3fa203e1571ed371fabab3a6c6387b5c8cd7bfd9843c2e",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92dec",
+        "title": "Beach at Boulogne",
+        "url": "beach-at-boulogne-1869",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1869,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Paul Melon Collection, Upperville, VA, US"
+        ],
+        "tags": [
+          "walking"
+        ],
+        "description": "",
+        "width": 913,
+        "image": "https://uploads6.wikiart.org/images/edouard-manet/beach-at-boulogne-1869.jpg",
+        "height": 422
+      },
+      "width": 913,
+      "height": 422,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efdedc2cb3880b92d38",
+      "title": "At Father Lathuille's",
+      "artist": "Manet Edouard",
+      "year": 1879,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/At_Father_Lathuilles.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/At_Father_Lathuilles.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/edouard-manet/at-father-lathuille-1879.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/at-father-lathuille-1879",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:00.088Z",
+      "fingerprint_sha256": "9a648f4def95caa0a07e9d780ad906de4b5495c75c4e20c826d8eb06c47ff4ab",
+      "raw_extmetadata": {
+        "id": "57726efdedc2cb3880b92d38",
+        "title": "At Father Lathuille's",
+        "url": "at-father-lathuille-1879",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1879,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 112,
+        "sizeY": 92,
+        "diameter": null,
+        "galleries": [
+          "Musée des Beaux-Arts Tournai, Tournai, Belgium"
+        ],
+        "tags": [
+          "mealtimes",
+          "couples",
+          "cafes-and-restaurants",
+          "Gentleman"
+        ],
+        "description": "",
+        "width": 1466,
+        "image": "https://uploads6.wikiart.org/images/edouard-manet/at-father-lathuille-1879.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1466,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92fac",
+      "title": "Gypsy with a Cigarette",
+      "artist": "Manet Edouard",
+      "year": 1862,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Gypsy_with_a_Cigarette.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Gypsy_with_a_Cigarette.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/edouard-manet/gypsy-with-a-cigarette.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/gypsy-with-a-cigarette",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:02.369Z",
+      "fingerprint_sha256": "106a70bd607a994288e338733d147d8a6748d4f1cb41c1626c8ef315eda77090",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92fac",
+        "title": "Gypsy with a Cigarette",
+        "url": "gypsy-with-a-cigarette",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1862,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 73,
+        "sizeY": 92,
+        "diameter": null,
+        "galleries": [
+          "Princeton University Art Museum (PUAM), Princeton, NJ, US"
+        ],
+        "tags": [
+          "gypsies"
+        ],
+        "description": "",
+        "width": 895,
+        "image": "https://uploads6.wikiart.org/images/edouard-manet/gypsy-with-a-cigarette.jpg",
+        "height": 1154
+      },
+      "width": 895,
+      "height": 1154,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92f3a",
+      "title": "Embarkation after Folkestone",
+      "artist": "Manet Edouard",
+      "year": 1869,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Embarkation_after_Folkestone.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Embarkation_after_Folkestone.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/edouard-manet/embarkation-after-folkestone-1869.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/embarkation-after-folkestone-1869",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:04.602Z",
+      "fingerprint_sha256": "97a4ee2343d0a9a6f2faca34e59c1da27484dbcf0b37d8313c66ac88fa629f24",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92f3a",
+        "title": "Embarkation after Folkestone",
+        "url": "embarkation-after-folkestone-1869",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1869,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "France",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 101,
+        "sizeY": 63,
+        "diameter": null,
+        "galleries": [
+          "Oskar Reinhart Foundation, Winterthur, Switzerland"
+        ],
+        "tags": [
+          "boats-and-ships"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads6.wikiart.org/images/edouard-manet/embarkation-after-folkestone-1869.jpg!HD.jpg",
+        "height": 1156
+      },
+      "width": 1920,
+      "height": 1156,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efeedc2cb3880b92eb0",
+      "title": "Brunette with bare breasts",
+      "artist": "Manet Edouard",
+      "year": 1872,
+      "genres": [
+        "nude painting (nu)"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/Brunette_with_bare_breasts.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/Brunette_with_bare_breasts.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/edouard-manet/brunette-with-bare-breasts-1872.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/brunette-with-bare-breasts-1872",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:06.110Z",
+      "fingerprint_sha256": "725df50b6e578913ea98ec339530e4abd1aa6ef67dcf96414a832d5af2107199",
+      "raw_extmetadata": {
+        "id": "57726efeedc2cb3880b92eb0",
+        "title": "Brunette with bare breasts",
+        "url": "brunette-with-bare-breasts-1872",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6eb8",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "nude painting (nu)"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 49,
+        "sizeY": 60,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "female-nude",
+          "Lady",
+          "Chest"
+        ],
+        "description": "",
+        "width": 819,
+        "image": "https://uploads6.wikiart.org/images/edouard-manet/brunette-with-bare-breasts-1872.jpg",
+        "height": 1004
+      },
+      "width": 819,
+      "height": 1004,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57726efcedc2cb3880b92c24",
+      "title": "A café, interiour",
+      "artist": "Manet Edouard",
+      "year": 1869,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "edouard-manet",
+      "blob_path": "better-twitter/artwork/images/wikiart/edouard-manet/A_caf,_interiour.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/edouard-manet/A_caf%2C_interiour.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/edouard-manet/a-café-interiour-1869.jpg",
+      "source_file_page": "https://www.wikiart.org/en/edouard-manet/a-café-interiour-1869",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:08.522Z",
+      "fingerprint_sha256": "43e1b44181f3b09730516332511d51daa63ab6febb7f2ea13bb73f19da0f37b6",
+      "raw_extmetadata": {
+        "id": "57726efcedc2cb3880b92c24",
+        "title": "A café, interiour",
+        "url": "a-café-interiour-1869",
+        "artistUrl": "edouard-manet",
+        "artistName": "Manet Edouard",
+        "artistId": "57726d7eedc2cb3880b47e5b",
+        "completitionYear": 1869,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "ink",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "taverns-and-inns",
+          "Sketch"
+        ],
+        "description": "",
+        "width": 750,
+        "image": "https://uploads5.wikiart.org/images/edouard-manet/a-café-interiour-1869.jpg",
+        "height": 599
+      },
+      "width": 750,
+      "height": 599,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c051aa",
+      "title": "A mousmé, half-Figure",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_mousm,_half-Figure.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_mousm%2C_half-Figure.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-mousmé-half-figure-1888(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-mousmé-half-figure-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:35.611Z",
+      "fingerprint_sha256": "0462350686ce43895478dfe4517545a3eac8184fe8522f6d69bbe8736d0ac470",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c051aa",
+        "title": "A mousmé, half-Figure",
+        "url": "a-mousmé-half-figure-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7628",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Japonism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits",
+          "Forehead",
+          "Chin",
+          "Sketch",
+          "Jaw"
+        ],
+        "description": "",
+        "width": 772,
+        "image": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-mousmé-half-figure-1888(1).jpg",
+        "height": 1024
+      },
+      "width": 772,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c050e6",
+      "title": "A House at Auvers",
+      "artist": "van Gogh Vincent ",
+      "year": 1890,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_House_at_Auvers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_House_at_Auvers.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-house-at-auvers-1890(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-house-at-auvers-1890",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:40.262Z",
+      "fingerprint_sha256": "dd4f4298b97fa1bc2e8d737663b3252ab1fc075ff1ef319e8958ed5763101b1c",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c050e6",
+        "title": "A House at Auvers",
+        "url": "a-house-at-auvers-1890",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "Auvers-sur-oiseFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "streets-and-squares",
+          "folk-architecture"
+        ],
+        "description": "",
+        "width": 635,
+        "image": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-house-at-auvers-1890(1).jpg",
+        "height": 1024
+      },
+      "width": 635,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c051fa",
+      "title": "Two Lovers, Arles (Fragment)",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/Two_Lovers,_Arles_(Fragment).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/Two_Lovers%2C_Arles_%28Fragment%29.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-pair-of-lovers-arles-1888(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-pair-of-lovers-arles-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:43.375Z",
+      "fingerprint_sha256": "55eda7c8e3a3c23bb47dee8a12f66380284bfd6afbb0e6d3db7aca63b2bf2dbb",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c051fa",
+        "title": "Two Lovers, Arles (Fragment)",
+        "url": "a-pair-of-lovers-arles-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 23,
+        "sizeY": 32.5,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "couples",
+          "walking"
+        ],
+        "description": "",
+        "width": 410,
+        "image": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-pair-of-lovers-arles-1888(1).jpg",
+        "height": 595
+      },
+      "width": 410,
+      "height": 595,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c05060",
+      "title": "A Girl in a Wood",
+      "artist": "van Gogh Vincent ",
+      "year": 1882,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Girl_in_a_Wood.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Girl_in_a_Wood.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-girl-in-a-wood-1882(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-girl-in-a-wood-1882",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:45.901Z",
+      "fingerprint_sha256": "3be9b9361034a92af77ce8a6406a31e0c937681bb86b5232188fa04b7db05bc9",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c05060",
+        "title": "A Girl in a Wood",
+        "url": "a-girl-in-a-wood-1882",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Haag / Den Haag / La Haye / The HagueNetherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "ink",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "forests-and-trees",
+          "walking",
+          "Sketch",
+          "Text",
+          "Tree"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-girl-in-a-wood-1882(1).jpg",
+        "height": 715
+      },
+      "width": 1024,
+      "height": 715,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c052fa",
+      "title": "A Steamer with Several People",
+      "artist": "van Gogh Vincent ",
+      "year": 1890,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Steamer_with_Several_People.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Steamer_with_Several_People.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-steamer-with-several-people-1890(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-steamer-with-several-people-1890",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:51.279Z",
+      "fingerprint_sha256": "2c3a7954074dc34b193e7782eb4b7f520147088e90bbe2a86bb2e6e07695d1ba",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c052fa",
+        "title": "A Steamer with Several People",
+        "url": "a-steamer-with-several-people-1890",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Auvers-sur-oiseFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "boats-and-ships",
+          "Sketch"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-steamer-with-several-people-1890(1).jpg",
+        "height": 668
+      },
+      "width": 1024,
+      "height": 668,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c050be",
+      "title": "A Group of Pine Trees",
+      "artist": "van Gogh Vincent ",
+      "year": 1889,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Group_of_Pine_Trees.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Group_of_Pine_Trees.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-group-of-pine-trees-1889(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-group-of-pine-trees-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:53.958Z",
+      "fingerprint_sha256": "0542b06171bd84d14ed6e92e4ab89a05edd06679940047fd9e031cda273b26a9",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c050be",
+        "title": "A Group of Pine Trees",
+        "url": "a-group-of-pine-trees-1889",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bccedc2cb3880ae725e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "chalk",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "forests-and-trees",
+          "Tree",
+          "Botany",
+          "Sketch",
+          "Organism",
+          "Woody plant",
+          "Plant",
+          "Line"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-group-of-pine-trees-1889(1).jpg",
+        "height": 818
+      },
+      "width": 1024,
+      "height": 818,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c0536e",
+      "title": "A Woman s Legs",
+      "artist": "van Gogh Vincent ",
+      "year": 1887,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Woman_s_Legs.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Woman_s_Legs.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/vincent-van-gogh/a-woman-s-legs(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-woman-s-legs",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T01:25:55.690Z",
+      "fingerprint_sha256": "23ce069960e5434e3d57bdc6cf7949f4e68e02bb855bb97acda059b0f817ee19",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c0536e",
+        "title": "A Woman s Legs",
+        "url": "a-woman-s-legs",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1887,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-nude",
+          "Sketch",
+          "Figure drawing",
+          "Joint",
+          "Neck",
+          "Knee",
+          "Arm",
+          "Leg",
+          "Shoulder"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads4.wikiart.org/images/vincent-van-gogh/a-woman-s-legs(1).jpg",
+        "height": 520
+      },
+      "width": 1024,
+      "height": 520,
       "mime": null
     }
   ]
