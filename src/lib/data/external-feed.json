@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-06-08T08:02:49.867Z",
+  "fetchedAt": "2026-06-08T13:42:04.850Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-87ba9deacdf6",
+      "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Israeli cybersecurity company Check Point has released security updates to patch a critical flaw affecting Remote Access VPN and Mobile Access deployments, which was exploited in zero-day attacks. [...]",
+      "publishedAt": "2026-06-08T13:05:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c3affe28b1dd",
+      "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Massive Data Center Instead",
+      "url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+      "publication": "404 Media",
+      "author": "Matthew Gault",
+      "excerpt": "In 1999, a farmer gave away 87 acres of land to a small Texas city to use as a park. The city sold to a data center developer for $10 million.",
+      "publishedAt": "2026-06-08T13:00:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ad20cc63d675",
+      "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+      "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️She uses Claude to shop for high-quality items that last, automate returns when products fail, and spend less time on administrative tasks and more time with her kids",
+      "publishedAt": "2026-06-08T12:03:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f455da98ee7d",
+      "title": "Oxford University discloses data breach after careers platform hack",
+      "url": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
+      "publishedAt": "2026-06-08T11:14:41.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-5b0a9e700d71",
@@ -18,7 +58,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
       "publication": "BleepingComputer",
       "author": "Sergiu Gatlan",
-      "excerpt": "Meta has revealed that over 20,000 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
+      "excerpt": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
       "publishedAt": "2026-06-08T06:00:27.000Z"
     },
     {
@@ -930,26 +970,6 @@
       "author": "Lenny Rachitsky",
       "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "publishedAt": "2026-06-01T15:01:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1573e2a1d814",
-      "title": "The Trap Gets Worse",
-      "url": "https://escalationtrap.substack.com/p/the-trap-gets-worse",
-      "publication": "Escalation Trap",
-      "author": "Prof Robert Pape",
-      "excerpt": "Five Questions from Sunday’s Briefing That Reveal Why Trump Cannot Escape the Escalation Trap—and Why Instability Now Favors Tehran",
-      "publishedAt": "2026-06-01T12:20:13.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-88ebf5ab4fff",
-      "title": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
-      "url": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️ How a talent leader with zero technical skills built and shipped a fitness app to the App Store—complete with AI-generated videos of animals doing exercises",
-      "publishedAt": "2026-06-01T12:04:51.000Z"
     }
   ]
 }
