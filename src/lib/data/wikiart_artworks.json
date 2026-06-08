@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T01:25:56.091Z",
+  "generated_at": "2026-06-08T08:08:32.596Z",
   "source": "wikiart",
-  "count": 474,
+  "count": 489,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -28861,6 +28861,976 @@
       },
       "width": 1024,
       "height": 520,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c04fd8",
+      "title": "A Corner of the Asylum and the Garden with a Heavy, sawn-off Tree",
+      "artist": "van Gogh Vincent ",
+      "year": 1889,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Corner_of_the_Asylum_and_the_Garden_with_a_Heavy,_sawn-off_Tree.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Corner_of_the_Asylum_and_the_Garden_with_a_Heavy%2C_sawn-off_Tree.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/vincent-van-gogh/a-corner-of-the-asylum-and-the-garden-with-a-heavy-sawn-off-tree-1889(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-corner-of-the-asylum-and-the-garden-with-a-heavy-sawn-off-tree-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:07:45.742Z",
+      "fingerprint_sha256": "c91d1a400c47b9ed874b7ae31e346630f998c5996e89d0a68f9baa38ce7f4457",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c04fd8",
+        "title": "A Corner of the Asylum and the Garden with a Heavy, sawn-off Tree",
+        "url": "a-corner-of-the-asylum-and-the-garden-with-a-heavy-sawn-off-tree-1889",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bccedc2cb3880ae725e",
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "chalk",
+          "ink",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "gardens-and-parks",
+          "Tree",
+          "Botany"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads5.wikiart.org/images/vincent-van-gogh/a-corner-of-the-asylum-and-the-garden-with-a-heavy-sawn-off-tree-1889(1).jpg",
+        "height": 791
+      },
+      "width": 1024,
+      "height": 791,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c052d6",
+      "title": "A Sower and a Man with a Spade",
+      "artist": "van Gogh Vincent ",
+      "year": 1890,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Sower_and_a_Man_with_a_Spade.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Sower_and_a_Man_with_a_Spade.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-sower-and-a-man-with-a-spade-1890(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-sower-and-a-man-with-a-spade-1890",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:07:47.805Z",
+      "fingerprint_sha256": "83d3b720d3e29abee5829204757de6191f62a53e75ab495b525505ec2f602b70",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c052d6",
+        "title": "A Sower and a Man with a Spade",
+        "url": "a-sower-and-a-man-with-a-spade-1890",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1890,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bccedc2cb3880ae725e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "chalk",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Jacques Dubour Collection, Paris, France"
+        ],
+        "tags": [
+          "countryside",
+          "handwork",
+          "Sketch"
+        ],
+        "description": "",
+        "width": 828,
+        "image": "https://uploads7.wikiart.org/images/vincent-van-gogh/a-sower-and-a-man-with-a-spade-1890(1).jpg",
+        "height": 1024
+      },
+      "width": 828,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c051d2",
+      "title": "A mousmé, sitting",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_mousm,_sitting.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_mousm%2C_sitting.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-mousmé-sitting-1888-1(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-mousmé-sitting-1888-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:07:50.058Z",
+      "fingerprint_sha256": "5c117be2e0dc0fb8ab12c95d448f8046719596ab36031e2c2956971682791fa9",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c051d2",
+        "title": "A mousmé, sitting",
+        "url": "a-mousmé-sitting-1888-1",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7628",
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [
+          "Japonism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits"
+        ],
+        "description": "",
+        "width": 924,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-mousmé-sitting-1888-1(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 924,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c05136",
+      "title": "A Lane of Cypresses with a Couple Walking",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Lane_of_Cypresses_with_a_Couple_Walking.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Lane_of_Cypresses_with_a_Couple_Walking.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/vincent-van-gogh/a-lane-of-cypresses-with-a-couple-walking-1888(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-lane-of-cypresses-with-a-couple-walking-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:07:52.265Z",
+      "fingerprint_sha256": "ea529e785d74f437fd1807094ba58716e2257a1eae3140c63200f70d72ed3820",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c05136",
+        "title": "A Lane of Cypresses with a Couple Walking",
+        "url": "a-lane-of-cypresses-with-a-couple-walking-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "ink",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "couples",
+          "twilight-and-night",
+          "walking",
+          "Text",
+          "Grass family",
+          "Handwriting"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads0.wikiart.org/images/vincent-van-gogh/a-lane-of-cypresses-with-a-couple-walking-1888(1).jpg",
+        "height": 878
+      },
+      "width": 1024,
+      "height": 878,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c05392",
+      "title": "A Zandmennik house",
+      "artist": "van Gogh Vincent ",
+      "year": 1879,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Zandmennik_house.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Zandmennik_house.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-zandmennik-house(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-zandmennik-house",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:07:53.489Z",
+      "fingerprint_sha256": "25a4cc4552a522c6cdff3ef02bdbe897b1c52271f0b69321147b8d73db233c25",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c05392",
+        "title": "A Zandmennik house",
+        "url": "a-zandmennik-house",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1879,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e30",
+          "57726bccedc2cb3880ae7266",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "CuesmesBelgium",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "charcoal",
+          "paper"
+        ],
+        "sizeX": 29.4,
+        "sizeY": 22.8,
+        "diameter": null,
+        "galleries": [
+          "unknown"
+        ],
+        "tags": [
+          "cottages-and-farmhouses",
+          "folk-architecture",
+          "House",
+          "Farmhouse",
+          "Cottage"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-zandmennik-house(1).jpg",
+        "height": 802
+      },
+      "width": 1024,
+      "height": 802,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c04fec",
+      "title": "A Digger",
+      "artist": "van Gogh Vincent ",
+      "year": 1881,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Digger.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Digger.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-digger-1881(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-digger-1881",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:07:55.573Z",
+      "fingerprint_sha256": "a32ea214a0cb0a6a8233273d859f7e2748b32cc496cedca7c64420ace3f53cc2",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c04fec",
+        "title": "A Digger",
+        "url": "a-digger-1881",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Netherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": 62.1,
+        "sizeY": 47.1,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "countryside",
+          "handwork",
+          "Tree"
+        ],
+        "description": "",
+        "width": 924,
+        "image": "https://uploads1.wikiart.org/images/vincent-van-gogh/a-digger-1881(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 924,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c0525e",
+      "title": "A Pine Tree and Cypresses in the Garden of the Asylum",
+      "artist": "van Gogh Vincent ",
+      "year": 1889,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Pine_Tree_and_Cypresses_in_the_Garden_of_the_Asylum.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Pine_Tree_and_Cypresses_in_the_Garden_of_the_Asylum.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-pine-tree-and-cypresses-in-the-garden-of-the-asylum-1889(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-pine-tree-and-cypresses-in-the-garden-of-the-asylum-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:07:57.951Z",
+      "fingerprint_sha256": "1b339ea692b9c0fb3bb3580cb9674ae8be774d8dab4595ff45e351919fcf0ce8",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c0525e",
+        "title": "A Pine Tree and Cypresses in the Garden of the Asylum",
+        "url": "a-pine-tree-and-cypresses-in-the-garden-of-the-asylum-1889",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "forests-and-trees",
+          "Botany",
+          "Sketch",
+          "Fictional character"
+        ],
+        "description": "",
+        "width": 786,
+        "image": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-pine-tree-and-cypresses-in-the-garden-of-the-asylum-1889(1).jpg",
+        "height": 1024
+      },
+      "width": 786,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c05182",
+      "title": "A Meadow in the Mountains:  Le Mas de Saint-Paul",
+      "artist": "van Gogh Vincent ",
+      "year": 1889,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Meadow_in_the_Mountains_Le_Mas_de_Saint-Paul.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Meadow_in_the_Mountains_Le_Mas_de_Saint-Paul.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-meadow-in-the-mountains-1889(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-meadow-in-the-mountains-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:08:05.106Z",
+      "fingerprint_sha256": "00418bf15100eac2ec4a40611a1defe2f679848196d2bb18edeca3d975f12ae2",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c05182",
+        "title": "A Meadow in the Mountains:  Le Mas de Saint-Paul",
+        "url": "a-meadow-in-the-mountains-1889",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 73,
+        "sizeY": 91.5,
+        "diameter": null,
+        "galleries": [
+          "Kröller-Müller Museum, Otterlo, Netherlands"
+        ],
+        "tags": [
+          "valleys-and-hollows",
+          "mountains",
+          "Natural landscape",
+          "Nature",
+          "Mountain",
+          "Bank",
+          "Tree",
+          "Hill"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-meadow-in-the-mountains-1889(1).jpg",
+        "height": 1024
+      },
+      "width": 1280,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c053f6",
+      "title": "Alychamps, Autumn",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/Alychamps,_Autumn.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/Alychamps%2C_Autumn.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/vincent-van-gogh/alychamps-autumn-1888(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/alychamps-autumn-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:08:10.036Z",
+      "fingerprint_sha256": "b32caa8f5b656584ef6b9bbfdddc48a4ca6a5ba59a587fb86bf860ba62464c3b",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c053f6",
+        "title": "Alychamps, Autumn",
+        "url": "alychamps-autumn-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 91,
+        "sizeY": 72,
+        "diameter": null,
+        "galleries": [
+          "Kröller-Müller Museum, Otterlo, Netherlands"
+        ],
+        "tags": [
+          "autumn",
+          "gardens-and-parks",
+          "walking",
+          "Tree",
+          "Forest"
+        ],
+        "description": "",
+        "width": 1534,
+        "image": "https://uploads0.wikiart.org/images/vincent-van-gogh/alychamps-autumn-1888(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1534,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c05088",
+      "title": "A Girl Raking",
+      "artist": "van Gogh Vincent ",
+      "year": 1881,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Girl_Raking.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Girl_Raking.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-girl-raking-1881(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-girl-raking-1881",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:08:12.245Z",
+      "fingerprint_sha256": "8cb589c96220c83ac39733cb7d9bb7a16c7472d24ace3241053156d74c011908",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c05088",
+        "title": "A Girl Raking",
+        "url": "a-girl-raking-1881",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58",
+          "57726bcdedc2cb3880ae740e",
+          "57726bcdedc2cb3880ae7436",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Netherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "ink",
+          "watercolor",
+          "paper"
+        ],
+        "sizeX": 58,
+        "sizeY": 46,
+        "diameter": null,
+        "galleries": [
+          "Centraal Museum, Utrecht, Netherlands"
+        ],
+        "tags": [
+          "countryside",
+          "handwork",
+          "Lady"
+        ],
+        "description": "",
+        "width": 937,
+        "image": "https://uploads6.wikiart.org/images/vincent-van-gogh/a-girl-raking-1881(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 937,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c0510e",
+      "title": "A Lane in the Public Garden with Benches",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Lane_in_the_Public_Garden_with_Benches.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Lane_in_the_Public_Garden_with_Benches.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-lane-in-the-public-garden-with-benches-1888(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-lane-in-the-public-garden-with-benches-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:08:14.538Z",
+      "fingerprint_sha256": "8c7f5cf215c17b4ef3df3657af3f5f3dd2f57b6a323a1ace4a6fd371e2c63d85",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c0510e",
+        "title": "A Lane in the Public Garden with Benches",
+        "url": "a-lane-in-the-public-garden-with-benches-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f18",
+          "57726bccedc2cb3880ae725e",
+          "57726bcdedc2cb3880ae740e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "chalk",
+          "ink",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "gardens-and-parks",
+          "Sketch",
+          "Tree"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-lane-in-the-public-garden-with-benches-1888(1).jpg",
+        "height": 786
+      },
+      "width": 1024,
+      "height": 786,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c05170",
+      "title": "A Marsh",
+      "artist": "van Gogh Vincent ",
+      "year": 1881,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Marsh.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Marsh.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-marsh-1881(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-marsh-1881",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:08:17.424Z",
+      "fingerprint_sha256": "361219b6eaf93f9acc5b0c7151da22dac55ab9dd512194680314ea305702ff91",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c05170",
+        "title": "A Marsh",
+        "url": "a-marsh-1881",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae7356",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Netherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "pencil",
+          "paper"
+        ],
+        "sizeX": 42.5,
+        "sizeY": 56.5,
+        "diameter": null,
+        "galleries": [
+          "National Gallery of Canada, Ottawa, Canada"
+        ],
+        "tags": [
+          "fields-and-plains",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1265,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-marsh-1881(1).jpg",
+        "height": 1024
+      },
+      "width": 1265,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711fedc2cb3880c053ba",
+      "title": "Alley Bordered by Trees",
+      "artist": "van Gogh Vincent ",
+      "year": 1884,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/Alley_Bordered_by_Trees.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/Alley_Bordered_by_Trees.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/vincent-van-gogh/alley-bordered-by-trees-1884(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/alley-bordered-by-trees-1884",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:08:19.583Z",
+      "fingerprint_sha256": "5e25fc5307d66c7b3fb6cdfd9357c4ba48ddd548af583b30072b474d20e5f227",
+      "raw_extmetadata": {
+        "id": "5772711fedc2cb3880c053ba",
+        "title": "Alley Bordered by Trees",
+        "url": "alley-bordered-by-trees-1884",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1884,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bccedc2cb3880ae725e",
+          "57726bcdedc2cb3880ae7436",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Nunen / NuenenNetherlands",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [
+          "chalk",
+          "watercolor",
+          "paper"
+        ],
+        "sizeX": 20.6,
+        "sizeY": 12.5,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "gardens-and-parks",
+          "Infrastructure"
+        ],
+        "description": "",
+        "width": 731,
+        "image": "https://uploads7.wikiart.org/images/vincent-van-gogh/alley-bordered-by-trees-1884(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 731,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c0529a",
+      "title": "A Road in St. Remy with Female Figures",
+      "artist": "van Gogh Vincent ",
+      "year": 1889,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Road_in_St._Remy_with_Female_Figures.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Road_in_St._Remy_with_Female_Figures.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-road-in-st-remy-with-female-figures-1889(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-road-in-st-remy-with-female-figures-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:08:25.822Z",
+      "fingerprint_sha256": "b23202d6f15646c6e1bc278417dd27f89f6d0e3cfbe87f1acc9f09bcce96f7fa",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c0529a",
+        "title": "A Road in St. Remy with Female Figures",
+        "url": "a-road-in-st-remy-with-female-figures-1889",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 40.5,
+        "sizeY": 32.5,
+        "diameter": null,
+        "galleries": [
+          "Kasama Nichido Museum of Art, Kasama, Japan"
+        ],
+        "tags": [
+          "gardens-and-parks",
+          "Saint-Rémy-de-Provence"
+        ],
+        "description": "",
+        "width": 1578,
+        "image": "https://uploads3.wikiart.org/images/vincent-van-gogh/a-road-in-st-remy-with-female-figures-1889(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1578,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c052ae",
+      "title": "A Row of Bare Trees",
+      "artist": "van Gogh Vincent ",
+      "year": 1889,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Row_of_Bare_Trees.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/vincent-van-gogh/A_Row_of_Bare_Trees.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/vincent-van-gogh/a-row-of-bare-trees-1889(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-row-of-bare-trees-1889",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-08T08:08:32.196Z",
+      "fingerprint_sha256": "3725f637fc2ae121559061de349080ecfaf91f348de0a462d5f087576652bedd",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c052ae",
+        "title": "A Row of Bare Trees",
+        "url": "a-row-of-bare-trees-1889",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1889,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bccedc2cb3880ae725e",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Saint-rémy-de-provenceFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "chalk",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Van Gogh Museum, Amsterdam, Netherlands"
+        ],
+        "tags": [
+          "forests-and-trees",
+          "Sketch",
+          "Line",
+          "Organism"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads5.wikiart.org/images/vincent-van-gogh/a-row-of-bare-trees-1889(1).jpg",
+        "height": 825
+      },
+      "width": 1024,
+      "height": 825,
       "mime": null
     }
   ]

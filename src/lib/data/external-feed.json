@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-06-08T01:19:52.109Z",
+  "fetchedAt": "2026-06-08T08:02:49.867Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-5b0a9e700d71",
+      "title": "A Life Lived Against the Grain",
+      "url": "https://www.arktosjournal.com/p/a-life-lived-against-the-grain",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "A Review of Andrea Scarabelli's \"Julius Evola: An Adventurous Life\"",
+      "publishedAt": "2026-06-08T07:02:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4d0a5003b5a1",
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Meta has revealed that over 20,000 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
+      "publishedAt": "2026-06-08T06:00:27.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-af4e56de64f1",
@@ -930,16 +950,6 @@
       "author": "Claire Vo",
       "excerpt": "Watch now | 🎙️ How a talent leader with zero technical skills built and shipped a fitness app to the App Store—complete with AI-generated videos of animals doing exercises",
       "publishedAt": "2026-06-01T12:04:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a209c97616e5",
-      "title": "Western Civilisation: What Does Jerusalem Have To Do With Rome?",
-      "url": "https://www.arktosjournal.com/p/western-civilisation-what-does-jerusalem",
-      "publication": "Arktos Journal",
-      "author": "Richard Storey",
-      "excerpt": "by Richard Storey",
-      "publishedAt": "2026-06-01T06:35:01.000Z"
     }
   ]
 }
