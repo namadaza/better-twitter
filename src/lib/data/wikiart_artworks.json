@@ -23323,6 +23323,7 @@
       "id": "wikiart:57726efdedc2cb3880b92dc4",
       "title": "Bathers on the Seine",
       "artist": "Manet Edouard",
+      "doNotRender": true,
       "year": 1875,
       "genres": [
         "genre painting"
