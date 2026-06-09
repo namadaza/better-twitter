@@ -1,6 +1,285 @@
 {
-  "fetchedAt": "2026-06-08T13:42:04.850Z",
+  "fetchedAt": "2026-06-09T15:17:20.588Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-79b1b2d729a3",
+      "title": "FCC Wants to Kill Burner Phones By Forcing Telecoms to Get All Customers’ IDs",
+      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "The FCC wants to legally force telecoms to collect new and renewing customers' government issued identity number and physical address, impacting everyone from the privacy-conscious to domestic abuse survivors. “We never thought that would happen here.”",
+      "publishedAt": "2026-06-09T15:11:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8f4d20e56cac",
+      "title": "Why did China get rich?",
+      "url": "https://www.aporiamagazine.com/p/why-did-china-get-rich",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "The answer's fairly simple.",
+      "publishedAt": "2026-06-09T14:50:45.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bede14d5f79a",
+      "title": "Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case",
+      "url": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "When two AIs argue against each other, the legal system loses.",
+      "publishedAt": "2026-06-09T14:30:13.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-45db4a8af5ee",
+      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]",
+      "publishedAt": "2026-06-09T14:27:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-31eb44ce11e6",
+      "title": "Remigration: The Birth of an Occidental Right",
+      "url": "https://www.arktosjournal.com/p/remigration-the-birth-of-an-occidental",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Kevin DeAnna",
+      "publishedAt": "2026-06-09T14:02:08.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7db1d9b973d1",
+      "title": "'Sloppenheimer:' Amazon Employees Mock the Company’s AI on Slack",
+      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+      "publication": "404 Media",
+      "author": "Emanuel Maiberg",
+      "excerpt": "Amazon employees have a Slack channel for memes where the mock and commiserate about the company’s faulty AI coding product.",
+      "publishedAt": "2026-06-09T13:44:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0e6636817457",
+      "title": "Essential books for product builders—part 2",
+      "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "36 more timeless books that’ll make you a better builder, leader, and person",
+      "publishedAt": "2026-06-09T13:11:29.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-35778b691163",
+      "title": "French govt messaging service breached in account hijacking attack",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]",
+      "publishedAt": "2026-06-09T10:53:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6350fdccc349",
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
+      "publishedAt": "2026-06-09T08:18:39.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b1923cca2bc5",
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
+      "publishedAt": "2026-06-09T06:56:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-560e4515d4bc",
+      "title": "OUT NOW - Julius Evola: Political Traditionalism",
+      "url": "https://www.arktosjournal.com/p/out-now-julius-evola-political-traditionalism",
+      "publication": "Arktos Journal",
+      "author": "Alexander Dugin",
+      "excerpt": "by Alexander Dugin",
+      "publishedAt": "2026-06-09T06:04:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-019ecb094b82",
+      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
+      "publishedAt": "2026-06-08T22:11:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7cba4b20afa6",
+      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+      "url": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
+      "publishedAt": "2026-06-08T21:55:46.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6de103a7b3e2",
+      "title": "New Apple feature automatically changes your compromised passwords",
+      "url": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
+      "publishedAt": "2026-06-08T21:03:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-994f0a52993e",
+      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
+      "publishedAt": "2026-06-08T20:41:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4338015fd382",
+      "title": "Jared Taylor's Banned Conference Speech",
+      "url": "https://www.arktosjournal.com/p/jared-taylors-banned-conference-speech",
+      "publication": "Arktos Journal",
+      "author": "Jared Taylor",
+      "excerpt": "\"The American (European) Dilemma\"",
+      "publishedAt": "2026-06-08T20:09:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f56a5f4c9ade",
+      "title": "U.S.-Nigerian Strikes Killed Dozens of Civilians, Villagers Say",
+      "url": "https://www.dropsitenews.com/p/united-states-nigeria-iswap-borno-strikes-civilian-casualties",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "AFRICOM and the Nigerian army claimed they killed 175 “terrorists” over the course of three days in May.",
+      "publishedAt": "2026-06-08T19:55:29.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2192fe77836a",
+      "title": "This Company Will Add Phone, AirPod, and Smartwatch Trackers to License Plate Readers",
+      "url": "https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "SignalTrace “links devices that regularly travel together, correlating them to license plate.” It is a surveillance product that will sweep up and add all sorts of Bluetooth and other data to license plate readers, linking specific devices—and people—to cars.",
+      "publishedAt": "2026-06-08T19:08:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-660a75281a01",
+      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
+      "publishedAt": "2026-06-08T18:40:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-40007301fe65",
+      "title": "Gogs patches critical zero-day enabling remote code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
+      "publishedAt": "2026-06-08T16:18:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e1d9c4c54a30",
+      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
+      "publishedAt": "2026-06-08T15:51:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-def57ca5e971",
+      "title": "Microsoft Hacked to Deliver Malware to Claude and Gemini Users",
+      "url": "https://www.404media.co/microsoft-hacked-to-deliver-malware-to-claude-and-gemini-users/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "Microsoft took the highly unusual step of shutting down more than 70 of its own GitHub repositories after hackers pushed malware that would steal credentials from AI coding agent users.",
+      "publishedAt": "2026-06-08T15:50:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5a02f9e7df6f",
+      "title": "AI Is Slowing Down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "publication": "Ed Zitron's Where's Your Ed At",
+      "author": "Ed Zitron",
+      "excerpt": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and",
+      "publishedAt": "2026-06-08T15:37:39.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1817a3fe77a3",
+      "title": "Israel strikes Beirut, Iran strikes Israel, Israel strikes Iran",
+      "url": "https://www.dropsitenews.com/p/israel-beirut-lebanon-iran-strikes-trump-ceasefire",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 8, 2026",
+      "publishedAt": "2026-06-08T15:20:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-62d51650f4d0",
+      "title": "Limbic Capitalism Has Been Driving Addiction for Hundreds of Years",
+      "url": "https://www.afterbabel.com/p/limbic-capitalism-addiction-david-courtwright",
+      "publication": "After Babel",
+      "excerpt": "Historian David Courtwright helps us understand how we got here and what’s likely to come in this chapter from The Age of Addiction.",
+      "publishedAt": "2026-06-08T15:15:50.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1fb14707d96b",
+      "title": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "publishedAt": "2026-06-08T15:01:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9b546af8a530",
+      "title": "It’s So Not Over for Hollywood (with Devindra Hardawar)",
+      "url": "https://www.404media.co/its-so-not-over-for-hollywood-with-devindra-hardawar/",
+      "publication": "404 Media",
+      "author": "Emanuel Maiberg",
+      "excerpt": "Emanuel talks to Devindra Hardawar about AI in Hollywood and the state of the movie industry.",
+      "publishedAt": "2026-06-08T14:11:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9923d5173ffc",
+      "title": "Reducing security operations complexity with Wazuh Cloud",
+      "url": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Wazuh",
+      "excerpt": "Security teams are increasingly overwhelmed by alert fatigue, infrastructure maintenance, and complex hybrid environments. This article explores how Wazuh Cloud helps simplify SIEM/XDR operations through managed infrastructure, automated scaling, and AI-driven security analysis. [...]",
+      "publishedAt": "2026-06-08T14:01:11.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-87ba9deacdf6",
@@ -830,146 +1109,6 @@
       "author": "Drop Site News",
       "excerpt": "Drop Site Daily: June 2, 2026",
       "publishedAt": "2026-06-02T15:41:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-074951da0f7f",
-      "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability",
-      "url": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
-      "publication": "404 Media",
-      "author": "Matthew Gault",
-      "excerpt": "The researchers compared AI to the near-sighted cartoon character Mr. Magoo, who can’t see he’s stumbling through dangerous situations.",
-      "publishedAt": "2026-06-02T15:03:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4ec7bfc8a4f2",
-      "title": "The independent writer’s advantage in the age of AI",
-      "url": "https://on.substack.com/p/the-independent-writers-advantage",
-      "publication": "On Substack",
-      "author": "Jasmine Sun",
-      "excerpt": "Jasmine Sun on why secrets, live presence, and a distinct voice matter more than ever in an AI-saturated world, and what independent creators need to build careers that machines can't replace",
-      "publishedAt": "2026-06-02T14:40:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3d88fec986e5",
-      "title": "Why the browser is now the front line for AI security",
-      "url": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Push Security",
-      "excerpt": "AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becoming critical for both threat detection and AI governance. [...]",
-      "publishedAt": "2026-06-02T14:30:40.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e9e8f03518c2",
-      "title": "Remigration: Returning to Ourselves",
-      "url": "https://www.arktosjournal.com/p/remigration-returning-to-ourselves",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Romain Petitjean",
-      "publishedAt": "2026-06-02T14:11:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b0459291501b",
-      "title": "AI Doesn't Have ROI",
-      "url": "https://www.wheresyoured.at/ai-doesnt-have-roi/",
-      "publication": "Ed Zitron's Where's Your Ed At",
-      "author": "Ed Zitron",
-      "excerpt": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and",
-      "publishedAt": "2026-06-02T14:04:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3b5703b66206",
-      "title": "Blue Dog PAC Treasurer Gets $1.2 Million Backing From Affiliated Super PAC",
-      "url": "https://www.dropsitenews.com/p/california-election-mike-thompson-blue-dog-pac",
-      "publication": "Drop Site News",
-      "author": "Julian Andreone",
-      "excerpt": "Formed by conservative Democrats ahead of the 2026 midterms, Blue Dog Action Fund is supporting the campaign of incumbent Mike Thompson, one of its most powerful members.",
-      "publishedAt": "2026-06-02T13:36:41.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-194c88260629",
-      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
-      "publishedAt": "2026-06-02T12:40:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-964c0331e19b",
-      "title": "Why You Should Be a Techno-Skeptic",
-      "url": "https://www.afterbabel.com/p/ted-haidt-you-should-be-a-techno-skeptic",
-      "publication": "After Babel",
-      "author": "Jon Haidt",
-      "excerpt": "In his most urgent TED Talk yet, Jon Haidt reminds us that human connection is not optional.",
-      "publishedAt": "2026-06-02T11:03:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a75d98270170",
-      "title": "Arktos Summer Sale",
-      "url": "https://www.arktosjournal.com/p/arktos-summer-sale",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "20%-50% off classic and new works",
-      "publishedAt": "2026-06-02T06:19:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e68f670a3518",
-      "title": "AI: The Biggest Capital Misallocation in History",
-      "url": "https://georgenoble.substack.com/p/ai-the-biggest-capital-misallocation-d18",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "Gary Marcus, Julien Garran, Nobody Special",
-      "publishedAt": "2026-06-01T22:39:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-93ac2d8d68e3",
-      "title": "This only happened three other times since 1992",
-      "url": "https://georgenoble.substack.com/p/this-only-happened-three-other-times",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "John Hussman just published one of the most important pieces of market analysis I have read this year and every serious investor needs to read it.",
-      "publishedAt": "2026-06-01T22:08:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c0750720ebdc",
-      "title": "Coming to Conservatism",
-      "url": "https://www.aporiamagazine.com/p/coming-to-conservatism",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "My unique but predictable journey from radicalism to conservatism",
-      "publishedAt": "2026-06-01T17:01:40.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-398d47caa64f",
-      "title": "Iran threatens to suspend ceasefire talks after Israel escalates in Lebanon; Pro-Israel groups play big in key Tuesday primaries",
-      "url": "https://www.dropsitenews.com/p/iran-ceasefire-israel-lebanon-primaries-aipac",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 1, 2026",
-      "publishedAt": "2026-06-01T15:55:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-005cd2c085c3",
-      "title": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "publishedAt": "2026-06-01T15:01:46.000Z"
     }
   ]
 }
