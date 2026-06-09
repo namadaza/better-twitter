@@ -1,6 +1,86 @@
 {
-  "fetchedAt": "2026-06-09T15:17:20.588Z",
+  "fetchedAt": "2026-06-09T18:55:41.701Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-5a29f4fe57f9",
+      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates that replace those expiring this month. [...]",
+      "publishedAt": "2026-06-09T18:35:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-88c5b48566c2",
+      "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
+      "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️Early access to Claude Fable 5: what Anthropic claims, what I tested, and my honest take",
+      "publishedAt": "2026-06-09T18:32:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-49369dc0acf9",
+      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]",
+      "publishedAt": "2026-06-09T17:57:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-06a548641a98",
+      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "publishedAt": "2026-06-09T17:32:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4895da882d07",
+      "title": "Erratic Fury: Trump and Iran—On the Precipice of More War or a Return to Diplomacy",
+      "url": "https://www.dropsitenews.com/p/iran-israel-us-lebanon-ceasefire-trump-hormuz",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Jeremy Scahill and Ryan Grim speak to Mohammad Ali Shabani, Maryam Jamshidi, and Negar Mortazavi about the state of the Iran war.",
+      "publishedAt": "2026-06-09T16:33:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cf8f06c884a5",
+      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
+      "url": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by XBOW",
+      "excerpt": "Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-site validation. [...]",
+      "publishedAt": "2026-06-09T16:16:38.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6a42d15d059a",
+      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+      "url": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]",
+      "publishedAt": "2026-06-09T15:42:40.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-122ab72e704c",
+      "title": "Israel kills 29 in Lebanon strikes; DOJ moves to strip citizenship from 17; Trump’s World Cup restrictions",
+      "url": "https://www.dropsitenews.com/p/israel-lebanon-doj-citizenship-trump-world-cup",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 9, 2026",
+      "publishedAt": "2026-06-09T15:19:03.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-79b1b2d729a3",
@@ -8,7 +88,7 @@
       "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
       "publication": "404 Media",
       "author": "Joseph Cox",
-      "excerpt": "The FCC wants to legally force telecoms to collect new and renewing customers' government issued identity number and physical address, impacting everyone from the privacy-conscious to domestic abuse survivors. “We never thought that would happen here.”",
+      "excerpt": "The FCC wants to legally force telecoms to collect new and renewing customers’ government issued identity number and physical address, impacting everyone from the privacy-conscious to domestic abuse survivors. “We never thought that would happen here.”",
       "publishedAt": "2026-06-09T15:11:17.000Z"
     },
     {
@@ -1049,66 +1129,6 @@
       "author": "Bill Toulas",
       "excerpt": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
       "publishedAt": "2026-06-02T20:01:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e4c5df062f32",
-      "title": "Microsoft Wants to 'Make People Addicted' to its New AI Assistant, Internal Documents Reveal",
-      "url": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "Planning documents for \"Scout\" say the plan is to \"make people addicted\" to the tool before adding new features.",
-      "publishedAt": "2026-06-02T18:46:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ae2a715c7c7d",
-      "title": "“You Either Leave Right Now or You Die”—Israel’s Ethnic Cleansing of a Village in Lebanon",
-      "url": "https://www.dropsitenews.com/p/lebanon-ain-arab-israeli-military-hezbollah-displacement-trump-",
-      "publication": "Drop Site News",
-      "author": "Lylla Younes",
-      "excerpt": "Israeli soldiers went door to door in the border village of Ain Arab, forcing residents from their homes at gunpoint as part of a systematic campaign to empty large swathes of southern Lebanon.",
-      "publishedAt": "2026-06-02T17:52:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2e1c70a6f262",
-      "title": "Microsoft Exchange Online outage causes email delays, failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Germany. [...]",
-      "publishedAt": "2026-06-02T17:02:40.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-15208a8c2dc8",
-      "title": "Instagram users locked out after Meta AI abused to steal accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Multiple Instagram users had their accounts hijacked after attackers convinced Meta's AI-powered support tools that they were the legitimate owners. [...]",
-      "publishedAt": "2026-06-02T15:47:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e67aaa4085e4",
-      "title": "Bombing While Talking",
-      "url": "https://escalationtrap.substack.com/p/bombing-while-talking",
-      "publication": "Escalation Trap",
-      "author": "Prof Robert Pape",
-      "excerpt": "Yesterday’s events revealed something important about the current phase of the Iran War.",
-      "publishedAt": "2026-06-02T15:45:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0b0bcbff56b1",
-      "title": "Trump claims Israel and Hezbollah will de-escalate; White House narrows Medicaid work exemption; Kenya protests U.S. Ebola quarantine facility",
-      "url": "https://www.dropsitenews.com/p/trump-israel-hezbollah-lebanon-medicaid-kenya-ebola",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 2, 2026",
-      "publishedAt": "2026-06-02T15:41:12.000Z"
     }
   ]
 }
