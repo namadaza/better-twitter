@@ -1,6 +1,216 @@
 {
-  "fetchedAt": "2026-06-09T18:55:41.701Z",
+  "fetchedAt": "2026-06-11T07:57:52.651Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-d021f16b1d9e",
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "url": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
+      "publishedAt": "2026-06-11T07:27:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ef3cc861bb6a",
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
+      "publishedAt": "2026-06-11T06:20:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-eac65fed3dbc",
+      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
+      "publishedAt": "2026-06-10T21:23:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0b43901b3fdb",
+      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
+      "url": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
+      "publishedAt": "2026-06-10T20:27:08.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-24fec2e8d7c2",
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
+      "publishedAt": "2026-06-10T19:41:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cbcc57de2841",
+      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
+      "publishedAt": "2026-06-10T18:31:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-49294c728a26",
+      "title": "U.S. and Iran trade strikes over downed helicopter; Platner to face Susan Collins in November; Pakistan kills 11 children in Afghan attacks",
+      "url": "https://www.dropsitenews.com/p/us-iran-strikes-helicopter-platner-maine-pakistan-afghanistan",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 10, 2026",
+      "publishedAt": "2026-06-10T15:00:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-96fd571c06ae",
+      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
+      "url": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+      "publishedAt": "2026-06-10T15:00:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e2e1dd3c516a",
+      "title": "The 5 Best Practices for Secure Identity Verification",
+      "url": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Specops Software",
+      "excerpt": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]",
+      "publishedAt": "2026-06-10T14:05:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-16ffaedba9b6",
+      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
+      "publishedAt": "2026-06-10T13:44:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-98eec4830baf",
+      "title": "Scientists Just Accidentally Discovered a Strange, Hidden Rule of Human Nature",
+      "url": "https://www.404media.co/scientists-just-accidentally-discovered-a-strange-hidden-rule-of-human-nature/",
+      "publication": "404 Media",
+      "author": "Becky Ferreira",
+      "excerpt": "Researchers report a \"serendipitous\" discovery while watching videos of crowds: an inexplicable bias toward counterclockwise turning that may be rooted in biology.",
+      "publishedAt": "2026-06-10T13:39:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-16e59e9527de",
+      "title": "Podcast: Google Employees Meme About How Bad Their AI Is",
+      "url": "https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "Memes at Google; Microsoft wants to make its new AI assistant addictive; and manipulating Reddit.",
+      "publishedAt": "2026-06-10T13:36:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e5546ff65484",
+      "title": "Cops Keep Getting Arrested for Using Flock to Stalk People",
+      "url": "https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "There have been more than a dozen cases around the country where police use Flock to obsessively and illegally stalk people.",
+      "publishedAt": "2026-06-10T13:22:29.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-007b9143f236",
+      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]",
+      "publishedAt": "2026-06-10T11:33:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7b83e84e4ab4",
+      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]",
+      "publishedAt": "2026-06-10T09:57:33.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-38c8ccc7c45a",
+      "title": "Remembrance and Revelation",
+      "url": "https://www.arktosjournal.com/p/remembrance-and-revelation",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by J. R. Sommer",
+      "publishedAt": "2026-06-10T08:00:50.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-810d94c1cc72",
+      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
+      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
+      "publishedAt": "2026-06-10T06:26:28.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cd49bdd56b42",
+      "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class. [...]",
+      "publishedAt": "2026-06-10T02:03:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9a90781529ad",
+      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
+      "publishedAt": "2026-06-09T23:11:18.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2a600db19ac3",
+      "title": "ServiceNow discloses security incident exposing customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]",
+      "publishedAt": "2026-06-09T21:34:09.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5ad01354de13",
+      "title": "Israel Intensifies the Killing in Gaza as the World Looks Away",
+      "url": "https://www.dropsitenews.com/p/gaza-genocide-yellow-line-israel-killing-palestinians-ceasefire",
+      "publication": "Drop Site News",
+      "author": "Abdel Qader Sabbah",
+      "excerpt": "“They have taken everything from us. They have taken away the possibility for life.”",
+      "publishedAt": "2026-06-09T20:58:10.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-5a29f4fe57f9",
@@ -849,286 +1059,6 @@
       "author": "Arktos Journal",
       "excerpt": "by Alexander Markovics",
       "publishedAt": "2026-06-04T08:02:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5044069f721e",
-      "title": "Midweek Scroll: Some very unfortunate AI news",
-      "url": "https://www.infinitescroll.us/p/midweek-scroll-some-very-unfortunate",
-      "publication": "Infinite Scroll",
-      "author": "Jeremiah Johnson",
-      "excerpt": "Plus! YouTubers in the box office, BookTok drama, and a very good Odyssey post",
-      "publishedAt": "2026-06-03T23:24:54.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bc0bcf779860",
-      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
-      "publishedAt": "2026-06-03T21:45:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0fb989d3deac",
-      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
-      "url": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
-      "publishedAt": "2026-06-03T20:31:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-059dd9037ab4",
-      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tanks across various critical infrastructure sectors. [...]",
-      "publishedAt": "2026-06-03T20:21:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-491cc6fbb841",
-      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
-      "url": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
-      "publishedAt": "2026-06-03T19:08:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e90ccec2d03b",
-      "title": "Demand Is Booming for New No Tech, Repairable Tractor",
-      "url": "https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "\"There is consumer pressure to back away from technology that is unnecessary to perform everyday tasks.\"",
-      "publishedAt": "2026-06-03T18:07:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3717440bb4f6",
-      "title": "Podcast: Hackers Asked Meta AI To Let Them In. It Worked",
-      "url": "https://www.404media.co/podcast-hackers-asked-meta-ai-to-let-them-in-it-worked/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "The insane Meta AI hack; Amazon's internal AI leaderboard; and our lawsuit against ICE.",
-      "publishedAt": "2026-06-03T16:22:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1f9d6f0150a8",
-      "title": "The Myth of Assimilation",
-      "url": "https://www.aporiamagazine.com/p/the-myth-of-assimilation",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "Unpacking the narrative around Ellis Island immigration",
-      "publishedAt": "2026-06-03T16:01:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a06882263ce3",
-      "title": "Iran strikes Kuwait and Bahrain; Israel kills paramedics in Lebanon; Primary results",
-      "url": "https://www.dropsitenews.com/p/iran-kuwait-bahrain-israel-paramedics-lebanon-primary",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 3, 2026",
-      "publishedAt": "2026-06-03T15:40:45.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3b0258c87590",
-      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
-      "publishedAt": "2026-06-03T15:36:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a573ddb883b3",
-      "title": "The 2026 B2B mobile data benchmark",
-      "url": "https://newsletter.outbound.kitchen/p/the-2026-b2b-mobile-data-benchmark",
-      "publication": "Outbound Kitchen",
-      "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "I tested 10 providers on 1,400 US contacts. Full results inside.",
-      "publishedAt": "2026-06-03T15:11:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-584e2e9981f7",
-      "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search",
-      "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "Peptide companies have been doing AI-engine optimization by spamming the biohackers subreddit to manipulate ChatGPT and Google.",
-      "publishedAt": "2026-06-03T14:29:28.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e7ac2568ba5f",
-      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
-      "url": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Sprocket Security",
-      "excerpt": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
-      "publishedAt": "2026-06-03T14:02:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1910426b2740",
-      "title": "Bombing While Talking II",
-      "url": "https://escalationtrap.substack.com/p/bombing-while-talking-ii",
-      "publication": "Escalation Trap",
-      "author": "Prof Robert Pape",
-      "excerpt": "Why Ceasefires Fail",
-      "publishedAt": "2026-06-03T12:42:37.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7b248d78c948",
-      "title": "Gemini Omni: Clone yourself with AI in under 15 minutes",
-      "url": "https://www.lennysnewsletter.com/p/gemini-omni-clone-yourself-with-ai",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️ Testing Google’s Gemini Omni avatar feature live—I scan a QR code, clone my face, and ship a hype reel",
-      "publishedAt": "2026-06-03T12:04:09.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-43e25f01792e",
-      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
-      "url": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Acer is working to address two maximum-severity zero-day vulnerabilities affecting its Wave 7 mesh routers. [...]",
-      "publishedAt": "2026-06-03T11:35:47.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c9675d76b066",
-      "title": "Founding Members Livestream #1",
-      "url": "https://predictivehistory.substack.com/p/founding-members-livestream-1",
-      "publication": "Predictive History Substack",
-      "author": "Predictive History",
-      "excerpt": "Sunday, June 7th at 9am Beijing time",
-      "publishedAt": "2026-06-03T11:35:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a548bf9cda22",
-      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "European and international law enforcement agencies have dismantled nine organized crime groups and arrested 29 suspects in a major crackdown on illegal streaming operations. [...]",
-      "publishedAt": "2026-06-03T10:12:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8febcb2b8c25",
-      "title": "Google adds Android protection against AI deepfake scam calls",
-      "url": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Google is introducing a new Android security feature that will detect and flag phone calls in which scammers use artificial intelligence to impersonate a user's personal contacts. [...]",
-      "publishedAt": "2026-06-03T09:02:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-47a1c4f82acf",
-      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-      "url": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
-      "publishedAt": "2026-06-03T06:50:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a79be1232d3e",
-      "title": "Google Is Quietly Buying Code From Play Store Developers to Train AI",
-      "url": "https://www.404media.co/google-is-quietly-buying-code-from-play-store-developers-to-train-ai/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "Google is trying to buy code from some Android developers as part of a \"confidential\" program.",
-      "publishedAt": "2026-06-03T00:16:47.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-acdc36da0216",
-      "title": "MEGA Trading Post/Short Thoughts Mash-Up June 2, 2026",
-      "url": "https://michaeljburry.substack.com/p/mega-trading-postshort-thoughts-mash",
-      "publication": "Cassandra Unchained",
-      "author": "Michael Burry",
-      "excerpt": "Trades, Short Philosophy, SpaceX bits, and Memory Chips Misremembering",
-      "publishedAt": "2026-06-03T00:01:28.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f4de1dd77f24",
-      "title": "Why the Iran Talks Now Hang on Lebanon",
-      "url": "https://www.dropsitenews.com/p/iran-ceasefire-lebanon-adam-hamawy-trita-parsi",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Tehran suspended ceasefire negotiations over Israel’s escalating attacks in Lebanon and U.S.",
-      "publishedAt": "2026-06-02T23:10:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d237bb8c0176",
-      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
-      "publishedAt": "2026-06-02T22:52:40.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c1a75207071b",
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "publication": "BleepingComputer",
-      "author": "Mayank Parmar",
-      "excerpt": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
-      "publishedAt": "2026-06-02T22:44:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1e19bd999269",
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
-      "publishedAt": "2026-06-02T22:12:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d31b55e6e9d3",
-      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
-      "publishedAt": "2026-06-02T21:54:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-dba9f821fe33",
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
-      "publishedAt": "2026-06-02T20:01:20.000Z"
     }
   ]
 }
