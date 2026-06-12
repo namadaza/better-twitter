@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-06-11T19:37:26.514Z",
+  "fetchedAt": "2026-06-12T01:21:31.425Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-57347cf376df",
+      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
+      "publishedAt": "2026-06-11T23:14:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-66b97351a432",
+      "title": "Maine breach portal abused to publish fake data breach disclosures",
+      "url": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
+      "publishedAt": "2026-06-11T22:44:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4cb0e637df6c",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
+      "publishedAt": "2026-06-11T19:39:53.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-059115ffca5f",
@@ -999,46 +1029,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
       "publishedAt": "2026-06-05T06:24:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5ab42edb73a3",
-      "title": "Satya Nadella ‘Not Sure’ Who Said Microsoft Wanted to Make Addictive AI, Is Looking for Guy Who Did This",
-      "url": "https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "Microsoft's CEO seems unaware of what's going on at his own company.",
-      "publishedAt": "2026-06-04T22:03:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1d9e97e194fe",
-      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
-      "url": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]",
-      "publishedAt": "2026-06-04T21:37:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f847ed6c330d",
-      "title": "Hola Browser for Windows compromised to deliver cryptominer",
-      "url": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
-      "publishedAt": "2026-06-04T21:27:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f10fecad5eed",
-      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
-      "url": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
-      "publishedAt": "2026-06-04T20:47:16.000Z"
     }
   ]
 }
