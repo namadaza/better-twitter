@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-12T01:21:31.425Z",
+  "fetchedAt": "2026-06-12T07:53:11.111Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-e204875791a6",
+      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
+      "url": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
+      "publishedAt": "2026-06-12T07:09:11.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-57347cf376df",
@@ -1019,16 +1029,6 @@
       "author": "Arktos Journal",
       "excerpt": "by Christian Chensvold",
       "publishedAt": "2026-06-05T07:57:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2c9f40bc5727",
-      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
-      "publishedAt": "2026-06-05T06:24:20.000Z"
     }
   ]
 }
