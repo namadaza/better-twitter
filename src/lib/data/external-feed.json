@@ -1,6 +1,146 @@
 {
-  "fetchedAt": "2026-06-12T07:53:11.111Z",
+  "fetchedAt": "2026-06-12T19:26:25.900Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-c85df41208b8",
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+      "publishedAt": "2026-06-12T18:19:34.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-05e43365fa9b",
+      "title": "The Issue of Israel Is Ending Democracy In Michigan",
+      "url": "https://www.dropsitenews.com/p/university-michigan-palestine-protests-federal-indictments-nessel-sayed",
+      "publication": "Drop Site News",
+      "author": "Ryan Grim",
+      "excerpt": "Michigan is now a central battleground in the war over the U.S. relationship with Israel—and the American public’s ability to debate it freely.",
+      "publishedAt": "2026-06-12T18:01:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-67f21e0ac15f",
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+      "publishedAt": "2026-06-12T17:54:28.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d793201f78ed",
+      "title": "Premium: The Silicon Valley Bubble (Part 1)",
+      "url": "https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/",
+      "publication": "Ed Zitron's Where's Your Ed At",
+      "author": "Ed Zitron",
+      "excerpt": "Friends, I believe we’re approaching the end of this era. Both OpenAI and Anthropic have filed the paperwork to go public, starting a race for exit liquidity for two companies that burn billions of dollars a year and have no path to profitability.\nBoth of these companies are",
+      "publishedAt": "2026-06-12T17:16:51.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1c515afe7ed8",
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "publishedAt": "2026-06-12T17:03:55.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5b79947b9610",
+      "title": "‘You Will Not Speak on Flock Tonight’: County Commissioner Refuses to Let Residents Opposing Flock Speak at Meeting",
+      "url": "https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "\"I’ve spoken. I’m not debating this.\"",
+      "publishedAt": "2026-06-12T16:10:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6c908f9981a9",
+      "title": "Trump calls off Iran strikes as deal nears; Israel orders more displacement of Gaza refugees; Postal service threatens to withhold mail ballots",
+      "url": "https://www.dropsitenews.com/p/trump-iran-deal-israel-gaza-maghazi-postal-service-mail-ballots",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 12, 2026",
+      "publishedAt": "2026-06-12T15:46:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cf6f87d05866",
+      "title": "Behind the Blog: World Cup Madness and Film Reviews",
+      "url": "https://www.404media.co/behind-the-blog-world-cup-madness-and-film-reviews/",
+      "publication": "404 Media",
+      "author": "Samantha Cole",
+      "excerpt": "This week, we discuss Trump fucking up the World Cup, some thoughts on ICE coverage, and movies.",
+      "publishedAt": "2026-06-12T15:01:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c38edcbcd6ef",
+      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+      "url": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Flare",
+      "excerpt": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
+      "publishedAt": "2026-06-12T14:01:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b8fbe74643d3",
+      "title": "The Art of Capitulation: Trump Spins Victory as Iran Says its Red Lines Remain Intact",
+      "url": "https://www.dropsitenews.com/p/trump-iran-deal-israel-lebanon-hassan-ahmadian",
+      "publication": "Drop Site News",
+      "author": "Jeremy Scahill",
+      "excerpt": "Top Iran analyst Dr. Hassan Ahmadian tells Drop Site that Trump was forced to seek a deal on Iran's terms after meeting the “hard rock” of Iranian resistance.",
+      "publishedAt": "2026-06-12T12:34:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-69091d6496b5",
+      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
+      "publishedAt": "2026-06-12T11:44:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-13aaa2600364",
+      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
+      "url": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
+      "publishedAt": "2026-06-12T10:13:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a76c36bb3266",
+      "title": "'The Police are Looking for Plato': Evola on Trial",
+      "url": "https://www.arktosjournal.com/p/the-police-are-looking-for-plato",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Andrea Scarabelli",
+      "publishedAt": "2026-06-12T09:00:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-24664181d880",
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
+      "publishedAt": "2026-06-12T08:26:55.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-e204875791a6",
@@ -909,126 +1049,6 @@
       "author": "Drop Site News",
       "excerpt": "Piker commented that he \"would never have imagined that a [Labour] government would ban me from entering the UK.\" Indeed, millions of UK voters would likely agree.",
       "publishedAt": "2026-06-05T19:59:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ebc2d0efe1cd",
-      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
-      "publishedAt": "2026-06-05T19:15:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8ae33b815b85",
-      "title": "Chinese APT deploys new malware to keep access to hacked networks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
-      "publishedAt": "2026-06-05T18:09:47.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-17f62548d182",
-      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
-      "url": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
-      "publishedAt": "2026-06-05T17:50:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1bb333c0c65e",
-      "title": "ICE’s Plan to Let Cops Around the Country Scan Faces to Verify Immigration Status",
-      "url": "https://www.404media.co/ices-plan-to-let-cops-around-the-country-scan-faces-to-verify-immigration-status/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "ICE plans to give potentially more than a thousand agencies access to a facial recognition app that verifies a person's immigration status.",
-      "publishedAt": "2026-06-05T16:51:47.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e8fa750cd5a0",
-      "title": "Israel angles for permanent occupation in Lebanon; Dr. Hussam Abu Safiyah transferred to solitary confinement; Trump sanctions Cuban president",
-      "url": "https://www.dropsitenews.com/p/israel-lebanon-hussam-abu-safiyah-gaza-trump-cuba",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 5, 2026",
-      "publishedAt": "2026-06-05T16:08:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-91c087c8d7fc",
-      "title": "Premium: The Hater's Guide To The AI Bubble 3.0",
-      "url": "https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/",
-      "publication": "Ed Zitron's Where's Your Ed At",
-      "author": "Ed Zitron",
-      "excerpt": "Last year I wrote one of my favourite pieces ever — The Hater’s Guide To The AI Bubble — and followed it up with The Hater’s Guide To The AI Bubble Volume 2 several months later. Sadly, I’ve realized “volume” is a",
-      "publishedAt": "2026-06-05T15:57:04.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b0d2249d6cc4",
-      "title": "Behind the Blog: Dangerous Memes",
-      "url": "https://www.404media.co/behind-the-blog-dangerous-memes/",
-      "publication": "404 Media",
-      "author": "Samantha Cole",
-      "excerpt": "This week, we discuss controversial memes, good times at Meta, and more.",
-      "publishedAt": "2026-06-05T15:51:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7cadfcb9ce82",
-      "title": "The U.S. Military Quietly Turned GPS Into a Global ‘Numbers Station,’ Evidence Suggests",
-      "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
-      "publication": "404 Media",
-      "author": "Becky Ferreira",
-      "excerpt": "A random sequence in an innocuous GPS message field is likely encrypted traffic from the U.S. military's system for remotely updating cryptographic keys around the world.",
-      "publishedAt": "2026-06-05T15:28:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-677816615495",
-      "title": "K-pop Fans Are Calling Out Creepy Deepfakes of Idols",
-      "url": "https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/",
-      "publication": "404 Media",
-      "author": "Janus Rose",
-      "excerpt": "With some fans making sexualized AI-generated images and videos of idols, the rest of the fandom is standing up against the behavior.",
-      "publishedAt": "2026-06-05T14:52:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5dbc2974159b",
-      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to ongoing attacks. [...]",
-      "publishedAt": "2026-06-05T14:50:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0af0ec0d596e",
-      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
-      "url": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Keep Aware",
-      "excerpt": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
-      "publishedAt": "2026-06-05T14:00:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1c2a52625e1d",
-      "title": "Decadent Chronicles 11: Towards a Gothic Fighting Style",
-      "url": "https://www.arktosjournal.com/p/decadent-chronicles-11-towards-a",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Christian Chensvold",
-      "publishedAt": "2026-06-05T07:57:21.000Z"
     }
   ]
 }
