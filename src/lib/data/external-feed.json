@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-06-13T13:32:01.038Z",
+  "fetchedAt": "2026-06-13T18:40:06.152Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-895797f291bc",
+      "title": "The Only Prompt Library Built For People Who Are Tired of Prompt Libraries",
+      "url": "https://www.beautyofsaas.com/p/the-only-prompt-library-built-for-people-who-are-tired-of-prompt",
+      "publication": "BOSS Letter",
+      "author": "BOSS Letter",
+      "excerpt": "144: Prompts that actually make you think differently... Not just work faster.",
+      "publishedAt": "2026-06-13T15:41:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8c0c6d88ae16",
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
+      "publishedAt": "2026-06-13T14:06:42.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4a7d584e4ec7",
+      "title": "Israel Searches for a Red Sea Foothold in Somaliland",
+      "url": "https://www.dropsitenews.com/p/israel-somaliland-military-bases-somalia-uae-red-sea",
+      "publication": "Drop Site News",
+      "author": "Faisal Ali",
+      "excerpt": "Israel is deepening its relationship with the breakaway state. Will military bases follow?",
+      "publishedAt": "2026-06-13T14:04:26.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-6b77e8ab081b",
@@ -1019,46 +1049,6 @@
       "author": "Darryl Cooper",
       "excerpt": "Hello everyone.",
       "publishedAt": "2026-06-06T20:45:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b5b507502aac",
-      "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 188",
-      "publishedAt": "2026-06-06T17:14:54.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1cfdd2b8070a",
-      "title": "Why does the US have so many murders?",
-      "url": "https://www.aporiamagazine.com/p/why-does-the-us-have-so-many-murders",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "It's not racial composition.",
-      "publishedAt": "2026-06-06T16:25:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3eb7ad18dc17",
-      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
-      "publishedAt": "2026-06-06T14:09:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ad0aa295fc7b",
-      "title": "Scientists Discover Hidden Symmetry on Earth That Nobody Can Explain",
-      "url": "https://www.404media.co/scientists-discover-hidden-symmetry-on-earth-that-nobody-can-explain/",
-      "publication": "404 Media",
-      "author": "Becky Ferreira",
-      "excerpt": "The north-south albedo symmetry may be fading as both hemispheres get darker.",
-      "publishedAt": "2026-06-06T13:36:56.000Z"
     }
   ]
 }
