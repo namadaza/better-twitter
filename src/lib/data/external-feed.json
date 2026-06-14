@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-06-14T07:49:57.573Z",
+  "fetchedAt": "2026-06-14T12:52:50.951Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-21d7efc54b1c",
+      "title": "The hidden pattern behind successful products | Mark Pincus (Founder of Zynga)",
+      "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Listen now | Mark Pincus on why your instincts are right but your ideas are wrong, the “Proven, Better, New” framework, and what he’s teaching his kids",
+      "publishedAt": "2026-06-14T12:31:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-73220455b17f",
+      "title": "What Are Podcasts For, Anyway?",
+      "url": "https://kasurian.com/p/what-are-podcasts-for-anyway",
+      "publication": "Kasurian",
+      "author": "Kasurian",
+      "excerpt": "Between a duet with a nightingale and a sensationalist thumbnail, Sohaira Siddiqui and More Muslim attempt to restore audio to an art form.",
+      "publishedAt": "2026-06-14T11:18:26.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-ac6a024f401b",
@@ -1049,16 +1069,6 @@
       "author": "Lawrence Abrams",
       "excerpt": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]",
       "publishedAt": "2026-06-07T14:09:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-fd72e175df4e",
-      "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
-      "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens",
-      "publishedAt": "2026-06-07T12:31:29.000Z"
     }
   ]
 }
