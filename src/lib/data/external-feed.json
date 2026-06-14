@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-06-13T18:40:06.152Z",
+  "fetchedAt": "2026-06-14T01:22:12.034Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-ac6a024f401b",
+      "title": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 189",
+      "publishedAt": "2026-06-13T20:54:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b4e254a58c58",
+      "title": "Ex-school district employee jailed for hacks on former employer",
+      "url": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A former  IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
+      "publishedAt": "2026-06-13T20:53:13.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1175e7cab358",
+      "title": "Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strange New Creatures",
+      "url": "https://www.404media.co/scientists-discover-vast-ancient-necropolis-teeming-with-strange-new-creatures/",
+      "publication": "404 Media",
+      "author": "Becky Ferreira",
+      "excerpt": "A massive whale graveyard in the Indian Ocean contains the remains of hundreds of extinct whales dating back more than five million years, along with recent carcasses that support hotspots of seafloor life.",
+      "publishedAt": "2026-06-13T19:10:27.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-895797f291bc",
@@ -1039,16 +1069,6 @@
       "author": "Lenny Rachitsky",
       "excerpt": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens",
       "publishedAt": "2026-06-07T12:31:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3e4441cb3d1d",
-      "title": "Boxing, Industry, Immigration, America (Audio Version)",
-      "url": "https://subscribe.martyrmade.com/p/boxing-industry-immigration-america-d62",
-      "publication": "The Martyr Made Substack",
-      "author": "Darryl Cooper",
-      "excerpt": "Hello everyone.",
-      "publishedAt": "2026-06-06T20:45:02.000Z"
     }
   ]
 }
