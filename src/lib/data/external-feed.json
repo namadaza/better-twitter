@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-14T18:40:38.125Z",
+  "fetchedAt": "2026-06-15T01:24:26.028Z",
   "items": [
     {
       "type": "rss",
@@ -1039,26 +1039,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
       "publishedAt": "2026-06-08T06:00:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-af4e56de64f1",
-      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-      "publication": "BleepingComputer",
-      "author": "Mayank Parmar",
-      "excerpt": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
-      "publishedAt": "2026-06-07T23:20:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-15f54f1a1375",
-      "title": "Unconventional Quality of Life Improvements: The Boring Stuff That Actually Works",
-      "url": "https://www.beautyofsaas.com/p/unconventional-advice-that-will-change-your-life",
-      "publication": "BOSS Letter",
-      "author": "BOSS Letter",
-      "excerpt": "144: Unconventional. Conventional. Different... All Worth Trying.",
-      "publishedAt": "2026-06-07T20:41:12.000Z"
     }
   ]
 }
