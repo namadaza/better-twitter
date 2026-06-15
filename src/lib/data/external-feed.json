@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-15T01:24:26.028Z",
+  "fetchedAt": "2026-06-15T08:20:59.591Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-1435ba8bcd62",
+      "title": "Untimely Considerations on Spengler’s Last Works",
+      "url": "https://www.arktosjournal.com/p/untimely-considerations-on-spenglers",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "By Giorgio Locchi",
+      "publishedAt": "2026-06-15T08:01:33.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-dd023bd90c13",
@@ -1019,26 +1029,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "The University of Oxford disclosed a new data breach last week after being informed by its third-party provider, Group GTI, that its CareerConnect career services platform had been compromised. [...]",
       "publishedAt": "2026-06-08T11:14:41.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5b0a9e700d71",
-      "title": "A Life Lived Against the Grain",
-      "url": "https://www.arktosjournal.com/p/a-life-lived-against-the-grain",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "A Review of Andrea Scarabelli's \"Julius Evola: An Adventurous Life\"",
-      "publishedAt": "2026-06-08T07:02:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4d0a5003b5a1",
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
-      "publishedAt": "2026-06-08T06:00:27.000Z"
     }
   ]
 }
