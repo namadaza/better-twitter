@@ -1,6 +1,86 @@
 {
-  "fetchedAt": "2026-06-16T08:13:10.591Z",
+  "fetchedAt": "2026-06-16T14:03:07.954Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-9c5dc1a50420",
+      "title": "Hackers Publish Knicks and Madison Square Garden Data Online",
+      "url": "https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "The data contains a list of \"talent,\" including former Knicks players and coaches, and whether other celebrities are considered \"Low Risk\" or \"High Risk.\" The data also contains emails between customers and MSG.",
+      "publishedAt": "2026-06-16T14:00:38.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a71983553c6b",
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "url": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+      "publishedAt": "2026-06-16T13:42:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f421dfd6cb98",
+      "title": "Hackers Are Hijacking Entire Roblox Games Now",
+      "url": "https://www.404media.co/hackers-are-hijacking-entire-roblox-games-now/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "Whereas Roblox hackers were previously focused on stealing players' high value items, some have taken over entire Roblox games, stealing their ownership and Robux in the process.",
+      "publishedAt": "2026-06-16T13:00:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f27d0f0e00c9",
+      "title": "OUT NOW - Two Classic Works by Alain de Benoist",
+      "url": "https://www.arktosjournal.com/p/out-now-two-classic-works-by-alain",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "\"Orientations for Decisive Years\" & \"Nietzsche: Morality and Great Politics\"",
+      "publishedAt": "2026-06-16T12:32:55.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-fdfaddbabf6d",
+      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
+      "publishedAt": "2026-06-16T10:47:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d75a01496611",
+      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
+      "publishedAt": "2026-06-16T10:18:48.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d3bd8aa074b0",
+      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
+      "publishedAt": "2026-06-16T09:19:51.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6d704a37e9fb",
+      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
+      "publishedAt": "2026-06-16T09:00:00.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-2eba70a07d99",
@@ -1020,56 +1100,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]",
       "publishedAt": "2026-06-09T14:27:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-31eb44ce11e6",
-      "title": "Remigration: The Birth of an Occidental Right",
-      "url": "https://www.arktosjournal.com/p/remigration-the-birth-of-an-occidental",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Kevin DeAnna",
-      "publishedAt": "2026-06-09T14:02:08.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7db1d9b973d1",
-      "title": "'Sloppenheimer:' Amazon Employees Mock the Company’s AI on Slack",
-      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
-      "publication": "404 Media",
-      "author": "Emanuel Maiberg",
-      "excerpt": "Amazon employees have a Slack channel for memes where the mock and commiserate about the company’s faulty AI coding product.",
-      "publishedAt": "2026-06-09T13:44:03.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0e6636817457",
-      "title": "Essential books for product builders—part 2",
-      "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "36 more timeless books that’ll make you a better builder, leader, and person",
-      "publishedAt": "2026-06-09T13:11:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-35778b691163",
-      "title": "French govt messaging service breached in account hijacking attack",
-      "url": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]",
-      "publishedAt": "2026-06-09T10:53:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6350fdccc349",
-      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
-      "publishedAt": "2026-06-09T08:18:39.000Z"
     }
   ]
 }
