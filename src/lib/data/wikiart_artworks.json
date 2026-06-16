@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-09T15:23:55.870Z",
+  "generated_at": "2026-06-16T19:28:19.191Z",
   "source": "wikiart",
-  "count": 492,
+  "count": 493,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -30029,6 +30029,69 @@
       },
       "width": 1024,
       "height": 840,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc1edc2cb3880e25060",
+      "title": "Landscape",
+      "artist": "Кросс Анри Эдмон",
+      "year": 1899,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "better-twitter/artwork/images/wikiart/anri-edmon-kross/Landscape.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/anri-edmon-kross/Landscape.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/henri-edmond-cross/landscape-3.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/anri-edmon-kross/landscape-3",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-16T19:28:09.087Z",
+      "fingerprint_sha256": "ffea3d051937e64e138459e52102eb40ae34ddd32dae097126c59960563b7f59",
+      "raw_extmetadata": {
+        "id": "57727bc1edc2cb3880e25060",
+        "title": "Landscape",
+        "url": "landscape-3",
+        "artistUrl": "anri-edmon-kross",
+        "artistName": "Кросс Анри Эдмон",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1899,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "forests-and-trees",
+          "Tree"
+        ],
+        "description": "",
+        "width": 1510,
+        "image": "https://uploads7.wikiart.org/images/henri-edmond-cross/landscape-3.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1510,
+      "height": 1200,
       "mime": null
     }
   ]
