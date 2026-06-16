@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-06-15T20:22:22.759Z",
+  "fetchedAt": "2026-06-16T08:13:10.591Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-2eba70a07d99",
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "url": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
+      "publishedAt": "2026-06-16T06:31:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7474a766f400",
+      "title": "Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion",
+      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+      "publication": "Ed Zitron's Where's Your Ed At",
+      "author": "Ed Zitron",
+      "excerpt": "Soundtrack: In Flames - Colony\nTo further support my independent journalism, please subscribe to my premium newsletter. It’s $7 a month or $70 a year. If you’re subscribed to the free newsletter and logged in, you should see at the bottom right hand corner of your screen",
+      "publishedAt": "2026-06-16T03:58:20.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2f9aef1463e6",
+      "title": "Pro-Israel Donors Power Last-Minute Surge of Espaillat Spending",
+      "url": "https://www.dropsitenews.com/p/pro-israel-donors-aipac-adriano-espaillat-avila-chevalier",
+      "publication": "Drop Site News",
+      "author": "Ryan Grim",
+      "excerpt": "The infusion of pro-Israel money into the NY-13 primary comes amid a multimillion-dollar push to save CHC Chair Adriano Espaillat from his progressive challenger, Darializa Avila Chevalier.",
+      "publishedAt": "2026-06-16T00:09:07.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-042f9d4fab51",
+      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+      "url": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the first publicly announced domain seizure under the TAKE IT DOWN Act. [...]",
+      "publishedAt": "2026-06-15T21:56:55.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-744ffb47fafa",
@@ -1030,66 +1070,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
       "publishedAt": "2026-06-09T08:18:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b1923cca2bc5",
-      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
-      "publishedAt": "2026-06-09T06:56:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-560e4515d4bc",
-      "title": "OUT NOW - Julius Evola: Political Traditionalism",
-      "url": "https://www.arktosjournal.com/p/out-now-julius-evola-political-traditionalism",
-      "publication": "Arktos Journal",
-      "author": "Alexander Dugin",
-      "excerpt": "by Alexander Dugin",
-      "publishedAt": "2026-06-09T06:04:03.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-019ecb094b82",
-      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
-      "url": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
-      "publishedAt": "2026-06-08T22:11:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7cba4b20afa6",
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-      "url": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
-      "publishedAt": "2026-06-08T21:55:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6de103a7b3e2",
-      "title": "New Apple feature automatically changes your compromised passwords",
-      "url": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-      "publication": "BleepingComputer",
-      "author": "Mayank Parmar",
-      "excerpt": "At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
-      "publishedAt": "2026-06-08T21:03:40.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-994f0a52993e",
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
-      "publishedAt": "2026-06-08T20:41:35.000Z"
     }
   ]
 }
