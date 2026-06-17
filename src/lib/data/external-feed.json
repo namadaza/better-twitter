@@ -1,6 +1,105 @@
 {
-  "fetchedAt": "2026-06-17T01:22:06.535Z",
+  "fetchedAt": "2026-06-17T14:09:33.718Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-8c0726545d2f",
+      "title": "ICE Appears to Be Buying Immigrants’ Tax Identifiers from a Data Broker",
+      "url": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "A $10 million procurement reviewed by 404 Media indicates ICE is buying records related to immigrants’ tax identifiers. “It looks for all the world like Trump is trying to skirt the law and a court order to fuel his mass-deportation campaign,” Senator Ron Wyden said.",
+      "publishedAt": "2026-06-17T14:03:51.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1241c9625f3c",
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Specops Software",
+      "excerpt": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
+      "publishedAt": "2026-06-17T14:00:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-49284f212e27",
+      "title": "Podcast: The Government Wants to End Anonymity on Phones",
+      "url": "https://www.404media.co/podcast-the-government-wants-to-end-anonymity-on-phones/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "The FCC's proposed changes to getting a phone plan; cops keep stalking with Flock; and a software update changes the AC in Amazon vans.",
+      "publishedAt": "2026-06-17T13:16:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c976202e1047",
+      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
+      "url": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
+      "publication": "BleepingComputer",
+      "author": "Ax Sharma",
+      "excerpt": "India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]",
+      "publishedAt": "2026-06-17T13:12:45.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0d3f0e240140",
+      "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
+      "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+      "publication": "Lenny's Newsletter",
+      "excerpt": "Watch now | 🎙️Every loop type explained: heartbeats, crons, goals, and subagents. Plus two live Claude Code and Codex builds that run autonomously so you never manually babysit a PR again",
+      "publishedAt": "2026-06-17T12:04:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-03a0481942e5",
+      "title": "Microsoft confirms Office apps launch issues after June updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]",
+      "publishedAt": "2026-06-17T11:54:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8e334ea94f8f",
+      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
+      "publishedAt": "2026-06-17T10:09:24.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-63edb3ca4a52",
+      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
+      "publishedAt": "2026-06-17T08:32:29.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-692317f0e6af",
+      "title": "The Manosphere Against Tradition",
+      "url": "https://www.arktosjournal.com/p/the-manosphere-against-tradition",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "One of the more recent digital phenomena is that of the manosphere: the rise of online influencers ranging from men’s rights activists and masculinity influencers to pick-up artists and others.",
+      "publishedAt": "2026-06-17T08:01:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3644a8453413",
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
+      "publishedAt": "2026-06-17T07:07:56.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-49034f37b9ae",
@@ -920,106 +1019,6 @@
       "author": "Bill Toulas",
       "excerpt": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
       "publishedAt": "2026-06-10T15:00:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e2e1dd3c516a",
-      "title": "The 5 Best Practices for Secure Identity Verification",
-      "url": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Specops Software",
-      "excerpt": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]",
-      "publishedAt": "2026-06-10T14:05:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-16ffaedba9b6",
-      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
-      "publishedAt": "2026-06-10T13:44:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-98eec4830baf",
-      "title": "Scientists Just Accidentally Discovered a Strange, Hidden Rule of Human Nature",
-      "url": "https://www.404media.co/scientists-just-accidentally-discovered-a-strange-hidden-rule-of-human-nature/",
-      "publication": "404 Media",
-      "author": "Becky Ferreira",
-      "excerpt": "Researchers report a \"serendipitous\" discovery while watching videos of crowds: an inexplicable bias toward counterclockwise turning that may be rooted in biology.",
-      "publishedAt": "2026-06-10T13:39:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-16e59e9527de",
-      "title": "Podcast: Google Employees Meme About How Bad Their AI Is",
-      "url": "https://www.404media.co/podcast-google-employees-meme-about-how-bad-their-ai-is/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "Memes at Google; Microsoft wants to make its new AI assistant addictive; and manipulating Reddit.",
-      "publishedAt": "2026-06-10T13:36:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e5546ff65484",
-      "title": "Cops Keep Getting Arrested for Using Flock to Stalk People",
-      "url": "https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "There have been more than a dozen cases around the country where police use Flock to obsessively and illegally stalk people.",
-      "publishedAt": "2026-06-10T13:22:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-007b9143f236",
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]",
-      "publishedAt": "2026-06-10T11:33:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7b83e84e4ab4",
-      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]",
-      "publishedAt": "2026-06-10T09:57:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-38c8ccc7c45a",
-      "title": "Remembrance and Revelation",
-      "url": "https://www.arktosjournal.com/p/remembrance-and-revelation",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by J. R. Sommer",
-      "publishedAt": "2026-06-10T08:00:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-810d94c1cc72",
-      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
-      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Ivanti has patched two critical vulnerabilities in its Sentry secure mobile gateway solution, including a maximum-severity flaw that enables remote attackers to execute code with root privileges. [...]",
-      "publishedAt": "2026-06-10T06:26:28.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-cd49bdd56b42",
-      "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
-      "publication": "BleepingComputer",
-      "author": "Mayank Parmar",
-      "excerpt": "Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class. [...]",
-      "publishedAt": "2026-06-10T02:03:31.000Z"
     }
   ]
 }
