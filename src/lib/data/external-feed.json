@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-06-16T19:20:54.903Z",
+  "fetchedAt": "2026-06-17T01:22:06.535Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-49034f37b9ae",
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
+      "publishedAt": "2026-06-16T21:54:50.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f0b037bb8a34",
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
+      "publishedAt": "2026-06-16T20:04:11.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-d1237ade7629",
@@ -1000,36 +1020,6 @@
       "author": "Mayank Parmar",
       "excerpt": "Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class. [...]",
       "publishedAt": "2026-06-10T02:03:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9a90781529ad",
-      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. [...]",
-      "publishedAt": "2026-06-09T23:11:18.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2a600db19ac3",
-      "title": "ServiceNow discloses security incident exposing customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]",
-      "publishedAt": "2026-06-09T21:34:09.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5ad01354de13",
-      "title": "Israel Intensifies the Killing in Gaza as the World Looks Away",
-      "url": "https://www.dropsitenews.com/p/gaza-genocide-yellow-line-israel-killing-palestinians-ceasefire",
-      "publication": "Drop Site News",
-      "author": "Abdel Qader Sabbah",
-      "excerpt": "“They have taken everything from us. They have taken away the possibility for life.”",
-      "publishedAt": "2026-06-09T20:58:10.000Z"
     }
   ]
 }
