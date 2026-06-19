@@ -1,6 +1,96 @@
 {
-  "fetchedAt": "2026-06-19T08:09:21.567Z",
+  "fetchedAt": "2026-06-19T19:22:51.505Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-10bcd6f4e8ea",
+      "title": "Premium: The Silicon Valley Bubble (Part 2)",
+      "url": "https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-2/",
+      "publication": "Ed Zitron's Where's Your Ed At",
+      "author": "Ed Zitron",
+      "excerpt": "So it’s been a big week for me after I published an exclusive covering OpenAI’s audited financials from 2024 and 2025, with reactions ranging from “oh my god, OpenAI spent $34 billion to make $13.07 billion in revenue!” to “actually, it’",
+      "publishedAt": "2026-06-19T17:03:48.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d2023d9e1e16",
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+      "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+      "publishedAt": "2026-06-19T16:12:41.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-55120edca479",
+      "title": "Behind the Blog: Landfillcore and Go Knicks",
+      "url": "https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/",
+      "publication": "404 Media",
+      "author": "Samantha Cole",
+      "excerpt": "This week, we discuss questionable analysis, mysterious parcels, and the Knicks (sorta).",
+      "publishedAt": "2026-06-19T16:07:48.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-38f65765bde9",
+      "title": "Iran Warned Trump: If You Do Not End War on Lebanon, We May Strike Israel Without Warning",
+      "url": "https://www.dropsitenews.com/p/iran-trump-lebanon-israel-war-mou",
+      "publication": "Drop Site News",
+      "author": "Jeremy Scahill",
+      "excerpt": "Tehran believes it won a historic victory over the U.S., but is prepared for the deal to fall apart, a senior Iranian official tells Drop Site.",
+      "publishedAt": "2026-06-19T14:08:30.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4d6fe85974c0",
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Token Security",
+      "excerpt": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
+      "publishedAt": "2026-06-19T13:10:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4b4357b47d6a",
+      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [...]",
+      "publishedAt": "2026-06-19T12:12:20.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ed40660c6307",
+      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
+      "publishedAt": "2026-06-19T11:32:34.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5d4ac6a27f8e",
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
+      "publishedAt": "2026-06-19T10:39:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5b206aeedc08",
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "url": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
+      "publishedAt": "2026-06-19T08:44:08.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-d415df2cd7c5",
@@ -899,146 +989,6 @@
       "author": "Lawrence Abrams",
       "excerpt": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
       "publishedAt": "2026-06-12T19:33:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c85df41208b8",
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "url": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
-      "publishedAt": "2026-06-12T18:19:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-05e43365fa9b",
-      "title": "The Issue of Israel Is Ending Democracy In Michigan",
-      "url": "https://www.dropsitenews.com/p/university-michigan-palestine-protests-federal-indictments-nessel-sayed",
-      "publication": "Drop Site News",
-      "author": "Ryan Grim",
-      "excerpt": "Michigan is now a central battleground in the war over the U.S. relationship with Israel—and the American public’s ability to debate it freely.",
-      "publishedAt": "2026-06-12T18:01:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-67f21e0ac15f",
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
-      "publishedAt": "2026-06-12T17:54:28.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d793201f78ed",
-      "title": "Premium: The Silicon Valley Bubble (Part 1)",
-      "url": "https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/",
-      "publication": "Ed Zitron's Where's Your Ed At",
-      "author": "Ed Zitron",
-      "excerpt": "Friends, I believe we’re approaching the end of this era. Both OpenAI and Anthropic have filed the paperwork to go public, starting a race for exit liquidity for two companies that burn billions of dollars a year and have no path to profitability.\nBoth of these companies are",
-      "publishedAt": "2026-06-12T17:16:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1c515afe7ed8",
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "url": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
-      "publishedAt": "2026-06-12T17:03:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5b79947b9610",
-      "title": "‘You Will Not Speak on Flock Tonight’: County Commissioner Refuses to Let Residents Opposing Flock Speak at Meeting",
-      "url": "https://www.404media.co/you-will-not-speak-on-flock-tonight-county-commissioner-refuses-to-let-residents-opposing-flock-speak-at-meeting/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "\"I’ve spoken. I’m not debating this.\"",
-      "publishedAt": "2026-06-12T16:10:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6c908f9981a9",
-      "title": "Trump calls off Iran strikes as deal nears; Israel orders more displacement of Gaza refugees; Postal service threatens to withhold mail ballots",
-      "url": "https://www.dropsitenews.com/p/trump-iran-deal-israel-gaza-maghazi-postal-service-mail-ballots",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 12, 2026",
-      "publishedAt": "2026-06-12T15:46:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-cf6f87d05866",
-      "title": "Behind the Blog: World Cup Madness and Film Reviews",
-      "url": "https://www.404media.co/behind-the-blog-world-cup-madness-and-film-reviews/",
-      "publication": "404 Media",
-      "author": "Samantha Cole",
-      "excerpt": "This week, we discuss Trump fucking up the World Cup, some thoughts on ICE coverage, and movies.",
-      "publishedAt": "2026-06-12T15:01:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c38edcbcd6ef",
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "url": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Flare",
-      "excerpt": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
-      "publishedAt": "2026-06-12T14:01:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b8fbe74643d3",
-      "title": "The Art of Capitulation: Trump Spins Victory as Iran Says its Red Lines Remain Intact",
-      "url": "https://www.dropsitenews.com/p/trump-iran-deal-israel-lebanon-hassan-ahmadian",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "Top Iran analyst Dr. Hassan Ahmadian tells Drop Site that Trump was forced to seek a deal on Iran's terms after meeting the “hard rock” of Iranian resistance.",
-      "publishedAt": "2026-06-12T12:34:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-69091d6496b5",
-      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
-      "publishedAt": "2026-06-12T11:44:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-13aaa2600364",
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "url": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
-      "publishedAt": "2026-06-12T10:13:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a76c36bb3266",
-      "title": "'The Police are Looking for Plato': Evola on Trial",
-      "url": "https://www.arktosjournal.com/p/the-police-are-looking-for-plato",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Andrea Scarabelli",
-      "publishedAt": "2026-06-12T09:00:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-24664181d880",
-      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
-      "publishedAt": "2026-06-12T08:26:55.000Z"
     }
   ]
 }
