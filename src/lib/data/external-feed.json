@@ -1,6 +1,116 @@
 {
-  "fetchedAt": "2026-06-18T13:58:27.842Z",
+  "fetchedAt": "2026-06-19T08:09:21.567Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-d415df2cd7c5",
+      "title": "Jared Taylor: A Comparative Look at Europe and the United States",
+      "url": "https://www.arktosjournal.com/p/jared-taylor-a-comparative-look-at",
+      "publication": "Arktos Journal",
+      "author": "Jared Taylor",
+      "excerpt": "In this compelling interview, American identitarian thinker Jared Taylor discusses his advocacy for white interests and offers a sharp critique of multiculturalism and diversity ideology.",
+      "publishedAt": "2026-06-19T08:01:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-eb2cea875d18",
+      "title": "From the land of Ice and Fire",
+      "url": "https://www.infinitescroll.us/p/from-the-land-of-ice-and-fire",
+      "publication": "Infinite Scroll",
+      "author": "Jeremiah Johnson",
+      "excerpt": "You may have noticed it’s been quiet around here in June!",
+      "publishedAt": "2026-06-19T07:53:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f56a50d09465",
+      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
+      "publishedAt": "2026-06-19T06:47:55.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3a2a57419a00",
+      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "url": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
+      "publishedAt": "2026-06-18T22:31:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-17a6eb9510a9",
+      "title": "Internal Debate Rages in Tehran Over Deal with Trump",
+      "url": "https://www.dropsitenews.com/p/iran-trump-deal-critics-mojtaba-khamenei",
+      "publication": "Drop Site News",
+      "author": "Murtaza Hussain",
+      "excerpt": "Some political insiders in Iran oppose the memorandum of understanding with the U.S., calling it a strategic mistake.",
+      "publishedAt": "2026-06-18T20:48:28.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-19cb07773d0d",
+      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
+      "publishedAt": "2026-06-18T18:31:36.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e9f3eeca4b69",
+      "title": "A New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory",
+      "url": "https://www.404media.co/a-new-fossil-discovery-just-rewrote-150-years-of-evolutionary-theory/",
+      "publication": "404 Media",
+      "author": "Becky Ferreira",
+      "excerpt": "For 150 years, paleontologists assumed that the first vertebrates to leave the sea for land evolved a tadpole phase, similar to modern frogs. Immaculately-preserved fossils disprove that, scientists say.",
+      "publishedAt": "2026-06-18T18:00:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5228876df83a",
+      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "url": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
+      "publishedAt": "2026-06-18T16:20:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b86edfcecbae",
+      "title": "Iran wins concessions from U.S.; Ukraine strikes critical Moscow refinery; Israel refuses to withdraw from Lebanon",
+      "url": "https://www.dropsitenews.com/p/iran-concessions-us-mou-ukraine-russia-moscow-refinery-israel-lebanon-withdrawal",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 18, 2026",
+      "publishedAt": "2026-06-18T14:59:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-365071e0ade1",
+      "title": "If AI Is Sentient Then So Is ‘Age of Empires II’",
+      "url": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+      "publication": "404 Media",
+      "author": "Matthew Gault",
+      "excerpt": "“The point of the paper is to formally show that we anthropomorphise too readily.\"",
+      "publishedAt": "2026-06-18T14:22:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cb483d3613e8",
+      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
+      "publishedAt": "2026-06-18T14:19:50.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-e6f36e83dcfc",
@@ -929,116 +1039,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
       "publishedAt": "2026-06-12T08:26:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e204875791a6",
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-      "url": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
-      "publishedAt": "2026-06-12T07:09:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-57347cf376df",
-      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
-      "url": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
-      "publishedAt": "2026-06-11T23:14:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-66b97351a432",
-      "title": "Maine breach portal abused to publish fake data breach disclosures",
-      "url": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
-      "publishedAt": "2026-06-11T22:44:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4cb0e637df6c",
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
-      "publishedAt": "2026-06-11T19:39:53.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-059115ffca5f",
-      "title": "Software Update Automatically Turns off Amazon Delivery Drivers’ AC During Dangerous Summer Heat",
-      "url": "https://www.404media.co/software-update-automatically-turns-off-amazon-delivery-drivers-ac-during-dangerous-summer-heat/",
-      "publication": "404 Media",
-      "author": "Emanuel Maiberg",
-      "excerpt": "A new software update is turning off the AC in Amazon delivery vans after 10 minutes or 30 seconds under certain conditions.",
-      "publishedAt": "2026-06-11T18:59:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-522389b32064",
-      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
-      "url": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Law enforcement has dismantled the “AudiA6” cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
-      "publishedAt": "2026-06-11T15:55:41.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e0c46c3aa2f5",
-      "title": "Amazon Data Centers In Mississippi Have Already Raised Electricity Rates for Local Customers, Report Suggests",
-      "url": "https://www.404media.co/amazon-data-centers-in-mississippi-have-already-raised-electricity-rates-for-local-customers-report-suggests/",
-      "publication": "404 Media",
-      "author": "Roshan Abraham",
-      "excerpt": "Three Amazon data centers aren't even open yet, but local residents are already paying at least $10.60 extra per month for them, according to a new study.",
-      "publishedAt": "2026-06-11T15:52:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c8fcce0b3278",
-      "title": "Flock Leaked Cops’ License Plate Searches via DuckDuckGo, Bing",
-      "url": "https://www.404media.co/flock-leaked-cops-license-plate-searches-via-duckduckgo-bing/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "Flock, the automatic license plate reader (ALPR) company, exposed some of the license plate cops were looking for and the reason for doing so.",
-      "publishedAt": "2026-06-11T15:21:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-435310ccff99",
-      "title": "Trump vows to hit Iran “very hard”; Tehran says ceasefire is now “meaningless”; Albanians protest Kushner resort",
-      "url": "https://www.dropsitenews.com/p/trump-iran-us-strikes-ceasefire-albania-protests-kushner",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 11, 2026",
-      "publishedAt": "2026-06-11T15:13:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5c72a727d8e1",
-      "title": "Video: Immigration and the Eastern Bloc",
-      "url": "https://www.aporiamagazine.com/p/video-immigration-and-the-eastern",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "With Noah Carl",
-      "publishedAt": "2026-06-11T14:18:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-70c4ef9e062f",
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "url": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Kaseya",
-      "excerpt": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
-      "publishedAt": "2026-06-11T14:00:10.000Z"
     }
   ]
 }
