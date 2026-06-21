@@ -1,6 +1,76 @@
 {
-  "fetchedAt": "2026-06-20T07:33:43.817Z",
+  "fetchedAt": "2026-06-21T13:53:19.741Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-6eae7ddbcc4c",
+      "title": "Building the most AI-pilled engineering team in the world | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+      "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Listen now | Fiona Fung on leading the Claude Code and Cowork teams, and how to maintain culture when roles are blurring and agents are everywhere",
+      "publishedAt": "2026-06-21T12:31:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a7f48bb3a26c",
+      "title": "OK32: How to Rebuild an SDR Team: From $200K to $600K in outbound pipeline a Week With the Same Four Reps",
+      "url": "https://newsletter.outbound.kitchen/p/how-this-sdr-director-3x-pipeline",
+      "publication": "Outbound Kitchen",
+      "author": "Elric Legloire - Outbound Chef",
+      "excerpt": "With Will Rohleder, SDR Director at TeachTown",
+      "publishedAt": "2026-06-20T16:58:33.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d43b6b7589dd",
+      "title": "The African Health Paradox",
+      "url": "https://www.aporiamagazine.com/p/the-african-health-paradox",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "A socioeconomic comparison where Africans come top.",
+      "publishedAt": "2026-06-20T16:20:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-fcd16813b12b",
+      "title": "🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 190",
+      "publishedAt": "2026-06-20T15:53:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-46bad1a20f9c",
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+      "publishedAt": "2026-06-20T15:23:46.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e2defdd765c0",
+      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
+      "publishedAt": "2026-06-20T14:09:19.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5fa2a50478a5",
+      "title": "Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger",
+      "url": "https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/",
+      "publication": "404 Media",
+      "author": "Becky Ferreira",
+      "excerpt": "A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.",
+      "publishedAt": "2026-06-20T13:00:39.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-83f7810c238e",
@@ -909,96 +979,6 @@
       "author": "Bill Toulas",
       "excerpt": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal credit card data and passwords. [...]",
       "publishedAt": "2026-06-14T14:36:23.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-21d7efc54b1c",
-      "title": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
-      "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Listen now | Mark Pincus on why your instincts are right but your ideas are wrong, the “Proven, Better, New” framework, and what he’s teaching his kids",
-      "publishedAt": "2026-06-14T12:31:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-73220455b17f",
-      "title": "What Are Podcasts For, Anyway?",
-      "url": "https://kasurian.com/p/what-are-podcasts-for-anyway",
-      "publication": "Kasurian",
-      "author": "Kasurian",
-      "excerpt": "Between a duet with a nightingale and a sensationalist thumbnail, Sohaira Siddiqui and More Muslim attempt to restore audio to an art form.",
-      "publishedAt": "2026-06-14T11:18:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ac6a024f401b",
-      "title": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 189",
-      "publishedAt": "2026-06-13T20:54:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b4e254a58c58",
-      "title": "Ex-school district employee jailed for hacks on former employer",
-      "url": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "A former  IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
-      "publishedAt": "2026-06-13T20:53:13.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1175e7cab358",
-      "title": "Scientists Discover Vast Ancient ‘Necropolis’ Teeming With Strange New Creatures",
-      "url": "https://www.404media.co/scientists-discover-vast-ancient-necropolis-teeming-with-strange-new-creatures/",
-      "publication": "404 Media",
-      "author": "Becky Ferreira",
-      "excerpt": "A massive whale graveyard in the Indian Ocean contains the remains of hundreds of extinct whales dating back more than five million years, along with recent carcasses that support hotspots of seafloor life.",
-      "publishedAt": "2026-06-13T19:10:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8c0c6d88ae16",
-      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
-      "publishedAt": "2026-06-13T14:06:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-4a7d584e4ec7",
-      "title": "Israel Searches for a Red Sea Foothold in Somaliland",
-      "url": "https://www.dropsitenews.com/p/israel-somaliland-military-bases-somalia-uae-red-sea",
-      "publication": "Drop Site News",
-      "author": "Faisal Ali",
-      "excerpt": "Israel is deepening its relationship with the breakaway state. Will military bases follow?",
-      "publishedAt": "2026-06-13T14:04:26.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6b77e8ab081b",
-      "title": "Round-up: Why is the North of England poor?",
-      "url": "https://www.aporiamagazine.com/p/round-up-why-is-the-north-of-england",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "The most interesting articles that came to our attention this week",
-      "publishedAt": "2026-06-13T10:04:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-12d635f676d9",
-      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
-      "url": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
-      "publication": "BleepingComputer",
-      "author": "Ax Sharma",
-      "excerpt": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis, calling the cited jailbreak narrow and the capability widely available elsewhere. [...]",
-      "publishedAt": "2026-06-13T10:01:32.000Z"
     }
   ]
 }
