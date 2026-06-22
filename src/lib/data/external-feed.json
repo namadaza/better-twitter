@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-06-21T13:53:19.741Z",
+  "fetchedAt": "2026-06-22T01:23:52.253Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-3013778bc6bc",
+      "title": "The Liberal and Socialist Ummahs",
+      "url": "https://kasurian.com/p/liberal-socialist-ummahs",
+      "publication": "Kasurian",
+      "author": "Kasurian",
+      "excerpt": "Manarism and Qutbism, the two competing wings of ‘Islamism’, are both descended from the liberal and socialist ‘ummahs’ of Europe.",
+      "publishedAt": "2026-06-21T16:38:30.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0de5a99c4edb",
+      "title": "Painful Truths About Leaving Your 20s Nobody Warned You Were Coming",
+      "url": "https://www.beautyofsaas.com/p/painful-truths-about-leaving-your",
+      "publication": "BOSS Letter",
+      "author": "BOSS Letter",
+      "excerpt": "146: You might do your best... Because nobody is coming to save you.",
+      "publishedAt": "2026-06-21T15:25:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3f569937ed49",
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
+      "publishedAt": "2026-06-21T14:14:22.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-6eae7ddbcc4c",
@@ -959,26 +989,6 @@
       "author": "Arktos Journal",
       "excerpt": "By Giorgio Locchi",
       "publishedAt": "2026-06-15T08:01:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-dd023bd90c13",
-      "title": "Your outbound stack has one job",
-      "url": "https://newsletter.outbound.kitchen/p/your-outbound-stack-has-one-job",
-      "publication": "Outbound Kitchen",
-      "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "Most teams build for the wrong one. Here's how far your team can actually build toward it.",
-      "publishedAt": "2026-06-14T17:25:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-02a4c4728c91",
-      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal credit card data and passwords. [...]",
-      "publishedAt": "2026-06-14T14:36:23.000Z"
     }
   ]
 }
