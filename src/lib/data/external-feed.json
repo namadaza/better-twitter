@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-22T01:23:52.253Z",
+  "fetchedAt": "2026-06-22T08:21:08.716Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-0ee041175130",
+      "title": "Julius Evola: Philosophy and Direct Action",
+      "url": "https://www.arktosjournal.com/p/julius-evola-philosophy-and-direct",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Dominique Venner",
+      "publishedAt": "2026-06-22T08:00:56.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-3013778bc6bc",
@@ -979,16 +989,6 @@
       "author": "Claire Vo",
       "excerpt": "Watch now | 🎙️ “Evals are the modern version of a PRD”: Ankur Goyal (Braintrust) on encoding taste into systems that scale",
       "publishedAt": "2026-06-15T12:04:03.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1435ba8bcd62",
-      "title": "Untimely Considerations on Spengler’s Last Works",
-      "url": "https://www.arktosjournal.com/p/untimely-considerations-on-spenglers",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "By Giorgio Locchi",
-      "publishedAt": "2026-06-15T08:01:33.000Z"
     }
   ]
 }
