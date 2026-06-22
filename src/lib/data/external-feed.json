@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-06-22T08:21:08.716Z",
+  "fetchedAt": "2026-06-22T14:07:20.774Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-80f97bf59448",
+      "title": "Are Public Libraries Becoming Children’s Libraries?",
+      "url": "https://www.404media.co/are-public-libraries-becoming-childrens-libraries/",
+      "publication": "404 Media",
+      "author": "Claire Woodcock",
+      "excerpt": "Books written for younger audiences are being relocated to adult sections at alarming rates. We asked experts to predict what that means for the rest of us.",
+      "publishedAt": "2026-06-22T14:00:24.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7651769e959b",
+      "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
+      "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️423 security fixes in one month: Brian Grinstead (Mozilla) shows the goal-loop harness behind it, and why the model was only half the story",
+      "publishedAt": "2026-06-22T12:03:06.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-0ee041175130",
@@ -909,86 +929,6 @@
       "author": "Jason Koebler",
       "excerpt": "\"We show that a tiny snippet—just 13 words—of retrieved text on a UGC website like Reddit, Wikipedia, Quora, or Facebook can change AI agents to output spam / scam content pretty consistently.\"",
       "publishedAt": "2026-06-15T14:19:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-701e52e466f0",
-      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-      "url": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Tines",
-      "excerpt": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]",
-      "publishedAt": "2026-06-15T14:01:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5b72e6308533",
-      "title": "Chinese hackers breach REDCap servers, steal medical research",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
-      "publishedAt": "2026-06-15T14:00:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-da720702bf74",
-      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
-      "url": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a specially crafted URL. [...]",
-      "publishedAt": "2026-06-15T13:00:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-859322a42150",
-      "title": "The OPSEC Rave Wave (with Imani Thompson)",
-      "url": "https://www.404media.co/the-opsec-rave-wave-with-imani-thompson/",
-      "publication": "404 Media",
-      "author": "Samantha Cole",
-      "excerpt": "We get into how platforms have tried to make surveillance cute, why that damn Duolingo owl emotionally manipulates you, and why learning about privacy best practices when surrounded by community works.",
-      "publishedAt": "2026-06-15T12:59:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-27e217d987da",
-      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targeted the widely used Infinite Campus K-12 student information system in March. [...]",
-      "publishedAt": "2026-06-15T12:38:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ab6f88581f7e",
-      "title": "Sign The Petition: Stand With Trita Parsi Against Vindictive Deportation",
-      "url": "https://www.dropsitenews.com/p/sign-the-petition-stand-with-trita",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Anyone who supports an actual free press must speak out now.",
-      "publishedAt": "2026-06-15T12:22:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ae5441cb460a",
-      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-      "publication": "BleepingComputer",
-      "author": "BleepingComputer",
-      "excerpt": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, investigation, and remediation to reduce alert fatigue and accelerate response times. [...]",
-      "publishedAt": "2026-06-15T12:12:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c2449f3f97cb",
-      "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
-      "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️ “Evals are the modern version of a PRD”: Ankur Goyal (Braintrust) on encoding taste into systems that scale",
-      "publishedAt": "2026-06-15T12:04:03.000Z"
     }
   ]
 }
