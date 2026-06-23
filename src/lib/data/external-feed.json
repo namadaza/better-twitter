@@ -1,6 +1,136 @@
 {
-  "fetchedAt": "2026-06-22T14:07:20.774Z",
+  "fetchedAt": "2026-06-23T01:15:52.939Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-ebfeacff6727",
+      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
+      "publishedAt": "2026-06-22T22:42:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-785159be39ab",
+      "title": "In Maryland District, a Last-Minute Scramble to Stop “AIPAC Adrian” Boafo",
+      "url": "https://www.dropsitenews.com/p/aipac-adrian-boafo-steny-hoyer-seat-maryland-oracle",
+      "publication": "Drop Site News",
+      "author": "Ryan Grim",
+      "excerpt": "A powerful local figure is switching sides to back Quincy Bareebe in hopes of blocking an Oracle lobbyist from taking over the seat being vacated by AIPAC stalwart Steny Hoyer.",
+      "publishedAt": "2026-06-22T22:18:02.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e627cac1d277",
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
+      "publishedAt": "2026-06-22T21:52:18.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-dc2bc809d3f2",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "url": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service  condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
+      "publishedAt": "2026-06-22T21:05:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-67ed4cb83ea1",
+      "title": "Tentative But Defiant, Lebanese Families Return to Southern Lebanon Amid Continued Occupation",
+      "url": "https://www.dropsitenews.com/p/lebanon-israel-ceasefire-nabatieh-iran-us-mou",
+      "publication": "Drop Site News",
+      "author": "Lylla Younes",
+      "excerpt": "Israel conducted some of its heaviest attacks on Lebanon following the U.S.-Iran deal. The bombardment has finally halted but troops remain.",
+      "publishedAt": "2026-06-22T20:25:25.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-44b4ed7bd29c",
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+      "publishedAt": "2026-06-22T20:01:02.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-32c3a4582fcb",
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
+      "publishedAt": "2026-06-22T17:41:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9aa3cf2f833c",
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
+      "publishedAt": "2026-06-22T17:28:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7a813563c414",
+      "title": "U.S. and Iran agree to “roadmap” for final deal; Starmer resigns; GOP funding to Dem super PACs",
+      "url": "https://www.dropsitenews.com/p/us-iran-talks-deal-starmer-resignation-labour-uk-gop-super-pacs",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 22, 2026",
+      "publishedAt": "2026-06-22T15:55:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f3e6f2c61f36",
+      "title": "'We Will Fight to Our Very Last Breath:' Township Leaders Vow to Fight Nuclear AI Data Center",
+      "url": "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
+      "publication": "404 Media",
+      "author": "Matthew Gault",
+      "excerpt": "Michigan Governor Gretchen Whitmer and a proposed nuclear weapons AI data center in Michigan have earned the ire of community leaders.",
+      "publishedAt": "2026-06-22T15:24:09.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0a32f997c9fe",
+      "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "publishedAt": "2026-06-22T15:02:37.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c9762a7af978",
+      "title": "Stopping Tech Company Censorship (with Jake Hanrahan)",
+      "url": "https://www.404media.co/stopping-tech-company-censorship-with-jake-hanrahan/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "Joseph speaks to Jake Hanrahan all about Patreon, YouTube, and getting journalism in front of people.",
+      "publishedAt": "2026-06-22T14:27:48.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-da7067ee02b6",
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Flare",
+      "excerpt": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]",
+      "publishedAt": "2026-06-22T14:05:15.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-80f97bf59448",
@@ -64,7 +194,7 @@
     {
       "type": "rss",
       "id": "rss-6eae7ddbcc4c",
-      "title": "Building the most AI-pilled engineering team in the world | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+      "title": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
       "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
       "publication": "Lenny's Newsletter",
       "author": "Lenny Rachitsky",
@@ -759,176 +889,6 @@
       "author": "Ed Zitron",
       "excerpt": "Soundtrack: In Flames - Colony\nTo further support my independent journalism, please subscribe to my premium newsletter. It’s $7 a month or $70 a year. If you’re subscribed to the free newsletter and logged in, you should see at the bottom right hand corner of your screen",
       "publishedAt": "2026-06-16T03:58:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2f9aef1463e6",
-      "title": "Pro-Israel Donors Power Last-Minute Surge of Espaillat Spending",
-      "url": "https://www.dropsitenews.com/p/pro-israel-donors-aipac-adriano-espaillat-avila-chevalier",
-      "publication": "Drop Site News",
-      "author": "Ryan Grim",
-      "excerpt": "The infusion of pro-Israel money into the NY-13 primary comes amid a multimillion-dollar push to save CHC Chair Adriano Espaillat from his progressive challenger, Darializa Avila Chevalier.",
-      "publishedAt": "2026-06-16T00:09:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-042f9d4fab51",
-      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
-      "url": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the first publicly announced domain seizure under the TAKE IT DOWN Act. [...]",
-      "publishedAt": "2026-06-15T21:56:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-744ffb47fafa",
-      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
-      "publishedAt": "2026-06-15T20:06:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0f8bb8b8137a",
-      "title": "“They Stole Our Home and Our Life”: Israel Permanently Displaces Syrians in Quneitra",
-      "url": "https://www.dropsitenews.com/p/syria-israel-occupation-golan-quneitra-displacement",
-      "publication": "Drop Site News",
-      "author": "C.P. Ward",
-      "excerpt": "The Israeli military has taken over land in southwest Syria, expelled residents, demolished homes, built new military bases, and conducted arrest sweeps.",
-      "publishedAt": "2026-06-15T19:54:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-981b32aa77bb",
-      "title": "AI's Brokenomics",
-      "url": "https://www.wheresyoured.at/brokenomics/",
-      "publication": "Ed Zitron's Where's Your Ed At",
-      "author": "Ed Zitron",
-      "excerpt": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and",
-      "publishedAt": "2026-06-15T19:28:23.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f7e92f642240",
-      "title": "Disclosure Day's Delusion Is That People Would Think Alien Videos Are Not AI",
-      "url": "https://www.404media.co/disclosure-days-delusion-that-people-would-think-alien-videos-are-not-ai/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "The only plausible response to videos of aliens on television, at this point, would be cries of “that’s AI,” “fake,” and propaganda flowing in all directions.",
-      "publishedAt": "2026-06-15T18:11:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-31d2c62eeb90",
-      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
-      "publishedAt": "2026-06-15T17:37:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8116241225e1",
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
-      "publishedAt": "2026-06-15T17:12:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bb1202cca944",
-      "title": "U.S. and Iran reach initial deal to end war, reopen Hormuz; Israel rejects Lebanon withdrawal; UK court upholds Palestine Action ban",
-      "url": "https://www.dropsitenews.com/p/us-iran-deal-hormuz-israel-lebanon-withdrawal-uk-palestine-action-ban",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 15, 2026",
-      "publishedAt": "2026-06-15T16:40:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-562fc6f3a2f9",
-      "title": "Council of Europe investigates ShinyHunters data breach claims",
-      "url": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
-      "publishedAt": "2026-06-15T16:37:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c6a9cf80545e",
-      "title": "Your prospects don't care which channel you pick",
-      "url": "https://newsletter.outbound.kitchen/p/stop-debating-email-vs-linkedin",
-      "publication": "Outbound Kitchen",
-      "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "Here's what gets your reply.",
-      "publishedAt": "2026-06-15T16:27:44.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7e58e6a9ebc4",
-      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
-      "publishedAt": "2026-06-15T15:30:23.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d1445bb0feb1",
-      "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "publishedAt": "2026-06-15T15:01:32.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7bbc5521dbb7",
-      "title": "Iran Enlisted “Senior Psychologists” to Help Craft Messages to Trump Ahead of Agreement",
-      "url": "https://www.dropsitenews.com/p/iran-trump-psychologists-ceasefire-negotiations",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "An Iranian official told Drop Site that Trump’s “reactions improved noticeably\" after the psychiatric professionals joined the negotiating effort.",
-      "publishedAt": "2026-06-15T14:56:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a7bea89d8eb9",
-      "title": "Judge Rules Blacked.com Can Sue Meta for Scraping Its Porn",
-      "url": "https://www.404media.co/judge-rules-blacked-com-can-sue-meta-for-scraping-its-porn/",
-      "publication": "404 Media",
-      "author": "Emanuel Maiberg",
-      "excerpt": "The judge found that Meta’s attempt to blame the pirating of thousands of Vixen.com and Tushy.com porn videos on rogue employees “strains credulity.”",
-      "publishedAt": "2026-06-15T14:53:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0030411ca6cd",
-      "title": "Human inequality: the self-evident truth",
-      "url": "https://www.aporiamagazine.com/p/human-inequality-the-self-evident",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "Humans are obviously unequal. We can accept this while maintaining equality under the law.",
-      "publishedAt": "2026-06-15T14:51:13.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-be80fe059cf9",
-      "title": "It Is Trivially Easy to Use Reddit to Manipulate AI Search, Research Suggests",
-      "url": "https://www.404media.co/it-is-trivially-easy-to-use-reddit-to-manipulate-ai-search-research-suggests/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "\"We show that a tiny snippet—just 13 words—of retrieved text on a UGC website like Reddit, Wikipedia, Quora, or Facebook can change AI agents to output spam / scam content pretty consistently.\"",
-      "publishedAt": "2026-06-15T14:19:11.000Z"
     }
   ]
 }
