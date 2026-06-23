@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-23T01:15:52.939Z",
+  "fetchedAt": "2026-06-23T07:29:42.241Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-d575107d36da",
+      "title": "OUT NOW: Europe - A World Power",
+      "url": "https://www.arktosjournal.com/p/out-now-europe-a-world-power",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Olivier Eichenlaub",
+      "publishedAt": "2026-06-23T03:16:26.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-ebfeacff6727",
@@ -869,26 +879,6 @@
       "author": "Bill Toulas",
       "excerpt": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
       "publishedAt": "2026-06-16T09:00:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2eba70a07d99",
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "url": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
-      "publishedAt": "2026-06-16T06:31:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7474a766f400",
-      "title": "Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion",
-      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
-      "publication": "Ed Zitron's Where's Your Ed At",
-      "author": "Ed Zitron",
-      "excerpt": "Soundtrack: In Flames - Colony\nTo further support my independent journalism, please subscribe to my premium newsletter. It’s $7 a month or $70 a year. If you’re subscribed to the free newsletter and logged in, you should see at the bottom right hand corner of your screen",
-      "publishedAt": "2026-06-16T03:58:20.000Z"
     }
   ]
 }
