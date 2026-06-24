@@ -1,6 +1,326 @@
 {
-  "fetchedAt": "2026-06-23T07:29:42.241Z",
+  "fetchedAt": "2026-06-24T19:26:28.855Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-7d70864ba0d7",
+      "title": "How Jeffrey Epstein’s Israeli Network Shaped Congo’s Deadly Mineral Trade",
+      "url": "https://www.dropsitenews.com/p/epstein-barak-congo-israel",
+      "publication": "Drop Site News",
+      "author": "Murtaza Hussain",
+      "excerpt": "Leaked documents reveal how military contractors linked to Israeli intelligence secretly trained a special operations strike force in mineral-rich eastern Congo.",
+      "publishedAt": "2026-06-24T18:51:07.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-27111f34da4a",
+      "title": "Mamdani-backed Israel critics sweep NYC; Texas anti-ICE protesters get 30-100 years; Peru’s Sánchez rejects runoff results",
+      "url": "https://www.dropsitenews.com/p/nyc-primaries-mamdani-texas-ice-protestors-peru-sanchez-elections",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 24, 2026",
+      "publishedAt": "2026-06-24T15:41:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-832d7f492006",
+      "title": "Vast ‘Structures’ In Space Reveal the Universe Isn't What We Thought",
+      "url": "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
+      "publication": "404 Media",
+      "author": "Becky Ferreira",
+      "excerpt": "Physicists have discovered that the dark matter structures that scaffold the universe—known as the “cosmic web”—are far larger and more persistent than expected, challenging a core assumption about the universe.",
+      "publishedAt": "2026-06-24T15:00:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f808da151ff3",
+      "title": "The Trump Administration’s New Census Data Rules Are a Policy Disaster",
+      "url": "https://www.404media.co/census-data-privacy-trump-policy-change-noise-infusion/",
+      "publication": "404 Media",
+      "author": "Samantha Cole",
+      "excerpt": "The new policy, which forbids \"noise infusion\" as a technique for anonymizing data, will \"handcuff\" the Census Bureau and limit what information becomes public, data experts say.",
+      "publishedAt": "2026-06-24T14:39:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d2d955ac98a4",
+      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
+      "publishedAt": "2026-06-24T14:35:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0cff6bc338c0",
+      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
+      "url": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
+      "publishedAt": "2026-06-24T14:35:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-50b62db2b3e9",
+      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
+      "url": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Specops Software",
+      "excerpt": "Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]",
+      "publishedAt": "2026-06-24T14:02:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-43dc7726cae7",
+      "title": "Snap's AI Specs: LOL",
+      "url": "https://www.404media.co/snaps-ai-ar-specs-lol/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "Snap's AR Specs glasses are indeed very heavy, very dorky.",
+      "publishedAt": "2026-06-24T13:34:14.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b2fb73443ebf",
+      "title": "Podcast: If AI Is Sentient Then So Is ‘Age of Empires II",
+      "url": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.",
+      "publishedAt": "2026-06-24T13:03:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e3a26ed15f6f",
+      "title": "How Hackers Broke into Madison Square Garden",
+      "url": "https://www.404media.co/how-hackers-broke-into-madison-square-garden/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "Hackers stole more than 45GB of data from Madison Square Garden, including data related to “talent” and the Knicks. Clues in the data point to how the hackers got in.",
+      "publishedAt": "2026-06-24T13:00:25.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0aac46c0cc85",
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "Leaked audio from Accenture says a big source of AI token ‘chewing’ is people just converting PDFs to presentation slides.",
+      "publishedAt": "2026-06-24T12:50:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2c99441032ee",
+      "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+      "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️I ran GLM-5.2, the open-weight model from Z.AI, through codebase audits, UI redesigns, and a 45-minute autonomous bug-hunting task in Cursor and Claude Code, and it cost me $3.36",
+      "publishedAt": "2026-06-24T12:03:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d0ff82b204fd",
+      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+      "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
+      "publishedAt": "2026-06-24T10:41:51.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-40a833e99681",
+      "title": "The 'End of Evangelion' as a Critique of Liberal Universalism",
+      "url": "https://www.arktosjournal.com/p/the-end-of-evangelion-as-a-critique",
+      "publication": "Arktos Journal",
+      "author": "Alexander Raynor",
+      "excerpt": "by Alexander Raynor",
+      "publishedAt": "2026-06-24T08:01:09.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0debc3b58563",
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
+      "publishedAt": "2026-06-23T21:48:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-8d871b711b04",
+      "title": "From Lake Lucerne to Lebanon, U.S.-Iran Talks Stumble Forward",
+      "url": "https://www.dropsitenews.com/p/us-iran-talks-lebanon-analysis",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "The United States and Iran continue to push forward with talks building on their recently signed MOU to end the current war and resolve outstanding differences between the two countries related to sanctions and the Iranian nuclear program.",
+      "publishedAt": "2026-06-23T21:38:29.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a4f300d2ffcd",
+      "title": "Tata Electronics confirms cyberattack as hackers leak data",
+      "url": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
+      "publishedAt": "2026-06-23T21:06:32.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-908261a28760",
+      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]",
+      "publishedAt": "2026-06-23T20:22:21.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e8474fe835f3",
+      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
+      "publishedAt": "2026-06-23T19:59:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f53487a7b67b",
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
+      "publishedAt": "2026-06-23T18:30:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7b2f15894dae",
+      "title": "Exclusive: Internal Documents Show Trump’s “Board of Peace“ Moving to Crush Palestinian Self-Determination",
+      "url": "https://www.dropsitenews.com/p/internal-proposals-palestine-hamas-gaza-trump-mladenov-israel-board-peace",
+      "publication": "Drop Site News",
+      "author": "Jeremy Scahill",
+      "excerpt": "Gaza proposals obtained by Drop Site show Trump’s board attempting to force a Palestinian surrender that Israel could not achieve in war.",
+      "publishedAt": "2026-06-23T17:34:58.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-846511f67024",
+      "title": "U.S. eases Iran oil sanctions; “Alarming indications” of “imminent mass atrocities” in Sudan; Enrollment in Medicaid and ACA drops by 5 million",
+      "url": "https://www.dropsitenews.com/p/iran-oil-sanctions-sudan-atrocities-medicaid-aca",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 23, 2026",
+      "publishedAt": "2026-06-23T15:40:13.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-fa8c68435a73",
+      "title": "Wikipedia Cofounder Larry Sanger Banned From Site for ‘Canvassing’",
+      "url": "https://www.404media.co/wikipedia-cofounder-larry-sanger-banned-from-site-for-canvassaing/",
+      "publication": "404 Media",
+      "author": "Emanuel Maiberg",
+      "excerpt": "“All he has done is try to start a right-wing/conservative pressure group within Wikipedia.”",
+      "publishedAt": "2026-06-23T15:36:31.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3a1f8e174f3d",
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "url": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
+      "publishedAt": "2026-06-23T15:31:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-dba85f639a7f",
+      "title": "Cargo Culture",
+      "url": "https://www.wheresyoured.at/cargo-culture/",
+      "publication": "Ed Zitron's Where's Your Ed At",
+      "author": "Ed Zitron",
+      "excerpt": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and",
+      "publishedAt": "2026-06-23T15:23:20.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1b4706f664dc",
+      "title": "Video: White liberals and ethnic separatism",
+      "url": "https://www.aporiamagazine.com/p/video-white-liberals-and-ethnic-separatism",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "With Noah Carl",
+      "publishedAt": "2026-06-23T15:02:24.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ff51baf3ee35",
+      "title": "Libraries Not Doing Pride Displays Say They ‘Shouldn’t Be Judged’",
+      "url": "https://www.404media.co/libraries-not-doing-pride-displays-say-they-shouldnt-be-judged/",
+      "publication": "404 Media",
+      "author": "Claire Woodcock",
+      "excerpt": "Public records show dozens of libraries have self-censored to avoid attracting negative attention.",
+      "publishedAt": "2026-06-23T14:37:28.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7d7430d771c2",
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Picus Security",
+      "excerpt": "Attackers can now weaponize newly disclosed vulnerabilities far faster than most organizations can patch them. Picus Security explains how security teams can validate exploitability before a public exploit even exists. [...]",
+      "publishedAt": "2026-06-23T14:01:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b3e61e14dcac",
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
+      "publishedAt": "2026-06-23T13:58:25.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-26e720ccac6f",
+      "title": "Madison Square Garden Made Dossier on Activists Who Opposed Facial Recognition",
+      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "The document, titled “Facial Recognition Activists.docx,” includes specific activists’ comments about MSG's facial recognition program and tweets criticizing it.",
+      "publishedAt": "2026-06-23T13:20:50.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-20efbaf51e3e",
+      "title": "The new inner game: Your unfair advantage in the age of AI",
+      "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+      "publication": "Lenny's Newsletter",
+      "author": "Joe Hudson",
+      "excerpt": "A playbook for the biggest upheaval of work we’ll see in our lifetime",
+      "publishedAt": "2026-06-23T12:45:59.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e93c092b2349",
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing alert fatigue and improving operational efficiency. [...]",
+      "publishedAt": "2026-06-23T12:12:20.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-d575107d36da",
@@ -188,6 +508,16 @@
       "url": "https://www.beautyofsaas.com/p/painful-truths-about-leaving-your",
       "publication": "BOSS Letter",
       "author": "BOSS Letter",
+      "excerpt": "146: You might do your best... Because nobody is coming to save you.",
+      "publishedAt": "2026-06-21T15:25:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d3a94500ae97",
+      "title": "Painful Truths About Leaving Your 20s Nobody Warned You Were Coming",
+      "url": "https://theunintuitive.com/p/painful-truths-about-leaving-your",
+      "publication": "The Unintuitive",
+      "author": "BOSS",
       "excerpt": "146: You might do your best... Because nobody is coming to save you.",
       "publishedAt": "2026-06-21T15:25:16.000Z"
     },
@@ -610,275 +940,6 @@
       "author": "Abdel Qader Sabbah",
       "excerpt": "\"Where are we supposed to go? They might as well throw us into the sea and be done with us.”",
       "publishedAt": "2026-06-17T20:08:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-464c4eb362e6",
-      "title": "Western \"Democracy\"",
-      "url": "https://www.aporiamagazine.com/p/western-democracy",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "It's a far cry from ancient Athens.",
-      "publishedAt": "2026-06-17T16:33:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7fd590991830",
-      "title": "Gaza death toll since “ceasefire” tops 1,000; 15 charged with impeding ICE agents in Minnesota; Ecuador declares new state of emergency",
-      "url": "https://www.dropsitenews.com/p/gaza-ceasefire-israel-ice-minnesota-ecuador-noboa-emergency",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 17, 2026",
-      "publishedAt": "2026-06-17T15:07:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8c0726545d2f",
-      "title": "ICE Appears to Be Buying Immigrants’ Tax Identifiers from a Data Broker",
-      "url": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "A $10 million procurement reviewed by 404 Media indicates ICE is buying records related to immigrants’ tax identifiers. “It looks for all the world like Trump is trying to skirt the law and a court order to fuel his mass-deportation campaign,” Senator Ron Wyden said.",
-      "publishedAt": "2026-06-17T14:03:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1241c9625f3c",
-      "title": "Why Account Takeovers Are Rising and How to Stop Them",
-      "url": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Specops Software",
-      "excerpt": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
-      "publishedAt": "2026-06-17T14:00:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-49284f212e27",
-      "title": "Podcast: The Government Wants to End Anonymity on Phones",
-      "url": "https://www.404media.co/podcast-the-government-wants-to-end-anonymity-on-phones/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "The FCC's proposed changes to getting a phone plan; cops keep stalking with Flock; and a software update changes the AC in Amazon vans.",
-      "publishedAt": "2026-06-17T13:16:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c976202e1047",
-      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
-      "url": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
-      "publication": "BleepingComputer",
-      "author": "Ax Sharma",
-      "excerpt": "India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]",
-      "publishedAt": "2026-06-17T13:12:45.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0d3f0e240140",
-      "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
-      "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
-      "publication": "Lenny's Newsletter",
-      "excerpt": "Watch now | 🎙️Every loop type explained: heartbeats, crons, goals, and subagents. Plus two live Claude Code and Codex builds that run autonomously so you never manually babysit a PR again",
-      "publishedAt": "2026-06-17T12:04:04.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-03a0481942e5",
-      "title": "Microsoft confirms Office apps launch issues after June updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]",
-      "publishedAt": "2026-06-17T11:54:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-8e334ea94f8f",
-      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
-      "publishedAt": "2026-06-17T10:09:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-63edb3ca4a52",
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
-      "publishedAt": "2026-06-17T08:32:29.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-692317f0e6af",
-      "title": "The Manosphere Against Tradition",
-      "url": "https://www.arktosjournal.com/p/the-manosphere-against-tradition",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "One of the more recent digital phenomena is that of the manosphere: the rise of online influencers ranging from men’s rights activists and masculinity influencers to pick-up artists and others.",
-      "publishedAt": "2026-06-17T08:01:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3644a8453413",
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "url": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
-      "publishedAt": "2026-06-17T07:07:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-49034f37b9ae",
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
-      "publishedAt": "2026-06-16T21:54:50.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f0b037bb8a34",
-      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
-      "publishedAt": "2026-06-16T20:04:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d1237ade7629",
-      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
-      "url": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
-      "publishedAt": "2026-06-16T18:27:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a5e3b3b93020",
-      "title": "The State of War and Diplomacy: Iran, Lebanon, and Gaza",
-      "url": "https://www.dropsitenews.com/p/iran-us-mou-ceasefire-lebanon-gaza-trump-hormuz",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Ryan Grim, Jeremy Scahill, Murtaza Hussain, and Sharif Abdel Kouddous discuss the U.S.-Iran ceasefire deal, Lebanon, Gaza, and more.",
-      "publishedAt": "2026-06-16T16:47:10.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-ec92ced3a272",
-      "title": "Israel continues attacks on Lebanon despite U.S.-Iran deal; B-52 crashes in California; Iran “most oppressed team in the World Cup”",
-      "url": "https://www.dropsitenews.com/p/israel-lebanon-us-iran-deal-crash-california-world-cup",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 16, 2026",
-      "publishedAt": "2026-06-16T16:10:34.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-92d9f0f5249f",
-      "title": "UK to require ID or face scan before you can make social media accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
-      "publication": "BleepingComputer",
-      "author": "Ax Sharma",
-      "excerpt": "Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent and create new data-breach risks. [...]",
-      "publishedAt": "2026-06-16T14:38:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-85b8adb4eb13",
-      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
-      "url": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Varonis",
-      "excerpt": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]",
-      "publishedAt": "2026-06-16T14:17:27.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9c5dc1a50420",
-      "title": "Hackers Publish Knicks and Madison Square Garden Data Online",
-      "url": "https://www.404media.co/hackers-publish-knicks-and-madison-square-garden-data-online/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "The data contains a list of \"talent,\" including former Knicks players and coaches, and whether other celebrities are considered \"Low Risk\" or \"High Risk.\" The data also contains emails between customers and MSG.",
-      "publishedAt": "2026-06-16T14:00:38.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a71983553c6b",
-      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
-      "url": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
-      "publishedAt": "2026-06-16T13:42:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f421dfd6cb98",
-      "title": "Hackers Are Hijacking Entire Roblox Games Now",
-      "url": "https://www.404media.co/hackers-are-hijacking-entire-roblox-games-now/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "Whereas Roblox hackers were previously focused on stealing players' high value items, some have taken over entire Roblox games, stealing their ownership and Robux in the process.",
-      "publishedAt": "2026-06-16T13:00:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f27d0f0e00c9",
-      "title": "OUT NOW - Two Classic Works by Alain de Benoist",
-      "url": "https://www.arktosjournal.com/p/out-now-two-classic-works-by-alain",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "\"Orientations for Decisive Years\" & \"Nietzsche: Morality and Great Politics\"",
-      "publishedAt": "2026-06-16T12:32:55.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-fdfaddbabf6d",
-      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
-      "publishedAt": "2026-06-16T10:47:59.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d75a01496611",
-      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
-      "publishedAt": "2026-06-16T10:18:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d3bd8aa074b0",
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
-      "publishedAt": "2026-06-16T09:19:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6d704a37e9fb",
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
-      "publishedAt": "2026-06-16T09:00:00.000Z"
     }
   ]
 }
