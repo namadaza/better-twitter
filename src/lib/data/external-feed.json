@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-06-24T19:26:28.855Z",
+  "fetchedAt": "2026-06-25T01:12:02.395Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-88d516fa2f06",
+      "title": "Google releases new privacy controls for activity history, personalization",
+      "url": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
+      "publication": "BleepingComputer",
+      "author": "Mayank Parmar",
+      "excerpt": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
+      "publishedAt": "2026-06-24T23:46:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-259e47403f93",
+      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
+      "publishedAt": "2026-06-24T21:55:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-11351a19671d",
+      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+      "url": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
+      "publishedAt": "2026-06-24T21:29:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a0f167358b26",
+      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
+      "publishedAt": "2026-06-24T20:58:22.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-7d70864ba0d7",
@@ -920,26 +960,6 @@
       "author": "Mayank Parmar",
       "excerpt": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]",
       "publishedAt": "2026-06-18T01:30:08.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e25d80fab705",
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "url": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-      "publication": "BleepingComputer",
-      "author": "Ax Sharma",
-      "excerpt": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices \"wrong.\" [...]",
-      "publishedAt": "2026-06-17T21:02:42.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f0b98dcb347a",
-      "title": "In Campaign to Seize More of Gaza, Israel Expands Attacks on Palestinians Near “Yellow Line”",
-      "url": "https://www.dropsitenews.com/p/gaza-yellow-line-blocks-tuffah-halawa-jawazat-israeli-bases",
-      "publication": "Drop Site News",
-      "author": "Abdel Qader Sabbah",
-      "excerpt": "\"Where are we supposed to go? They might as well throw us into the sea and be done with us.”",
-      "publishedAt": "2026-06-17T20:08:24.000Z"
     }
   ]
 }
