@@ -1,7 +1,6 @@
 import { randomUUID } from "crypto";
-import { Feed } from "@/components/feed";
 import { getFeedItemsPage } from "@/app/actions";
-import { BottomNav } from "@/components/bottom-nav";
+import { HomeFeed } from "@/components/home-feed";
 import { loadHighlights } from "@/lib/sources/highlights";
 import { loadKoreaderBooks } from "@/lib/sources/koreader-generated";
 
@@ -18,10 +17,12 @@ export default async function Home() {
 
   return (
     <div className="min-h-screen bg-background text-foreground">
-      {/* Feed */}
-      <Feed initialItems={initialItems} seed={feedSeed} />
-
-      <BottomNav books={books} highlights={highlights} />
+      <HomeFeed
+        initialItems={initialItems}
+        seed={feedSeed}
+        books={books}
+        highlights={highlights}
+      />
 
       {/* Mobile responsiveness: Add bottom padding for bottom nav */}
       <div className="h-16 md:h-0"></div>

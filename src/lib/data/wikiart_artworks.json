@@ -20130,6 +20130,7 @@
     {
       "id": "wikiart:57727bbfedc2cb3880e24de0",
       "title": "Aguttes",
+      "doNotRender": true,
       "artist": "Cross Henri-Edmond",
       "year": 1902,
       "genres": [

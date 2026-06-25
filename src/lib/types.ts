@@ -31,6 +31,23 @@ export type FeedItem =
 
 export type Theme = "light" | "dark" | "system";
 
+export type FeedOptions =
+  | {
+      contentType: "book-highlights";
+      bookTitle: string;
+      bookOrder: "random" | "in-order";
+    }
+  | {
+      contentType: "rss";
+      rssOrder: "chronological" | "random";
+    }
+  | {
+      contentType: "art";
+    }
+  | {
+      contentType: "islam";
+    };
+
 export interface ThemeProviderProps {
   children: React.ReactNode;
   defaultTheme?: Theme;
