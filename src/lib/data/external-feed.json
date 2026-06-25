@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-06-25T07:26:20.977Z",
+  "fetchedAt": "2026-06-25T12:59:18.281Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-edacdcb6fd67",
+      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]",
+      "publishedAt": "2026-06-25T12:12:20.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-88d516fa2f06",
@@ -890,66 +900,6 @@
       "author": "Joseph Cox",
       "excerpt": "The leaderboard, sorted by executive and the teams underneath them, has a feature that shows users which employees have not earned the badges. “click to see who 👀,” the leaderboard says.",
       "publishedAt": "2026-06-18T13:23:17.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-45cf363e5914",
-      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
-      "publishedAt": "2026-06-18T12:55:36.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-974cdaec9d07",
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
-      "publishedAt": "2026-06-18T12:54:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-66b9433752d4",
-      "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]",
-      "publishedAt": "2026-06-18T12:23:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9b9e538acf51",
-      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
-      "url": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
-      "publication": "BleepingComputer",
-      "author": "Ax Sharma",
-      "excerpt": "India's government has told the Delhi High Court that Telegram was warned about two weeks before it was blocked, and that the platform admitted it could not proactively detect the channels selling leaked exam papers. Telegram says it cooperated and the ban is unlawful. [...]",
-      "publishedAt": "2026-06-18T12:18:49.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6eba2038fa47",
-      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems. [...]",
-      "publishedAt": "2026-06-18T11:33:00.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-26e1616187d2",
-      "title": "Microsoft fixes Windows Server 2016 security update failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
-      "publication": "BleepingComputer",
-      "author": "Sergiu Gatlan",
-      "excerpt": "Microsoft has fixed a known issue causing the June 2026 security updates to fail on Windows Server 2016 systems that weren't up to date. [...]",
-      "publishedAt": "2026-06-18T10:14:20.000Z"
     }
   ]
 }
