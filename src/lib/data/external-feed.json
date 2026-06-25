@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-25T01:12:02.395Z",
+  "fetchedAt": "2026-06-25T07:26:20.977Z",
   "items": [
     {
       "type": "rss",
@@ -950,16 +950,6 @@
       "author": "Sergiu Gatlan",
       "excerpt": "Microsoft has fixed a known issue causing the June 2026 security updates to fail on Windows Server 2016 systems that weren't up to date. [...]",
       "publishedAt": "2026-06-18T10:14:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-bf18242306dc",
-      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
-      "publication": "BleepingComputer",
-      "author": "Mayank Parmar",
-      "excerpt": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]",
-      "publishedAt": "2026-06-18T01:30:08.000Z"
     }
   ]
 }
