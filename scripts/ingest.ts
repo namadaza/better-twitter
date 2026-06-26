@@ -121,10 +121,10 @@ async function loadExisting(): Promise<RssItem[]> {
     const parsed = JSON.parse(raw) as Partial<ExternalFeedFile>;
     return Array.isArray(parsed.items)
       ? parsed.items.map((item) => ({
-          ...item,
-          type: "rss" as const,
-          id: item.id?.replace(/^substack-/, "rss-") ?? item.id,
-        }))
+        ...item,
+        type: "rss" as const,
+        id: item.id?.replace(/^substack-/, "rss-") ?? item.id,
+      }))
       : [];
   } catch {
     return [];
