@@ -56,6 +56,9 @@ const ARTIST_PAGES = [
   "vincent-van-gogh",
   "santiago-rusinol",
   "charles-reiffel",
+  "konstantinos-volanakis",
+  "maurice-braun",
+  "jose-maria-velasco"
 ];
 
 function sleep(ms: number) {
@@ -147,8 +150,8 @@ async function run() {
   const results: any[] = [];
 
   // Load previous manifest if exists to dedupe
-  let previousFingerprints = new Set<string>();
-  let previousIds = new Set<string>();
+  const previousFingerprints = new Set<string>();
+  const previousIds = new Set<string>();
   let existingItems: any[] = [];
   try {
     const prev = await fs.readFile(OUT_PATH, "utf8");
