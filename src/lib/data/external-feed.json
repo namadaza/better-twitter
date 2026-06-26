@@ -1,6 +1,36 @@
 {
-  "fetchedAt": "2026-06-26T13:33:22.206Z",
+  "fetchedAt": "2026-06-26T15:51:57.278Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-5fc7ca36a697",
+      "title": "House to vote on foreign aid to Israel; SCOTUS allows Trump to strip Haitians and Syrians of status; Thousands still missing in Venezuela",
+      "url": "https://www.dropsitenews.com/p/house-foreign-aid-israel-scotus-trump-haitians-syrians-status-venezuela-earthquake",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 26, 2026",
+      "publishedAt": "2026-06-26T15:31:38.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-b9b0f545422e",
+      "title": "[Abridged] lululemon athletica (LULU): An Ode to Bad Management & The Politics of Skin-Tight Leggings",
+      "url": "https://michaeljburry.substack.com/p/abridged-lululemon-athletica-lulu",
+      "publication": "Cassandra Unchained",
+      "author": "Michael Burry",
+      "excerpt": "An Ode to Bad Management & The Politics of Skin-Tight Leggings",
+      "publishedAt": "2026-06-26T14:46:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ba42617f9c05",
+      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+      "url": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Anecdotes",
+      "excerpt": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
+      "publishedAt": "2026-06-26T14:01:11.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-7f249d92d11c",
@@ -10,6 +40,16 @@
       "author": "Arktos Journal",
       "excerpt": "Alexander Raynor sits down for an interview with Olivier Eichenlaub, coordinator of the Institut Iliade's Research Division.",
       "publishedAt": "2026-06-26T08:01:23.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1a7f1daa772b",
+      "title": "Prediction Confirmed: The Next Phase of the Iran War Has Begun",
+      "url": "https://escalationtrap.substack.com/p/prediction-confirmed-the-next-phase",
+      "publication": "Escalation Trap",
+      "author": "Prof Robert Pape",
+      "excerpt": "On Monday, I posted “Getting the Framework Right” identifying that one of the most likely escalation pathways in the Iran War would not be just about Lebanon.",
+      "publishedAt": "2026-06-26T00:59:19.000Z"
     },
     {
       "type": "rss",
@@ -33,6 +73,26 @@
     },
     {
       "type": "rss",
+      "id": "rss-a906b4581774",
+      "title": "The Elite of the Industry Are Sharing Their Best Stock Ideas",
+      "url": "https://georgenoble.substack.com/p/the-elite-of-the-industry-are-sharing",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "Join us today",
+      "publishedAt": "2026-06-25T22:25:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-25da9b04fc26",
+      "title": "Earnings Bubble to Deflate | Peter Berezin",
+      "url": "https://georgenoble.substack.com/p/earnings-bubble-to-deflate-peter",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "1.",
+      "publishedAt": "2026-06-25T21:01:50.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-c10a19dfb799",
       "title": "Israel Bombs Palestinians in Beach Tents in Gaza",
       "url": "https://www.dropsitenews.com/p/israel-bombs-gaza-coastline-tents-beach-displaced-palestinians",
@@ -40,6 +100,16 @@
       "author": "Abdel Qader Sabbah",
       "excerpt": "“This area is made up of tents sheltering civilians—displaced people, people who lived through oppression, humiliation, famine, war and siege. And the whole place was bombed.”",
       "publishedAt": "2026-06-25T21:01:48.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-f0a0010cee0e",
+      "title": "Trading Post June 25, 2026",
+      "url": "https://michaeljburry.substack.com/p/trading-post-june-25-2026",
+      "publication": "Cassandra Unchained",
+      "author": "Michael Burry",
+      "excerpt": "Hong Kong, Adds, One Sale to Add, One New Position and One Short Cover",
+      "publishedAt": "2026-06-25T19:49:00.000Z"
     },
     {
       "type": "rss",
@@ -193,6 +263,26 @@
     },
     {
       "type": "rss",
+      "id": "rss-acae2efc15da",
+      "title": "lululemon athletica (LULU): An Ode to Bad Management & The Politics of Skin-Tight Leggings",
+      "url": "https://michaeljburry.substack.com/p/lululemon-athletica-lulu-where-is",
+      "publication": "Cassandra Unchained",
+      "author": "Michael Burry",
+      "excerpt": "In Defense of an 800lb Gorilla",
+      "publishedAt": "2026-06-24T23:38:52.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-a5aee5014a6d",
+      "title": "Big Tech's $1 trillion AI moat just got DESTROYED by a free Chinese download",
+      "url": "https://georgenoble.substack.com/p/big-techs-1-trillion-ai-moat-just",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "Microsoft, Amazon, Google, and Meta are pouring fortunes into chips and data centers because they have been told that whoever builds the biggest model wins, and that lead becomes a fortress no one can cross.",
+      "publishedAt": "2026-06-24T23:17:48.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-259e47403f93",
       "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
       "url": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
@@ -240,6 +330,16 @@
       "author": "Drop Site News",
       "excerpt": "Drop Site Daily: June 24, 2026",
       "publishedAt": "2026-06-24T15:41:05.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d2e55ee8dce7",
+      "title": "We're pulling the trigger on CoreWeave",
+      "url": "https://georgenoble.substack.com/p/were-pulling-the-trigger-on-coreweave",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "CoreWeave just got added to the Nasdaq-100, and the market is louder than ever.",
+      "publishedAt": "2026-06-24T15:28:39.000Z"
     },
     {
       "type": "rss",
@@ -360,6 +460,16 @@
       "author": "Alexander Raynor",
       "excerpt": "by Alexander Raynor",
       "publishedAt": "2026-06-24T08:01:09.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-d71677ae5b8f",
+      "title": "OPEC IS DEAD",
+      "url": "https://georgenoble.substack.com/p/opec-is-dead",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "The most powerful force in the oil market is now a single country that doesn't produce a drop.",
+      "publishedAt": "2026-06-23T22:21:37.000Z"
     },
     {
       "type": "rss",
@@ -553,6 +663,26 @@
     },
     {
       "type": "rss",
+      "id": "rss-fc83315a6827",
+      "title": "Live with Prof Robert Pape  Will Peace Last?",
+      "url": "https://escalationtrap.substack.com/p/live-with-prof-robert-pape-will-peace",
+      "publication": "Escalation Trap",
+      "author": "Prof Robert Pape",
+      "excerpt": "A recording from Prof Robert Pape's live video",
+      "publishedAt": "2026-06-23T00:34:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9a5d41967b33",
+      "title": "The Next Big Rotation Has Already Started | Mary Ann Bartels",
+      "url": "https://georgenoble.substack.com/p/the-next-big-rotation-has-already",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "For the last two years, investors have had one answer for almost every market question: buy tech.\n\nBut what happens when the most crowded trade on Wall Street finally runs out of momentum?\n\nIn this conversation, veteran strategist Mary Ann Bartels explains why semiconductors may be due for a correction, why gold and…",
+      "publishedAt": "2026-06-22T23:02:15.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-ebfeacff6727",
       "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
@@ -580,6 +710,16 @@
       "author": "Bill Toulas",
       "excerpt": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
       "publishedAt": "2026-06-22T21:52:18.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-402952aa2d60",
+      "title": "Link for Live Briefing",
+      "url": "https://escalationtrap.substack.com/p/link-for-live-briefing",
+      "publication": "Escalation Trap",
+      "author": "Prof Robert Pape",
+      "excerpt": "Starts in 80 Minutes",
+      "publishedAt": "2026-06-22T21:37:54.000Z"
     },
     {
       "type": "rss",
@@ -653,6 +793,16 @@
     },
     {
       "type": "rss",
+      "id": "rss-1db6c72c5054",
+      "title": "What Does Iran’s Victory Mean for the Region?",
+      "url": "https://jalalayn.substack.com/p/what-does-irans-victory-mean-for",
+      "publication": "The Thinking Muslim by Muhammad Jalal",
+      "author": "Muhammad Jalal",
+      "excerpt": "An extensive conversation with Sami Hamdi",
+      "publishedAt": "2026-06-22T15:04:20.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-0a32f997c9fe",
       "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
       "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
@@ -703,6 +853,16 @@
     },
     {
       "type": "rss",
+      "id": "rss-7b34f8ca7476",
+      "title": "Getting the Framework Right: Why Iran Is Seeking Power, Not Just Money",
+      "url": "https://escalationtrap.substack.com/p/getting-the-framework-right-why-iran",
+      "publication": "Escalation Trap",
+      "author": "Prof Robert Pape",
+      "excerpt": "Escalation Trap This Week: Staying Ahead of the Risks that Matter",
+      "publishedAt": "2026-06-22T11:50:43.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-0ee041175130",
       "title": "Julius Evola: Philosophy and Direct Action",
       "url": "https://www.arktosjournal.com/p/julius-evola-philosophy-and-direct",
@@ -710,6 +870,26 @@
       "author": "Arktos Journal",
       "excerpt": "by Dominique Venner",
       "publishedAt": "2026-06-22T08:00:56.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-be426e1aee11",
+      "title": "Will Peace Last?",
+      "url": "https://escalationtrap.substack.com/p/will-peace-last",
+      "publication": "Escalation Trap",
+      "author": "Prof Robert Pape",
+      "excerpt": "Live Strategic Briefing Monday 7pm ET",
+      "publishedAt": "2026-06-22T01:37:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6caaf362106a",
+      "title": "The Fed just changed the game and nobody is paying attention",
+      "url": "https://georgenoble.substack.com/p/the-fed-just-changed-the-game-and",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "Kevin Warsh held his first press conference on Wednesday and the market dropped 1.2% with real damage in the rate sensitive corners.",
+      "publishedAt": "2026-06-21T21:30:58.000Z"
     },
     {
       "type": "rss",
@@ -750,6 +930,16 @@
       "author": "Bill Toulas",
       "excerpt": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
       "publishedAt": "2026-06-21T14:14:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0623588c3808",
+      "title": "Clarifying the Risks Ahead",
+      "url": "https://escalationtrap.substack.com/p/clarifying-the-risks-ahead",
+      "publication": "Escalation Trap",
+      "author": "Prof Robert Pape",
+      "excerpt": "Live Strategic Briefing Monday 7pm ET",
+      "publishedAt": "2026-06-21T13:09:46.000Z"
     },
     {
       "type": "rss",
@@ -813,6 +1003,16 @@
     },
     {
       "type": "rss",
+      "id": "rss-afa8af10ba51",
+      "title": "This is the most expensive lie in finance",
+      "url": "https://georgenoble.substack.com/p/this-is-the-most-expensive-lie-in",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "Sam Kovacs just wrote the most important piece he's published yet",
+      "publishedAt": "2026-06-20T13:33:13.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-5fa2a50478a5",
       "title": "Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger",
       "url": "https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/",
@@ -830,6 +1030,16 @@
       "author": "Lawrence Abrams",
       "excerpt": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
       "publishedAt": "2026-06-19T22:31:04.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-77ca03c8ef27",
+      "title": "Gold to $16,000, Oil to $300? Kevin Wadsworth Explains",
+      "url": "https://georgenoble.substack.com/p/gold-to-16000-oil-to-300-kevin-wadsworth",
+      "publication": "The Noble Update",
+      "author": "George Noble",
+      "excerpt": "1.",
+      "publishedAt": "2026-06-19T21:18:11.000Z"
     },
     {
       "type": "rss",
@@ -870,16 +1080,6 @@
       "author": "Samantha Cole",
       "excerpt": "This week, we discuss questionable analysis, mysterious parcels, and the Knicks (sorta).",
       "publishedAt": "2026-06-19T16:07:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-38f65765bde9",
-      "title": "Iran Warned Trump: If You Do Not End War on Lebanon, We May Strike Israel Without Warning",
-      "url": "https://www.dropsitenews.com/p/iran-trump-lebanon-israel-war-mou",
-      "publication": "Drop Site News",
-      "author": "Jeremy Scahill",
-      "excerpt": "Tehran believes it won a historic victory over the U.S., but is prepared for the deal to fall apart, a senior Iranian official tells Drop Site.",
-      "publishedAt": "2026-06-19T14:08:30.000Z"
     }
   ]
 }
