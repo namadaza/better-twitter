@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T01:10:34.218Z",
+  "fetchedAt": "2026-06-27T13:17:48.408Z",
   "items": [
     {
       "type": "rss",
@@ -1090,16 +1090,6 @@
       "author": "George Noble",
       "excerpt": "Sam Kovacs just wrote the most important piece he's published yet",
       "publishedAt": "2026-06-20T13:33:13.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-5fa2a50478a5",
-      "title": "Scientists Propose Black Holes Don’t Exist, Are Something Much Stranger",
-      "url": "https://www.404media.co/scientists-propose-black-holes-dont-exist-are-something-much-stranger/",
-      "publication": "404 Media",
-      "author": "Becky Ferreira",
-      "excerpt": "A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.",
-      "publishedAt": "2026-06-20T13:00:39.000Z"
     }
   ]
 }

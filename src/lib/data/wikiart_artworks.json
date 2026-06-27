@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T01:16:16.289Z",
+  "generated_at": "2026-06-27T13:25:01.752Z",
   "source": "wikiart",
-  "count": 508,
+  "count": 523,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -30982,6 +30982,902 @@
       },
       "width": 922,
       "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb38800757dc",
+      "title": "Landscape",
+      "artist": "Braun Maurice",
+      "year": 1915,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Landscape.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Landscape.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/maurice-braun/landscape-1915.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/landscape-1915",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:41.676Z",
+      "fingerprint_sha256": "d49cb2badf1b311262e6ce05fc004474072edd8f9a6999f28186e9f9c982ab86",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb38800757dc",
+        "title": "Landscape",
+        "url": "landscape-1915",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1915,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Atmospheric phenomenon",
+          "Tree",
+          "Mountain",
+          "Hill"
+        ],
+        "description": "",
+        "width": 613,
+        "image": "https://uploads7.wikiart.org/images/maurice-braun/landscape-1915.jpg",
+        "height": 400
+      },
+      "width": 613,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb38800757ec",
+      "title": "Landscape: North Island seen from Point Loma",
+      "artist": "Braun Maurice",
+      "year": 1910,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Landscape_North_Island_seen_from_Point_Loma.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Landscape_North_Island_seen_from_Point_Loma.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/maurice-braun/landscape-north-island-seen-from-point-loma-1910.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/landscape-north-island-seen-from-point-loma-1910",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:43.244Z",
+      "fingerprint_sha256": "e95dbbc4e4c4db4310bca40e1a8f3410a9ede1122c9c3a0e6dc67334b4a233ba",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb38800757ec",
+        "title": "Landscape: North Island seen from Point Loma",
+        "url": "landscape-north-island-seen-from-point-loma-1910",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1910,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Natural landscape",
+          "Bank",
+          "morning",
+          "Atmospheric phenomenon",
+          "Tree",
+          "River"
+        ],
+        "description": "",
+        "width": 473,
+        "image": "https://uploads5.wikiart.org/images/maurice-braun/landscape-north-island-seen-from-point-loma-1910.jpg",
+        "height": 400
+      },
+      "width": 473,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877cedc2cb388007579a",
+      "title": "Autumn Tints",
+      "artist": "Braun Maurice",
+      "year": 1919,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Autumn_Tints.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Autumn_Tints.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/maurice-braun/autumn-tints-1919.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/autumn-tints-1919",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:45.512Z",
+      "fingerprint_sha256": "2538976dd055536967f02fa516985659a61efa02618c03f30e3bb48098225b97",
+      "raw_extmetadata": {
+        "id": "5772877cedc2cb388007579a",
+        "title": "Autumn Tints",
+        "url": "autumn-tints-1919",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1919,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mountainous landforms",
+          "Natural landscape",
+          "Tree",
+          "Wilderness",
+          "Sky",
+          "Mountain",
+          "Hill"
+        ],
+        "description": "",
+        "width": 497,
+        "image": "https://uploads1.wikiart.org/images/maurice-braun/autumn-tints-1919.jpg",
+        "height": 400
+      },
+      "width": 497,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb388007585c",
+      "title": "Torrey Pines",
+      "artist": "Braun Maurice",
+      "year": 1930,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Torrey_Pines.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Torrey_Pines.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/maurice-braun/torrey-pines-1930.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/torrey-pines-1930",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:47.441Z",
+      "fingerprint_sha256": "36914dab97186c97480b3df68be52c3186e87d78b11f43ccedc6871b4ddc063e",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb388007585c",
+        "title": "Torrey Pines",
+        "url": "torrey-pines-1930",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1930,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape",
+          "Escarpment",
+          "Badlands",
+          "Formation",
+          "Canyon",
+          "Rock"
+        ],
+        "description": "",
+        "width": 480,
+        "image": "https://uploads1.wikiart.org/images/maurice-braun/torrey-pines-1930.jpg",
+        "height": 400
+      },
+      "width": 480,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb388007582c",
+      "title": "Point Loma Sunset",
+      "artist": "Braun Maurice",
+      "year": 1912,
+      "genres": [
+        "cloudscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Point_Loma_Sunset.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Point_Loma_Sunset.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/maurice-braun/point-loma-sunset-1912.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/point-loma-sunset-1912",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:49.590Z",
+      "fingerprint_sha256": "c039ac6091c68e81f2a983f30be9c5cfb4ef844bbdaf0bca68ab37d9917632ec",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb388007582c",
+        "title": "Point Loma Sunset",
+        "url": "point-loma-sunset-1912",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1912,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e38"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cloudscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Afterglow",
+          "Sky",
+          "Red sky at morning",
+          "Horizon",
+          "Sunrise",
+          "morning",
+          "Sunset"
+        ],
+        "description": "",
+        "width": 717,
+        "image": "https://uploads6.wikiart.org/images/maurice-braun/point-loma-sunset-1912.jpg",
+        "height": 324
+      },
+      "width": 717,
+      "height": 324,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5aa35173edc2c94d308af1d2",
+      "title": "San Diego Shores",
+      "artist": "Braun Maurice",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/San_Diego_Shores.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/San_Diego_Shores.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/00175/images/maurice-braun/san-diego-shores-maurice-braun-circa-1928.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/san-diego-shores",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:52.250Z",
+      "fingerprint_sha256": "aad1ea6d6e000c59dad121de58cccd5c41a8b4df886c695315fa8a39510c3dff",
+      "raw_extmetadata": {
+        "id": "5aa35173edc2c94d308af1d2",
+        "title": "San Diego Shores",
+        "url": "san-diego-shores",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "United States",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [
+          "oil"
+        ],
+        "sizeX": 36.13,
+        "sizeY": 30.13,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "Body of water",
+          "Wave",
+          "Sea",
+          "Wind wave",
+          "Ocean",
+          "Coast",
+          "Shore",
+          "Sky",
+          "Headland"
+        ],
+        "description": "",
+        "width": 1447,
+        "image": "https://uploads8.wikiart.org/00175/images/maurice-braun/san-diego-shores-maurice-braun-circa-1928.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1447,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb388007584c",
+      "title": "Seascape",
+      "artist": "Braun Maurice",
+      "year": 1928,
+      "genres": [
+        "marina"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Seascape.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Seascape.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/maurice-braun/seascape-1928.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/seascape-1928",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:53.617Z",
+      "fingerprint_sha256": "667f87452f00846f725190227373ac27cad284282f921922795dd26b9455fedf",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb388007584c",
+        "title": "Seascape",
+        "url": "seascape-1928",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1928,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Sea",
+          "Ocean",
+          "Wave",
+          "Cliff",
+          "Coast",
+          "Wind wave",
+          "Headland"
+        ],
+        "description": "",
+        "width": 479,
+        "image": "https://uploads6.wikiart.org/images/maurice-braun/seascape-1928.jpg",
+        "height": 400
+      },
+      "width": 479,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb388007580c",
+      "title": "Lilacs and Mountains",
+      "artist": "Braun Maurice",
+      "year": 1920,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Lilacs_and_Mountains.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Lilacs_and_Mountains.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/maurice-braun/lilacs-and-mountains-1920.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/lilacs-and-mountains-1920",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:55.614Z",
+      "fingerprint_sha256": "1865e8a1c9e9c0924aefc91f1a57db172449afa7f5eee5c57ca60b46ca130616",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb388007580c",
+        "title": "Lilacs and Mountains",
+        "url": "lilacs-and-mountains-1920",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1920,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Geology"
+        ],
+        "description": "",
+        "width": 699,
+        "image": "https://uploads0.wikiart.org/images/maurice-braun/lilacs-and-mountains-1920.jpg",
+        "height": 400
+      },
+      "width": 699,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb38800757bc",
+      "title": "California Tower",
+      "artist": "Braun Maurice",
+      "year": 1915,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/California_Tower.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/California_Tower.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/maurice-braun/california-tower-1915.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/california-tower-1915",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:57.527Z",
+      "fingerprint_sha256": "82e3b15fda694580da2e68a316fb40cba453145d25a1cb60866a21f3e9e142e3",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb38800757bc",
+        "title": "California Tower",
+        "url": "california-tower-1915",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1915,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Ruins"
+        ],
+        "description": "",
+        "width": 498,
+        "image": "https://uploads5.wikiart.org/images/maurice-braun/california-tower-1915.jpg",
+        "height": 400
+      },
+      "width": 498,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb38800757fc",
+      "title": "Landscape with Tree",
+      "artist": "Braun Maurice",
+      "year": 1910,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Landscape_with_Tree.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Landscape_with_Tree.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/maurice-braun/landscape-with-tree-1910.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/landscape-with-tree-1910",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:23:59.702Z",
+      "fingerprint_sha256": "53e40319823caf9f41be093f959ff31c2e0ecc0d7a5b9ac62da5e05eb1b8eaa4",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb38800757fc",
+        "title": "Landscape with Tree",
+        "url": "landscape-with-tree-1910",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1910,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 444,
+        "image": "https://uploads8.wikiart.org/images/maurice-braun/landscape-with-tree-1910.jpg",
+        "height": 400
+      },
+      "width": 444,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877cedc2cb38800757ac",
+      "title": "California Coast",
+      "artist": "Braun Maurice",
+      "year": 1930,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/California_Coast.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/California_Coast.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/maurice-braun/california-coast-1930.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/california-coast-1930",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:24:01.307Z",
+      "fingerprint_sha256": "947ece9d21a319bfc59677d96a4f9aba7023b99b1a5ca2a26e600eb3ff152365",
+      "raw_extmetadata": {
+        "id": "5772877cedc2cb38800757ac",
+        "title": "California Coast",
+        "url": "california-coast-1930",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1930,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Coast",
+          "Shore",
+          "Sky",
+          "Cliff",
+          "Headland",
+          "Sea",
+          "Rock",
+          "Coastal and oceanic landforms"
+        ],
+        "description": "",
+        "width": 484,
+        "image": "https://uploads5.wikiart.org/images/maurice-braun/california-coast-1930.jpg",
+        "height": 399
+      },
+      "width": 484,
+      "height": 399,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb38800757cc",
+      "title": "Desert and Mountains",
+      "artist": "Braun Maurice",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Desert_and_Mountains.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Desert_and_Mountains.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/maurice-braun/desert-and-mountains.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/desert-and-mountains",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:24:03.394Z",
+      "fingerprint_sha256": "5aee507d1508bac87105d038ea6d346542e4b6cf60c85160387c3f4f452abecc",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb38800757cc",
+        "title": "Desert and Mountains",
+        "url": "desert-and-mountains",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mountainous landforms",
+          "Mountain",
+          "Badlands",
+          "Rock",
+          "Geology",
+          "Outcrop",
+          "Sky"
+        ],
+        "description": "",
+        "width": 478,
+        "image": "https://uploads4.wikiart.org/images/maurice-braun/desert-and-mountains.jpg",
+        "height": 400
+      },
+      "width": 478,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb388007581c",
+      "title": "Mountains and Desert",
+      "artist": "Braun Maurice",
+      "year": 1930,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Mountains_and_Desert.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Mountains_and_Desert.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/maurice-braun/mountains-and-desert-1930.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/mountains-and-desert-1930",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:24:05.383Z",
+      "fingerprint_sha256": "045e0ffa86747246f1a6d7a5f3f726a4a9c77c8d225af7be2bfca9cc8aa1dc70",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb388007581c",
+        "title": "Mountains and Desert",
+        "url": "mountains-and-desert-1930",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1930,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mountainous landforms",
+          "Plant community",
+          "Mountain",
+          "Ecoregion",
+          "Shrubland",
+          "Formation"
+        ],
+        "description": "",
+        "width": 477,
+        "image": "https://uploads0.wikiart.org/images/maurice-braun/mountains-and-desert-1930.jpg",
+        "height": 400
+      },
+      "width": 477,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772877dedc2cb388007583c",
+      "title": "Rocks in a Stream",
+      "artist": "Braun Maurice",
+      "year": 1920,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "maurice-braun",
+      "blob_path": "better-twitter/artwork/images/wikiart/maurice-braun/Rocks_in_a_Stream.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/maurice-braun/Rocks_in_a_Stream.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/maurice-braun/rocks-in-a-stream-1920.jpg",
+      "source_file_page": "https://www.wikiart.org/en/maurice-braun/rocks-in-a-stream-1920",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:24:07.516Z",
+      "fingerprint_sha256": "cb85d8598f19ba5ac1efd554a7ac6c4a9e660829d00b9653441e80bf1c50a54b",
+      "raw_extmetadata": {
+        "id": "5772877dedc2cb388007583c",
+        "title": "Rocks in a Stream",
+        "url": "rocks-in-a-stream-1920",
+        "artistUrl": "maurice-braun",
+        "artistName": "Braun Maurice",
+        "artistId": "57726de5edc2cb3880b53180",
+        "completitionYear": 1920,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Geology",
+          "Geological phenomenon"
+        ],
+        "description": "",
+        "width": 531,
+        "image": "https://uploads6.wikiart.org/images/maurice-braun/rocks-in-a-stream-1920.jpg",
+        "height": 400
+      },
+      "width": 531,
+      "height": 400,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bfd6",
+      "title": "Estudio de nubes",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "cloudscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Estudio_de_nubes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Estudio_de_nubes.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jose-maria-velasco/estudio-de-nubes-2.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/estudio-de-nubes-2",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-27T13:25:01.351Z",
+      "fingerprint_sha256": "45c7104689bbf76545ed33bc1cc84ae550187dce1b9d035f261ee9f29830f4b4",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bfd6",
+        "title": "Estudio de nubes",
+        "url": "estudio-de-nubes-2",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e38"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cloudscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Cloud",
+          "Daytime",
+          "Atmosphere",
+          "Cumulus",
+          "Calm"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads7.wikiart.org/images/jose-maria-velasco/estudio-de-nubes-2.jpg",
+        "height": 709
+      },
+      "width": 1024,
+      "height": 709,
       "mime": null
     }
   ]
