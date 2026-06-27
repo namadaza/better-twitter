@@ -1,6 +1,86 @@
 {
-  "fetchedAt": "2026-06-26T15:51:57.278Z",
+  "fetchedAt": "2026-06-27T01:10:34.218Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-faf1cba6b5f1",
+      "title": "FBI: Russian hackers now target Signal backup recovery keys",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]",
+      "publishedAt": "2026-06-26T22:06:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cb5124d39274",
+      "title": "Peace Abroad, War Next Door: Pakistani Airstrikes Devastate Afghan Civilians",
+      "url": "https://www.dropsitenews.com/p/peace-abroad-war-next-door-pakistani",
+      "publication": "Drop Site News",
+      "author": "Emran Feroz",
+      "excerpt": "While Pakistan presents itself as a mediator between Iran and the United States its attacks on Afghan civilians are ravaging border villages.",
+      "publishedAt": "2026-06-26T21:57:10.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0aea48d50aec",
+      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
+      "publishedAt": "2026-06-26T19:43:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-fb2a9c8bb7fe",
+      "title": "Premium: Notes From The Bubble, Volume 1",
+      "url": "https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/",
+      "publication": "Ed Zitron's Where's Your Ed At",
+      "author": "Ed Zitron",
+      "excerpt": "It’s been an incredibly long few weeks, and as a result my previously-planned Hater’s Guide just isn’t possible within what little time I have left in this week, which is why I’m starting an ongoing series — Notes From The Bubble",
+      "publishedAt": "2026-06-26T18:32:41.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2232a64715da",
+      "title": "Polymarket customers lose $3 million in supply-chain attack",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
+      "publishedAt": "2026-06-26T18:04:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-67d957804adb",
+      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+      "url": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
+      "publishedAt": "2026-06-26T17:49:07.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-01f04e7fd9f6",
+      "title": "Behind the Blog: Salesforce Beach",
+      "url": "https://www.404media.co/behind-the-blog-salesforce-beach/",
+      "publication": "404 Media",
+      "author": "Samantha Cole",
+      "excerpt": "This week, we discuss talking aloud to computers, Cannes, and “Engineering Creativity: Guac Is Extra.\"",
+      "publishedAt": "2026-06-26T17:04:16.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-57eaf50dd235",
+      "title": "Over 425,000 Kids in U.S. Face Deportation Hearings Without Lawyers",
+      "url": "https://www.dropsitenews.com/p/children-attorneys-immigration-court-deportation",
+      "publication": "Drop Site News",
+      "author": "Mehr Sher",
+      "excerpt": "A new analysis of federal immigration data found that 57% of children with deportation orders in the U.S. do not have access to an attorney.",
+      "publishedAt": "2026-06-26T16:30:28.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-5fc7ca36a697",
@@ -404,7 +484,7 @@
     {
       "type": "rss",
       "id": "rss-b2fb73443ebf",
-      "title": "Podcast: If AI Is Sentient Then So Is ‘Age of Empires II",
+      "title": "Podcast: If AI Is Sentient Then So Is 'Age of Empires II'",
       "url": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
       "publication": "404 Media",
       "author": "Joseph Cox",
@@ -1020,66 +1100,6 @@
       "author": "Becky Ferreira",
       "excerpt": "A seismic wave from the 2011 Tohoku-Oki earthquake bounced off the Earth’s core and hit Japan from below, shifting the entire mainland a quarter-inch eastward.",
       "publishedAt": "2026-06-20T13:00:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-83f7810c238e",
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "url": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
-      "publishedAt": "2026-06-19T22:31:04.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-77ca03c8ef27",
-      "title": "Gold to $16,000, Oil to $300? Kevin Wadsworth Explains",
-      "url": "https://georgenoble.substack.com/p/gold-to-16000-oil-to-300-kevin-wadsworth",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "1.",
-      "publishedAt": "2026-06-19T21:18:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0d4cb7fe0bf1",
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-      "publishedAt": "2026-06-19T20:25:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-10bcd6f4e8ea",
-      "title": "Premium: The Silicon Valley Bubble (Part 2)",
-      "url": "https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-2/",
-      "publication": "Ed Zitron's Where's Your Ed At",
-      "author": "Ed Zitron",
-      "excerpt": "So it’s been a big week for me after I published an exclusive covering OpenAI’s audited financials from 2024 and 2025, with reactions ranging from “oh my god, OpenAI spent $34 billion to make $13.07 billion in revenue!” to “actually, it’",
-      "publishedAt": "2026-06-19T17:03:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d2023d9e1e16",
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "url": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
-      "publishedAt": "2026-06-19T16:12:41.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-55120edca479",
-      "title": "Behind the Blog: Landfillcore and Go Knicks",
-      "url": "https://www.404media.co/behind-the-blog-landfillcore-and-go-knicks/",
-      "publication": "404 Media",
-      "author": "Samantha Cole",
-      "excerpt": "This week, we discuss questionable analysis, mysterious parcels, and the Knicks (sorta).",
-      "publishedAt": "2026-06-19T16:07:48.000Z"
     }
   ]
 }
