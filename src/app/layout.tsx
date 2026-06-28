@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { QueryProvider } from "@/lib/query-provider";
 import { ThemeProvider } from "@/lib/theme-context";
 
 const geistSans = Geist({
@@ -28,9 +29,11 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <ThemeProvider defaultTheme="system" storageKey="norotfeed-theme">
-          {children}
-        </ThemeProvider>
+        <QueryProvider>
+          <ThemeProvider defaultTheme="system" storageKey="norotfeed-theme">
+            {children}
+          </ThemeProvider>
+        </QueryProvider>
       </body>
     </html>
   );

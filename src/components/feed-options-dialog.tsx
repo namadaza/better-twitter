@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import { SlidersHorizontal } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
+import { ThemeToggle } from "@/components/theme-toggle";
 import {
   Dialog,
   DialogContent,
@@ -71,6 +72,14 @@ function buildHighlightBooks(
 
   return Array.from(grouped.values());
 }
+
+const contentTypeDescriptions: Record<ContentType, string> = {
+  default: "Show the normal mixed feed with the existing weighted ordering.",
+  "book-highlights": "Show highlights from one selected book.",
+  rss: "Show RSS items in chronological or random order.",
+  art: "Show a randomized feed of WikiArt entries.",
+  islam: "Show a randomized feed of Quran, hadith, and selected Islamic book highlights.",
+};
 
 export function FeedOptionsDialog({
   books,
@@ -164,9 +173,9 @@ export function FeedOptionsDialog({
         Feed Options
       </Button>
 
-      <DialogContent className="w-[min(90vw,32rem)] sm:max-w-none overflow-x-hidden">
+      <DialogContent className="w-[min(90vw,32rem)] sm:max-w-none max-h-[90vh] overflow-x-hidden overflow-y-auto">
         <DialogHeader>
-          <DialogTitle>Feed Options</DialogTitle>
+          <DialogTitle className="font-serif pb-1">Feed Options</DialogTitle>
           <DialogDescription>
             Choose what kind of content should appear in the feed.
           </DialogDescription>
@@ -175,6 +184,9 @@ export function FeedOptionsDialog({
         <div className="min-w-0 space-y-4">
           <label className="grid min-w-0 gap-2 text-base">
             <span className="font-medium">Content type</span>
+            <p className="text-sm text-muted-foreground pb-1">
+              {contentTypeDescriptions[contentType]}
+            </p>
             <select
               className="h-11 w-full min-w-0 max-w-full rounded-md border border-border bg-background px-3 text-base outline-none"
               value={contentType}
@@ -189,12 +201,6 @@ export function FeedOptionsDialog({
               <option value="islam">Islam</option>
             </select>
           </label>
-
-          {contentType === "default" && (
-            <p className="rounded-lg border border-border p-4 text-sm text-muted-foreground">
-              Show the normal mixed feed with the existing weighted ordering.
-            </p>
-          )}
 
           {contentType === "book-highlights" && (
             <>
@@ -247,17 +253,10 @@ export function FeedOptionsDialog({
             </label>
           )}
 
-          {contentType === "art" && (
-            <p className="rounded-lg border border-border p-4 text-sm text-muted-foreground">
-              Show a randomized feed of WikiArt entries.
-            </p>
-          )}
-
-          {contentType === "islam" && (
-            <p className="rounded-lg border border-border p-4 text-sm text-muted-foreground">
-              Show a randomized feed of Quran, hadith, and selected Islamic book highlights.
-            </p>
-          )}
+          <div className="grid min-w-0 gap-2 text-base">
+            <span className="font-medium">Theme</span>
+            <ThemeToggle />
+          </div>
 
           <div className="flex justify-end">
             <Button
