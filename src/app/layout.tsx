@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Better Twitter",
+  title: "norotfeed",
   description: "Brain nourishment.",
 };
 
@@ -28,7 +28,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <ThemeProvider defaultTheme="system" storageKey="better-twitter-theme">
+        <ThemeProvider defaultTheme="system" storageKey="norotfeed-theme">
           {children}
         </ThemeProvider>
       </body>

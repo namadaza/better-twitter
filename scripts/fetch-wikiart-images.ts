@@ -25,7 +25,7 @@ if (!BLOB_TOKEN) {
 }
 
 const USER_AGENT =
-  "better-twitter/ingest (https://better-twitter.vercel.app/; aman.s.azad@gmail.com)";
+  "norotfeed/ingest (https://norotfeed.vercel.app/; aman.s.azad@gmail.com)";
 const MAX_TOTAL = 15;
 const OUT_PATH = path.resolve("src/lib/data/wikiart_artworks.json");
 
@@ -221,7 +221,7 @@ async function run() {
             if (previousFingerprints.has(fingerprint)) continue;
             const safeName = sanitizeFileName(painting.title || paintingId);
             const ext = (imageUrl.split(".").pop() || "jpg").split("?")[0];
-            const blobPath = `better-twitter/artwork/images/wikiart/${painting.artistUrl || artistUrl}/${safeName}.${ext}`;
+            const blobPath = `norotfeed/artwork/images/wikiart/${painting.artistUrl || artistUrl}/${safeName}.${ext}`;
             console.log(
               `Uploading WikiArt painting ${painting.title} -> ${blobPath}`,
             );
