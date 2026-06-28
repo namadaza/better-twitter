@@ -311,10 +311,10 @@ function parseOnly(): string | null {
 async function main(): Promise<void> {
   const baseUrl = process.env.BOOK_BLOB_BASE_URL;
   if (!baseUrl) {
-    console.error(
-      "BOOK_BLOB_BASE_URL env var is required. Example:\n" +
-        "  BOOK_BLOB_BASE_URL=https://<store>.public.blob.vercel-storage.com/better-twitter npm run extract:books",
-    );
+      console.error(
+        "BOOK_BLOB_BASE_URL env var is required. Example:\n" +
+        "  BOOK_BLOB_BASE_URL=https://<store>.public.blob.vercel-storage.com/norotfeed npm run extract:books",
+      );
     process.exit(1);
   }
 

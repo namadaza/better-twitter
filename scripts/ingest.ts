@@ -33,12 +33,12 @@ const MAX_AGE_DAYS = 7;
 const MAX_ITEMS = 500;
 
 const parser = new Parser({
-  timeout: 15_000,
-  headers: {
-    "User-Agent":
-      "better-twitter-ingest/1.0 (+https://github.com/namadaza/better-twitter)",
-  },
-});
+    timeout: 15_000,
+    headers: {
+      "User-Agent":
+        "norotfeed-ingest/1.0 (+https://github.com/namadaza/norotfeed)",
+    },
+  });
 
 function stripHtml(html: string): string {
   return html
