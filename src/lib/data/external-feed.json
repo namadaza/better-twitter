@@ -1,6 +1,46 @@
 {
-  "fetchedAt": "2026-06-27T13:17:48.408Z",
+  "fetchedAt": "2026-06-28T01:16:14.245Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-b979f2d4c0ef",
+      "title": "Were Ancient Romans Black?",
+      "url": "https://www.aporiamagazine.com/p/were-ancient-romans-black",
+      "publication": "Aporia",
+      "author": "Aporia",
+      "excerpt": "A critique of ‘The whitewashing of Rome’.",
+      "publishedAt": "2026-06-27T19:03:12.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-be88824edbc7",
+      "title": "🧠 Community Wisdom: Beating a career slump, adding more structure to an established team, questions for new-team 1:1s, the evolving shape of the growth role, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-beating-a-career",
+      "publication": "Lenny's Newsletter",
+      "author": "Kiyani",
+      "excerpt": "Community Wisdom 191",
+      "publishedAt": "2026-06-27T17:09:06.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-6781bd502a6b",
+      "title": "Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter",
+      "url": "https://www.404media.co/scientists-think-theyve-uncovered-the-15-million-year-old-origin-of-laughter/",
+      "publication": "404 Media",
+      "author": "Becky Ferreira",
+      "excerpt": "Recordings of laughter from humans and other great apes suggest that the distinctive rhythm of \"ha ha ha\" emerged in a common ancestor that lived at least 15 million years ago.",
+      "publishedAt": "2026-06-27T17:02:33.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-64110d01b993",
+      "title": "Clean GitHub repo tricks AI coding agents into running malware",
+      "url": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
+      "publishedAt": "2026-06-27T14:22:36.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-faf1cba6b5f1",
@@ -1030,66 +1070,6 @@
       "author": "Lenny Rachitsky",
       "excerpt": "Listen now | Fiona Fung on leading the Claude Code and Cowork teams, and how to maintain culture when roles are blurring and agents are everywhere",
       "publishedAt": "2026-06-21T12:31:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-a7f48bb3a26c",
-      "title": "OK32: How to Rebuild an SDR Team: From $200K to $600K in outbound pipeline a Week With the Same Four Reps",
-      "url": "https://newsletter.outbound.kitchen/p/how-this-sdr-director-3x-pipeline",
-      "publication": "Outbound Kitchen",
-      "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "With Will Rohleder, SDR Director at TeachTown",
-      "publishedAt": "2026-06-20T16:58:33.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d43b6b7589dd",
-      "title": "The African Health Paradox",
-      "url": "https://www.aporiamagazine.com/p/the-african-health-paradox",
-      "publication": "Aporia",
-      "author": "Aporia",
-      "excerpt": "A socioeconomic comparison where Africans come top.",
-      "publishedAt": "2026-06-20T16:20:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-fcd16813b12b",
-      "title": "🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation",
-      "publication": "Lenny's Newsletter",
-      "author": "Kiyani",
-      "excerpt": "Community Wisdom 190",
-      "publishedAt": "2026-06-20T15:53:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-46bad1a20f9c",
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "url": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
-      "publishedAt": "2026-06-20T15:23:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e2defdd765c0",
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
-      "publishedAt": "2026-06-20T14:09:19.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-afa8af10ba51",
-      "title": "This is the most expensive lie in finance",
-      "url": "https://georgenoble.substack.com/p/this-is-the-most-expensive-lie-in",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "Sam Kovacs just wrote the most important piece he's published yet",
-      "publishedAt": "2026-06-20T13:33:13.000Z"
     }
   ]
 }
