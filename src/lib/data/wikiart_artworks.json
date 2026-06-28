@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T01:22:30.254Z",
+  "generated_at": "2026-06-28T07:42:51.930Z",
   "source": "wikiart",
-  "count": 538,
+  "count": 553,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -32755,6 +32755,895 @@
       },
       "width": 1280,
       "height": 974,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727c92edc2cb3880e4cdda",
+      "title": "The Exodus of Ares",
+      "artist": "Volanakis Konstantinos",
+      "year": 1894,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/The_Exodus_of_Ares.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/The_Exodus_of_Ares.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/konstantinos-volanakis/1894.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/1894",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:41:53.028Z",
+      "fingerprint_sha256": "58dddfbfb25264c085dfe52c7be35fe0d9389a771471d87d764f077831289603",
+      "raw_extmetadata": {
+        "id": "57727c92edc2cb3880e4cdda",
+        "title": "The Exodus of Ares",
+        "url": "1894",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": 1894,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Flagship",
+          "Sailing ship",
+          "Vehicle",
+          "East indiaman",
+          "First-rate",
+          "Ship",
+          "Ship of the line",
+          "Watercraft",
+          "Clipper",
+          "Boat"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads6.wikiart.org/images/konstantinos-volanakis/1894.jpg",
+        "height": 463
+      },
+      "width": 800,
+      "height": 463,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55b94",
+      "title": "The port of Volos",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/The_port_of_Volos.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/The_port_of_Volos.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/konstantinos-volanakis/the-port-of-volos.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/the-port-of-volos",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:41:56.717Z",
+      "fingerprint_sha256": "ec19b6e9c82074fc04563382bf7cfd5862e62c4dabf6bcd4a90cf612a17201f2",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55b94",
+        "title": "The port of Volos",
+        "url": "the-port-of-volos",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Boat",
+          "Vehicle",
+          "Harbor",
+          "Watercraft",
+          "East indiaman",
+          "Mast",
+          "Port"
+        ],
+        "description": "",
+        "width": 627,
+        "image": "https://uploads1.wikiart.org/images/konstantinos-volanakis/the-port-of-volos.jpg",
+        "height": 397
+      },
+      "width": 627,
+      "height": 397,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb5edc2cb3880e55b04",
+      "title": "Fishing Boats",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Fishing_Boats.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Fishing_Boats.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/konstantinos-volanakis/fishing-boats-1.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/fishing-boats-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:00.598Z",
+      "fingerprint_sha256": "5b20b51bed5256140c3871296c4df6729b39451464667ae2fb42ebafb2938531",
+      "raw_extmetadata": {
+        "id": "57727cb5edc2cb3880e55b04",
+        "title": "Fishing Boats",
+        "url": "fishing-boats-1",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Boat",
+          "Vehicle",
+          "Watercraft"
+        ],
+        "description": "",
+        "width": 783,
+        "image": "https://uploads8.wikiart.org/images/konstantinos-volanakis/fishing-boats-1.jpg",
+        "height": 930
+      },
+      "width": 783,
+      "height": 930,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55b74",
+      "title": "The attack on the Turkish flagship in the Gulf of Eressos at the Greek island of Lesvos by a fire ship commanded by Dimitrios Papanikolis",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "battle painting"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/The_attack_on_the_Turkish_flagship_in_the_Gulf_of_Eressos_at_the_Greek_island_of_Lesvos_by_a_fire_ship_commanded_by_Dimitrios_Papanikolis.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/The_attack_on_the_Turkish_flagship_in_the_Gulf_of_Eressos_at_the_Greek_island_of_Lesvos_by_a_fire_ship_commanded_by_Dimitrios_Papanikolis.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/konstantinos-volanakis/the-attack-on-the-turkish-flagship-in-the-gulf-of-eressos-at-the-greek-island-of-lesvos-by-a.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/the-attack-on-the-turkish-flagship-in-the-gulf-of-eressos-at-the-greek-island-of-lesvos-by-a",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:04.793Z",
+      "fingerprint_sha256": "625d78651b09c0f3412fca070abc9b42a35ecc0dfecc5dd6f9b3a26641f1c4f0",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55b74",
+        "title": "The attack on the Turkish flagship in the Gulf of Eressos at the Greek island of Lesvos by a fire ship commanded by Dimitrios Papanikolis",
+        "url": "the-attack-on-the-turkish-flagship-in-the-gulf-of-eressos-at-the-greek-island-of-lesvos-by-a",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4dedc2cb3880ad6e00"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "battle painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sailing ship",
+          "Ship",
+          "Vehicle",
+          "Watercraft",
+          "Ship of the line",
+          "First-rate",
+          "Flagship",
+          "Frigate"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads4.wikiart.org/images/konstantinos-volanakis/the-attack-on-the-turkish-flagship-in-the-gulf-of-eressos-at-the-greek-island-of-lesvos-by-a.jpg",
+        "height": 528
+      },
+      "width": 800,
+      "height": 528,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb7edc2cb3880e55d0d",
+      "title": "Greek frigate at anchor",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Greek_frigate_at_anchor.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Greek_frigate_at_anchor.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/konstantinos-volanakis/greek-frigate-at-anchor.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/greek-frigate-at-anchor",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:09.006Z",
+      "fingerprint_sha256": "7c1b07eeee8a6faddc82314eed92c5a6b9d71053cf582d0412ccfca34d5e34fb",
+      "raw_extmetadata": {
+        "id": "57727cb7edc2cb3880e55d0d",
+        "title": "Greek frigate at anchor",
+        "url": "greek-frigate-at-anchor",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Boat"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads5.wikiart.org/images/konstantinos-volanakis/greek-frigate-at-anchor.jpg!HD.jpg",
+        "height": 1107
+      },
+      "width": 1920,
+      "height": 1107,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb7edc2cb3880e55ccd",
+      "title": "Boats at the sea",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Boats_at_the_sea.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Boats_at_the_sea.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/konstantinos-volanakis/boats-at-the-sea(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/boats-at-the-sea",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:13.028Z",
+      "fingerprint_sha256": "7f436a182982ec02564f52abc9133dfcd24769e29f8a69454793405ed4b33a69",
+      "raw_extmetadata": {
+        "id": "57727cb7edc2cb3880e55ccd",
+        "title": "Boats at the sea",
+        "url": "boats-at-the-sea",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Sea",
+          "Vehicle"
+        ],
+        "description": "",
+        "width": 980,
+        "image": "https://uploads1.wikiart.org/images/konstantinos-volanakis/boats-at-the-sea(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 980,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55b64",
+      "title": "Ship",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Ship.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Ship.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/konstantinos-volanakis/ship.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/ship",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:17.147Z",
+      "fingerprint_sha256": "c33618ecb63396ab7a921135652a553991461d3012e374f1b927cc1efe28ab7e",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55b64",
+        "title": "Ship",
+        "url": "ship",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sailing ship",
+          "Vehicle",
+          "Boat",
+          "First-rate",
+          "East indiaman",
+          "Galiot",
+          "Watercraft",
+          "Frigate",
+          "Clipper"
+        ],
+        "description": "",
+        "width": 569,
+        "image": "https://uploads6.wikiart.org/images/konstantinos-volanakis/ship.jpg",
+        "height": 1100
+      },
+      "width": 569,
+      "height": 1100,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb7edc2cb3880e55c8d",
+      "title": "Casting the nets",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Casting_the_nets.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Casting_the_nets.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/konstantinos-volanakis/casting-the-nets.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/casting-the-nets",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:21.778Z",
+      "fingerprint_sha256": "b96687adf4369ccaa14a83769595a3cdde9c418dde1a8ee1a66e23cb9c2b840c",
+      "raw_extmetadata": {
+        "id": "57727cb7edc2cb3880e55c8d",
+        "title": "Casting the nets",
+        "url": "casting-the-nets",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Boat",
+          "Vehicle",
+          "morning",
+          "Calm"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads7.wikiart.org/images/konstantinos-volanakis/casting-the-nets.jpg!HD.jpg",
+        "height": 1189
+      },
+      "width": 1920,
+      "height": 1189,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb7edc2cb3880e55c9d",
+      "title": "Bay with boats",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Bay_with_boats.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Bay_with_boats.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/konstantinos-volanakis/bay-with-boats.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/bay-with-boats",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:26.070Z",
+      "fingerprint_sha256": "b0895ba0cb64cc64147676f2ea2d66e27df01c339e6566bd2a7efa0dba35e20f",
+      "raw_extmetadata": {
+        "id": "57727cb7edc2cb3880e55c9d",
+        "title": "Bay with boats",
+        "url": "bay-with-boats",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Watercraft rowing"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads5.wikiart.org/images/konstantinos-volanakis/bay-with-boats.jpg!HD.jpg",
+        "height": 1099
+      },
+      "width": 1920,
+      "height": 1099,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727c92edc2cb3880e4cdaa",
+      "title": "Festival in Munich",
+      "artist": "Volanakis Konstantinos",
+      "year": 1876,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Festival_in_Munich.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Festival_in_Munich.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/konstantinos-volanakis/octoberfest-1876.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/octoberfest-1876",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:30.030Z",
+      "fingerprint_sha256": "f2b8d2ecd74320884d94de960077eb27e1424b43258b26eaec44da3f08a86bee",
+      "raw_extmetadata": {
+        "id": "57727c92edc2cb3880e4cdaa",
+        "title": "Festival in Munich",
+        "url": "octoberfest-1876",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": 1876,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e58"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "celebrations-and-festivals"
+        ],
+        "description": "",
+        "width": 930,
+        "image": "https://uploads0.wikiart.org/images/konstantinos-volanakis/octoberfest-1876.jpg",
+        "height": 428
+      },
+      "width": 930,
+      "height": 428,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb5edc2cb3880e55ac4",
+      "title": "Inauguration of Corinth canal",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Inauguration_of_Corinth_canal.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Inauguration_of_Corinth_canal.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/konstantinos-volanakis/inauguration-of-corinth-canal.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/inauguration-of-corinth-canal",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:34.209Z",
+      "fingerprint_sha256": "8cedbcbe20becfcabdcf91b98123ffb4ae293c5d895ee6d3273cac48bc98da1a",
+      "raw_extmetadata": {
+        "id": "57727cb5edc2cb3880e55ac4",
+        "title": "Inauguration of Corinth canal",
+        "url": "inauguration-of-corinth-canal",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Boat",
+          "Watercraft",
+          "Cliff"
+        ],
+        "description": "",
+        "width": 1800,
+        "image": "https://uploads4.wikiart.org/images/konstantinos-volanakis/inauguration-of-corinth-canal.jpg",
+        "height": 1047
+      },
+      "width": 1800,
+      "height": 1047,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb5edc2cb3880e55ae4",
+      "title": "Fishing boat at dusk",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Fishing_boat_at_dusk.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Fishing_boat_at_dusk.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/konstantinos-volanakis/fishing-boat-at-dusk.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/fishing-boat-at-dusk",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:38.263Z",
+      "fingerprint_sha256": "de5dd4d44b56fde0618e2ac7d8b81626f7e438f1bf9a4afd54233be98557d549",
+      "raw_extmetadata": {
+        "id": "57727cb5edc2cb3880e55ae4",
+        "title": "Fishing boat at dusk",
+        "url": "fishing-boat-at-dusk",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Boat",
+          "Watercraft rowing",
+          "Boating",
+          "Watercraft"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads4.wikiart.org/images/konstantinos-volanakis/fishing-boat-at-dusk.jpg",
+        "height": 440
+      },
+      "width": 1000,
+      "height": 440,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb7edc2cb3880e55c7d",
+      "title": "Moonlit harbour of Volos",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Moonlit_harbour_of_Volos.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Moonlit_harbour_of_Volos.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/konstantinos-volanakis/moonlit-harbour-of-volos.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/moonlit-harbour-of-volos",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:42.532Z",
+      "fingerprint_sha256": "f4dd2b4254a7805a79207f2df3eaf793ec7682be58a37ff7809e7d86264115e3",
+      "raw_extmetadata": {
+        "id": "57727cb7edc2cb3880e55c7d",
+        "title": "Moonlit harbour of Volos",
+        "url": "moonlit-harbour-of-volos",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Boat",
+          "Vehicle",
+          "Watercraft",
+          "Ship",
+          "East indiaman",
+          "Clipper",
+          "Steam frigate",
+          "Barquentine",
+          "Tall ship"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads6.wikiart.org/images/konstantinos-volanakis/moonlit-harbour-of-volos.jpg!HD.jpg",
+        "height": 1029
+      },
+      "width": 1920,
+      "height": 1029,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb5edc2cb3880e55af4",
+      "title": "Fishing boat on choppy waters",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/Fishing_boat_on_choppy_waters.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/Fishing_boat_on_choppy_waters.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/konstantinos-volanakis/fishing-boat-on-choppy-waters.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/fishing-boat-on-choppy-waters",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:46.772Z",
+      "fingerprint_sha256": "4b9f940a65c0b4defe53aaeff3d96d17e7f14c222ee611efe390b4f82a71ffb3",
+      "raw_extmetadata": {
+        "id": "57727cb5edc2cb3880e55af4",
+        "title": "Fishing boat on choppy waters",
+        "url": "fishing-boat-on-choppy-waters",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Sailing ship",
+          "Boat",
+          "Clipper",
+          "East indiaman",
+          "First-rate",
+          "Watercraft",
+          "Galiot",
+          "Ship of the line",
+          "Frigate"
+        ],
+        "description": "",
+        "width": 818,
+        "image": "https://uploads2.wikiart.org/images/konstantinos-volanakis/fishing-boat-on-choppy-waters.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 818,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb5edc2cb3880e55a44",
+      "title": "The River",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "better-twitter/artwork/images/wikiart/konstantinos-volanakis/The_River.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/konstantinos-volanakis/The_River.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/konstantinos-volanakis/the-river(7).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/the-river",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T07:42:51.529Z",
+      "fingerprint_sha256": "db1cf8545e68cad606928ec36706e478509c74a9138a4c3fb2868295c2e3f5b4",
+      "raw_extmetadata": {
+        "id": "57727cb5edc2cb3880e55a44",
+        "title": "The River",
+        "url": "the-river",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Calm"
+        ],
+        "description": "",
+        "width": 1688,
+        "image": "https://uploads3.wikiart.org/images/konstantinos-volanakis/the-river(7).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1688,
+      "height": 1200,
       "mime": null
     }
   ]
