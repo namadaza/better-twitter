@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T07:42:51.930Z",
+  "generated_at": "2026-06-28T12:46:29.846Z",
   "source": "wikiart",
-  "count": 553,
+  "count": 568,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -33643,6 +33643,891 @@
         "height": 1200
       },
       "width": 1688,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011be16",
+      "title": "Cañada de la Magdalena",
+      "artist": "Velasco Jose Maria ",
+      "year": 1862,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Caada_de_la_Magdalena.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Caada_de_la_Magdalena.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jose-maria-velasco/ca-ada-de-la-magdalena-1862.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/ca-ada-de-la-magdalena-1862",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:45:28.920Z",
+      "fingerprint_sha256": "975ff972996c91e1b436ebde22f4798de08cb4cb8aacf7a7355bbddec56a9ba9",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011be16",
+        "title": "Cañada de la Magdalena",
+        "url": "ca-ada-de-la-magdalena-1862",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1862,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Hill",
+          "Mountain",
+          "Cloud"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads7.wikiart.org/images/jose-maria-velasco/ca-ada-de-la-magdalena-1862.jpg",
+        "height": 977
+      },
+      "width": 1280,
+      "height": 977,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bf96",
+      "title": "Estudio de los vocanes",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Estudio_de_los_vocanes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Estudio_de_los_vocanes.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jose-maria-velasco/estudio-de-los-vocanes.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/estudio-de-los-vocanes",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:45:31.902Z",
+      "fingerprint_sha256": "983ad62a2163243200a0aab1d6a7a75b6b139952e0bab18444c85fdb13aefddf",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bf96",
+        "title": "Estudio de los vocanes",
+        "url": "estudio-de-los-vocanes",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mountainous landforms",
+          "Mountain",
+          "Mountain range",
+          "Ecoregion",
+          "Fell",
+          "Sky",
+          "Tundra"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads2.wikiart.org/images/jose-maria-velasco/estudio-de-los-vocanes.jpg",
+        "height": 453
+      },
+      "width": 1280,
+      "height": 453,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011be56",
+      "title": "Cascada de Rincón Grande",
+      "artist": "Velasco Jose Maria ",
+      "year": 1874,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Cascada_de_Rincn_Grande.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Cascada_de_Rincn_Grande.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jose-maria-velasco/cascada-de-rinc-n-grande-1874.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/cascada-de-rinc-n-grande-1874",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:45:36.082Z",
+      "fingerprint_sha256": "c4a6a0ab90aa6fa6d65fd96623450597b4962ec1a72d97eec84250d5915ccc80",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011be56",
+        "title": "Cascada de Rincón Grande",
+        "url": "cascada-de-rinc-n-grande-1874",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1874,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Body of water",
+          "Natural landscape",
+          "Nature",
+          "Waterfall",
+          "Water",
+          "Water resources",
+          "Watercourse",
+          "Nature reserve",
+          "River"
+        ],
+        "description": "",
+        "width": 753,
+        "image": "https://uploads0.wikiart.org/images/jose-maria-velasco/cascada-de-rinc-n-grande-1874.jpg",
+        "height": 1024
+      },
+      "width": 753,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bde6",
+      "title": "Camino a Chalco con los vocanes",
+      "artist": "Velasco Jose Maria ",
+      "year": 1895,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Camino_a_Chalco_con_los_vocanes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Camino_a_Chalco_con_los_vocanes.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jose-maria-velasco/camino-a-chalco-con-los-vocanes-1895.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/camino-a-chalco-con-los-vocanes-1895",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:45:39.109Z",
+      "fingerprint_sha256": "a5d6ea2f5a8672df24580539b771603b07cc22bf8db6369dd3ebc17c42f9f8b7",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bde6",
+        "title": "Camino a Chalco con los vocanes",
+        "url": "camino-a-chalco-con-los-vocanes-1895",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1895,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Plain",
+          "Ecoregion"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads7.wikiart.org/images/jose-maria-velasco/camino-a-chalco-con-los-vocanes-1895.jpg",
+        "height": 893
+      },
+      "width": 1280,
+      "height": 893,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bea6",
+      "title": "El cabrio de San Ángel",
+      "artist": "Velasco Jose Maria ",
+      "year": 1861,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/El_cabrio_de_San_ngel.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/El_cabrio_de_San_ngel.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jose-maria-velasco/el-cabrio-de-san-ngel-1861.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/el-cabrio-de-san-ngel-1861",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:45:42.234Z",
+      "fingerprint_sha256": "94c8f4aac9e4db4873034d8a6eaa6184af79e1669f0c640f335bcebdf26a0ec9",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bea6",
+        "title": "El cabrio de San Ángel",
+        "url": "el-cabrio-de-san-ngel-1861",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1861,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Shrubland",
+          "Plant community"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads6.wikiart.org/images/jose-maria-velasco/el-cabrio-de-san-ngel-1861.jpg",
+        "height": 875
+      },
+      "width": 1280,
+      "height": 875,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bec6",
+      "title": "El Calvario",
+      "artist": "Velasco Jose Maria ",
+      "year": 1909,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/El_Calvario.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/El_Calvario.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jose-maria-velasco/el-calvario-1909.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/el-calvario-1909",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:45:45.051Z",
+      "fingerprint_sha256": "a2e04427e02f9c61d71e59532c852bfa0a6ab3b788356cf2516806e53eea28b8",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bec6",
+        "title": "El Calvario",
+        "url": "el-calvario-1909",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1909,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Atmosphere",
+          "Cloud",
+          "Rock"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads5.wikiart.org/images/jose-maria-velasco/el-calvario-1909.jpg",
+        "height": 927
+      },
+      "width": 1280,
+      "height": 927,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011be36",
+      "title": "Cantera del cerro de los Gachupines o Atzacoalco",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Cantera_del_cerro_de_los_Gachupines_o_Atzacoalco.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Cantera_del_cerro_de_los_Gachupines_o_Atzacoalco.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/jose-maria-velasco/cantera-del-cerro-de-los-gachupines-o-atzacoalco.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/cantera-del-cerro-de-los-gachupines-o-atzacoalco",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:45:47.982Z",
+      "fingerprint_sha256": "8dab500944936e2dc3c4129ff44f6126ace41f1173045f7afdedcb621cf57b6e",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011be36",
+        "title": "Cantera del cerro de los Gachupines o Atzacoalco",
+        "url": "cantera-del-cerro-de-los-gachupines-o-atzacoalco",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Formation",
+          "Rock",
+          "Badlands",
+          "Geology",
+          "Outcrop",
+          "Plant community",
+          "Shrubland"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads1.wikiart.org/images/jose-maria-velasco/cantera-del-cerro-de-los-gachupines-o-atzacoalco.jpg",
+        "height": 900
+      },
+      "width": 1280,
+      "height": 900,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bda6",
+      "title": "Barranca",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Barranca.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Barranca.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jose-maria-velasco/barranca.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/barranca",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:45:59.231Z",
+      "fingerprint_sha256": "c869d0ca8276919ace29fc882c6bfe20051381edc295d419a12388038e33e82e",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bda6",
+        "title": "Barranca",
+        "url": "barranca",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Formation",
+          "Badlands",
+          "Geology",
+          "Outcrop",
+          "Rock"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads6.wikiart.org/images/jose-maria-velasco/barranca.jpg",
+        "height": 935
+      },
+      "width": 1280,
+      "height": 935,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bff6",
+      "title": "Estudio para cacería",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Estudio_para_cacera.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Estudio_para_cacera.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jose-maria-velasco/estudio-para-cacer-a.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/estudio-para-cacer-a",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:46:04.485Z",
+      "fingerprint_sha256": "fcc08d6d3124d5868d8c07fb4d00e546bab4df6ac36e8d830d0d65bf67090d89",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bff6",
+        "title": "Estudio para cacería",
+        "url": "estudio-para-cacer-a",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads0.wikiart.org/images/jose-maria-velasco/estudio-para-cacer-a.jpg",
+        "height": 949
+      },
+      "width": 1280,
+      "height": 949,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011be46",
+      "title": "Cardón",
+      "artist": "Velasco Jose Maria ",
+      "year": 1887,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Cardn.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Cardn.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jose-maria-velasco/card-n-1887.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/card-n-1887",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:46:07.001Z",
+      "fingerprint_sha256": "291fa36cde6c3bbbfcc75ffae977330a39b8080aa7be0e5758c6b609716e486c",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011be46",
+        "title": "Cardón",
+        "url": "card-n-1887",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1887,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Saguaro",
+          "Plant",
+          "Tree"
+        ],
+        "description": "",
+        "width": 866,
+        "image": "https://uploads7.wikiart.org/images/jose-maria-velasco/card-n-1887.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 866,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011be26",
+      "title": "Cañada de Metlac",
+      "artist": "Velasco Jose Maria ",
+      "year": 1881,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Caada_de_Metlac.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Caada_de_Metlac.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/jose-maria-velasco/ca-ada-de-metlac-1881.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/ca-ada-de-metlac-1881",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:46:09.937Z",
+      "fingerprint_sha256": "3f0c6004436c5f4f93df3bdabc7cfd39bc5ab71b2980a825a3cd38677ef4e4f7",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011be26",
+        "title": "Cañada de Metlac",
+        "url": "ca-ada-de-metlac-1881",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1881,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mountainous landforms",
+          "Mountain",
+          "Sky",
+          "Wilderness",
+          "Cloud",
+          "Geology"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads1.wikiart.org/images/jose-maria-velasco/ca-ada-de-metlac-1881.jpg",
+        "height": 946
+      },
+      "width": 1280,
+      "height": 946,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011be96",
+      "title": "Cocina rústica en el Peñon de los Baños",
+      "artist": "Velasco Jose Maria ",
+      "year": 1878,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Cocina_rstica_en_el_Peon_de_los_Baos.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Cocina_rstica_en_el_Peon_de_los_Baos.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jose-maria-velasco/cocina-r-stica-en-el-pe-on-de-los-ba-os-1878.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/cocina-r-stica-en-el-pe-on-de-los-ba-os-1878",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:46:18.408Z",
+      "fingerprint_sha256": "722d0fce43ef0edc8f69d1c72cd8a7e76f9245eea1dc2b5562c569a4cc2ec4c5",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011be96",
+        "title": "Cocina rústica en el Peñon de los Baños",
+        "url": "cocina-r-stica-en-el-pe-on-de-los-ba-os-1878",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1878,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Formation",
+          "Rock",
+          "Outcrop",
+          "Geology",
+          "Bedrock",
+          "Badlands",
+          "Arch",
+          "Natural arch"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads6.wikiart.org/images/jose-maria-velasco/cocina-r-stica-en-el-pe-on-de-los-ba-os-1878.jpg",
+        "height": 985
+      },
+      "width": 1280,
+      "height": 985,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bd96",
+      "title": "Barranca del Agua Santa",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/Barranca_del_Agua_Santa.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/Barranca_del_Agua_Santa.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jose-maria-velasco/barranca-del-agua-santa.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/barranca-del-agua-santa",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:46:21.415Z",
+      "fingerprint_sha256": "4b4e626a7ed40d8159f5d5ad461063580ae702e93960fecd018a29d7e4c02013",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bd96",
+        "title": "Barranca del Agua Santa",
+        "url": "barranca-del-agua-santa",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Rock",
+          "Outcrop",
+          "Geological phenomenon",
+          "Formation",
+          "Geology",
+          "Bedrock",
+          "Soil",
+          "Badlands",
+          "Cliff",
+          "Escarpment"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads3.wikiart.org/images/jose-maria-velasco/barranca-del-agua-santa.jpg",
+        "height": 705
+      },
+      "width": 1024,
+      "height": 705,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011beb6",
+      "title": "El Cabrío de San Ángel",
+      "artist": "Velasco Jose Maria ",
+      "year": 1863,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/El_Cabro_de_San_ngel.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/El_Cabro_de_San_ngel.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jose-maria-velasco/el-cabr-o-de-san-ngel-1863.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/el-cabr-o-de-san-ngel-1863",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:46:26.749Z",
+      "fingerprint_sha256": "01fd3bdeaee8161e214a746a9fb8726f401a3276c485766906a7a4adb7b2b8fd",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011beb6",
+        "title": "El Cabrío de San Ángel",
+        "url": "el-cabr-o-de-san-ngel-1863",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1863,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7850",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Romanticism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Plant community",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads6.wikiart.org/images/jose-maria-velasco/el-cabr-o-de-san-ngel-1863.jpg",
+        "height": 989
+      },
+      "width": 1280,
+      "height": 989,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aabedc2cb388011bc96",
+      "title": "Árbol de la Noche Triste",
+      "artist": "Velasco Jose Maria ",
+      "year": 1910,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "better-twitter/artwork/images/wikiart/jose-maria-velasco/rbol_de_la_Noche_Triste.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/better-twitter/artwork/images/wikiart/jose-maria-velasco/rbol_de_la_Noche_Triste.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jose-maria-velasco/rbol-de-la-noche-triste-1910.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/rbol-de-la-noche-triste-1910",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-28T12:46:29.446Z",
+      "fingerprint_sha256": "d0e71a1bdaa265f62fe17e9f007d7198311e7108fde07569128f31648b24ff2e",
+      "raw_extmetadata": {
+        "id": "57728aabedc2cb388011bc96",
+        "title": "Árbol de la Noche Triste",
+        "url": "rbol-de-la-noche-triste-1910",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1910,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 844,
+        "image": "https://uploads6.wikiart.org/images/jose-maria-velasco/rbol-de-la-noche-triste-1910.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 844,
       "height": 1200,
       "mime": null
     }

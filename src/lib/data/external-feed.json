@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-06-28T07:34:40.655Z",
+  "fetchedAt": "2026-06-28T12:40:13.075Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-6208239ba0b9",
+      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+      "url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Listen now | OpenAI’s Andrew Ambrosino on why software is getting cheaper to build, why taste matters more than ever, and what’s next for the Codex desktop app",
+      "publishedAt": "2026-06-28T12:31:54.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2f4877b03bbc",
+      "title": "The Rise and Fall of New Atheism",
+      "url": "https://kasurian.com/p/rise-fall-new-atheism",
+      "publication": "Kasurian",
+      "author": "Kasurian",
+      "excerpt": "Where did the New Atheists go? A story on the life and death of one of the first internet-driven cultural movements.",
+      "publishedAt": "2026-06-28T12:00:57.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-b979f2d4c0ef",
@@ -1060,16 +1080,6 @@
       "author": "Prof Robert Pape",
       "excerpt": "Live Strategic Briefing Monday 7pm ET",
       "publishedAt": "2026-06-21T13:09:46.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6eae7ddbcc4c",
-      "title": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
-      "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Listen now | Fiona Fung on leading the Claude Code and Cowork teams, and how to maintain culture when roles are blurring and agents are everywhere",
-      "publishedAt": "2026-06-21T12:31:43.000Z"
     }
   ]
 }
