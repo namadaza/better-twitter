@@ -15,6 +15,7 @@ export const auth = betterAuth({
   }),
   baseURL: {
     allowedHosts: [
+      "www.norotfeed.com",
       "norotfeed.com",
       "*.vercel.app",
       "localhost:3000",
