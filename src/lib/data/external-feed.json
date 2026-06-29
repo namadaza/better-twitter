@@ -1,6 +1,26 @@
 {
-  "fetchedAt": "2026-06-28T12:40:13.075Z",
+  "fetchedAt": "2026-06-29T01:17:15.118Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-dc2242c90a9e",
+      "title": "How Florin Tatulea Scales SDR Teams",
+      "url": "https://newsletter.outbound.kitchen/p/how-florin-tatulea-scales-sdr-teams",
+      "publication": "Outbound Kitchen",
+      "author": "Elric Legloire - Outbound Chef",
+      "excerpt": "Without Over-Hiring",
+      "publishedAt": "2026-06-28T16:09:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-cdbf873d4f49",
+      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
+      "publishedAt": "2026-06-28T14:13:46.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-6208239ba0b9",
@@ -1020,66 +1040,6 @@
       "author": "Prof Robert Pape",
       "excerpt": "Live Strategic Briefing Monday 7pm ET",
       "publishedAt": "2026-06-22T01:37:04.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-6caaf362106a",
-      "title": "The Fed just changed the game and nobody is paying attention",
-      "url": "https://georgenoble.substack.com/p/the-fed-just-changed-the-game-and",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "Kevin Warsh held his first press conference on Wednesday and the market dropped 1.2% with real damage in the rate sensitive corners.",
-      "publishedAt": "2026-06-21T21:30:58.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3013778bc6bc",
-      "title": "The Liberal and Socialist Ummahs",
-      "url": "https://kasurian.com/p/liberal-socialist-ummahs",
-      "publication": "Kasurian",
-      "author": "Kasurian",
-      "excerpt": "Manarism and Qutbism, the two competing wings of ‘Islamism’, are both descended from the liberal and socialist faiths of Europe.",
-      "publishedAt": "2026-06-21T16:38:30.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0de5a99c4edb",
-      "title": "Painful Truths About Leaving Your 20s Nobody Warned You Were Coming",
-      "url": "https://www.beautyofsaas.com/p/painful-truths-about-leaving-your",
-      "publication": "BOSS Letter",
-      "author": "BOSS Letter",
-      "excerpt": "146: You might do your best... Because nobody is coming to save you.",
-      "publishedAt": "2026-06-21T15:25:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d3a94500ae97",
-      "title": "Painful Truths About Leaving Your 20s Nobody Warned You Were Coming",
-      "url": "https://theunintuitive.com/p/painful-truths-about-leaving-your",
-      "publication": "The Unintuitive",
-      "author": "BOSS",
-      "excerpt": "146: You might do your best... Because nobody is coming to save you.",
-      "publishedAt": "2026-06-21T15:25:16.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-3f569937ed49",
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "url": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
-      "publishedAt": "2026-06-21T14:14:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0623588c3808",
-      "title": "Clarifying the Risks Ahead",
-      "url": "https://escalationtrap.substack.com/p/clarifying-the-risks-ahead",
-      "publication": "Escalation Trap",
-      "author": "Prof Robert Pape",
-      "excerpt": "Live Strategic Briefing Monday 7pm ET",
-      "publishedAt": "2026-06-21T13:09:46.000Z"
     }
   ]
 }

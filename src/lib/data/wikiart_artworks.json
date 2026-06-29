@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T12:46:29.846Z",
+  "generated_at": "2026-06-29T01:23:53.001Z",
   "source": "wikiart",
-  "count": 568,
+  "count": 583,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -34529,6 +34529,919 @@
       },
       "width": 844,
       "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728475edc2cb3880fde419",
+      "title": "Untitled",
+      "artist": "Tabrizi Mir Ali",
+      "year": null,
+      "genres": [
+        "calligraphy"
+      ],
+      "topic": "mir-ali-tabrizi",
+      "blob_path": "norotfeed/artwork/images/wikiart/mir-ali-tabrizi/Untitled.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/mir-ali-tabrizi/Untitled.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/mir-ali-tabrizi/unknown-title-5.jpg",
+      "source_file_page": "https://www.wikiart.org/en/mir-ali-tabrizi/unknown-title-5",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:22:19.873Z",
+      "fingerprint_sha256": "98644d9193782678d0a79bb5ff8c7668ccb74a7185751ca7715e893b62d86d04",
+      "raw_extmetadata": {
+        "id": "57728475edc2cb3880fde419",
+        "title": "Untitled",
+        "url": "unknown-title-5",
+        "artistUrl": "mir-ali-tabrizi",
+        "artistName": "Tabrizi Mir Ali",
+        "artistId": "57726dc5edc2cb3880b4fdf4",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad76e0",
+          "57726b53edc2cb3880ad78e8",
+          "57726b4eedc2cb3880ad6e18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "calligraphy"
+        ],
+        "styles": [
+          "Nas-Taliq",
+          "Timurid Period"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 350,
+        "image": "https://uploads1.wikiart.org/images/mir-ali-tabrizi/unknown-title-5.jpg",
+        "height": 567
+      },
+      "width": 350,
+      "height": 567,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772721fedc2cb3880c4159a",
+      "title": "Argenteuil",
+      "artist": "Monet Claude",
+      "year": 1872,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "claude-monet",
+      "blob_path": "norotfeed/artwork/images/wikiart/claude-monet/Argenteuil.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/claude-monet/Argenteuil.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/claude-monet/argenteuil-1(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/claude-monet/argenteuil-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:22:47.030Z",
+      "fingerprint_sha256": "1e1f551364fad9ccfae92d0d7e221d90827658203ab0e76564c5f1733fa6b937",
+      "raw_extmetadata": {
+        "id": "5772721fedc2cb3880c4159a",
+        "title": "Argenteuil",
+        "url": "argenteuil-1",
+        "artistUrl": "claude-monet",
+        "artistName": "Monet Claude",
+        "artistId": "57726d83edc2cb3880b488f1",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Water",
+          "Waterway",
+          "Sky",
+          "Bank",
+          "Tree",
+          "River",
+          "Canal",
+          "Bayou"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads7.wikiart.org/images/claude-monet/argenteuil-1(1).jpg",
+        "height": 752
+      },
+      "width": 1000,
+      "height": 752,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bbfedc2cb3880e24e50",
+      "title": "Bathers",
+      "artist": "Cross Henri-Edmond",
+      "year": 1895,
+      "genres": [
+        "genre painting"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "norotfeed/artwork/images/wikiart/henri-edmond-cross/Bathers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/henri-edmond-cross/Bathers.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/henri-edmond-cross/bathers-1895.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/bathers-1895",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:05.502Z",
+      "fingerprint_sha256": "1fbb2b4cbcd813b12a9c249a32b575be0bb4362ebb14fc48a476949d6aa022c3",
+      "raw_extmetadata": {
+        "id": "57727bbfedc2cb3880e24e50",
+        "title": "Bathers",
+        "url": "bathers-1895",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1895,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77c8",
+          "57726b4eedc2cb3880ad6e58",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "genre painting"
+        ],
+        "styles": [
+          "Pointillism",
+          "Neo-Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-nude",
+          "Geology"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads1.wikiart.org/images/henri-edmond-cross/bathers-1895.jpg",
+        "height": 930
+      },
+      "width": 1280,
+      "height": 930,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc1edc2cb3880e25070",
+      "title": "Landscape",
+      "artist": "Cross Henri-Edmond",
+      "year": 1909,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "norotfeed/artwork/images/wikiart/henri-edmond-cross/Landscape.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/henri-edmond-cross/Landscape.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/henri-edmond-cross/landscape-4.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/landscape-4",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:10.003Z",
+      "fingerprint_sha256": "a42af934a820d5dcb1eaf62d40b4bd4dee4e865a945238825eb8e49b93324f14",
+      "raw_extmetadata": {
+        "id": "57727bc1edc2cb3880e25070",
+        "title": "Landscape",
+        "url": "landscape-4",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1909,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae7436",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Post-Impressionism",
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "watercolor"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "forests-and-trees",
+          "Flower",
+          "Plant"
+        ],
+        "description": "",
+        "width": 981,
+        "image": "https://uploads0.wikiart.org/images/henri-edmond-cross/landscape-4.jpg",
+        "height": 534
+      },
+      "width": 981,
+      "height": 534,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727bc1edc2cb3880e25110",
+      "title": "Pines by the Sea",
+      "artist": "Cross Henri-Edmond",
+      "year": 1909,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "henri-edmond-cross",
+      "blob_path": "norotfeed/artwork/images/wikiart/henri-edmond-cross/Pines_by_the_Sea.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/henri-edmond-cross/Pines_by_the_Sea.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/henri-edmond-cross/pines-by-the-sea-1.jpg",
+      "source_file_page": "https://www.wikiart.org/en/henri-edmond-cross/pines-by-the-sea-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:14.663Z",
+      "fingerprint_sha256": "31514eed0fb706e328eaf4ab838756a67ee28a8d3a27c61968362f144afe58bf",
+      "raw_extmetadata": {
+        "id": "57727bc1edc2cb3880e25110",
+        "title": "Pines by the Sea",
+        "url": "pines-by-the-sea-1",
+        "artistUrl": "henri-edmond-cross",
+        "artistName": "Cross Henri-Edmond",
+        "artistId": "57726d90edc2cb3880b4a668",
+        "completitionYear": 1909,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e88",
+          "57726bcdedc2cb3880ae7436",
+          "5f6c46adedc2c9b6b059578f"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Neo-Impressionism"
+        ],
+        "media": [
+          "watercolor"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Private Collection"
+        ],
+        "tags": [
+          "seas-and-oceans",
+          "forests-and-trees",
+          "Tree",
+          "Natural landscape",
+          "Water",
+          "Reflection",
+          "Woody plant",
+          "Canoe birch"
+        ],
+        "description": "",
+        "width": 919,
+        "image": "https://uploads7.wikiart.org/images/henri-edmond-cross/pines-by-the-sea-1.jpg",
+        "height": 621
+      },
+      "width": 919,
+      "height": 621,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c0520e",
+      "title": "A Pair of Shoes",
+      "artist": "van Gogh Vincent ",
+      "year": 1887,
+      "genres": [
+        "still life"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "norotfeed/artwork/images/wikiart/vincent-van-gogh/A_Pair_of_Shoes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/vincent-van-gogh/A_Pair_of_Shoes.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-pair-of-shoes-1887(1).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-pair-of-shoes-1887",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:22.029Z",
+      "fingerprint_sha256": "3da5fa6caa10d46372a65f5b50acda33b02aa08e8b344730f6b7c764ee8bb330",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c0520e",
+        "title": "A Pair of Shoes",
+        "url": "a-pair-of-shoes-1887",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1887,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6f20",
+          "57726bcdedc2cb3880ae733e",
+          "57726b4eedc2cb3880ad6f70"
+        ],
+        "location": "ParisFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "still life"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "oil",
+          "canvas"
+        ],
+        "sizeX": 41,
+        "sizeY": 34,
+        "diameter": null,
+        "galleries": [
+          "Baltimore Museum of Art (BMA), Baltimore, MD, US"
+        ],
+        "tags": [
+          "clothing-and-textile",
+          "Footwear",
+          "Still life photography"
+        ],
+        "description": "",
+        "width": 1503,
+        "image": "https://uploads8.wikiart.org/images/vincent-van-gogh/a-pair-of-shoes-1887(1).jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1503,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711eedc2cb3880c051be",
+      "title": "A mousmé, sitting",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "norotfeed/artwork/images/wikiart/vincent-van-gogh/A_mousm,_sitting.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/vincent-van-gogh/A_mousm%2C_sitting.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-mousmé-sitting-1888(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-mousmé-sitting-1888",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:23.301Z",
+      "fingerprint_sha256": "a06c01928ba51d4599132ef9e50e15f48c4a9e26ec85a5be6bd193f09b3697e2",
+      "raw_extmetadata": {
+        "id": "5772711eedc2cb3880c051be",
+        "title": "A mousmé, sitting",
+        "url": "a-mousmé-sitting-1888",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7628",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Japonism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "female-portraits",
+          "Retro style",
+          "Pattern"
+        ],
+        "description": "",
+        "width": 726,
+        "image": "https://uploads2.wikiart.org/images/vincent-van-gogh/a-mousmé-sitting-1888(1).jpg",
+        "height": 1024
+      },
+      "width": 726,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5772711dedc2cb3880c05038",
+      "title": "A Fishing Boat at Sea",
+      "artist": "van Gogh Vincent ",
+      "year": 1888,
+      "genres": [
+        "marina"
+      ],
+      "topic": "vincent-van-gogh",
+      "blob_path": "norotfeed/artwork/images/wikiart/vincent-van-gogh/A_Fishing_Boat_at_Sea.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/vincent-van-gogh/A_Fishing_Boat_at_Sea.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/vincent-van-gogh/a-fishing-boat-at-sea-1888-2(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/vincent-van-gogh/a-fishing-boat-at-sea-1888-2",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:24.525Z",
+      "fingerprint_sha256": "d306cd98e49397cbc7f8c8fa72f7a82fa1663267ee5cbeb19aa55a2fc19cce37",
+      "raw_extmetadata": {
+        "id": "5772711dedc2cb3880c05038",
+        "title": "A Fishing Boat at Sea",
+        "url": "a-fishing-boat-at-sea-1888-2",
+        "artistUrl": "vincent-van-gogh",
+        "artistName": "van Gogh Vincent ",
+        "artistId": "57726d82edc2cb3880b486a0",
+        "completitionYear": 1888,
+        "dictionaries": [
+          "57726b52edc2cb3880ad77e0",
+          "57726b4eedc2cb3880ad6e98",
+          "57726bcdedc2cb3880ae740e",
+          "57726bcdedc2cb3880ae7436",
+          "57726b4eedc2cb3880ad7000"
+        ],
+        "location": "Arles, Bouches-du-RhôneFrance",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Post-Impressionism"
+        ],
+        "media": [
+          "ink",
+          "watercolor",
+          "paper"
+        ],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "Solomon R. Guggenheim Museum, New York City, NY, US"
+        ],
+        "tags": [
+          "boats-and-ships",
+          "seas-and-oceans",
+          "fishing"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads0.wikiart.org/images/vincent-van-gogh/a-fishing-boat-at-sea-1888-2(1).jpg",
+        "height": 786
+      },
+      "width": 1024,
+      "height": 786,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727c92edc2cb3880e4ce2a",
+      "title": "Village on a Dutch Coast",
+      "artist": "Volanakis Konstantinos",
+      "year": 1876,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/Village_on_a_Dutch_Coast.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/Village_on_a_Dutch_Coast.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/konstantinos-volanakis/1876(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/1876",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:38.633Z",
+      "fingerprint_sha256": "366bd6c8e615fe9a5031ce81e8815a38205da0c2a9e5a4c887e7ef9fe44c3de6",
+      "raw_extmetadata": {
+        "id": "57727c92edc2cb3880e4ce2a",
+        "title": "Village on a Dutch Coast",
+        "url": "1876",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": 1876,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky"
+        ],
+        "description": "",
+        "width": 725,
+        "image": "https://uploads0.wikiart.org/images/konstantinos-volanakis/1876(1).jpg",
+        "height": 469
+      },
+      "width": 725,
+      "height": 469,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55b44",
+      "title": "Sailing ships at dawn",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/Sailing_ships_at_dawn.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/Sailing_ships_at_dawn.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/konstantinos-volanakis/sailing-ships-at-dawn.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/sailing-ships-at-dawn",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:41.340Z",
+      "fingerprint_sha256": "f63d48ed84c9140413cd5a10f653de13b22e79aa74d933a98a73aabcdd1f87f1",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55b44",
+        "title": "Sailing ships at dawn",
+        "url": "sailing-ships-at-dawn",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Sailing ship",
+          "Flagship",
+          "Fluyt",
+          "Ship of the line",
+          "Boat",
+          "East indiaman",
+          "Watercraft",
+          "First-rate",
+          "Frigate"
+        ],
+        "description": "",
+        "width": 1248,
+        "image": "https://uploads5.wikiart.org/images/konstantinos-volanakis/sailing-ships-at-dawn.jpg",
+        "height": 719
+      },
+      "width": 1248,
+      "height": 719,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55c0a",
+      "title": "Sunset over the bay",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/Sunset_over_the_bay.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/Sunset_over_the_bay.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/konstantinos-volanakis/sunset-over-the-bay.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/sunset-over-the-bay",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:43.549Z",
+      "fingerprint_sha256": "984a5143a01349b5e74b4ba5740a311511f1a7de93ce16175031024ef38be324",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55c0a",
+        "title": "Sunset over the bay",
+        "url": "sunset-over-the-bay",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Boat",
+          "Vehicle",
+          "Watercraft"
+        ],
+        "description": "",
+        "width": 915,
+        "image": "https://uploads1.wikiart.org/images/konstantinos-volanakis/sunset-over-the-bay.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 915,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55bda",
+      "title": "Greek ship",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/Greek_ship.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/Greek_ship.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/konstantinos-volanakis/greek-ship.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/greek-ship",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:45.843Z",
+      "fingerprint_sha256": "6f75ee73f492711987becd80fee89b6ff7848f4b1b723b684898c39b854c4a67",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55bda",
+        "title": "Greek ship",
+        "url": "greek-ship",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sailing ship",
+          "Vehicle",
+          "Boat",
+          "East indiaman",
+          "Fluyt",
+          "Flagship",
+          "First-rate",
+          "Galiot",
+          "Galley",
+          "Watercraft"
+        ],
+        "description": "",
+        "width": 927,
+        "image": "https://uploads1.wikiart.org/images/konstantinos-volanakis/greek-ship.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 927,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55b24",
+      "title": "Naval battle at Lissa",
+      "artist": "Volanakis Konstantinos",
+      "year": 1869,
+      "genres": [
+        "battle painting"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/Naval_battle_at_Lissa.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/Naval_battle_at_Lissa.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/konstantinos-volanakis/naval-battle-at-lissa-1869.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/naval-battle-at-lissa-1869",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:48.173Z",
+      "fingerprint_sha256": "9aaad89d222c71c73eca27b0eaddc621e0848dd63d2ea113158db8ee484ded27",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55b24",
+        "title": "Naval battle at Lissa",
+        "url": "naval-battle-at-lissa-1869",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": 1869,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4dedc2cb3880ad6e00"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "battle painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sailing ship",
+          "First-rate",
+          "Vehicle",
+          "Strategy video game",
+          "Flagship",
+          "East indiaman",
+          "Bomb vessel",
+          "Ship of the line",
+          "Ship",
+          "Fluyt",
+          "Italian Risorgimento"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads1.wikiart.org/images/konstantinos-volanakis/naval-battle-at-lissa-1869.jpg",
+        "height": 655
+      },
+      "width": 1000,
+      "height": 655,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55b84",
+      "title": "The Fishnet",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/The_Fishnet.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/The_Fishnet.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/konstantinos-volanakis/the-fishnet.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/the-fishnet",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:50.541Z",
+      "fingerprint_sha256": "ed265919907eced515a1f08e13730154f436e85b2fe1345284871fd1db16d179",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55b84",
+        "title": "The Fishnet",
+        "url": "the-fishnet",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Boat",
+          "Vehicle",
+          "Watercraft",
+          "Calm",
+          "Sail"
+        ],
+        "description": "",
+        "width": 794,
+        "image": "https://uploads4.wikiart.org/images/konstantinos-volanakis/the-fishnet.jpg",
+        "height": 1024
+      },
+      "width": 794,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727c92edc2cb3880e4ce1a",
+      "title": "At the Jetty",
+      "artist": "Volanakis Konstantinos",
+      "year": 1875,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/At_the_Jetty.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/At_the_Jetty.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/konstantinos-volanakis/1869-1875(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/1869-1875-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-29T01:23:52.600Z",
+      "fingerprint_sha256": "1c9e056291f4d035d5aa2ebbbc8d1a6b3b85f8cfddd57cb8de7917e68efcf8d3",
+      "raw_extmetadata": {
+        "id": "57727c92edc2cb3880e4ce1a",
+        "title": "At the Jetty",
+        "url": "1869-1875-1",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": 1875,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Boat"
+        ],
+        "description": "",
+        "width": 425,
+        "image": "https://uploads5.wikiart.org/images/konstantinos-volanakis/1869-1875(1).jpg",
+        "height": 650
+      },
+      "width": 425,
+      "height": 650,
       "mime": null
     }
   ]
