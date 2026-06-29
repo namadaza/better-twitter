@@ -1,14 +1,164 @@
 {
-  "fetchedAt": "2026-06-29T01:17:15.118Z",
+  "fetchedAt": "2026-06-29T20:04:47.418Z",
   "items": [
     {
       "type": "rss",
+      "id": "rss-411dcc9a1425",
+      "title": "Tidal Says It Won’t Pay Royalties for AI-Generated Music",
+      "url": "https://www.404media.co/tidal-says-it-wont-pay-royalties-for-ai-generated-music/",
+      "publication": "404 Media",
+      "author": "Matthew Gault",
+      "excerpt": "Spotify competitor Tidal built a reputation by collaborating with musicians and focusing on audio quality. How will it handle the era of AI-generated slop?",
+      "publishedAt": "2026-06-29T19:33:49.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-0e41dba0538b",
+      "title": "WhatsApp rolls out usernames to help users hide their phone number",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
+      "publishedAt": "2026-06-29T17:48:28.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-fa02d4ed8a4f",
+      "title": "AIPAC, Big Tech Back Diana DeGette Over Melat Kiros With $2M Spending Flood",
+      "url": "https://www.dropsitenews.com/p/aipac-ai-degette-melat-kiros-colorado",
+      "publication": "Drop Site News",
+      "author": "Ryan Grim",
+      "excerpt": "Next week’s Colorado primary is attracting national attention in the wake of the major democratic socialist wins in New York City",
+      "publishedAt": "2026-06-29T17:31:36.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-3157fd3362f8",
+      "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]",
+      "publishedAt": "2026-06-29T17:11:15.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-1630cc3f1246",
+      "title": "U.S. resumes limited strikes in Iran; Board of Peace may get legal immunity; Breathtaking new Trump corruption",
+      "url": "https://www.dropsitenews.com/p/us-strikes-iran-board-peace-gaza-immunity-trump-corruption-deals",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: June 29, 2026",
+      "publishedAt": "2026-06-29T15:29:41.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-06968590d893",
+      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
+      "url": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services. [...]",
+      "publishedAt": "2026-06-29T15:09:43.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-e25a27469f4a",
+      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+      "publication": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "publishedAt": "2026-06-29T15:02:35.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-689d5d058f93",
+      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+      "url": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Token Security",
+      "excerpt": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
+      "publishedAt": "2026-06-29T14:01:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-ab8c71e2da2a",
+      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
+      "publishedAt": "2026-06-29T14:00:00.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-82a4aa23346c",
+      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
+      "publishedAt": "2026-06-29T13:46:17.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-021cd40786ec",
+      "title": "Inside Cannes, the Advertising Industry’s Biggest Party",
+      "url": "https://www.404media.co/inside-cannes-the-advertising-industrys-biggest-party/",
+      "publication": "404 Media",
+      "author": "Jason Koebler",
+      "excerpt": "Reporting from Microsoft Gardens, next to Salesforce Beach, Amazon Port, and the Canva Creative Cabana.",
+      "publishedAt": "2026-06-29T13:43:39.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4f4bb4178a59",
+      "title": "Webinar: Why business email compromise attacks keep succeeding",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
+      "publishedAt": "2026-06-29T12:14:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-4770d09780d7",
+      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+      "publication": "Lenny's Newsletter",
+      "author": "Claire Vo",
+      "excerpt": "Watch now | 🎙️ Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation",
+      "publishedAt": "2026-06-29T12:03:38.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-55bb94499773",
+      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+      "url": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
+      "publishedAt": "2026-06-29T11:21:03.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-86a32c70cbf2",
+      "title": "Ovid Facing the System: From Ancient Myth to the Modern Grotesque",
+      "url": "https://www.arktosjournal.com/p/ovid-facing-the-system-from-ancient",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Tomislav Sunic",
+      "publishedAt": "2026-06-29T08:01:58.000Z"
+    },
+    {
+      "type": "rss",
       "id": "rss-dc2242c90a9e",
-      "title": "How Florin Tatulea Scales SDR Teams",
+      "title": "33: How to Scale an Outbound SDR Team in 2026: ICP Math, Hiring, and What AI Changes",
       "url": "https://newsletter.outbound.kitchen/p/how-florin-tatulea-scales-sdr-teams",
       "publication": "Outbound Kitchen",
       "author": "Elric Legloire - Outbound Chef",
-      "excerpt": "Without Over-Hiring",
+      "excerpt": "With Florin Tatulea, GTM Engineer at ZoomInfo",
       "publishedAt": "2026-06-28T16:09:17.000Z"
     },
     {
@@ -900,146 +1050,6 @@
       "author": "Lylla Younes",
       "excerpt": "Israel conducted some of its heaviest attacks on Lebanon following the U.S.-Iran deal. The bombardment has finally halted but troops remain.",
       "publishedAt": "2026-06-22T20:25:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-44b4ed7bd29c",
-      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
-      "publishedAt": "2026-06-22T20:01:02.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-32c3a4582fcb",
-      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
-      "publishedAt": "2026-06-22T17:41:31.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-9aa3cf2f833c",
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
-      "publishedAt": "2026-06-22T17:28:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7a813563c414",
-      "title": "U.S. and Iran agree to “roadmap” for final deal; Starmer resigns; GOP funding to Dem super PACs",
-      "url": "https://www.dropsitenews.com/p/us-iran-talks-deal-starmer-resignation-labour-uk-gop-super-pacs",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 22, 2026",
-      "publishedAt": "2026-06-22T15:55:57.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f3e6f2c61f36",
-      "title": "'We Will Fight to Our Very Last Breath:' Township Leaders Vow to Fight Nuclear AI Data Center",
-      "url": "https://www.404media.co/we-will-fight-to-our-very-last-breath-township-leaders-vow-to-fight-nuclear-ai-data-center/",
-      "publication": "404 Media",
-      "author": "Matthew Gault",
-      "excerpt": "Michigan Governor Gretchen Whitmer and a proposed nuclear weapons AI data center in Michigan have earned the ire of community leaders.",
-      "publishedAt": "2026-06-22T15:24:09.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-1db6c72c5054",
-      "title": "What Does Iran’s Victory Mean for the Region?",
-      "url": "https://jalalayn.substack.com/p/what-does-irans-victory-mean-for",
-      "publication": "The Thinking Muslim by Muhammad Jalal",
-      "author": "Muhammad Jalal",
-      "excerpt": "An extensive conversation with Sami Hamdi",
-      "publishedAt": "2026-06-22T15:04:20.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0a32f997c9fe",
-      "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
-      "publication": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "publishedAt": "2026-06-22T15:02:37.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-c9762a7af978",
-      "title": "Stopping Tech Company Censorship (with Jake Hanrahan)",
-      "url": "https://www.404media.co/stopping-tech-company-censorship-with-jake-hanrahan/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "Joseph speaks to Jake Hanrahan all about Patreon, YouTube, and getting journalism in front of people.",
-      "publishedAt": "2026-06-22T14:27:48.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-da7067ee02b6",
-      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Flare",
-      "excerpt": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]",
-      "publishedAt": "2026-06-22T14:05:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-80f97bf59448",
-      "title": "Are Public Libraries Becoming Children’s Libraries?",
-      "url": "https://www.404media.co/are-public-libraries-becoming-childrens-libraries/",
-      "publication": "404 Media",
-      "author": "Claire Woodcock",
-      "excerpt": "Books written for younger audiences are being relocated to adult sections at alarming rates. We asked experts to predict what that means for the rest of us.",
-      "publishedAt": "2026-06-22T14:00:24.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7651769e959b",
-      "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
-      "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️423 security fixes in one month: Brian Grinstead (Mozilla) shows the goal-loop harness behind it, and why the model was only half the story",
-      "publishedAt": "2026-06-22T12:03:06.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7b34f8ca7476",
-      "title": "Getting the Framework Right: Why Iran Is Seeking Power, Not Just Money",
-      "url": "https://escalationtrap.substack.com/p/getting-the-framework-right-why-iran",
-      "publication": "Escalation Trap",
-      "author": "Prof Robert Pape",
-      "excerpt": "Escalation Trap This Week: Staying Ahead of the Risks that Matter",
-      "publishedAt": "2026-06-22T11:50:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0ee041175130",
-      "title": "Julius Evola: Philosophy and Direct Action",
-      "url": "https://www.arktosjournal.com/p/julius-evola-philosophy-and-direct",
-      "publication": "Arktos Journal",
-      "author": "Arktos Journal",
-      "excerpt": "by Dominique Venner",
-      "publishedAt": "2026-06-22T08:00:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-be426e1aee11",
-      "title": "Will Peace Last?",
-      "url": "https://escalationtrap.substack.com/p/will-peace-last",
-      "publication": "Escalation Trap",
-      "author": "Prof Robert Pape",
-      "excerpt": "Live Strategic Briefing Monday 7pm ET",
-      "publishedAt": "2026-06-22T01:37:04.000Z"
     }
   ]
 }
