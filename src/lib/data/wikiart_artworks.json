@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T20:10:44.934Z",
+  "generated_at": "2026-06-30T13:41:30.900Z",
   "source": "wikiart",
-  "count": 598,
+  "count": 613,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -36336,6 +36336,886 @@
       },
       "width": 800,
       "height": 505,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aabedc2cb388011bd16",
+      "title": "Autoretrato",
+      "artist": "Velasco Jose Maria ",
+      "year": 1875,
+      "genres": [
+        "self-portrait"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Autoretrato.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Autoretrato.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jose-maria-velasco/autoretrato-1875.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/autoretrato-1875",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:40:14.650Z",
+      "fingerprint_sha256": "ad3c5d19757b9264ecaf00b6c5087b9cbc84ec0fce589b19878458c240eae099",
+      "raw_extmetadata": {
+        "id": "57728aabedc2cb388011bd16",
+        "title": "Autoretrato",
+        "url": "autoretrato-1875",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1875,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f08"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "self-portrait"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Facial hair",
+          "Beard",
+          "Chin",
+          "Gentleman",
+          "Forehead"
+        ],
+        "description": "",
+        "width": 872,
+        "image": "https://uploads3.wikiart.org/images/jose-maria-velasco/autoretrato-1875.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 872,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bd76",
+      "title": "Baño de Nezahualcoyotl",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Bao_de_Nezahualcoyotl.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Bao_de_Nezahualcoyotl.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jose-maria-velasco/ba-o-de-nezahualcoyotl.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/ba-o-de-nezahualcoyotl",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:40:18.679Z",
+      "fingerprint_sha256": "2862284ea63c9e20e60f73d7e04c7b6870e2d62d2705a13889ddf76c17675cbd",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bd76",
+        "title": "Baño de Nezahualcoyotl",
+        "url": "ba-o-de-nezahualcoyotl",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Rock",
+          "Outcrop",
+          "Geology",
+          "Formation",
+          "Hill"
+        ],
+        "description": "",
+        "width": 728,
+        "image": "https://uploads2.wikiart.org/images/jose-maria-velasco/ba-o-de-nezahualcoyotl.jpg",
+        "height": 1024
+      },
+      "width": 728,
+      "height": 1024,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bf36",
+      "title": "El río de Tacubaya",
+      "artist": "Velasco Jose Maria ",
+      "year": 1868,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/El_ro_de_Tacubaya.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/El_ro_de_Tacubaya.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/jose-maria-velasco/el-r-o-de-tacubaya-1868.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/el-r-o-de-tacubaya-1868",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:40:26.079Z",
+      "fingerprint_sha256": "d1f7aace693846404640031e721cde5aa243b37b29cc3409effbe68130ba5028",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bf36",
+        "title": "El río de Tacubaya",
+        "url": "el-r-o-de-tacubaya-1868",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1868,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky"
+        ],
+        "description": "",
+        "width": 908,
+        "image": "https://uploads3.wikiart.org/images/jose-maria-velasco/el-r-o-de-tacubaya-1868.jpg",
+        "height": 768
+      },
+      "width": 908,
+      "height": 768,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bd86",
+      "title": "Barranca del Agua Santa",
+      "artist": "Velasco Jose Maria ",
+      "year": 1874,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Barranca_del_Agua_Santa.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Barranca_del_Agua_Santa.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/jose-maria-velasco/barranca-del-agua-santa-1874.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/barranca-del-agua-santa-1874",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:40:30.090Z",
+      "fingerprint_sha256": "c756a0ccac83a3b75f40145a5fa5f33ec9a1f584298d93a401e07d06b2ed2caa",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bd86",
+        "title": "Barranca del Agua Santa",
+        "url": "barranca-del-agua-santa-1874",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1874,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Rock",
+          "Formation",
+          "Outcrop",
+          "Geology",
+          "Badlands",
+          "Brown",
+          "Bedrock",
+          "Sky",
+          "Canyon",
+          "Geological phenomenon"
+        ],
+        "description": "",
+        "width": 1236,
+        "image": "https://uploads8.wikiart.org/images/jose-maria-velasco/barranca-del-agua-santa-1874.jpg",
+        "height": 888
+      },
+      "width": 1236,
+      "height": 888,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bd56",
+      "title": "Baño de los Pescaditos",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Bao_de_los_Pescaditos.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Bao_de_los_Pescaditos.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jose-maria-velasco/ba-o-de-los-pescaditos.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/ba-o-de-los-pescaditos",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:40:34.085Z",
+      "fingerprint_sha256": "516ce54edb09f2887d44a02938b97e904c4dccd1ae01169f5cd5c6635f698c4e",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bd56",
+        "title": "Baño de los Pescaditos",
+        "url": "ba-o-de-los-pescaditos",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 995,
+        "image": "https://uploads2.wikiart.org/images/jose-maria-velasco/ba-o-de-los-pescaditos.jpg",
+        "height": 768
+      },
+      "width": 995,
+      "height": 768,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aabedc2cb388011bc86",
+      "title": "Árbol caído",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/rbol_cado.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/rbol_cado.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/jose-maria-velasco/rbol-ca-do.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/rbol-ca-do",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:40:38.227Z",
+      "fingerprint_sha256": "6aff4e17345b68f37678b5d5fb9fb4ac649a57a2c2e94548688f0536bceb463e",
+      "raw_extmetadata": {
+        "id": "57728aabedc2cb388011bc86",
+        "title": "Árbol caído",
+        "url": "rbol-ca-do",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Natural landscape",
+          "Woody plant",
+          "Plant",
+          "Branch"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads8.wikiart.org/images/jose-maria-velasco/rbol-ca-do.jpg",
+        "height": 820
+      },
+      "width": 1280,
+      "height": 820,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bdf6",
+      "title": "Camino a Chalco con los volcanes",
+      "artist": "Velasco Jose Maria ",
+      "year": 1891,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Camino_a_Chalco_con_los_volcanes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Camino_a_Chalco_con_los_volcanes.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/jose-maria-velasco/camino-a-chalco-con-los-volcanes-1891.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/camino-a-chalco-con-los-volcanes-1891",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:40:48.721Z",
+      "fingerprint_sha256": "d04d9fb631cb7f9c79522c8128ffe0b16666954a083ba4e52abd29de14547b01",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bdf6",
+        "title": "Camino a Chalco con los volcanes",
+        "url": "camino-a-chalco-con-los-volcanes-1891",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1891,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Mountainous landforms",
+          "Sky",
+          "Natural environment",
+          "Mountain",
+          "Plain",
+          "Mountain range",
+          "Ecoregion",
+          "Cloud",
+          "Grassland"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads8.wikiart.org/images/jose-maria-velasco/camino-a-chalco-con-los-volcanes-1891.jpg",
+        "height": 886
+      },
+      "width": 1280,
+      "height": 886,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bf06",
+      "title": "El Popocatépetl y el Iztaccíhuatl desde el lago de Chalco",
+      "artist": "Velasco Jose Maria ",
+      "year": 1882,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/El_Popocatpetl_y_el_Iztacchuatl_desde_el_lago_de_Chalco.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/El_Popocatpetl_y_el_Iztacchuatl_desde_el_lago_de_Chalco.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/jose-maria-velasco/el-popocat-petl-y-el-iztacc-huatl-desde-el-lago-de-chalco-1882.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/el-popocat-petl-y-el-iztacc-huatl-desde-el-lago-de-chalco-1882",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:40:56.742Z",
+      "fingerprint_sha256": "49ac9da6855ce440d2edd37ce79f29dfe9573bd15bf89bb02468d98ea2de21e7",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bf06",
+        "title": "El Popocatépetl y el Iztaccíhuatl desde el lago de Chalco",
+        "url": "el-popocat-petl-y-el-iztacc-huatl-desde-el-lago-de-chalco-1882",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1882,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape",
+          "Nature",
+          "Mountainous landforms",
+          "Mountain",
+          "Natural environment",
+          "Wilderness",
+          "Ecoregion",
+          "Grassland",
+          "Sky"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads6.wikiart.org/images/jose-maria-velasco/el-popocat-petl-y-el-iztacc-huatl-desde-el-lago-de-chalco-1882.jpg",
+        "height": 904
+      },
+      "width": 1280,
+      "height": 904,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bfb6",
+      "title": "Estudio de nubes",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "cloudscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Estudio_de_nubes.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Estudio_de_nubes.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jose-maria-velasco/estudio-de-nubes.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/estudio-de-nubes",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:41:00.863Z",
+      "fingerprint_sha256": "af191e29e7495375eb4db8adf68ae58ad7da05faa914cef6a8dc7cc3dedaf352",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bfb6",
+        "title": "Estudio de nubes",
+        "url": "estudio-de-nubes",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e38"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cloudscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Cloud",
+          "Atmosphere"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads5.wikiart.org/images/jose-maria-velasco/estudio-de-nubes.jpg",
+        "height": 860
+      },
+      "width": 1280,
+      "height": 860,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bfe6",
+      "title": "Estudio de perones",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "sketch and study"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Estudio_de_perones.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Estudio_de_perones.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jose-maria-velasco/estudio-de-perones.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/estudio-de-perones",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:41:05.060Z",
+      "fingerprint_sha256": "5054f3f3e0fc1948978442b76175aaa77a99f03995e9986258eabe04355735d0",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bfe6",
+        "title": "Estudio de perones",
+        "url": "estudio-de-perones",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6f18"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "sketch and study"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Fruit",
+          "Still life photography",
+          "Food",
+          "Plant"
+        ],
+        "description": "",
+        "width": 912,
+        "image": "https://uploads7.wikiart.org/images/jose-maria-velasco/estudio-de-perones.jpg",
+        "height": 748
+      },
+      "width": 912,
+      "height": 748,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aabedc2cb388011bc66",
+      "title": "Ahuehuetes de Chapultepec",
+      "artist": "Velasco Jose Maria ",
+      "year": 1872,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Ahuehuetes_de_Chapultepec.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Ahuehuetes_de_Chapultepec.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/jose-maria-velasco/ahuehuetes-de-chapultepec-1872.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/ahuehuetes-de-chapultepec-1872",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:41:09.241Z",
+      "fingerprint_sha256": "b165f91a9af6c4e2ee42bda9c1132dda655ac3bd5f04802b62434157d7950dcb",
+      "raw_extmetadata": {
+        "id": "57728aabedc2cb388011bc66",
+        "title": "Ahuehuetes de Chapultepec",
+        "url": "ahuehuetes-de-chapultepec-1872",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1872,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Tree",
+          "Cloud"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads1.wikiart.org/images/jose-maria-velasco/ahuehuetes-de-chapultepec-1872.jpg",
+        "height": 923
+      },
+      "width": 1280,
+      "height": 923,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bef6",
+      "title": "El Popocatépetl y el Iztaccíhuatl",
+      "artist": "Velasco Jose Maria ",
+      "year": 1895,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/El_Popocatpetl_y_el_Iztacchuatl.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/El_Popocatpetl_y_el_Iztacchuatl.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jose-maria-velasco/el-popocat-petl-y-el-iztacc-huatl-1895.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/el-popocat-petl-y-el-iztacc-huatl-1895",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:41:13.344Z",
+      "fingerprint_sha256": "9f323e5482d7c2b8e7d0dcad7a90157f03e3183c3b269bb328a5ab3d7a8c7ab4",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bef6",
+        "title": "El Popocatépetl y el Iztaccíhuatl",
+        "url": "el-popocat-petl-y-el-iztacc-huatl-1895",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1895,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Nature",
+          "Sky",
+          "morning",
+          "Ecoregion",
+          "Evening"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads0.wikiart.org/images/jose-maria-velasco/el-popocat-petl-y-el-iztacc-huatl-1895.jpg",
+        "height": 763
+      },
+      "width": 1024,
+      "height": 763,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bf66",
+      "title": "Estudio de árboles",
+      "artist": "Velasco Jose Maria ",
+      "year": 1907,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Estudio_de_rboles.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Estudio_de_rboles.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jose-maria-velasco/estudio-de-rboles-1907.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/estudio-de-rboles-1907",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:41:17.597Z",
+      "fingerprint_sha256": "3b1755f16130d128ca877a21125af4736b1fcbab22ef733770c3b24d7ca936c4",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bf66",
+        "title": "Estudio de árboles",
+        "url": "estudio-de-rboles-1907",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1907,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree",
+          "Sky",
+          "Cloud"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads2.wikiart.org/images/jose-maria-velasco/estudio-de-rboles-1907.jpg",
+        "height": 852
+      },
+      "width": 1280,
+      "height": 852,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aabedc2cb388011bcb6",
+      "title": "Árboles del pirú del Tepeyac",
+      "artist": "Velasco Jose Maria ",
+      "year": 1905,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/rboles_del_pir_del_Tepeyac.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/rboles_del_pir_del_Tepeyac.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/jose-maria-velasco/rboles-del-pir-del-tepeyac-1905-1.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/rboles-del-pir-del-tepeyac-1905-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:41:22.060Z",
+      "fingerprint_sha256": "e291a117b67d3316e400c07b88f1be12df0dd368fcb7edcbe33fe7ce00b74010",
+      "raw_extmetadata": {
+        "id": "57728aabedc2cb388011bcb6",
+        "title": "Árboles del pirú del Tepeyac",
+        "url": "rboles-del-pir-del-tepeyac-1905-1",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1905,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Nature",
+          "Natural landscape",
+          "Natural environment",
+          "Ecoregion",
+          "Plain",
+          "Mountain"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads4.wikiart.org/images/jose-maria-velasco/rboles-del-pir-del-tepeyac-1905-1.jpg",
+        "height": 982
+      },
+      "width": 1280,
+      "height": 982,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011be86",
+      "title": "Chapultepec",
+      "artist": "Velasco Jose Maria ",
+      "year": 1878,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Chapultepec.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Chapultepec.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jose-maria-velasco/chapultepec-1878.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/chapultepec-1878",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-06-30T13:41:30.498Z",
+      "fingerprint_sha256": "87f45b6625a6c8b05b78d29ed454dcfb9c2815e296f966d53fd7a61d05b99ac7",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011be86",
+        "title": "Chapultepec",
+        "url": "chapultepec-1878",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1878,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Natural landscape",
+          "Tree"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads5.wikiart.org/images/jose-maria-velasco/chapultepec-1878.jpg",
+        "height": 999
+      },
+      "width": 1280,
+      "height": 999,
       "mime": null
     }
   ]
