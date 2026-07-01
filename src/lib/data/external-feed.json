@@ -1,6 +1,16 @@
 {
-  "fetchedAt": "2026-07-01T01:17:34.045Z",
+  "fetchedAt": "2026-07-01T07:45:45.294Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-8fe70f459bcc",
+      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
+      "publishedAt": "2026-07-01T07:34:52.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-d38c00e1952b",

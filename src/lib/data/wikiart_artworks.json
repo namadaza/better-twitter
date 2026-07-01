@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T01:24:35.728Z",
+  "generated_at": "2026-07-01T07:55:56.997Z",
   "source": "wikiart",
-  "count": 628,
+  "count": 629,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -38111,6 +38111,59 @@
       },
       "width": 895,
       "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5a72bd14edc2c9cb4cfa0cf0",
+      "title": "Untitled",
+      "artist": "Abedin Zainul",
+      "year": 1943,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "zainul-abedin",
+      "blob_path": "norotfeed/artwork/images/wikiart/zainul-abedin/Untitled.Jpeg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/zainul-abedin/Untitled.Jpeg",
+      "full_image_url": "https://uploads0.wikiart.org/00169/images/zainul-abedin/untitled-1943.Jpeg",
+      "source_file_page": "https://www.wikiart.org/en/zainul-abedin/untitled-1943",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T07:54:13.115Z",
+      "fingerprint_sha256": "9aefe30b90017b04de6323a09eae0d3ccbfab44cda448ff1e57502503513e697",
+      "raw_extmetadata": {
+        "id": "5a72bd14edc2c9cb4cfa0cf0",
+        "title": "Untitled",
+        "url": "untitled-1943",
+        "artistUrl": "zainul-abedin",
+        "artistName": "Abedin Zainul",
+        "artistId": "5a72b8efedc2c9cb4cb3ab4b",
+        "completitionYear": 1943,
+        "dictionaries": [
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": 36,
+        "sizeY": 25,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Bird",
+          "Beak"
+        ],
+        "description": "",
+        "width": 570,
+        "image": "https://uploads0.wikiart.org/00169/images/zainul-abedin/untitled-1943.Jpeg",
+        "height": 423
+      },
+      "width": 570,
+      "height": 423,
       "mime": null
     }
   ]
