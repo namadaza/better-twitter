@@ -1,6 +1,136 @@
 {
-  "fetchedAt": "2026-07-01T07:45:45.294Z",
+  "fetchedAt": "2026-07-01T19:09:26.826Z",
   "items": [
+    {
+      "type": "rss",
+      "id": "rss-d018dc0c4d67",
+      "title": "Scientists Asked AI to Impersonate 112 Public Figures. What Happened Next Is a ‘Dire’ Warning",
+      "url": "https://www.404media.co/untitled-28/",
+      "publication": "404 Media",
+      "author": "Becky Ferreira",
+      "excerpt": "Researchers discovered  that people found AI impersonators to be more authentic, coherent, and relevant than the real politicians, raising alarm bells around the potential for public deception.",
+      "publishedAt": "2026-07-01T18:00:53.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-9f7288533e12",
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "url": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "publication": "BleepingComputer",
+      "author": "Lawrence Abrams",
+      "excerpt": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
+      "publishedAt": "2026-07-01T17:32:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-587ad7fdbebb",
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "publication": "BleepingComputer",
+      "author": "BleepingComputer",
+      "excerpt": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and response. [...]",
+      "publishedAt": "2026-07-01T16:54:22.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-5c5eb0ae19b1",
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "publication": "BleepingComputer",
+      "author": "Bill Toulas",
+      "excerpt": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
+      "publishedAt": "2026-07-01T16:38:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-35364fb40d2c",
+      "title": "Weekly Scroll: We're Back!",
+      "url": "https://www.infinitescroll.us/p/weekly-scroll-were-back",
+      "publication": "Infinite Scroll",
+      "author": "Jeremiah Johnson",
+      "excerpt": "An overstuffed, mega-sized Weekly Scroll returns to action",
+      "publishedAt": "2026-07-01T15:51:14.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-c6ed6174e81b",
+      "title": "Trump’s crypto profits; Progressive victory in Colorado; Ethnic cleansing in Sudan",
+      "url": "https://www.dropsitenews.com/p/trump-crypto-profits-progressive-colorado-primary-kiros-ethnic-cleansing-sudan",
+      "publication": "Drop Site News",
+      "author": "Drop Site News",
+      "excerpt": "Drop Site Daily: July 1, 2026",
+      "publishedAt": "2026-07-01T15:31:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7ec4e1735ae0",
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "url": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "publication": "BleepingComputer",
+      "author": "Sponsored by Criminal IP",
+      "excerpt": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
+      "publishedAt": "2026-07-01T14:01:11.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-358cdfdcf03f",
+      "title": "Right of Way Ep. 8: The Nuclear Renaissance",
+      "url": "https://www.greentape.pub/p/right-of-way-ep-8-the-nuclear-renaissance",
+      "publication": "Green Tape",
+      "author": "Thomas Hochman",
+      "excerpt": "w/ Greg Beard and Julie Kozeracki",
+      "publishedAt": "2026-07-01T14:00:44.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-bdde77884837",
+      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
+      "publishedAt": "2026-07-01T12:30:01.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-7c8392d0ec8c",
+      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
+      "publishedAt": "2026-07-01T10:52:26.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-addcd5cf3563",
+      "title": "Apple ‘Hide My Email’ Vulnerability Reveals Peoples’ Real Email Addresses",
+      "url": "https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/",
+      "publication": "404 Media",
+      "author": "Joseph Cox",
+      "excerpt": "”Hide My Email users deserve to know that it may be possible for attackers to discover their hidden email addresses,” the person who reported the issue said.",
+      "publishedAt": "2026-07-01T10:00:57.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-00ba7fea3ac0",
+      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+      "publication": "BleepingComputer",
+      "author": "Sergiu Gatlan",
+      "excerpt": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
+      "publishedAt": "2026-07-01T09:43:27.000Z"
+    },
+    {
+      "type": "rss",
+      "id": "rss-2a6b3fcbcf2f",
+      "title": "Alain de Benoist: \"The culture war has only been won by default\"",
+      "url": "https://www.arktosjournal.com/p/alain-de-benoist-the-culture-war",
+      "publication": "Arktos Journal",
+      "author": "Arktos Journal",
+      "excerpt": "by Alain de Benoist",
+      "publishedAt": "2026-07-01T08:01:02.000Z"
+    },
     {
       "type": "rss",
       "id": "rss-8fe70f459bcc",
@@ -890,156 +1020,6 @@
       "author": "Bill Toulas",
       "excerpt": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
       "publishedAt": "2026-06-24T20:58:22.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-7d70864ba0d7",
-      "title": "How Jeffrey Epstein’s Israeli Network Shaped Congo’s Deadly Mineral Trade",
-      "url": "https://www.dropsitenews.com/p/epstein-barak-congo-israel",
-      "publication": "Drop Site News",
-      "author": "Murtaza Hussain",
-      "excerpt": "Leaked documents reveal how military contractors linked to Israeli intelligence secretly trained a special operations strike force in mineral-rich eastern Congo.",
-      "publishedAt": "2026-06-24T18:51:07.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-27111f34da4a",
-      "title": "Mamdani-backed Israel critics sweep NYC; Texas anti-ICE protesters get 30-100 years; Peru’s Sánchez rejects runoff results",
-      "url": "https://www.dropsitenews.com/p/nyc-primaries-mamdani-texas-ice-protestors-peru-sanchez-elections",
-      "publication": "Drop Site News",
-      "author": "Drop Site News",
-      "excerpt": "Drop Site Daily: June 24, 2026",
-      "publishedAt": "2026-06-24T15:41:05.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d2e55ee8dce7",
-      "title": "We're pulling the trigger on CoreWeave",
-      "url": "https://georgenoble.substack.com/p/were-pulling-the-trigger-on-coreweave",
-      "publication": "The Noble Update",
-      "author": "George Noble",
-      "excerpt": "CoreWeave just got added to the Nasdaq-100, and the market is louder than ever.",
-      "publishedAt": "2026-06-24T15:28:39.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-832d7f492006",
-      "title": "Vast ‘Structures’ In Space Reveal the Universe Isn't What We Thought",
-      "url": "https://www.404media.co/vast-structures-in-space-reveal-the-universe-isnt-what-we-thought/",
-      "publication": "404 Media",
-      "author": "Becky Ferreira",
-      "excerpt": "Physicists have discovered that the dark matter structures that scaffold the universe—known as the “cosmic web”—are far larger and more persistent than expected, challenging a core assumption about the universe.",
-      "publishedAt": "2026-06-24T15:00:43.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-f808da151ff3",
-      "title": "The Trump Administration’s New Census Data Rules Are a Policy Disaster",
-      "url": "https://www.404media.co/census-data-privacy-trump-policy-change-noise-infusion/",
-      "publication": "404 Media",
-      "author": "Samantha Cole",
-      "excerpt": "The new policy, which forbids \"noise infusion\" as a technique for anonymizing data, will \"handcuff\" the Census Bureau and limit what information becomes public, data experts say.",
-      "publishedAt": "2026-06-24T14:39:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d2d955ac98a4",
-      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
-      "publishedAt": "2026-06-24T14:35:15.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0cff6bc338c0",
-      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
-      "url": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
-      "publication": "BleepingComputer",
-      "author": "Lawrence Abrams",
-      "excerpt": "Microsoft, Europol, and international partners have disrupted infrastructure used by the Amadey and StealC malware operations as part of Operation Endgame, which targets cybercriminal services and ransomware gangs. [...]",
-      "publishedAt": "2026-06-24T14:35:11.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-50b62db2b3e9",
-      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
-      "url": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
-      "publication": "BleepingComputer",
-      "author": "Sponsored by Specops Software",
-      "excerpt": "Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]",
-      "publishedAt": "2026-06-24T14:02:12.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-43dc7726cae7",
-      "title": "Snap's AI Specs: LOL",
-      "url": "https://www.404media.co/snaps-ai-ar-specs-lol/",
-      "publication": "404 Media",
-      "author": "Jason Koebler",
-      "excerpt": "Snap's AR Specs glasses are indeed very heavy, very dorky.",
-      "publishedAt": "2026-06-24T13:34:14.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-b2fb73443ebf",
-      "title": "Podcast: If AI Is Sentient Then So Is 'Age of Empires II'",
-      "url": "https://www.404media.co/podcast-if-ai-is-sentient-then-so-is-age-of-empires-ii/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "A surreal but compelling LLM experiment with Age of Empires II; how a Texas city sold land meant for a park to a data center company; and the Madison Square Garden hack.",
-      "publishedAt": "2026-06-24T13:03:21.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-e3a26ed15f6f",
-      "title": "How Hackers Broke into Madison Square Garden",
-      "url": "https://www.404media.co/how-hackers-broke-into-madison-square-garden/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "Hackers stole more than 45GB of data from Madison Square Garden, including data related to “talent” and the Knicks. Clues in the data point to how the hackers got in.",
-      "publishedAt": "2026-06-24T13:00:25.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-0aac46c0cc85",
-      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
-      "publication": "404 Media",
-      "author": "Joseph Cox",
-      "excerpt": "Leaked audio from Accenture says a big source of AI token ‘chewing’ is people just converting PDFs to presentation slides.",
-      "publishedAt": "2026-06-24T12:50:56.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-2c99441032ee",
-      "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
-      "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
-      "publication": "Lenny's Newsletter",
-      "author": "Claire Vo",
-      "excerpt": "Watch now | 🎙️I ran GLM-5.2, the open-weight model from Z.AI, through codebase audits, UI redesigns, and a 45-minute autonomous bug-hunting task in Cursor and Claude Code, and it cost me $3.36",
-      "publishedAt": "2026-06-24T12:03:52.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-d0ff82b204fd",
-      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-      "url": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-      "publication": "BleepingComputer",
-      "author": "Bill Toulas",
-      "excerpt": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
-      "publishedAt": "2026-06-24T10:41:51.000Z"
-    },
-    {
-      "type": "rss",
-      "id": "rss-40a833e99681",
-      "title": "The 'End of Evangelion' as a Critique of Liberal Universalism",
-      "url": "https://www.arktosjournal.com/p/the-end-of-evangelion-as-a-critique",
-      "publication": "Arktos Journal",
-      "author": "Alexander Raynor",
-      "excerpt": "by Alexander Raynor",
-      "publishedAt": "2026-06-24T08:01:09.000Z"
     }
   ]
 }

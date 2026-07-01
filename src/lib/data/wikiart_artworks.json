@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T07:55:56.997Z",
+  "generated_at": "2026-07-01T19:15:02.713Z",
   "source": "wikiart",
-  "count": 629,
+  "count": 644,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -38164,6 +38164,773 @@
       },
       "width": 570,
       "height": 423,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a270",
+      "title": "Night at the Shalimar - The Emperor Shah Jahan",
+      "artist": "Tagore Abanindranath",
+      "year": null,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Night_at_the_Shalimar_-_The_Emperor_Shah_Jahan.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Night_at_the_Shalimar_-_The_Emperor_Shah_Jahan.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/abanindranath-tagore/night-at-the-shalimar-the-emperor-shah-jahan.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/night-at-the-shalimar-the-emperor-shah-jahan",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:33.617Z",
+      "fingerprint_sha256": "390818dc6aa45129e7ffabeb3baf752843a71674d7ff7519cee98a75206e8012",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a270",
+        "title": "Night at the Shalimar - The Emperor Shah Jahan",
+        "url": "night-at-the-shalimar-the-emperor-shah-jahan",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Photograph",
+          "Lady",
+          "Snapshot",
+          "Stock photography"
+        ],
+        "description": "",
+        "width": 462,
+        "image": "https://uploads8.wikiart.org/images/abanindranath-tagore/night-at-the-shalimar-the-emperor-shah-jahan.jpg",
+        "height": 640
+      },
+      "width": 462,
+      "height": 640,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a240",
+      "title": "Ganesh-janani",
+      "artist": "Tagore Abanindranath",
+      "year": null,
+      "genres": [
+        "symbolic painting"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Ganesh-janani.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Ganesh-janani.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/abanindranath-tagore/ganesh-janani.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/ganesh-janani",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:35.747Z",
+      "fingerprint_sha256": "b57b0716b5bba557a394769faa8a09385dd3f67d960b26f7674a318c7d2fbf99",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a240",
+        "title": "Ganesh-janani",
+        "url": "ganesh-janani",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6f28"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "symbolic painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 327,
+        "image": "https://uploads4.wikiart.org/images/abanindranath-tagore/ganesh-janani.jpg",
+        "height": 599
+      },
+      "width": 327,
+      "height": 599,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a260",
+      "title": "Nasim Bagh",
+      "artist": "Tagore Abanindranath",
+      "year": null,
+      "genres": [
+        "figurative"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Nasim_Bagh.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Nasim_Bagh.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/abanindranath-tagore/nasim-bagh.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/nasim-bagh",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:37.998Z",
+      "fingerprint_sha256": "f0c1364c79aa09ce633336fd0a7406f4447dafad49ca5a1e9ce70fdf6acff90c",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a260",
+        "title": "Nasim Bagh",
+        "url": "nasim-bagh",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e48"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "figurative"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads1.wikiart.org/images/abanindranath-tagore/nasim-bagh.jpg",
+        "height": 411
+      },
+      "width": 640,
+      "height": 411,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a290",
+      "title": "The Passing of Shah Jahan",
+      "artist": "Tagore Abanindranath",
+      "year": 1902,
+      "genres": [
+        "history painting"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/The_Passing_of_Shah_Jahan.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/The_Passing_of_Shah_Jahan.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/images/abanindranath-tagore/the-passing-of-shah-jahan-1902.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/the-passing-of-shah-jahan-1902",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:40.282Z",
+      "fingerprint_sha256": "dd9a2d8fefacd2bea13f5ced3d1efb09a7c2054d4f9e9044228564db773f7583",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a290",
+        "title": "The Passing of Shah Jahan",
+        "url": "the-passing-of-shah-jahan-1902",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": 1902,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e68"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "history painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Holy places"
+        ],
+        "description": "",
+        "width": 403,
+        "image": "https://uploads3.wikiart.org/images/abanindranath-tagore/the-passing-of-shah-jahan-1902.jpg",
+        "height": 600
+      },
+      "width": 403,
+      "height": 600,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a230",
+      "title": "Fate and the Pleasure-Lovers",
+      "artist": "Tagore Abanindranath",
+      "year": null,
+      "genres": [
+        "figurative"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Fate_and_the_Pleasure-Lovers.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Fate_and_the_Pleasure-Lovers.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/abanindranath-tagore/fate-and-the-pleasure-lovers.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/fate-and-the-pleasure-lovers",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:41.641Z",
+      "fingerprint_sha256": "677127b5ee4f89350c78ec83f9cd47ecc7cfb6a88792f20c6e7cd85843e3201b",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a230",
+        "title": "Fate and the Pleasure-Lovers",
+        "url": "fate-and-the-pleasure-lovers",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e48"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "figurative"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads1.wikiart.org/images/abanindranath-tagore/fate-and-the-pleasure-lovers.jpg",
+        "height": 460
+      },
+      "width": 640,
+      "height": 460,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a1d0",
+      "title": "Asoka, who by the white stucco of his fame made spotless the universe",
+      "artist": "Tagore Abanindranath",
+      "year": null,
+      "genres": [
+        "religious painting"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Asoka,_who_by_the_white_stucco_of_his_fame_made_spotless_the_universe.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Asoka%2C_who_by_the_white_stucco_of_his_fame_made_spotless_the_universe.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/abanindranath-tagore/asoka-who-by-the-white-stucco-of-his-fame-made-spotless-the-universe.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/asoka-who-by-the-white-stucco-of-his-fame-made-spotless-the-universe",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:43.829Z",
+      "fingerprint_sha256": "ab161af629029fe0763780153df221e5f6900267294afb9925d0d4eabc7b83c5",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a1d0",
+        "title": "Asoka, who by the white stucco of his fame made spotless the universe",
+        "url": "asoka-who-by-the-white-stucco-of-his-fame-made-spotless-the-universe",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads5.wikiart.org/images/abanindranath-tagore/asoka-who-by-the-white-stucco-of-his-fame-made-spotless-the-universe.jpg",
+        "height": 462
+      },
+      "width": 640,
+      "height": 462,
+      "mime": null
+    },
+    {
+      "id": "wikiart:5cf165eeedc2c9b4f813ecc6",
+      "title": "Budhha as Medicant",
+      "artist": "Tagore Abanindranath",
+      "year": 1914,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Budhha_as_Medicant.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Budhha_as_Medicant.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/00238/images/abanindranath-tagore/buddha-as-medicant1914.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/budhha-as-medicant-1914",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:46.020Z",
+      "fingerprint_sha256": "fccdcb9a62d9d9c8529f7b6d15406dc4bc98bc5de1a8a1782a9764f907acd73a",
+      "raw_extmetadata": {
+        "id": "5cf165eeedc2c9b4f813ecc6",
+        "title": "Budhha as Medicant",
+        "url": "budhha-as-medicant-1914",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": 1914,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "India",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Stock photography"
+        ],
+        "description": "",
+        "width": 824,
+        "image": "https://uploads1.wikiart.org/00238/images/abanindranath-tagore/buddha-as-medicant1914.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 824,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a280",
+      "title": "Nishat",
+      "artist": "Tagore Abanindranath",
+      "year": null,
+      "genres": [
+        "figurative"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Nishat.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Nishat.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/abanindranath-tagore/nishat.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/nishat",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:47.653Z",
+      "fingerprint_sha256": "97426234694569b30868da227d8a0bdd7186bd4798b305937dee32cde2396db3",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a280",
+        "title": "Nishat",
+        "url": "nishat",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e48"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "figurative"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads6.wikiart.org/images/abanindranath-tagore/nishat.jpg",
+        "height": 412
+      },
+      "width": 640,
+      "height": 412,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a1f0",
+      "title": "Bharat Mata (Mother India)",
+      "artist": "Tagore Abanindranath",
+      "year": null,
+      "genres": [
+        "religious painting"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Bharat_Mata_(Mother_India).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Bharat_Mata_%28Mother_India%29.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/abanindranath-tagore/bharat-mata-mother-india.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/bharat-mata-mother-india",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:49.451Z",
+      "fingerprint_sha256": "67daf92ac8c2509003fdf483391665862fd00a5fde9c15213b2150135e5fee4d",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a1f0",
+        "title": "Bharat Mata (Mother India)",
+        "url": "bharat-mata-mother-india",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6ef8"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "religious painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 350,
+        "image": "https://uploads6.wikiart.org/images/abanindranath-tagore/bharat-mata-mother-india.jpg",
+        "height": 546
+      },
+      "width": 350,
+      "height": 546,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a250",
+      "title": "Journey's End",
+      "artist": "Tagore Abanindranath",
+      "year": 1913,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Journeys_End.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Journeys_End.jpg",
+      "full_image_url": "https://uploads3.wikiart.org/00114/images/abanindranath-tagore/abanindranath-tagore-journey-s-end-google-art-project.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/journey-s-end-1913",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:51.990Z",
+      "fingerprint_sha256": "283591b1f35c8b972d02b0cd369582f6cde72c0bb8114bc73ca609a0ea587854",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a250",
+        "title": "Journey's End",
+        "url": "journey-s-end-1913",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": 1913,
+        "dictionaries": [
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [
+          "National Gallery Of Modern Art (NGMA), New Delhi, India"
+        ],
+        "tags": [
+          "Figure drawing"
+        ],
+        "description": "",
+        "width": 1797,
+        "image": "https://uploads3.wikiart.org/00114/images/abanindranath-tagore/abanindranath-tagore-journey-s-end-google-art-project.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1797,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a210",
+      "title": "Emperor's March to Kashmir",
+      "artist": "Tagore Abanindranath",
+      "year": null,
+      "genres": [
+        "history painting"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Emperors_March_to_Kashmir.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Emperors_March_to_Kashmir.jpg",
+      "full_image_url": "https://uploads8.wikiart.org/images/abanindranath-tagore/emperor-s-march-to-kashmir.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/emperor-s-march-to-kashmir",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:54.006Z",
+      "fingerprint_sha256": "2e6718df820f35e1472e6232ca969f04fabccef47961dd0cfd95f5f63021ef97",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a210",
+        "title": "Emperor's March to Kashmir",
+        "url": "emperor-s-march-to-kashmir",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e68"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "history painting"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 640,
+        "image": "https://uploads8.wikiart.org/images/abanindranath-tagore/emperor-s-march-to-kashmir.jpg",
+        "height": 481
+      },
+      "width": 640,
+      "height": 481,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a1be",
+      "title": "A Moonlight Music Party",
+      "artist": "Tagore Abanindranath",
+      "year": 1906,
+      "genres": [
+        "figurative"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/A_Moonlight_Music_Party.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/A_Moonlight_Music_Party.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/abanindranath-tagore/a-moonlight-music-party-1906.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/a-moonlight-music-party-1906",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:55.929Z",
+      "fingerprint_sha256": "e8fd06b4d9c6d60567e0637cfba429d598aca883d08bcac16788279ed623446d",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a1be",
+        "title": "A Moonlight Music Party",
+        "url": "a-moonlight-music-party-1906",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": 1906,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e48"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "figurative"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 556,
+        "image": "https://uploads1.wikiart.org/images/abanindranath-tagore/a-moonlight-music-party-1906.jpg",
+        "height": 402
+      },
+      "width": 556,
+      "height": 402,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a220",
+      "title": "Fairyland (Illustration)",
+      "artist": "Tagore Abanindranath",
+      "year": 1913,
+      "genres": [
+        "illustration"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Fairyland_(Illustration).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Fairyland_%28Illustration%29.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/abanindranath-tagore/fairyland-illustration-1913.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/fairyland-illustration-1913",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:14:57.804Z",
+      "fingerprint_sha256": "315e650642445c9408e3170b5018001e4204f3a66e45e223005e0fa87cf7d4e1",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a220",
+        "title": "Fairyland (Illustration)",
+        "url": "fairyland-illustration-1913",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": 1913,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6e70"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "illustration"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 235,
+        "image": "https://uploads0.wikiart.org/images/abanindranath-tagore/fairyland-illustration-1913.jpg",
+        "height": 342
+      },
+      "width": 235,
+      "height": 342,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a1e0",
+      "title": "Asoka's Queen",
+      "artist": "Tagore Abanindranath",
+      "year": 1910,
+      "genres": [
+        "portrait"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Asokas_Queen.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Asokas_Queen.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/abanindranath-tagore/asoka-s-queen-1910.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/asoka-s-queen-1910",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:15:00.259Z",
+      "fingerprint_sha256": "e9ff76f99f7ca59feff0244788a1156088c3df1d9ffdfecfbf28fb6f32839ee4",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a1e0",
+        "title": "Asoka's Queen",
+        "url": "asoka-s-queen-1910",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": 1910,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6ee0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "portrait"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Lady"
+        ],
+        "description": "",
+        "width": 443,
+        "image": "https://uploads0.wikiart.org/images/abanindranath-tagore/asoka-s-queen-1910.jpg",
+        "height": 575
+      },
+      "width": 443,
+      "height": 575,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728047edc2cb3880f0a200",
+      "title": "Chashma Shahi",
+      "artist": "Tagore Abanindranath",
+      "year": null,
+      "genres": [
+        "miniature"
+      ],
+      "topic": "abanindranath-tagore",
+      "blob_path": "norotfeed/artwork/images/wikiart/abanindranath-tagore/Chashma_Shahi.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/abanindranath-tagore/Chashma_Shahi.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/abanindranath-tagore/chashma-shahi.jpg",
+      "source_file_page": "https://www.wikiart.org/en/abanindranath-tagore/chashma-shahi",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T19:15:02.311Z",
+      "fingerprint_sha256": "94106566a82690c729b01c2b66792c3441f52df60e68a1aed54a6e4be125eb93",
+      "raw_extmetadata": {
+        "id": "57728047edc2cb3880f0a200",
+        "title": "Chashma Shahi",
+        "url": "chashma-shahi",
+        "artistUrl": "abanindranath-tagore",
+        "artistName": "Tagore Abanindranath",
+        "artistId": "57726da4edc2cb3880b4c94d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b4eedc2cb3880ad6ea0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "miniature"
+        ],
+        "styles": [],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [],
+        "description": "",
+        "width": 414,
+        "image": "https://uploads4.wikiart.org/images/abanindranath-tagore/chashma-shahi.jpg",
+        "height": 640
+      },
+      "width": 414,
+      "height": 640,
       "mime": null
     }
   ]
