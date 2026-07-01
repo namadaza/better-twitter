@@ -58,7 +58,9 @@ const ARTIST_PAGES = [
   "charles-reiffel",
   "konstantinos-volanakis",
   "maurice-braun",
-  "jose-maria-velasco"
+  "jose-maria-velasco",
+  "m-f-husain",
+  "abanindranath-tagore"
 ];
 
 function sleep(ms: number) {
