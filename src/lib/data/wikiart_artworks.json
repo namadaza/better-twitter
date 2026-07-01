@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T13:41:30.900Z",
+  "generated_at": "2026-07-01T01:24:35.728Z",
   "source": "wikiart",
-  "count": 613,
+  "count": 628,
   "items": [
     {
       "id": "wikiart:57728209edc2cb3880f64658",
@@ -37216,6 +37216,901 @@
       },
       "width": 1280,
       "height": 999,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727c92edc2cb3880e4cdea",
+      "title": "Collecting the Nets",
+      "artist": "Volanakis Konstantinos",
+      "year": 1871,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/Collecting_the_Nets.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/Collecting_the_Nets.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/konstantinos-volanakis/1871.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/1871",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:23:19.347Z",
+      "fingerprint_sha256": "cfff1b521c70a1c96db508947b9e1b432c9fbd4edce87b0ad02cb5f1c57f4deb",
+      "raw_extmetadata": {
+        "id": "57727c92edc2cb3880e4cdea",
+        "title": "Collecting the Nets",
+        "url": "1871",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": 1871,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Boat",
+          "Water transportation"
+        ],
+        "description": "",
+        "width": 800,
+        "image": "https://uploads6.wikiart.org/images/konstantinos-volanakis/1871.jpg",
+        "height": 391
+      },
+      "width": 800,
+      "height": 391,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55c1a",
+      "title": "The morning catch",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/The_morning_catch.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/The_morning_catch.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/konstantinos-volanakis/the-morning-catch(2).jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/the-morning-catch",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:23:22.975Z",
+      "fingerprint_sha256": "0712d366c298230da3796b76ac88830299d6c4e7a613efaa4b3f616bb6080db2",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55c1a",
+        "title": "The morning catch",
+        "url": "the-morning-catch",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Boat",
+          "Vehicle",
+          "Sailing ship",
+          "Watercraft",
+          "Galiot",
+          "East indiaman",
+          "Fluyt",
+          "Galeas",
+          "Sailboat",
+          "Mast"
+        ],
+        "description": "",
+        "width": 1920,
+        "image": "https://uploads2.wikiart.org/images/konstantinos-volanakis/the-morning-catch(2).jpg!HD.jpg",
+        "height": 913
+      },
+      "width": 1920,
+      "height": 913,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb7edc2cb3880e55d2d",
+      "title": "A busy harbour",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "cityscape"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/A_busy_harbour.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/A_busy_harbour.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/konstantinos-volanakis/a-busy-harbour.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/a-busy-harbour",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:23:25.970Z",
+      "fingerprint_sha256": "d876d8404e6293e8d15c826d0a1bb6eeb96148cf6a907025dd32bac0f973ce42",
+      "raw_extmetadata": {
+        "id": "57727cb7edc2cb3880e55d2d",
+        "title": "A busy harbour",
+        "url": "a-busy-harbour",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e30"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "cityscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Boat",
+          "Vehicle",
+          "Watercraft"
+        ],
+        "description": "",
+        "width": 1850,
+        "image": "https://uploads5.wikiart.org/images/konstantinos-volanakis/a-busy-harbour.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 1850,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55c6d",
+      "title": "The port of Piraeus",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/The_port_of_Piraeus.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/The_port_of_Piraeus.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/konstantinos-volanakis/the-port-of-piraeus(1).jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/the-port-of-piraeus",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:23:29.056Z",
+      "fingerprint_sha256": "b33ea94b40800b0e0142418886afb4d72bfaae194b546f1eaf95ab6f6534c563",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55c6d",
+        "title": "The port of Piraeus",
+        "url": "the-port-of-piraeus",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Boat",
+          "Flagship",
+          "East indiaman",
+          "Sailing ship",
+          "Galleon",
+          "Watercraft",
+          "Ship of the line",
+          "Fluyt"
+        ],
+        "description": "",
+        "width": 896,
+        "image": "https://uploads6.wikiart.org/images/konstantinos-volanakis/the-port-of-piraeus(1).jpg",
+        "height": 1152
+      },
+      "width": 896,
+      "height": 1152,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb5edc2cb3880e55a74",
+      "title": "Argo",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "mythological painting"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/Argo.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/Argo.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/konstantinos-volanakis/argo(4).jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/argo",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:23:32.180Z",
+      "fingerprint_sha256": "293c7a4d0ccbb4ec269eb363657307d472f58735c7d1e5f340d4b3f5adfc3439",
+      "raw_extmetadata": {
+        "id": "57727cb5edc2cb3880e55a74",
+        "title": "Argo",
+        "url": "argo",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6eb0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "mythological painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vehicle",
+          "Boat",
+          "Sailing ship",
+          "Watercraft",
+          "Sail",
+          "Sailboat"
+        ],
+        "description": "",
+        "width": 767,
+        "image": "https://uploads0.wikiart.org/images/konstantinos-volanakis/argo(4).jpg",
+        "height": 1000
+      },
+      "width": 767,
+      "height": 1000,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727c92edc2cb3880e4cdfa",
+      "title": "The river",
+      "artist": "Volanakis Konstantinos",
+      "year": 1875,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/The_river.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/The_river.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/konstantinos-volanakis/1870-1875.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/1870-1875",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:23:34.917Z",
+      "fingerprint_sha256": "b322cde67b6e5174365f092c7fc2e69d19a30f75ddc6c6fd5ccdfb5237d7538c",
+      "raw_extmetadata": {
+        "id": "57727c92edc2cb3880e4cdfa",
+        "title": "The river",
+        "url": "1870-1875",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": 1875,
+        "dictionaries": [
+          "57726b51edc2cb3880ad7600",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Impressionism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Water",
+          "Bank",
+          "River",
+          "Waterway",
+          "Sky"
+        ],
+        "description": "",
+        "width": 963,
+        "image": "https://uploads2.wikiart.org/images/konstantinos-volanakis/1870-1875.jpg",
+        "height": 650
+      },
+      "width": 963,
+      "height": 650,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55b34",
+      "title": "Sailing ships",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "marina"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/Sailing_ships.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/Sailing_ships.jpg",
+      "full_image_url": "https://uploads6.wikiart.org/images/konstantinos-volanakis/sailing-ships.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/sailing-ships",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:23:37.705Z",
+      "fingerprint_sha256": "bef777194dfa0e773de921e26e608a1d5aaea23ba9826c62b30708b371035464",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55b34",
+        "title": "Sailing ships",
+        "url": "sailing-ships",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e98"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "marina"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Sea",
+          "Ocean",
+          "Coast",
+          "Shore"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads6.wikiart.org/images/konstantinos-volanakis/sailing-ships.jpg",
+        "height": 549
+      },
+      "width": 1000,
+      "height": 549,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57727cb6edc2cb3880e55b54",
+      "title": "Seashore of Poros",
+      "artist": "Volanakis Konstantinos",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "konstantinos-volanakis",
+      "blob_path": "norotfeed/artwork/images/wikiart/konstantinos-volanakis/Seashore_of_Poros.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/konstantinos-volanakis/Seashore_of_Poros.jpg",
+      "full_image_url": "https://uploads1.wikiart.org/images/konstantinos-volanakis/seashore-of-poros.jpg",
+      "source_file_page": "https://www.wikiart.org/en/konstantinos-volanakis/seashore-of-poros",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:23:42.613Z",
+      "fingerprint_sha256": "962c8c5d237248f68e0e3d60c23612b104a6b5c53444b3158f82ed7437a88093",
+      "raw_extmetadata": {
+        "id": "57727cb6edc2cb3880e55b54",
+        "title": "Seashore of Poros",
+        "url": "seashore-of-poros",
+        "artistUrl": "konstantinos-volanakis",
+        "artistName": "Volanakis Konstantinos",
+        "artistId": "57726d93edc2cb3880b4aa37",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Bank",
+          "Water",
+          "Waterway"
+        ],
+        "description": "",
+        "width": 1000,
+        "image": "https://uploads1.wikiart.org/images/konstantinos-volanakis/seashore-of-poros.jpg",
+        "height": 551
+      },
+      "width": 1000,
+      "height": 551,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bf86",
+      "title": "Estudio de cascada",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Estudio_de_cascada.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Estudio_de_cascada.jpg",
+      "full_image_url": "https://uploads7.wikiart.org/images/jose-maria-velasco/estudio-de-cascada.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/estudio-de-cascada",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:24:03.021Z",
+      "fingerprint_sha256": "1458a6d7d642214a4be579c8b31a031cbddaaf483b9ac27e105a6e96b4ed1d90",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bf86",
+        "title": "Estudio de cascada",
+        "url": "estudio-de-cascada",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Tree"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads7.wikiart.org/images/jose-maria-velasco/estudio-de-cascada.jpg",
+        "height": 892
+      },
+      "width": 1280,
+      "height": 892,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aabedc2cb388011bcd6",
+      "title": "Arroyo de Tlaxcala",
+      "artist": "Velasco Jose Maria ",
+      "year": 1874,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Arroyo_de_Tlaxcala.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Arroyo_de_Tlaxcala.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jose-maria-velasco/arroyo-de-tlaxcala-1874-1.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/arroyo-de-tlaxcala-1874-1",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:24:11.311Z",
+      "fingerprint_sha256": "113244f81e92b7dd5c00a30475aff2aa473a75d42770767103672dfe50b07c17",
+      "raw_extmetadata": {
+        "id": "57728aabedc2cb388011bcd6",
+        "title": "Arroyo de Tlaxcala",
+        "url": "arroyo-de-tlaxcala-1874-1",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1874,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Natural landscape",
+          "Rock",
+          "Sky",
+          "Tree",
+          "Outcrop"
+        ],
+        "description": "",
+        "width": 1280,
+        "image": "https://uploads5.wikiart.org/images/jose-maria-velasco/arroyo-de-tlaxcala-1874-1.jpg",
+        "height": 959
+      },
+      "width": 1280,
+      "height": 959,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bdb6",
+      "title": "Barranca del Muerto (Ravine of Death)",
+      "artist": "Velasco Jose Maria ",
+      "year": 1898,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Barranca_del_Muerto_(Ravine_of_Death).jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Barranca_del_Muerto_%28Ravine_of_Death%29.jpg",
+      "full_image_url": "https://uploads4.wikiart.org/images/jose-maria-velasco/barrance-del-muerto-1898.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/barrance-del-muerto-1898",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:24:14.465Z",
+      "fingerprint_sha256": "38e41478b87dda2122f5022290e0abf6f56369538a68cd1b6abd8aa38db7e2d7",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bdb6",
+        "title": "Barranca del Muerto (Ravine of Death)",
+        "url": "barrance-del-muerto-1898",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": 1898,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Rock",
+          "Water",
+          "Natural landscape",
+          "Outcrop",
+          "Bank",
+          "Watercourse",
+          "Tree",
+          "River",
+          "Ravine"
+        ],
+        "description": "",
+        "width": 963,
+        "image": "https://uploads4.wikiart.org/images/jose-maria-velasco/barrance-del-muerto-1898.jpg",
+        "height": 687
+      },
+      "width": 963,
+      "height": 687,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bed6",
+      "title": "El Calvario",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/El_Calvario.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/El_Calvario.jpg",
+      "full_image_url": "https://uploads0.wikiart.org/images/jose-maria-velasco/el-calvario.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/el-calvario",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:24:27.026Z",
+      "fingerprint_sha256": "b221e0d3712ff7ec96330ef9d7f0e7348206f00ec6fe5e5764a1ad6d955cb6ad",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bed6",
+        "title": "El Calvario",
+        "url": "el-calvario",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Sky",
+          "Nature",
+          "Natural landscape",
+          "Orange",
+          "Cloud",
+          "Atmosphere",
+          "Geological phenomenon"
+        ],
+        "description": "",
+        "width": 1024,
+        "image": "https://uploads0.wikiart.org/images/jose-maria-velasco/el-calvario.jpg",
+        "height": 646
+      },
+      "width": 1024,
+      "height": 646,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011bf46",
+      "title": "Escena del periodo Cuaternario Paleolítico Inferior",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Escena_del_periodo_Cuaternario_Paleoltico_Inferior.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Escena_del_periodo_Cuaternario_Paleoltico_Inferior.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jose-maria-velasco/escena-del-periodo-cuaternario-paleol-tico-inferior.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/escena-del-periodo-cuaternario-paleol-tico-inferior",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:24:29.831Z",
+      "fingerprint_sha256": "2361b72312ebaf6361c8e13662976f359e5607755e4cc9c1af3816335fe3b049",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011bf46",
+        "title": "Escena del periodo Cuaternario Paleolítico Inferior",
+        "url": "escena-del-periodo-cuaternario-paleol-tico-inferior",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Rock",
+          "Cliff",
+          "Terrain",
+          "Outcrop",
+          "Formation",
+          "Klippe"
+        ],
+        "description": "",
+        "width": 476,
+        "image": "https://uploads2.wikiart.org/images/jose-maria-velasco/escena-del-periodo-cuaternario-paleol-tico-inferior.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 476,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aadedc2cb388011c006",
+      "title": "Flora y fauna del periodo Cuaternario Plio-Pleistoceno",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "animal painting"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Flora_y_fauna_del_periodo_Cuaternario_Plio-Pleistoceno.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Flora_y_fauna_del_periodo_Cuaternario_Plio-Pleistoceno.jpg",
+      "full_image_url": "https://uploads5.wikiart.org/images/jose-maria-velasco/flora-y-fauna-del-periodo-cuaternario-plio-pleistoceno.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/flora-y-fauna-del-periodo-cuaternario-plio-pleistoceno",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:24:32.851Z",
+      "fingerprint_sha256": "82dc21c11c56b25231298f9f0be89cb79a1aeeeb250b3dd58a0af4b195f814b5",
+      "raw_extmetadata": {
+        "id": "57728aadedc2cb388011c006",
+        "title": "Flora y fauna del periodo Cuaternario Plio-Pleistoceno",
+        "url": "flora-y-fauna-del-periodo-cuaternario-plio-pleistoceno",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4dedc2cb3880ad6df0"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "animal painting"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Wildlife",
+          "Terrestrial animal",
+          "Lion",
+          "Felidae"
+        ],
+        "description": "",
+        "width": 486,
+        "image": "https://uploads5.wikiart.org/images/jose-maria-velasco/flora-y-fauna-del-periodo-cuaternario-plio-pleistoceno.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 486,
+      "height": 1200,
+      "mime": null
+    },
+    {
+      "id": "wikiart:57728aacedc2cb388011bdc6",
+      "title": "Bosque de Pacho",
+      "artist": "Velasco Jose Maria ",
+      "year": null,
+      "genres": [
+        "landscape"
+      ],
+      "topic": "jose-maria-velasco",
+      "blob_path": "norotfeed/artwork/images/wikiart/jose-maria-velasco/Bosque_de_Pacho.jpg",
+      "thumbnail_url": "https://veuua6kvxrbip1i0.public.blob.vercel-storage.com/norotfeed/artwork/images/wikiart/jose-maria-velasco/Bosque_de_Pacho.jpg",
+      "full_image_url": "https://uploads2.wikiart.org/images/jose-maria-velasco/bosque-de-pacho.jpg!HD.jpg",
+      "source_file_page": "https://www.wikiart.org/en/jose-maria-velasco/bosque-de-pacho",
+      "license_name": "",
+      "license_url": "",
+      "fetched_at": "2026-07-01T01:24:35.327Z",
+      "fingerprint_sha256": "c20ea9a11c8c3f40acb4bdb7b61bf2e847d64ac8558e350482e7d439dbea1b25",
+      "raw_extmetadata": {
+        "id": "57728aacedc2cb388011bdc6",
+        "title": "Bosque de Pacho",
+        "url": "bosque-de-pacho",
+        "artistUrl": "jose-maria-velasco",
+        "artistName": "Velasco Jose Maria ",
+        "artistId": "57726e04edc2cb3880b5607d",
+        "completitionYear": null,
+        "dictionaries": [
+          "57726b52edc2cb3880ad7828",
+          "57726b4eedc2cb3880ad6e88"
+        ],
+        "location": "",
+        "period": null,
+        "serie": null,
+        "genres": [
+          "landscape"
+        ],
+        "styles": [
+          "Realism"
+        ],
+        "media": [],
+        "sizeX": null,
+        "sizeY": null,
+        "diameter": null,
+        "galleries": [],
+        "tags": [
+          "Vegetation",
+          "Tree",
+          "Natural environment",
+          "Forest",
+          "Leaf",
+          "Biome",
+          "Plant",
+          "Jungle",
+          "Botany"
+        ],
+        "description": "",
+        "width": 895,
+        "image": "https://uploads2.wikiart.org/images/jose-maria-velasco/bosque-de-pacho.jpg!HD.jpg",
+        "height": 1200
+      },
+      "width": 895,
+      "height": 1200,
       "mime": null
     }
   ]
